@@ -193,8 +193,8 @@ var category_data_AS = {
     "25005": {
         "skill_id": "25005",
         "tree_id": "25005",
-        "name2_refine": "Boneco de Madeira",
-        "name2_refine_en": "Boneco de Madeira",
+        "name2_refine": "Defesa de Madeira",
+        "name2_refine_en": "Defesa de Madeira",
         "pc_level": "4",
         "pc_mastery_level": null,
         "complete_quest": null,
