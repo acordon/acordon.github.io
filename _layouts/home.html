@@ -1,0 +1,85 @@
+---
+layout: default
+---
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="10000">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <div class="im1"></div>
+                <div class="container">
+                    <div class="carousel-caption">
+                        <h1>Fully translated.</h1>
+                        <p>Manually translated line by line for the best clarity and consistency.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="im2"></div>
+                <div class="container">
+                    <div class="carousel-caption">
+                        <h1>Build, Save, Share.</h1>
+                        <p>Build you own build, save it and share it with others.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="container">
+                    <div class="carousel-caption">
+                        <h1>Detailed Guides and Builds</h1>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+
+    <div class="main-bg">
+        <div class="container main-content">
+
+            <h2 class="featurette-heading">About.</h2>
+            <div class="row featurette">
+                <div class="col-md-12">
+                    {{content}}
+                </div>
+            </div>
+
+            <hr class="featurette-divider">
+
+            <h2 class="featurette-heading">News.</h2>
+            <div class="row featurette">
+                <div class="col-md-3">
+                    <ul class="nav nav-pills nav-stacked">
+                    {% for change in site.data.changelog %}
+                        <li{% if change.status == 'active' %} class="active"{% endif %}><a href="#tab_{{ change.entry }}" data-toggle="pill">{{ change.date }}</a>
+                    {% endfor %}
+                    </ul>
+                </div>
+                
+                <div class="col-md-9">
+                    <div class="tab-content">
+                    <h3>News</h3>
+                    {% for change in site.data.changelog %}
+                    <div class="tab-pane {% if change.status == 'active' %}active{% endif %}" id="tab_{{ change.entry }}">
+                        {{ change.description }}
+                    </div>
+                    {% endfor %}
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        <!-- /.container -->
+    </div>
