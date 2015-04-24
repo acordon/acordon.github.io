@@ -510,8 +510,8 @@ var category_data_AS = {
     "25023": {
         "skill_id": "25023",
         "tree_id": "1",
-        "name2_refine": "Leaf Shift<br>나뭇잎운신",
-        "name2_refine_en": "Leaf Shift",
+        "name2_refine": "Salto da Folha",
+        "name2_refine_en": "Salto da Folha",
         "pc_level": "12",
         "pc_mastery_level": null,
         "complete_quest": null,
@@ -532,8 +532,8 @@ var category_data_AS = {
     "25025": {
         "skill_id": "25025",
         "tree_id": "1",
-        "name2_refine": "Neutralize<br>공수탈백인",
-        "name2_refine_en": "Neutralize",
+        "name2_refine": "Neutralizar",
+        "name2_refine_en": "Neutralizar",
         "pc_level": "12",
         "pc_mastery_level": null,
         "complete_quest": null,
@@ -554,8 +554,8 @@ var category_data_AS = {
     "25030": {
         "skill_id": "25030",
         "tree_id": "1",
-        "name2_refine": "Backward Roll<br>뒤구르기",
-        "name2_refine_en": "Backward Roll",
+        "name2_refine": "Salto Mortal",
+        "name2_refine_en": "Salto Mortal",
         "pc_level": "12",
         "pc_mastery_level": null,
         "complete_quest": null,
