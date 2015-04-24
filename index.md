@@ -2,12 +2,12 @@
 layout: home
 type: home
 job: 
-title: BnS Tree - Skill Tree Simulator for Blade and Soul
+title: BnS Tree - Simulador de Árvore de habilidades
 ---
-<p class="lead">A fully English translated interactive skill tree simulator for Blade & Soul, a Korean Martial Fantasy MMORPG, with guides provided to help foreign players enjoy the game to its fullest.</p>
-The skill trees are based on BnS KR. Skills may or may not be the same as the ones you would see in other servers. Everything is manually translated to English by me. Most skill names are accurate direct translations while some were given reasonable new names because they were difficult to translate. Some tooltips may be a bit different from the original for better consistency and clarity.
+<p class="lead">Um simulador totalmente traduzido Português árvore de habilidade interativa para Blade & Soul, um MMORPG coreano, com guias fornecidos para ajudar os jogadores estrangeiros desfrutar do jogo ao máximo. </ P>
+A árvore de habilidades é baseada no BNS KR. Skills podem ou não ser o mesmo que o que você veria em outros servidores. Tudo é manualmente traduzido para o Português por mim. A maioria dos nomes de habilidades são traduções diretas precisos, enquanto alguns foram dados novos nomes razoáveis ​​porque eram difíceis de traduzir. Algumas dicas podem ser um pouco diferente do original para uma maior coerência e clareza.
 
-This project was made possible by using many parts of the HTML, CSS, and JavaScript codes from the official BnS KR website. Some elements were modified for better presentation and some parts of the script was heavily modified to fix some bugs and behaviors and to add new features such as the build list, the save/load box, and URL generator. Background images are either from the official BnS KR website posted by users or captured by me.
+Este projeto foi viabilizado usando muitas partes do HTML, CSS e códigos JavaScript do site oficial BNS KR. Alguns elementos foram modificados para melhor apresentação e algumas partes do script foi fortemente modificada para corrigir alguns bugs e comportamentos e para adicionar novas funcionalidades, tais como a lista de compilação, o save / caixa de carga e gerador de URL. As imagens de fundo ou são do site oficial BNS KR postado pelos usuários ou capturado por mim.
 
-This project is open sourced and is available on <a href="http://bit.ly/1AFTgca">Github</a>.  
-In fact, this page is hosted with Github Pages.
+Esse projeto é de código aberto e está disponível em <a href="http://bit.ly/1AFTgca">Github</a>.  
+Na verdade, esta página está hospedada com Github Pages.
