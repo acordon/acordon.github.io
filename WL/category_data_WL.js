@@ -495,8 +495,8 @@ var category_data_WL = {
     "28060": {
         "skill_id": "28060",
         "tree_id": "28060",
-        "name2_refine": "Open",
-        "name2_refine_en": "Open",
+        "name2_refine": "Campo de Almas",
+        "name2_refine_en": "Campo de Almas",
         "pc_level": "8",
         "pc_mastery_level": null,
         "complete_quest": null,
