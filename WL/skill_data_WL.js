@@ -259,7 +259,7 @@ var skill_data_WL = {
         "id": "28011",
         "name": "Retirar Espírito",
         "icon": "skill_icon_warlock_0_5.png",
-        "main_info1": "User is retém espírito for 15 sec",
+        "main_info1": "Usuário retém o Espírito por 15 Segundos",
         "main_info2": "Causa Dano de 60~70 ",
         "sub_info": "Aumenta a chance de Crítico em 50% enquanto retém Espírito<br/>Usuário Gera 1 Chi Adicional enquanto retém espírito<br/>Íra Espiritual, Sobrecarga Espiritual tem cast Instantâneo enquanto retém espírito<br/>Cooldown de Íra Espiritual, Sobrecarga Espiritual são Zerados ao acertar<br/>Incapacita o Inimigo por 1 seg",
         "consume_sp": null,
@@ -332,7 +332,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "16m"
+                "value": "16m",
             },
             "1": {
                 "name": "Area",
