@@ -1025,9 +1025,9 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Laser_Lv1": {
         "id": "28040",
-        "name": "Spirit Surge - 사령쇄도",
+        "name": "Sobrecarga Espiritual",
         "icon": "skill_icon_warlock_0_13.png",
-        "main_info1": "Deals 108~126 damage over 3 hits",
+        "main_info1": "Causa Dano de 108~126 em 3 ataques",
         "main_info2": null,
         "sub_info": "Não pode ser Refletida",
         "consume_sp": "2",
@@ -1046,7 +1046,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -1057,11 +1057,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Laser_Lv11": {
         "id": "28040",
-        "name": "Spirit Surge - 사령쇄도",
+        "name": "Sobrecarga Espiritual",
         "icon": "skill_icon_warlock_0_13.png",
-        "main_info1": "Deals 108~126 damage over 3 hits",
+        "main_info1": "Causa Dano de 108~126 em 3 ataques",
         "main_info2": null,
-        "sub_info": "Mantra, Rupture is available on hit<br/>Não pode ser Refletida",
+        "sub_info": "Mantra, Ruptura ficam disponíveis ao acertar<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1078,7 +1078,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -1089,11 +1089,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Laser_Lv21": {
         "id": "28040",
-        "name": "Spirit Surge - 사령쇄도",
+        "name": "Sobrecarga Espiritual",
         "icon": "skill_icon_warlock_0_13.png",
-        "main_info1": "Deals 108~126 damage over 3 hits",
-        "main_info2": "Deals an additional 24~28 damage to Branded foes",
-        "sub_info": "Mantra, Rupture is available on hit<br/>Não pode ser Refletida",
+        "main_info1": "Causa Dano de 108~126 em 3 ataques",
+        "main_info2": "Causa Dano Adicional de 24~28 à inimigos com BRAND",
+        "sub_info": "Mantra, Ruptura ficam disponíveis ao acertar<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1110,7 +1110,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -1121,11 +1121,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Laser_Lv22": {
         "id": "28040",
-        "name": "Spirit Surge - 사령쇄도",
+        "name": "Sobrecarga Espiritual",
         "icon": "skill_icon_warlock_0_13.png",
-        "main_info1": "Deals 144~168 damage over 3 hits",
+        "main_info1": "Causa Dano de 144~168 em 3 ataques",
         "main_info2": null,
-        "sub_info": "Mantra, Rupture is available on hit<br/>Heals the user 25% of the damage dealt<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Não pode ser Refletida",
+        "sub_info": "Mantra, Ruptura ficam disponíveis ao acertar<br/>Regenera o Usuário em 25% do Dano causado<br/>Inimigo sofre de Hemorragia interna por 12 seg<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1142,7 +1142,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -1153,11 +1153,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Laser_Lv31": {
         "id": "28040",
-        "name": "Spirit Surge - 사령쇄도",
+        "name": "Sobrecarga Espiritual",
         "icon": "skill_icon_warlock_0_13.png",
-        "main_info1": "Deals 108~126 damage over 3 hits",
-        "main_info2": "Deals an additional 24~28 damage to Branded foes",
-        "sub_info": "Mantra, Rupture is available on hit<br/>Extends the duration of the Mark of foes up to 2.1 seg<br/>Não pode ser Refletida",
+        "main_info1": "Causa Dano de 108~126 em 3 ataques",
+        "main_info2": "Causa Dano Adicional de 24~28 à inimigos com BRAND",
+        "sub_info": "Mantra, Ruptura ficam disponíveis ao acertar<br/>Extende a duração da MARCA em inimigos por 2.1 seg<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1174,7 +1174,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -1185,11 +1185,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Laser_Lv32": {
         "id": "28040",
-        "name": "Spirit Surge - 사령쇄도",
+        "name": "Sobrecarga Espiritual",
         "icon": "skill_icon_warlock_0_13.png",
-        "main_info1": "Deals 144~168 damage over 3 hits",
+        "main_info1": "Causa Dano de 144~168 em 3 ataques",
         "main_info2": null,
-        "sub_info": "Mantra, Rupture is available on hit<br/>Heals the user 25% of the damage dealt<br/>Heals the user an additional 25% of the damage dealt to Branded foes<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Não pode ser Refletida",
+        "sub_info": "Mantra, Ruptura ficam disponíveis ao acertar<br/>Regenera o Usuário em 25% do Dano causado<br/>Adicional de Regeneração do Usuário em 25% do dano causado em inimigos com BRAND<br/>Inimigo sofre de Hemorragia interna por 12 seg<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1206,7 +1206,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -1217,11 +1217,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Laser_Lv51": {
         "id": "28040",
-        "name": "Spirit Surge - 사령쇄도",
+        "name": "Sobrecarga Espiritual",
         "icon": "skill_icon_warlock_0_13.png",
-        "main_info1": "Deals 108~126 damage over 3 hits",
-        "main_info2": "Deals an additional 24~28 damage to Branded foes",
-        "sub_info": "Increases the critical hit chance of the user by 100% for 2 sec on critical hit<br/>Mantra, Rupture is available on hit<br/>Extends the duration of the Mark of foes up to 2.1 seg<br/>Não pode ser Refletida",
+        "main_info1": "Causa Dano de 108~126 em 3 ataques",
+        "main_info2": "Causa Dano Adicional de 24~28 à inimigos com BRAND",
+        "sub_info": "Aumenta a chance de Crítico do Usuário em 100% por 2 seg ao Críticar<br/>Mantra, Ruptura ficam disponíveis ao acertar<br/>Extende a duração da MARCA em inimigos por 2.1 seg<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1238,7 +1238,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -1249,11 +1249,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Laser_Lv52": {
         "id": "28040",
-        "name": "Spirit Surge - 사령쇄도",
+        "name": "Sobrecarga Espiritual",
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 192~224 damage over 4 hits",
         "main_info2": null,
-        "sub_info": "Mantra, Rupture is available on hit<br/>Cooldown of Mantra is refreshed on hit<br/>Heals the user 25% of the damage dealt<br/>Heals the user an additional 25% of the damage dealt to Branded foes<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Não pode ser Refletida",
+        "sub_info": "Mantra, Ruptura ficam disponíveis ao acertar<br/>Cooldown de Mantra é Zerado ao acertar<br/>Regenera o Usuário em 25% do Dano causado<br/>Adicional de Regeneração do Usuário em 25% do dano causado em inimigos com BRAND<br/>Inimigo sofre de Hemorragia interna por 12 seg<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1270,7 +1270,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -1732,7 +1732,7 @@ var skill_data_WL = {
         "name": "Open - 개문",
         "icon": "skill_icon_warlock_0_36.png",
         "main_info1": "Deals 181~211 damage over 3 hits",
-        "main_info2": "Deals an additional 24~28 damage to Branded foes<br/>Increased damage per consecutive hit",
+        "main_info2": "Causa Dano Adicional de 24~28 à inimigos com BRAND<br/>Increased damage per consecutive hit",
         "sub_info": "Generates 2 additional chi per enemy hit<br/>Cooldown of Raging Spirit is refreshed on hit with the last attack<br/>Raging Spirit or Spirit Surge can be instantly cast if the last hit hits<br/>Ignores defense<br/>Canceled upon moving",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -4492,7 +4492,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4524,7 +4524,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4556,7 +4556,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4588,7 +4588,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
