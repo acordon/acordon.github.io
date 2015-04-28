@@ -516,7 +516,7 @@ var skill_data_WL = {
         "name": "Reprimir",
         "icon": "skill_icon_warlock_0_7.png",
         "main_info1": "Empura o Inimigo 10m",
-        "main_info2": "Causa Dano de 48~56 durante 4 ataques",
+        "main_info2": "Causa Dano de 48~56 em 4 ataques",
         "sub_info": "Diminui a velocidade do inimigo em 20% por 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
