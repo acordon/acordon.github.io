@@ -1467,7 +1467,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1569,11 +1569,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundAttack_Lv1": {
         "id": "28060",
-        "name": "Open - 개문",
+        "name": "Campo de Almas",
         "icon": "skill_icon_warlock_0_36.png",
-        "main_info1": "Deals 120~140 damage over 5 hits",
+        "main_info1": "Causa Dano de 120~140 em 5 atques",
         "main_info2": null,
-        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast if the last hit hits<br/>Ignores defense<br/>Canceled upon moving",
+        "sub_info": "Íra Espiritual ou Sobrecarga Espiritual pode ser lançada instantaneamente se o ultimo golpe acertar<br/>Ignora Defesa<br/>Cancela se o Usuário se mover",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1595,17 +1595,17 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
     "Warlock_Spell_GroundAttack_Lv11": {
         "id": "28060",
-        "name": "Open - 개문",
+        "name": "Campo de Almas",
         "icon": "skill_icon_warlock_0_36.png",
-        "main_info1": "Deals 120~140 damage over 5 hits",
+        "main_info1": "Causa Dano de 120~140 em 5 atques",
         "main_info2": null,
-        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast if the last hit hits<br/>Generates 1 additional chi per enemy hit<br/>Ignores defense<br/>Canceled upon moving",
+        "sub_info": "Íra Espiritual ou Sobrecarga Espiritual pode ser lançada instantaneamente se o ultimo golpe acertar<br/>Gera 1 Chi adicional por inimigo atacado<br/>Ignora Defesa<br/>Cancela se o Usuário se mover",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1627,17 +1627,17 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
     "Warlock_Spell_GroundAttack_Lv21": {
         "id": "28060",
-        "name": "Open - 개문",
+        "name": "Campo de Almas",
         "icon": "skill_icon_warlock_0_36.png",
-        "main_info1": "Deals 120~140 damage over 5 hits",
-        "main_info2": "Deals an additional 12~14 damage to Branded foes",
-        "sub_info": "Raging Spirit or Spirit Surge can be instantly cast if the last hit hits<br/>Generates 1 additional chi per enemy hit<br/>Ignores defense<br/>Canceled upon moving",
+        "main_info1": "Causa Dano de 120~140 em 5 atques",
+        "main_info2": "Causa um Dano adicional de 12~14 à inimigos com BRAND",
+        "sub_info": "Íra Espiritual ou Sobrecarga Espiritual pode ser lançada instantaneamente se o ultimo golpe acertar<br/>Gera 1 Chi adicional por inimigo atacado<br/>Ignora Defesa<br/>Cancela se o Usuário se mover",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1659,17 +1659,17 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
     "Warlock_Spell_GroundAttack_Lv31": {
         "id": "28060",
-        "name": "Open - 개문",
+        "name": "Campo de Almas",
         "icon": "skill_icon_warlock_0_36.png",
-        "main_info1": "Deals 174~203 damage over 5 hits",
-        "main_info2": "Deals an additional 12~14 damage to Branded foes<br/>Increased damage per consecutive hit",
-        "sub_info": "Generates 1 additional chi per enemy hit<br/>Raging Spirit or Spirit Surge can be instantly cast if the last hit hits<br/>Ignores defense<br/>Canceled upon moving",
+        "main_info1": "Causa Dano de 174~203 em 5 atques",
+        "main_info2": "Causa um Dano adicional de 12~14 à inimigos com BRAND<br/>Aumenta o Dano por ataque consecutivo",
+        "sub_info": "Gera 1 Chi adicional por inimigo atacado<br/>Íra Espiritual ou Sobrecarga Espiritual pode ser lançada instantaneamente se o ultimo golpe acertar<br/>Ignora Defesa<br/>Cancela se o Usuário se mover",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1691,17 +1691,17 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
     "Warlock_Spell_GroundAttack_Lv41": {
         "id": "28060",
-        "name": "Open - 개문",
+        "name": "Campo de Almas",
         "icon": "skill_icon_warlock_0_36.png",
-        "main_info1": "Deals 174~203 damage over 5 hits",
-        "main_info2": "Deals an additional 12~14 damage to Branded foes<br/>Increased damage per consecutive hit",
-        "sub_info": "Generates 1 additional chi per enemy hit<br/>Cooldown of Raging Spirit is refreshed on hit with the last attack<br/>Raging Spirit or Spirit Surge can be instantly cast if the last hit hits<br/>Ignores defense<br/>Canceled upon moving",
+        "main_info1": "Causa Dano de 174~203 em 5 atques",
+        "main_info2": "Causa um Dano adicional de 12~14 à inimigos com BRAND<br/>Aumenta o Dano por ataque consecutivo",
+        "sub_info": "Gera 1 Chi adicional por inimigo atacado<br/>Cooldown de Íra Espiritual é Zerada quando o Ultimo ataque acerta<br/>Íra Espiritual ou Sobrecarga Espiritual pode ser lançada instantaneamente se o ultimo golpe acertar<br/>Ignora Defesa<br/>Cancela se o Usuário se mover",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1723,17 +1723,17 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
     "Warlock_Spell_GroundAttack_Lv51": {
         "id": "28060",
-        "name": "Open - 개문",
+        "name": "Campo de Almas",
         "icon": "skill_icon_warlock_0_36.png",
-        "main_info1": "Deals 181~211 damage over 3 hits",
-        "main_info2": "Causa Dano Adicional de 24~28 à inimigos com BRAND<br/>Increased damage per consecutive hit",
-        "sub_info": "Generates 2 additional chi per enemy hit<br/>Cooldown of Raging Spirit is refreshed on hit with the last attack<br/>Raging Spirit or Spirit Surge can be instantly cast if the last hit hits<br/>Ignores defense<br/>Canceled upon moving",
+        "main_info1": "Causa Dano de 181~211 em 3 atques",
+        "main_info2": "Causa Dano Adicional de 24~28 à inimigos com BRAND<br/>Aumenta o Dano por ataque consecutivo",
+        "sub_info": "Gera 2 Chi adicional por inimigo atacado<br/>Cooldown de Íra Espiritual é Zerada quando o Ultimo ataque acerta<br/>Íra Espiritual ou Sobrecarga Espiritual pode ser lançada instantaneamente se o ultimo golpe acertar<br/>Ignora Defesa<br/>Cancela se o Usuário se mover",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1755,7 +1755,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2213,7 +2213,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_10.png",
         "main_info1": "Deals 240~280 damage",
         "main_info2": "Marks foes for 4 sec<br/>Deals an additional 120~140 damage to airborne foes",
-        "sub_info": "Não pode ser Refletida<br/>Ignores defense",
+        "sub_info": "Não pode ser Refletida<br/>Ignora Defesa",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2373,7 +2373,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_8.png",
         "main_info1": "Aplica BRAND ao inimigo por 4 seg",
         "main_info2": "Deals 30~35 damage to nearby foes over 5 sec",
-        "sub_info": "Creates a damaging area that lasts for 5 sec<br/>Heals the user 50% of the damage dealt<br/>Immobilizes foes for 4 sec per hit<br/>Decreases the movement speed of foes by 40% for 4 sec per hit<br/>Ignores defense",
+        "sub_info": "Creates a damaging area that lasts for 5 sec<br/>Heals the user 50% of the damage dealt<br/>Immobilizes foes for 4 sec per hit<br/>Decreases the movement speed of foes by 40% for 4 sec per hit<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2533,7 +2533,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_8.png",
         "main_info1": "Aplica BRAND ao inimigo por 4 seg",
         "main_info2": "Deals 30~35 damage to nearby foes over 5 sec",
-        "sub_info": "Creates a damaging area that lasts for 5 sec<br/>Heals the user 50% of the damage dealt<br/>Immobilizes foes for 4 sec per hit<br/>Decreases the movement speed of foes by 40% for 4 sec per hit<br/>Heals the user 2% of their maximum health per hit<br/>Generates 2 chi per hit<br/>Ignores defense",
+        "sub_info": "Creates a damaging area that lasts for 5 sec<br/>Heals the user 50% of the damage dealt<br/>Immobilizes foes for 4 sec per hit<br/>Decreases the movement speed of foes by 40% for 4 sec per hit<br/>Heals the user 2% of their maximum health per hit<br/>Generates 2 chi per hit<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2693,7 +2693,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_4.png",
         "main_info1": "Deals 24~28 damage",
         "main_info2": "Marks foes for 0.8 sec",
-        "sub_info": "Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignores defense",
+        "sub_info": "Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2725,7 +2725,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_4.png",
         "main_info1": "Deals 24~28 damage",
         "main_info2": "Marks foes for 0.8 sec",
-        "sub_info": "Generates 6 chi over 2 sec on critical hit<br/>Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignores defense",
+        "sub_info": "Generates 6 chi over 2 sec on critical hit<br/>Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": "6",
         "skill_info": {
@@ -2757,7 +2757,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_4.png",
         "main_info1": "Deals 84~98 damage",
         "main_info2": "Marks foes for 0.8 sec",
-        "sub_info": "Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignores defense",
+        "sub_info": "Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2789,7 +2789,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_4.png",
         "main_info1": "Deals 24~28 damage",
         "main_info2": "Marks foes for 0.8 sec",
-        "sub_info": "Generates 6 chi over 2 sec on critical hit<br/>Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignores defense",
+        "sub_info": "Generates 6 chi over 2 sec on critical hit<br/>Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": "6",
         "skill_info": {
@@ -2821,7 +2821,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_4.png",
         "main_info1": "Deals 84~98 damage",
         "main_info2": "Marks foes for 0.8 sec",
-        "sub_info": "Cooldown of Raging Spirit is decreased by 3 sec<br/>Ignores defense",
+        "sub_info": "Cooldown of Raging Spirit is decreased by 3 sec<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2853,7 +2853,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_42.png",
         "main_info1": "Deals 108~126 damage",
         "main_info2": "Marks foes for 4 sec<br/>Available while Spiritualized",
-        "sub_info": "Generates 6 chi over 2 sec on critical hit<br/>Cooldown of Raging Spirit is decreased by 3 sec<br/>Ignores defense<br/>Does not generate threat",
+        "sub_info": "Generates 6 chi over 2 sec on critical hit<br/>Cooldown of Raging Spirit is decreased by 3 sec<br/>Ignora Defesa<br/>Does not generate threat",
         "consume_sp": null,
         "ui_sp_heal_value": "6",
         "skill_info": {
@@ -4955,7 +4955,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_20.png",
         "main_info1": "Calls the familiar to the user",
         "main_info2": "Deals 72~84 damage",
-        "sub_info": "Recalled familiar will await for orders<br/>Recall cannot be used while the user is under status effects<br/>Ignores defense",
+        "sub_info": "Recalled familiar will await for orders<br/>Recall cannot be used while the user is under status effects<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4987,7 +4987,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_21.png",
         "main_info1": "Familiar charges to the target",
         "main_info2": "Deals 72~84 damage",
-        "sub_info": "Ignores defense",
+        "sub_info": "Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5019,7 +5019,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_21.png",
         "main_info1": "Familiar charges to the target",
         "main_info2": "Deals 72~84 damage",
-        "sub_info": "Familiar taunts nearby foes for 3 sec<br/>Ignores defense",
+        "sub_info": "Familiar taunts nearby foes for 3 sec<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5051,7 +5051,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_21.png",
         "main_info1": "Familiar charges to the target",
         "main_info2": "Deals 72~84 damage<br/>Knocks foes back 11m and knocks them down for 1 seg<br/>Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Familiar taunts nearby foes for 3 sec<br/>Ignores defense",
+        "sub_info": "Familiar taunts nearby foes for 3 sec<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5083,7 +5083,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_21.png",
         "main_info1": "Familiar charges to the target",
         "main_info2": "Deals 72~84 damage<br/>Tonteia o inimigo por 3 seg",
-        "sub_info": "Familiar taunts nearby foes for 3 sec<br/>Ignores defense",
+        "sub_info": "Familiar taunts nearby foes for 3 sec<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5105,7 +5105,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -5115,7 +5115,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_25.png",
         "main_info1": "Familiar self-destructs",
         "main_info2": "Deals 384~448 damage",
-        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Ignores defense",
+        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5147,7 +5147,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_25.png",
         "main_info1": "Familiar self-destructs",
         "main_info2": "Deals 384~448 damage",
-        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Increases the familiar's defense by 400%<br/>Ignores defense",
+        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Increases the familiar's defense by 400%<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5179,7 +5179,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_25.png",
         "main_info1": "Familiar self-destructs",
         "main_info2": "Deals 384~448 damage",
-        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Ignores defense",
+        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5275,7 +5275,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_25.png",
         "main_info1": "Familiar self-destructs",
         "main_info2": "Deals 384~448 damage<br/>Deals an additional 216~252 damage to airborne foes",
-        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Ignores defense",
+        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5371,7 +5371,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_25.png",
         "main_info1": "Familiar self-destructs",
         "main_info2": "Deals 384~448 damage<br/>Deals an additional 216~252 damage to airborne foes",
-        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Brands pulled foes<br/>Ignores defense",
+        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Brands pulled foes<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
