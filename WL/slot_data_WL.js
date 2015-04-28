@@ -3932,8 +3932,8 @@ var slot_data_WL = {
                 "max_variation_level": "1",
                 "variation_id": "11",
                 "tooltip_alias": "Warlock_Spell_GroundAttack_Lv11",
-                "name2_refine": "Open<br>개문",
-                "name2_refine_en": "Open",
+                "name2_refine": "Campo de Almas",
+                "name2_refine_en": "Campo de Almas",
                 "variation_level": {
                     "0": null,
                     "1": "1",
@@ -4007,7 +4007,7 @@ var slot_data_WL = {
                 "max_variation_level": "1",
                 "variation_id": "21",
                 "tooltip_alias": "Warlock_Spell_GroundAttack_Lv21",
-                "name2_refine": "Open<br>개문",
+                "name2_refine": "Campo de Almas",
                 "name2_refine_en": "Open",
                 "variation_level": {
                     "0": null,
@@ -4082,7 +4082,7 @@ var slot_data_WL = {
                 "max_variation_level": "1",
                 "variation_id": "31",
                 "tooltip_alias": "Warlock_Spell_GroundAttack_Lv31",
-                "name2_refine": "Open<br>개문",
+                "name2_refine": "Campo de Almas",
                 "name2_refine_en": "Open",
                 "variation_level": {
                     "0": null,
@@ -4157,7 +4157,7 @@ var slot_data_WL = {
                 "max_variation_level": "1",
                 "variation_id": "41",
                 "tooltip_alias": "Warlock_Spell_GroundAttack_Lv41",
-                "name2_refine": "Open<br>개문",
+                "name2_refine": "Campo de Almas",
                 "name2_refine_en": "Open",
                 "variation_level": {
                     "0": null,
@@ -4232,7 +4232,7 @@ var slot_data_WL = {
                 "max_variation_level": "1",
                 "variation_id": "51",
                 "tooltip_alias": "Warlock_Spell_GroundAttack_Lv51",
-                "name2_refine": "Open<br>개문",
+                "name2_refine": "Campo de Almas",
                 "name2_refine_en": "Open",
                 "variation_level": {
                     "0": null,
