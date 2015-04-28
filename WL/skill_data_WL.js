@@ -49,17 +49,17 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
