@@ -35,7 +35,7 @@ var skill_data_WL = {
         "id": "28001",
         "name": "Purificar",
         "icon": "skill_icon_warlock_0_1.png",
-        "main_info1": "Dano de 16~18",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
         "sub_info": "Gera 1 Chi Adicional quando faz dano Crítico",
         "consume_sp": null,
@@ -65,11 +65,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Drain_Soul_Lv1": {
         "id": "28011",
-        "name": "Ravage - 강탈",
+        "name": "Retirar Espírito",
         "icon": "skill_icon_warlock_0_5.png",
-        "main_info1": "User is Overpowered for 12 sec",
-        "main_info2": "Deals 60~70 damage",
-        "sub_info": "Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit",
+        "main_info1": "Usuário retém o Espírito por 12 Segundos",
+        "main_info2": "Causa Dano de 60~70",
+        "sub_info": "Íra Espiritual, Sobrecarga Espiritual tem cast Instantâneo enquanto retém espírito<br/>Cooldown de Íra Espiritual, Sobrecarga Espiritual são Zerados ao acertar",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -81,27 +81,27 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.1 sec"
+                "value": "0.1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
     "Warlock_Spell_Drain_Soul_Lv11": {
         "id": "28011",
-        "name": "Ravage - 강탈",
+        "name": "Retirar Espírito",
         "icon": "skill_icon_warlock_0_5.png",
-        "main_info1": "User is Overpowered for 12 sec",
-        "main_info2": "Deals 60~70 damage",
-        "sub_info": "User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit",
+        "main_info1": "Usuário retém o Espírito por 12 Segundos",
+        "main_info2": "Causa 60~70 de Dano",
+        "sub_info": "Usuário Gera 1 Chi Adicional enquanto retém espírito<br/>Íra Espiritual, Sobrecarga Espiritual tem cast Instantâneo enquanto retém espírito<br/>Cooldown de Íra Espiritual, Sobrecarga Espiritual são Zerados ao acertar",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -113,27 +113,27 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.1 sec"
+                "value": "0.1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
     "Warlock_Spell_Drain_Soul_Lv21": {
         "id": "28011",
-        "name": "Ravage - 강탈",
+        "name": "Retirar Espírito",
         "icon": "skill_icon_warlock_0_5.png",
-        "main_info1": "User is Overpowered for 12 sec",
-        "main_info2": "Deals 60~70 damage",
-        "sub_info": "User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec",
+        "main_info1": "Usuário retém o Espírito por 12 Segundos",
+        "main_info2": "Causa 60~70 de Dano",
+        "sub_info": "Usuário Gera 1 Chi Adicional enquanto retém espírito<br/>Íra Espiritual, Sobrecarga Espiritual tem cast Instantâneo enquanto retém espírito<br/>Cooldown de Íra Espiritual, Sobrecarga Espiritual são Zerados ao acertar<br/>Incapacita o Inimigo por 1 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -145,27 +145,27 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.1 sec"
+                "value": "0.1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
     "Warlock_Spell_Drain_Soul_Lv31": {
         "id": "28011",
-        "name": "Ravage - 강탈",
+        "name": "Retirar Espírito",
         "icon": "skill_icon_warlock_0_5.png",
-        "main_info1": "User is Overpowered for 12 sec",
-        "main_info2": "Deals 60~70 damage",
-        "sub_info": "Overpower increases the critical hit damage of the user by 20%<br/>User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec",
+        "main_info1": "Usuário retém o Espírito por 12 Segundos",
+        "main_info2": "Causa 60~70 de Dano",
+        "sub_info": "Aumenta a chance de Crítico em 20% enquanto retém Espírito<br/>Usuário Gera 1 Chi Adicional enquanto retém espírito<br/>Íra Espiritual, Sobrecarga Espiritual tem cast Instantâneo enquanto retém espírito<br/>Cooldown de Íra Espiritual, Sobrecarga Espiritual são Zerados ao acertar<br/>Incapacita o Inimigo por 1 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -177,27 +177,27 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.1 sec"
+                "value": "0.1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
     "Warlock_Spell_Drain_Soul_Lv32": {
         "id": "28011",
-        "name": "Ravage - 강탈",
+        "name": "Retirar Espírito",
         "icon": "skill_icon_warlock_0_5.png",
-        "main_info1": "User is Overpowered for 12 sec",
-        "main_info2": "Deals 60~70 damage",
-        "sub_info": "Heals the user 10% of their maximum health on hit<br/>User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec<br/>Breaks defense<br/>Disables defense abilities of defense broken foes for 6 sec",
+        "main_info1": "Usuário retém o Espírito por 12 Segundos",
+        "main_info2": "Causa 60~70 de Dano",
+        "sub_info": "Regenera o Usuário em 10% do seu HP Máximo ao acertar<br/>Usuário Gera 1 Chi Adicional enquanto retém espírito<br/>Íra Espiritual, Sobrecarga Espiritual tem cast Instantâneo enquanto retém espírito<br/>Cooldown de Íra Espiritual, Sobrecarga Espiritual são Zerados ao acertar<br/>Incapacita o Inimigo por 1 seg<br/>Quebra defesa<br/>Desabilita abilidades de Desfesa por 6 seg em inimigos que tiverem a defesa quebrada",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -209,27 +209,27 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.1 sec"
+                "value": "0.1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
     "Warlock_Spell_Drain_Soul_Lv33": {
         "id": "28011",
-        "name": "Ravage - 강탈",
+        "name": "Retirar Espírito",
         "icon": "skill_icon_warlock_0_5.png",
-        "main_info1": "User is Overpowered for 12 sec",
-        "main_info2": "Stuns foes for 3 sec<br/>Deals 60~70 damage",
-        "sub_info": "User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit",
+        "main_info1": "Usuário retém o Espírito por 12 Segundos",
+        "main_info2": "Tonteia o Inimigo por 3 seg<br/>Causa 60~70 de Dano",
+        "sub_info": "Usuário Gera 1 Chi Adicional enquanto retém espírito<br/>Íra Espiritual, Sobrecarga Espiritual tem cast Instantâneo enquanto retém espírito<br/>Cooldown de Íra Espiritual, Sobrecarga Espiritual são Zerados ao acertar",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -241,27 +241,27 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.1 sec"
+                "value": "0.1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
     "Warlock_Spell_Drain_Soul_Lv51": {
         "id": "28011",
-        "name": "Ravage - 강탈",
+        "name": "Retirar Espírito",
         "icon": "skill_icon_warlock_0_5.png",
-        "main_info1": "User is Overpowered for 15 sec",
-        "main_info2": "Deals 60~70 damage",
-        "sub_info": "Overpower increases the critical hit damage of the user by 50%<br/>User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec",
+        "main_info1": "User is retém espírito for 15 sec",
+        "main_info2": "Causa 60~70 de Dano",
+        "sub_info": "Aumenta a chance de Crítico em 50% enquanto retém Espíritobr/>Usuário Gera 1 Chi Adicional enquanto retém espírito<br/>Íra Espiritual, Sobrecarga Espiritual tem cast Instantâneo enquanto retém espírito<br/>Cooldown de Íra Espiritual, Sobrecarga Espiritual são Zerados ao acertar<br/>Incapacita o Inimigo por 1 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -273,27 +273,27 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.1 sec"
+                "value": "0.1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
     "Warlock_Spell_Drain_Soul_Lv52": {
         "id": "28011",
-        "name": "Ravage - 강탈",
+        "name": "Retirar Espírito",
         "icon": "skill_icon_warlock_0_5.png",
-        "main_info1": "User is Overpowered for 12 sec",
-        "main_info2": "Deals 60~70 damage",
-        "sub_info": "Heals the user 10% of their maximum health on hit<br/>User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit<br/>Disables foes for 1 sec<br/>Breaks defense<br/>Dazes defense broken foes for 3 sec<br/>Disables defense abilities of defense broken foes for 6 sec",
+        "main_info1": "Usuário retém o Espírito por 12 Segundos",
+        "main_info2": "Causa 60~70 de Dano",
+        "sub_info": "Regenera o Usuário em 10% do seu HP Máximo ao acertar<br/>Usuário Gera 1 Chi Adicional enquanto retém espírito<br/>Íra Espiritual, Sobrecarga Espiritual tem cast Instantâneo enquanto retém espírito<br/>Cooldown de Íra Espiritual, Sobrecarga Espiritual são Zerados ao acertar<br/>Incapacita o Inimigo por 1 seg<br/>Quebra defesa<br/>Atordoa por 3 seg inimigos com a defesa quebrada<br/>Desabilita abilidades de Desfesa por 6 seg em inimigos que tiverem a defesa quebrada",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -305,27 +305,27 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.1 sec"
+                "value": "0.1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
     "Warlock_Spell_Drain_Soul_Lv53": {
         "id": "28011",
-        "name": "Ravage - 강탈",
+        "name": "Retirar Espírito",
         "icon": "skill_icon_warlock_0_5.png",
-        "main_info1": "User is Overpowered for 12 sec",
-        "main_info2": "Stuns foes for 3 sec<br/>Deals 60~70 damage",
-        "sub_info": "Cannot be deflected<br/>User generates 1 additional chi per hit while Overpowered<br/>Raging Spirit, Spirit Surge is instantly cast while Overpowered<br/>Cooldown of Raging Spirit, Spirit Surge is refreshed on hit",
+        "main_info1": "Usuário retém o Espírito por 12 Segundos",
+        "main_info2": "Tonteia o Inimigo por 3 seg<br/>Causa 60~70 de Dano",
+        "sub_info": "Não pode ser Refletida<br/>Usuário Gera 1 Chi Adicional enquanto retém espírito<br/>Íra Espiritual, Sobrecarga Espiritual tem cast Instantâneo enquanto retém espírito<br/>Cooldown de Íra Espiritual, Sobrecarga Espiritual são Zerados ao acertar",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -337,17 +337,17 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.1 sec"
+                "value": "0.1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -369,7 +369,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -401,7 +401,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -433,7 +433,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -465,7 +465,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -561,7 +561,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -571,7 +571,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -625,7 +625,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -635,7 +635,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -721,7 +721,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -731,7 +731,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -785,7 +785,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -795,7 +795,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -817,7 +817,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -837,7 +837,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_37.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 5 chi over 5 sec<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 5 chi over 5 sec<br/>Não pode ser Refletida",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -849,7 +849,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -869,7 +869,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_37.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 5 chi over 5 sec<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 5 chi over 5 sec<br/>Não pode ser Refletida",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -881,7 +881,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -901,7 +901,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_37.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 15 chi over 5 sec<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 15 chi over 5 sec<br/>Não pode ser Refletida",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -913,7 +913,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -933,7 +933,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_41.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra heals the user 5% of their maximum health over 5 sec<br/>Mantra restores 5 chi over 5 sec<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra heals the user 5% of their maximum health over 5 sec<br/>Mantra restores 5 chi over 5 sec<br/>Não pode ser Refletida",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -945,7 +945,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -965,7 +965,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_37.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 15 chi over 5 sec<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Mantra restores 15 chi over 5 sec<br/>Não pode ser Refletida",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -977,7 +977,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -997,7 +997,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_41.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Heals the user 1% of their maximum health on critical hit while Mantra is active<br/>Mantra heals the user 5% of their maximum health over 5 sec<br/>Mantra restores 5 chi over 5 sec<br/>Cannot be deflected",
+        "sub_info": "Gives the user Mantra that lasts for 5 sec<br/>Heals the user 1% of their maximum health on critical hit while Mantra is active<br/>Mantra heals the user 5% of their maximum health over 5 sec<br/>Mantra restores 5 chi over 5 sec<br/>Não pode ser Refletida",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -1009,7 +1009,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1019,7 +1019,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1029,7 +1029,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 108~126 damage over 3 hits",
         "main_info2": null,
-        "sub_info": "Cannot be deflected",
+        "sub_info": "Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1061,7 +1061,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 108~126 damage over 3 hits",
         "main_info2": null,
-        "sub_info": "Mantra, Rupture is available on hit<br/>Cannot be deflected",
+        "sub_info": "Mantra, Rupture is available on hit<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1093,7 +1093,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 108~126 damage over 3 hits",
         "main_info2": "Deals an additional 24~28 damage to Branded foes",
-        "sub_info": "Mantra, Rupture is available on hit<br/>Cannot be deflected",
+        "sub_info": "Mantra, Rupture is available on hit<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1125,7 +1125,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 144~168 damage over 3 hits",
         "main_info2": null,
-        "sub_info": "Mantra, Rupture is available on hit<br/>Heals the user 25% of the damage dealt<br/>Foes suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
+        "sub_info": "Mantra, Rupture is available on hit<br/>Heals the user 25% of the damage dealt<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1147,7 +1147,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1157,7 +1157,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 108~126 damage over 3 hits",
         "main_info2": "Deals an additional 24~28 damage to Branded foes",
-        "sub_info": "Mantra, Rupture is available on hit<br/>Extends the duration of the Mark of foes up to 2.1 sec<br/>Cannot be deflected",
+        "sub_info": "Mantra, Rupture is available on hit<br/>Extends the duration of the Mark of foes up to 2.1 sec<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1189,7 +1189,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 144~168 damage over 3 hits",
         "main_info2": null,
-        "sub_info": "Mantra, Rupture is available on hit<br/>Heals the user 25% of the damage dealt<br/>Heals the user an additional 25% of the damage dealt to Branded foes<br/>Foes suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
+        "sub_info": "Mantra, Rupture is available on hit<br/>Heals the user 25% of the damage dealt<br/>Heals the user an additional 25% of the damage dealt to Branded foes<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1211,7 +1211,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1221,7 +1221,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 108~126 damage over 3 hits",
         "main_info2": "Deals an additional 24~28 damage to Branded foes",
-        "sub_info": "Increases the critical hit chance of the user by 100% for 2 sec on critical hit<br/>Mantra, Rupture is available on hit<br/>Extends the duration of the Mark of foes up to 2.1 sec<br/>Cannot be deflected",
+        "sub_info": "Increases the critical hit chance of the user by 100% for 2 sec on critical hit<br/>Mantra, Rupture is available on hit<br/>Extends the duration of the Mark of foes up to 2.1 sec<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1253,7 +1253,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 192~224 damage over 4 hits",
         "main_info2": null,
-        "sub_info": "Mantra, Rupture is available on hit<br/>Cooldown of Mantra is refreshed on hit<br/>Heals the user 25% of the damage dealt<br/>Heals the user an additional 25% of the damage dealt to Branded foes<br/>Foes suffer from Internal Bleeding for 12 sec<br/>Cannot be deflected",
+        "sub_info": "Mantra, Rupture is available on hit<br/>Cooldown of Mantra is refreshed on hit<br/>Heals the user 25% of the damage dealt<br/>Heals the user an additional 25% of the damage dealt to Branded foes<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1275,7 +1275,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1307,7 +1307,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1339,7 +1339,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1349,7 +1349,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_12.png",
         "main_info1": "Knocks foes down for 2 sec",
         "main_info2": "Brands foes for 4 sec<br/>Deals 18~21 damage",
-        "sub_info": "Cannot be deflected",
+        "sub_info": "Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1371,7 +1371,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1381,7 +1381,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_12.png",
         "main_info1": "Knocks foes down for 3 sec",
         "main_info2": "Brands foes for 4 sec<br/>Deals 18~21 damage",
-        "sub_info": "Cannot be deflected<br/>Decreases the movement speed of foes by 20% for 6 sec",
+        "sub_info": "Não pode ser Refletida<br/>Decreases the movement speed of foes by 20% for 6 sec",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1403,7 +1403,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1413,7 +1413,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_12.png",
         "main_info1": "Dazes foes for 3 sec",
         "main_info2": "Brands foes for 4 sec<br/>Deals 18~21 damage",
-        "sub_info": "Cannot be deflected",
+        "sub_info": "Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1425,7 +1425,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1435,7 +1435,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1445,7 +1445,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_12.png",
         "main_info1": "Stuns foes for 2 sec",
         "main_info2": "Brands foes for 4 sec<br/>Deals 18~21 damage",
-        "sub_info": "Cannot be deflected",
+        "sub_info": "Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1457,7 +1457,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1477,7 +1477,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_12.png",
         "main_info1": "Knocks foes down for 3 sec",
         "main_info2": "Brands foes for 4 sec<br/>Deals 18~21 damage",
-        "sub_info": "Cooldown of Bounded Field is refreshed on hit<br/>Cannot be deflected<br/>Decreases the movement speed of foes by 20% for 6 sec",
+        "sub_info": "Cooldown of Bounded Field is refreshed on hit<br/>Não pode ser Refletida<br/>Decreases the movement speed of foes by 20% for 6 sec",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1499,7 +1499,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1509,7 +1509,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_12.png",
         "main_info1": "Dazes foes for 3 sec",
         "main_info2": "Brands foes for 4 sec<br/>Deals 18~21 damage",
-        "sub_info": "Cannot be deflected<br/>Can be used up to 2 consecutive times",
+        "sub_info": "Não pode ser Refletida<br/>Can be used up to 2 consecutive times",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1521,7 +1521,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1531,7 +1531,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1541,7 +1541,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_12.png",
         "main_info1": "Stuns foes for 2 sec",
         "main_info2": "Brands foes for 4 sec<br/>Deals 18~21 damage",
-        "sub_info": "Cooldown of Rupture is refreshed on hit<br/>Rupture is available on hit<br/>Cannot be deflected",
+        "sub_info": "Cooldown of Rupture is refreshed on hit<br/>Rupture is available on hit<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1553,7 +1553,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1563,7 +1563,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1777,7 +1777,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1809,7 +1809,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1841,7 +1841,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1873,7 +1873,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1905,7 +1905,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1937,7 +1937,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1969,7 +1969,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2001,7 +2001,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2021,7 +2021,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_10.png",
         "main_info1": "Deals 216~252 damage",
         "main_info2": "Marks foes for 2 sec",
-        "sub_info": "Cannot be deflected",
+        "sub_info": "Não pode ser Refletida",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2043,7 +2043,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2053,7 +2053,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_10.png",
         "main_info1": "Deals 216~252 damage",
         "main_info2": "Marks foes for 2 sec",
-        "sub_info": "Cannot be deflected",
+        "sub_info": "Não pode ser Refletida",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2075,7 +2075,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2085,7 +2085,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_10.png",
         "main_info1": "Deals 216~252 damage",
         "main_info2": "Marks foes for 4 sec",
-        "sub_info": "Cannot be deflected",
+        "sub_info": "Não pode ser Refletida",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2107,7 +2107,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2117,7 +2117,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_10.png",
         "main_info1": "Deals 216~252 damage",
         "main_info2": "Marks foes for 4 sec",
-        "sub_info": "Increases the critical of the user by 25% for 5 sec on hit<br/>Cannot be deflected",
+        "sub_info": "Increases the critical of the user by 25% for 5 sec on hit<br/>Não pode ser Refletida",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2139,7 +2139,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2149,7 +2149,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_10.png",
         "main_info1": "Deals 240~280 damage",
         "main_info2": "Marks foes for 4 sec<br/>Deals an additional 120~140 damage to airborne foes",
-        "sub_info": "Cannot be deflected",
+        "sub_info": "Não pode ser Refletida",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2181,7 +2181,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_10.png",
         "main_info1": "Deals 216~252 damage",
         "main_info2": "Marks foes for 4 sec",
-        "sub_info": "Raging Spirit can be instantly recast 1 more time on critical hit<br/>Increases the critical of the user by 25% for 5 sec on hit<br/>Cannot be deflected",
+        "sub_info": "Raging Spirit can be instantly recast 1 more time on critical hit<br/>Increases the critical of the user by 25% for 5 sec on hit<br/>Não pode ser Refletida",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2203,7 +2203,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2213,7 +2213,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_10.png",
         "main_info1": "Deals 240~280 damage",
         "main_info2": "Marks foes for 4 sec<br/>Deals an additional 120~140 damage to airborne foes",
-        "sub_info": "Cannot be deflected<br/>Ignores defense",
+        "sub_info": "Não pode ser Refletida<br/>Ignores defense",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2267,7 +2267,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2299,7 +2299,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2331,7 +2331,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2353,7 +2353,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2363,7 +2363,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2395,7 +2395,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2417,7 +2417,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2427,7 +2427,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2449,7 +2449,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2459,7 +2459,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2469,7 +2469,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_8.png",
         "main_info1": "Brands foes for 4 sec",
         "main_info2": "Deals 72~84 damage",
-        "sub_info": "Decreases the movement speed of foes by 40% for 4 sec<br/>Breaks defense",
+        "sub_info": "Decreases the movement speed of foes by 40% for 4 sec<br/>Quebra defesa",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2481,7 +2481,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2491,7 +2491,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2501,7 +2501,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_8.png",
         "main_info1": "Brands foes for 4 sec",
         "main_info2": "Deals 72~84 damage",
-        "sub_info": "Decreases the movement speed of foes by 40% for 4 sec<br/>Breaks defense<br/>Disables defense abilities of defense broken foes for 6 sec",
+        "sub_info": "Decreases the movement speed of foes by 40% for 4 sec<br/>Quebra defesa<br/>Desabilita abilidades de Desfesa por 6 seg em inimigos que tiverem a defesa quebrada",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2513,7 +2513,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2523,7 +2523,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2555,7 +2555,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2577,7 +2577,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2587,7 +2587,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2609,7 +2609,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2619,7 +2619,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2629,7 +2629,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_8.png",
         "main_info1": "Brands foes for 4 sec",
         "main_info2": "Deals 72~84 damage",
-        "sub_info": "Decreases the movement speed of foes by 40% for 4 sec<br/>Breaks defense<br/>Disables defense abilities of defense broken foes for 6 sec<br/>Dazes defense broken foes for 2 sec",
+        "sub_info": "Decreases the movement speed of foes by 40% for 4 sec<br/>Quebra defesa<br/>Desabilita abilidades de Desfesa por 6 seg em inimigos que tiverem a defesa quebrada<br/>Dazes defense broken foes for 2 sec",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2641,7 +2641,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2651,7 +2651,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2907,7 +2907,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2939,7 +2939,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2971,7 +2971,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3003,7 +3003,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3067,7 +3067,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3099,7 +3099,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3163,7 +3163,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3195,7 +3195,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3227,7 +3227,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3259,7 +3259,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3291,7 +3291,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3345,7 +3345,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3377,7 +3377,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3409,7 +3409,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3473,7 +3473,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3483,7 +3483,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3697,7 +3697,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3707,7 +3707,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3739,7 +3739,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3761,7 +3761,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3793,7 +3793,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3825,7 +3825,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3845,7 +3845,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on Marked foes",
+        "sub_info": "Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3857,7 +3857,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3877,7 +3877,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on Marked foes",
+        "sub_info": "Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3889,7 +3889,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3909,7 +3909,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on Marked foes",
+        "sub_info": "Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3941,7 +3941,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3953,7 +3953,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3973,7 +3973,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Cannot be deflected<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on Marked foes",
+        "sub_info": "Não pode ser Refletida<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4005,7 +4005,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4017,7 +4017,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4037,7 +4037,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on seized, force gripped foes<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on seized, force gripped foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4049,7 +4049,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4069,7 +4069,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes<br/>Used at no cost on downed, dazed, stunned, airborne foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes<br/>Used at no cost on downed, dazed, stunned, airborne foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4081,7 +4081,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4101,7 +4101,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Guaranteed critical hit to seized, force gripped foes<br/>Instantly cast on seized, force gripped foes<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Guaranteed critical hit to seized, force gripped foes<br/>Instantly cast on seized, force gripped foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4113,7 +4113,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4133,7 +4133,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Cannot be deflected<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while Overpowered<br/>Instantly cast on Marked foes<br/>Deals 20% chi damage to Marked foes",
+        "sub_info": "Não pode ser Refletida<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on Marked foes<br/>Deals 20% chi damage to Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4177,7 +4177,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4187,7 +4187,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4231,7 +4231,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4263,7 +4263,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4295,7 +4295,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4327,7 +4327,7 @@ var skill_data_WL = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4721,7 +4721,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4753,7 +4753,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4785,7 +4785,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4881,7 +4881,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5009,7 +5009,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5041,7 +5041,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5073,7 +5073,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5137,7 +5137,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5169,7 +5169,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5179,7 +5179,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_25.png",
         "main_info1": "Familiar self-destructs",
         "main_info2": "Deals 384~448 damage",
-        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Stuns foes for 3 sec on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Ignores defense",
+        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Ignores defense",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5201,7 +5201,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5275,7 +5275,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_25.png",
         "main_info1": "Familiar self-destructs",
         "main_info2": "Deals 384~448 damage<br/>Deals an additional 216~252 damage to airborne foes",
-        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Stuns foes for 3 sec on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Ignores defense",
+        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Ignores defense",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5297,7 +5297,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5371,7 +5371,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_25.png",
         "main_info1": "Familiar self-destructs",
         "main_info2": "Deals 384~448 damage<br/>Deals an additional 216~252 damage to airborne foes",
-        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Stuns foes for 3 sec on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Brands pulled foes<br/>Ignores defense",
+        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Brands pulled foes<br/>Ignores defense",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5393,7 +5393,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
