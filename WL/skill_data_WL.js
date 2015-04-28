@@ -353,18 +353,18 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Counter_Lv1": {
         "id": "28020",
-        "name": "Warding Charm - 방탄부",
+        "name": "Amuleto da Proteção",
         "icon": "skill_icon_warlock_0_6.png",
-        "main_info1": "Blocks attacks from the front for 1.5 sec",
+        "main_info1": "Bloqueia qualquer ataque Frontal por 1.5 seg",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on block<br/>Quell becomes available on block",
+        "sub_info": "Gera 1 Chi ao Bloquear<br/>Reprimir fica disponível ao Bloquear",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -374,29 +374,29 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
     "Warlock_Spell_Counter_Lv11": {
         "id": "28020",
-        "name": "Warding Charm - 방탄부",
+        "name": "Amuleto da Proteção",
         "icon": "skill_icon_warlock_0_6.png",
-        "main_info1": "Blocks attacks from the front for 2 sec",
+        "main_info1": "Bloqueia qualquer ataque Frontal por 2 seg",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on block<br/>Quell becomes available on block",
+        "sub_info": "Gera 1 Chi ao Bloquear<br/>Reprimir fica disponível ao Bloquear",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -406,29 +406,29 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
     "Warlock_Spell_Counter_Lv21": {
         "id": "28020",
-        "name": "Warding Charm - 방탄부",
+        "name": "Amuleto da Proteção",
         "icon": "skill_icon_warlock_0_6.png",
-        "main_info1": "Blocks attacks from the front for 2 sec",
+        "main_info1": "Bloqueia qualquer ataque Frontal por 2 seg",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on block<br/>Quell becomes available on block<br/>Heals the user 5% of their maximum health over 5 sec on block",
+        "sub_info": "Gera 1 Chi ao Bloquear<br/>Reprimir fica disponível ao Bloquear<br/>Regenera o Usuário em 5% do HP máximo durante 5 seg quando bloqueia",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -438,29 +438,29 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
     "Warlock_Spell_Counter_Lv23": {
         "id": "28020",
-        "name": "Warding Charm - 방탄부",
+        "name": "Amuleto da Proteção",
         "icon": "skill_icon_warlock_0_6.png",
-        "main_info1": "Deflects multiple attacks for 2 sec",
+        "main_info1": "Defende ataques multiplos por 2 seg",
         "main_info2": null,
-        "sub_info": "Blocks attacks from the front for 2 sec<br/>Generates 1 chi on block<br/>Quell becomes available on block",
+        "sub_info": "Bloqueia qualquer ataque Frontal por 2 seg<br/>Gera 1 Chi ao Bloquear<br/>Reprimir fica disponível ao Bloquear",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -470,29 +470,29 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
     "Warlock_Spell_CounterAttack_Lv1": {
         "id": "28030",
-        "name": "Quell - 진압",
+        "name": "Reprimir",
         "icon": "skill_icon_warlock_0_7.png",
-        "main_info1": "Pushes foes back up to 10m",
-        "main_info2": "Deals 12~14 damage",
-        "sub_info": "Decreases the movement speed of foes by 20% for 6 sec",
+        "main_info1": "Empura o Inimigo 10m",
+        "main_info2": "Causa Dano de 12~24",
+        "sub_info": "Diminui a velocidade do inimigo em 20% por 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -502,29 +502,29 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
     "Warlock_Spell_CounterAttack_Lv31": {
         "id": "28030",
-        "name": "Quell - 진압",
+        "name": "Reprimir",
         "icon": "skill_icon_warlock_0_7.png",
-        "main_info1": "Pushes foes back up to 10m",
-        "main_info2": "Deals 48~56 damage over 4 hits",
-        "sub_info": "Decreases the movement speed of foes by 20% for 6 sec",
+        "main_info1": "Empura o Inimigo 10m",
+        "main_info2": "Causa Dano de 48~56 durante 4 ataques",
+        "sub_info": "Diminui a velocidade do inimigo em 20% por 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -534,22 +534,22 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
     "Warlock_Spell_CounterAttack_Lv32": {
         "id": "28030",
-        "name": "Quell - 진압",
+        "name": "Reprimir",
         "icon": "skill_icon_warlock_0_43.png",
-        "main_info1": "Knocks foes down for 3 sec",
-        "main_info2": "Deals 12~14 damage",
-        "sub_info": "Decreases the movement speed of foes by 20% for 6 sec",
+        "main_info1": "Derruba o inimigo por 3 seg",
+        "main_info2": "Causa Dano de 12~24",
+        "sub_info": "Diminui a velocidade do inimigo em 20% por 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -566,7 +566,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -577,18 +577,18 @@ var skill_data_WL = {
     },
     "Warlock_Spell_CounterAttack_Lv33": {
         "id": "28030",
-        "name": "Quell - 진압",
+        "name": "Reprimir",
         "icon": "skill_icon_warlock_0_7.png",
-        "main_info1": "Pushes foes back up to 10m",
-        "main_info2": "Deals 36~42 damage",
-        "sub_info": "Decreases the movement speed of foes by 20% for 6 sec<br/>Cooldown of Protection Charm is decreased by 3 sec on hit",
+        "main_info1": "Empura o Inimigo 10m",
+        "main_info2": "Causa Dano de 36~42",
+        "sub_info": "Diminui a velocidade do inimigo em 20% por 6 seg<br/>Cooldown de Selo da Proteção diminui em 3 seg ao acertar",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -598,22 +598,22 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Warlock_Spell_CounterAttack_Lv34": {
         "id": "28030",
-        "name": "Quell - 진압",
+        "name": "Reprimir",
         "icon": "skill_icon_warlock_0_43.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~24",
         "main_info2": null,
-        "sub_info": "Knocks stunned foes into the air<br/>Decreases the movement speed of foes by 20% for 6 sec",
+        "sub_info": "Inimigos tontos serão lançados ao Ar<br/>Diminui a velocidade do inimigo em 20% por 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -630,7 +630,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -641,18 +641,18 @@ var skill_data_WL = {
     },
     "Warlock_Spell_CounterAttack_Lv41": {
         "id": "28030",
-        "name": "Quell - 진압",
+        "name": "Reprimir",
         "icon": "skill_icon_warlock_0_7.png",
-        "main_info1": "Pushes foes back up to 10m",
-        "main_info2": "Deals 96~112 damage over 4 hits",
-        "sub_info": "Decreases the movement speed of foes by 20% for 6 sec",
+        "main_info1": "Empura o Inimigo 10m",
+        "main_info2": "Causa Dano de 96~112 em 4 ataques",
+        "sub_info": "Diminui a velocidade do inimigo em 20% por 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -662,29 +662,29 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
     "Warlock_Spell_CounterAttack_Lv51": {
         "id": "28030",
-        "name": "Quell - 진압",
+        "name": "Reprimir",
         "icon": "skill_icon_warlock_0_7.png",
-        "main_info1": "Dazes foes for 2 sec if all 4 hits hit",
-        "main_info2": "Pushes foes back up to 10m<br/>Deals 96~112 damage over 4 hits",
-        "sub_info": "Decreases the movement speed of foes by 20% for 6 sec",
+        "main_info1": "Atordoa o inimigo se os 4 ataques acertarem",
+        "main_info2": "Empura o Inimigo 10m<br/>Causa Dano de 96~112 em 4 ataques",
+        "sub_info": "Diminui a velocidade do inimigo em 20% por 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -694,22 +694,22 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
     "Warlock_Spell_CounterAttack_Lv52": {
         "id": "28030",
-        "name": "Quell - 진압",
+        "name": "Reprimir",
         "icon": "skill_icon_warlock_0_43.png",
-        "main_info1": "Knocks foes down for 3 sec",
-        "main_info2": "Deals 12~14 damage",
-        "sub_info": "Cooldown of Spirit Surge is refreshed on use<br/>Decreases the movement speed of foes by 20% for 6 sec",
+        "main_info1": "Derruba o inimigo por 3 seg",
+        "main_info2": "Causa Dano de 12~24",
+        "sub_info": "Cooldown de Sobrecarga Espiritual é Zerada ao usar<br/>Diminui a velocidade do inimigo em 20% por 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -726,7 +726,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -737,18 +737,18 @@ var skill_data_WL = {
     },
     "Warlock_Spell_CounterAttack_Lv53": {
         "id": "28030",
-        "name": "Quell - 진압",
+        "name": "Reprimir",
         "icon": "skill_icon_warlock_0_7.png",
-        "main_info1": "Pushes foes back up to 10m",
-        "main_info2": "Deals 36~42 damage",
-        "sub_info": "Decreases the movement speed of foes by 20% for 6 sec<br/>Cooldown of Protection Charm is decreased by 6 sec on hit",
+        "main_info1": "Empura o Inimigo 10m",
+        "main_info2": "Causa Dano de 36~42",
+        "sub_info": "Diminui a velocidade do inimigo em 20% por 6 seg<br/>Cooldown de Selo da Proteção diminui em 6 seg ao acertar",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -758,22 +758,22 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Warlock_Spell_CounterAttack_Lv54": {
         "id": "28030",
-        "name": "Quell - 진압",
+        "name": "Reprimir",
         "icon": "skill_icon_warlock_0_43.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~24",
         "main_info2": null,
-        "sub_info": "Generates 15 chi over 5 sec<br/>Knocks stunned foes into the air<br/>Decreases the movement speed of foes by 20% for 6 sec",
+        "sub_info": "Gera 15 Chi em 5 seg<br/>Inimigos tontos serão lançados ao Ar<br/>Diminui a velocidade do inimigo em 20% por 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -790,7 +790,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -822,12 +822,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -854,12 +854,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -886,12 +886,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -918,12 +918,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -950,12 +950,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -982,12 +982,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -1014,7 +1014,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1036,7 +1036,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1051,7 +1051,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1068,7 +1068,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1083,7 +1083,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1100,7 +1100,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1115,7 +1115,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1132,7 +1132,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1157,14 +1157,14 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 108~126 damage over 3 hits",
         "main_info2": "Deals an additional 24~28 damage to Branded foes",
-        "sub_info": "Mantra, Rupture is available on hit<br/>Extends the duration of the Mark of foes up to 2.1 sec<br/>Não pode ser Refletida",
+        "sub_info": "Mantra, Rupture is available on hit<br/>Extends the duration of the Mark of foes up to 2.1 seg<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1179,7 +1179,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1196,7 +1196,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1221,14 +1221,14 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_13.png",
         "main_info1": "Deals 108~126 damage over 3 hits",
         "main_info2": "Deals an additional 24~28 damage to Branded foes",
-        "sub_info": "Increases the critical hit chance of the user by 100% for 2 sec on critical hit<br/>Mantra, Rupture is available on hit<br/>Extends the duration of the Mark of foes up to 2.1 sec<br/>Não pode ser Refletida",
+        "sub_info": "Increases the critical hit chance of the user by 100% for 2 sec on critical hit<br/>Mantra, Rupture is available on hit<br/>Extends the duration of the Mark of foes up to 2.1 seg<br/>Não pode ser Refletida",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1243,7 +1243,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1260,7 +1260,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1302,7 +1302,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1334,7 +1334,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1366,7 +1366,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1379,9 +1379,9 @@ var skill_data_WL = {
         "id": "28050",
         "name": "Border Slash - 경계베기",
         "icon": "skill_icon_warlock_0_12.png",
-        "main_info1": "Knocks foes down for 3 sec",
+        "main_info1": "Derruba o inimigo por 3 seg",
         "main_info2": "Brands foes for 4 sec<br/>Deals 18~21 damage",
-        "sub_info": "Não pode ser Refletida<br/>Decreases the movement speed of foes by 20% for 6 sec",
+        "sub_info": "Não pode ser Refletida<br/>Diminui a velocidade do inimigo em 20% por 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1398,7 +1398,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1430,7 +1430,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1462,7 +1462,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1475,9 +1475,9 @@ var skill_data_WL = {
         "id": "28050",
         "name": "Border Slash - 경계베기",
         "icon": "skill_icon_warlock_0_12.png",
-        "main_info1": "Knocks foes down for 3 sec",
+        "main_info1": "Derruba o inimigo por 3 seg",
         "main_info2": "Brands foes for 4 sec<br/>Deals 18~21 damage",
-        "sub_info": "Cooldown of Bounded Field is refreshed on hit<br/>Não pode ser Refletida<br/>Decreases the movement speed of foes by 20% for 6 sec",
+        "sub_info": "Cooldown of Bounded Field is refreshed on hit<br/>Não pode ser Refletida<br/>Diminui a velocidade do inimigo em 20% por 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1494,7 +1494,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1526,7 +1526,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1558,7 +1558,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1590,7 +1590,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1622,7 +1622,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1654,7 +1654,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1686,7 +1686,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1718,7 +1718,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1750,7 +1750,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1772,7 +1772,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1782,12 +1782,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1804,7 +1804,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1814,12 +1814,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1836,7 +1836,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1846,12 +1846,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1868,7 +1868,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1878,12 +1878,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1900,7 +1900,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1910,12 +1910,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1932,7 +1932,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1942,12 +1942,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1964,7 +1964,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1974,12 +1974,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1996,7 +1996,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2006,12 +2006,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2171,7 +2171,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2235,7 +2235,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2262,7 +2262,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2294,7 +2294,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2326,7 +2326,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2358,7 +2358,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2390,7 +2390,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2422,7 +2422,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2454,7 +2454,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2486,7 +2486,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2518,7 +2518,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2550,7 +2550,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2582,7 +2582,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2614,7 +2614,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2646,7 +2646,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2678,12 +2678,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -2693,7 +2693,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_4.png",
         "main_info1": "Deals 24~28 damage",
         "main_info2": "Marks foes for 0.8 sec",
-        "sub_info": "Cooldown of Raging Spirit is decreased by 1 sec<br/>Ignores defense",
+        "sub_info": "Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignores defense",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2710,12 +2710,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -2725,7 +2725,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_4.png",
         "main_info1": "Deals 24~28 damage",
         "main_info2": "Marks foes for 0.8 sec",
-        "sub_info": "Generates 6 chi over 2 sec on critical hit<br/>Cooldown of Raging Spirit is decreased by 1 sec<br/>Ignores defense",
+        "sub_info": "Generates 6 chi over 2 sec on critical hit<br/>Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignores defense",
         "consume_sp": null,
         "ui_sp_heal_value": "6",
         "skill_info": {
@@ -2742,12 +2742,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -2757,7 +2757,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_4.png",
         "main_info1": "Deals 84~98 damage",
         "main_info2": "Marks foes for 0.8 sec",
-        "sub_info": "Cooldown of Raging Spirit is decreased by 1 sec<br/>Ignores defense",
+        "sub_info": "Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignores defense",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2774,12 +2774,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2789,7 +2789,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_4.png",
         "main_info1": "Deals 24~28 damage",
         "main_info2": "Marks foes for 0.8 sec",
-        "sub_info": "Generates 6 chi over 2 sec on critical hit<br/>Cooldown of Raging Spirit is decreased by 1 sec<br/>Ignores defense",
+        "sub_info": "Generates 6 chi over 2 sec on critical hit<br/>Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignores defense",
         "consume_sp": null,
         "ui_sp_heal_value": "6",
         "skill_info": {
@@ -2806,12 +2806,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -2838,12 +2838,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2870,7 +2870,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2883,7 +2883,7 @@ var skill_data_WL = {
         "id": "28230",
         "name": "Circle of Purification - 항마진",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down for 6 sec",
+        "main_info1": "User is immune to down for 6 seg",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": "2",
@@ -2892,7 +2892,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2915,16 +2915,16 @@ var skill_data_WL = {
         "id": "28230",
         "name": "Circle of Purification - 항마진",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down for 6 sec",
+        "main_info1": "User is immune to down for 6 seg",
         "main_info2": null,
-        "sub_info": "User and allies within the area takes 20% less damage for 6 sec",
+        "sub_info": "User and allies within the area takes 20% less damage for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2947,16 +2947,16 @@ var skill_data_WL = {
         "id": "28230",
         "name": "Circle of Purification - 항마진",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down for 6 sec",
+        "main_info1": "User is immune to down for 6 seg",
         "main_info2": null,
-        "sub_info": "Heals the user and allies within the area 9% of their maximum health over 6 sec<br/>User and allies within the area takes 20% less damage for 6 sec",
+        "sub_info": "Heals the user and allies within the area 9% of their maximum health over 6 seg<br/>User and allies within the area takes 20% less damage for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2979,16 +2979,16 @@ var skill_data_WL = {
         "id": "28230",
         "name": "Circle of Purification - 항마진",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down, daze for 6 sec",
+        "main_info1": "User is immune to down, daze for 6 seg",
         "main_info2": null,
-        "sub_info": "User and allies within the area takes 20% less damage for 6 sec",
+        "sub_info": "User and allies within the area takes 20% less damage for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3011,7 +3011,7 @@ var skill_data_WL = {
         "id": "28230",
         "name": "Circle of Purification - 항마진",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "Creates an anti-target area that lasts for 6 sec",
+        "main_info1": "Creates an anti-target area that lasts for 6 seg",
         "main_info2": null,
         "sub_info": "Applies to foes within the area<br/>User and allies within the area can be targeted from the outside",
         "consume_sp": "2",
@@ -3020,7 +3020,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3043,16 +3043,16 @@ var skill_data_WL = {
         "id": "28230",
         "name": "Circle of Purification - 항마진",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down for 6 sec",
+        "main_info1": "User is immune to down for 6 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable for 0.5 sec<br/>Heals the user and allies within the area 9% of their maximum health over 6 sec<br/>User and allies within the area takes 20% less damage for 6 sec",
+        "sub_info": "User is invulnerable for 0.5 sec<br/>Heals the user and allies within the area 9% of their maximum health over 6 seg<br/>User and allies within the area takes 20% less damage for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3075,16 +3075,16 @@ var skill_data_WL = {
         "id": "28230",
         "name": "Circle of Purification - 항마진",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down, daze, stun for 6 sec",
+        "main_info1": "User is immune to down, daze, stun for 6 seg",
         "main_info2": null,
-        "sub_info": "User and allies within the area takes 20% less damage for 6 sec",
+        "sub_info": "User and allies within the area takes 20% less damage for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3107,7 +3107,7 @@ var skill_data_WL = {
         "id": "28230",
         "name": "Circle of Purification - 항마진",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "Creates an anti-target area that lasts for 6 sec",
+        "main_info1": "Creates an anti-target area that lasts for 6 seg",
         "main_info2": null,
         "sub_info": "User and allies within the area cannot be auto targeted<br/>User and allies within the area cannot be targeted from the outside",
         "consume_sp": "2",
@@ -3116,7 +3116,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3139,16 +3139,16 @@ var skill_data_WL = {
         "id": "28230",
         "name": "Circle of Purification - 항마진",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down, daze, stun for 6 sec",
+        "main_info1": "User is immune to down, daze, stun for 6 seg",
         "main_info2": null,
-        "sub_info": "User and allies within the area takes 20% less damage for 6 sec",
+        "sub_info": "User and allies within the area takes 20% less damage for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3171,9 +3171,9 @@ var skill_data_WL = {
         "id": "28230",
         "name": "Circle of Purification - 항마진",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down, daze, stun for 6 sec",
+        "main_info1": "User is immune to down, daze, stun for 6 seg",
         "main_info2": null,
-        "sub_info": "Increases soul defense by 10%<br/>User and allies within the area takes 20% less damage for 6 sec",
+        "sub_info": "Increases soul defense by 10%<br/>User and allies within the area takes 20% less damage for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3212,7 +3212,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3244,7 +3244,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3308,7 +3308,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3340,7 +3340,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3350,12 +3350,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -3372,7 +3372,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3382,12 +3382,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -3404,7 +3404,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3414,12 +3414,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -3446,12 +3446,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -3461,14 +3461,14 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit on resist<br/>Heals the user 5% of their maximum health is refreshed on resist<br/>Removes immobilizing effects on the user<br/>User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Used by double tapping [S]",
+        "sub_info": "Cooldown of Raging Spirit on resist<br/>Heals the user 5% of their maximum health is refreshed on resist<br/>Removes immobilizing effects on the user<br/>User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3478,7 +3478,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3510,12 +3510,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -3532,7 +3532,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3542,12 +3542,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3564,7 +3564,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3574,12 +3574,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3596,7 +3596,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3606,12 +3606,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3628,7 +3628,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3638,12 +3638,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3660,7 +3660,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3670,12 +3670,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3692,7 +3692,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3702,7 +3702,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3716,15 +3716,15 @@ var skill_data_WL = {
         "name": "Void Blast - 진공파",
         "icon": "skill_icon_warlock_0_14.png",
         "main_info1": "Escape from downed status",
-        "main_info2": "Knocks back foes 2m<br/>Deals 12~14 damage",
-        "sub_info": "User is downed for 1 sec on taking damage during use",
+        "main_info2": "Knocks back foes 2m<br/>Causa Dano de 12~24",
+        "sub_info": "User is downed for 1 seg on taking damage during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3734,7 +3734,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3747,7 +3747,7 @@ var skill_data_WL = {
         "id": "28335",
         "name": "Side Kick - 걷어차기 ",
         "icon": "skill_icon_assassin_1_4.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~24",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -3766,12 +3766,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3780,7 +3780,7 @@ var skill_data_WL = {
         "name": "Break Free - 벗어나기",
         "icon": "skill_icon_warlock_0_15.png",
         "main_info1": "Escape from Suppress, seized, Force Grip when used at the foe's attack timing",
-        "main_info2": "Deals 12~14 damage<br/>Move back 10m",
+        "main_info2": "Causa Dano de 12~24<br/>Move back 10m",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -3798,12 +3798,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -3835,7 +3835,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3845,7 +3845,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on Marked foes",
+        "sub_info": "Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3867,7 +3867,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3877,7 +3877,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on Marked foes",
+        "sub_info": "Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3899,7 +3899,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3909,7 +3909,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on Marked foes",
+        "sub_info": "Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3931,7 +3931,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3941,7 +3941,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3963,7 +3963,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3973,7 +3973,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Não pode ser Refletida<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on Marked foes",
+        "sub_info": "Não pode ser Refletida<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3995,7 +3995,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4005,7 +4005,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4027,7 +4027,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4037,7 +4037,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on seized, force gripped foes<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on seized, force gripped foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4059,7 +4059,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4069,7 +4069,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes<br/>Used at no cost on downed, dazed, stunned, airborne foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes<br/>Used at no cost on downed, dazed, stunned, airborne foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4091,7 +4091,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4101,7 +4101,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Guaranteed critical hit to seized, force gripped foes<br/>Instantly cast on seized, force gripped foes<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Guaranteed critical hit to seized, force gripped foes<br/>Instantly cast on seized, force gripped foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4123,7 +4123,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4133,7 +4133,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Não pode ser Refletida<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 sec on hit while retém espírito<br/>Instantly cast on Marked foes<br/>Deals 20% chi damage to Marked foes",
+        "sub_info": "Não pode ser Refletida<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes<br/>Deals 20% chi damage to Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4155,7 +4155,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4172,7 +4172,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4241,7 +4241,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4273,7 +4273,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4305,7 +4305,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4337,7 +4337,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4354,7 +4354,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4364,12 +4364,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4386,7 +4386,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4396,12 +4396,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4418,7 +4418,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4428,12 +4428,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4450,7 +4450,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4460,12 +4460,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4497,7 +4497,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4529,7 +4529,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4561,7 +4561,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4593,7 +4593,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4620,7 +4620,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4652,7 +4652,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4684,7 +4684,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4706,7 +4706,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4716,7 +4716,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4738,7 +4738,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4748,7 +4748,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4770,7 +4770,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4780,7 +4780,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4802,7 +4802,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4812,12 +4812,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4834,7 +4834,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4844,12 +4844,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4866,7 +4866,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4876,7 +4876,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4898,7 +4898,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4908,12 +4908,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4930,7 +4930,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4940,12 +4940,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4972,12 +4972,12 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -5004,7 +5004,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5036,7 +5036,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5050,7 +5050,7 @@ var skill_data_WL = {
         "name": "Command - 명령",
         "icon": "skill_icon_warlock_0_21.png",
         "main_info1": "Familiar charges to the target",
-        "main_info2": "Deals 72~84 damage<br/>Knocks foes back 11m and knocks them down for 1 sec<br/>Brands foes for 4 sec",
+        "main_info2": "Deals 72~84 damage<br/>Knocks foes back 11m and knocks them down for 1 seg<br/>Brands foes for 4 sec",
         "sub_info": "Familiar taunts nearby foes for 3 sec<br/>Ignores defense",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5068,7 +5068,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5100,7 +5100,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5122,7 +5122,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5154,7 +5154,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5186,7 +5186,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5218,7 +5218,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5250,7 +5250,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5260,7 +5260,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5282,7 +5282,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5314,7 +5314,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5346,7 +5346,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5356,7 +5356,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5378,7 +5378,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5410,7 +5410,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5442,7 +5442,7 @@ var skill_data_WL = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5452,7 +5452,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
