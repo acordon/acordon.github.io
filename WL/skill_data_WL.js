@@ -1761,9 +1761,9 @@ var skill_data_WL = {
     },
     "Warlock_Spell_AbsoluteDefense_Lv1": {
         "id": "28070",
-        "name": "Protection Charm - 보호부",
+        "name": "Selo de Proteção",
         "icon": "skill_icon_warlock_0_11.png",
-        "main_info1": "User is invulnerable from the next 1 attack for 5 sec",
+        "main_info1": "Usuário é imune ao proximo ataque durante 5 seg",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -1793,11 +1793,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_AbsoluteDefense_Lv11": {
         "id": "28070",
-        "name": "Protection Charm - 보호부",
+        "name": "Selo de Proteção",
         "icon": "skill_icon_warlock_0_11.png",
-        "main_info1": "User is invulnerable from the next 1 attack for 5 sec",
+        "main_info1": "Usuário é imune ao proximo ataque durante 5 seg",
         "main_info2": null,
-        "sub_info": "Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Remove Penalidade de movimento<br/>Cura de Hemorragia Interna",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1825,11 +1825,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_AbsoluteDefense_Lv21": {
         "id": "28070",
-        "name": "Protection Charm - 보호부",
+        "name": "Selo de Proteção",
         "icon": "skill_icon_warlock_0_11.png",
-        "main_info1": "User is invulnerable from the next 5 attacks for 5 sec",
+        "main_info1": "Usuário é imune aos proximos 5 ataque durante 5 seg",
         "main_info2": null,
-        "sub_info": "Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Remove Penalidade de movimento<br/>Cura de Hemorragia Interna",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1857,11 +1857,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_AbsoluteDefense_Lv22": {
         "id": "28070",
-        "name": "Protection Charm - 보호부",
+        "name": "Selo de Proteção",
         "icon": "skill_icon_warlock_0_11.png",
-        "main_info1": "Creates a barrier around the user equivalent to 20% of the user's maximum health that lasts for 10 sec",
+        "main_info1": "Cria uma Barreira em volta do Usuário equivalente a 20% do HP Máximo que dura por 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of their maximum health<br/>Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Regenera o Usuário em 5% do HP Máximo<br/>Remove Penalidade de movimento<br/>Cura de Hemorragia Interna",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1889,11 +1889,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_AbsoluteDefense_Lv31": {
         "id": "28070",
-        "name": "Protection Charm - 보호부",
+        "name": "Selo de Proteção",
         "icon": "skill_icon_warlock_0_11.png",
-        "main_info1": "User is invulnerable from the next 5 attacks for 5 sec",
+        "main_info1": "Usuário é imune aos proximos 5 ataque durante 5 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 2% of their maximum health on resist<br/>Generates 2 chi on resist<br/>Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Regenera o Usuário em 2% do HP máximo quando Resiste a um ataque<br/>Gera 2 Chi ao Resistir a um ataque<br/>Remove Penalidade de movimento<br/>Cura de Hemorragia Interna",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1921,11 +1921,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_AbsoluteDefense_Lv32": {
         "id": "28070",
-        "name": "Protection Charm - 보호부",
+        "name": "Selo de Proteção",
         "icon": "skill_icon_warlock_0_11.png",
-        "main_info1": "Creates a barrier around the user equivalent to 20% of the user's maximum health that lasts for 10 sec",
+        "main_info1": "Cria uma Barreira em volta do Usuário equivalente a 20% do HP Máximo que dura por 10 seg",
         "main_info2": null,
-        "sub_info": "User is immune to knock-up<br/>Heals the user 5% of their maximum health<br/>Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Usuário é Imune a Queda<br/>Regenera o Usuário em 5% do HP Máximo<br/>Remove Penalidade de movimento<br/>Cura de Hemorragia Interna",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1953,11 +1953,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_AbsoluteDefense_Lv51": {
         "id": "28070",
-        "name": "Protection Charm - 보호부",
+        "name": "Selo de Proteção",
         "icon": "skill_icon_warlock_0_11.png",
-        "main_info1": "User is invulnerable from the next 5 attacks for 5 sec",
+        "main_info1": "Usuário é imune aos proximos 5 ataque durante 5 seg",
         "main_info2": null,
-        "sub_info": "Increases critical hit damage by 5% on resist<br/>Critical hit damage increase stacks up to 5 times<br/>Increases critical hit damage by 50% at 5 stacks<br/>Heals the user 2% of their maximum health on resist<br/>Generates 2 chi on resist<br/>Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Aumenta a Resistencia a Dano Critico em 5%<br/>Aumenta o dano Crítico, Acumula 5 vezes<br/>Aumenta o dano Crítico em 50% quando acumulado 5 vezes<br/>Regenera o Usuário em 2% do HP máximo quando Resiste a um ataque<br/>Gera 2 Chi ao Resistir a um ataque<br/>Remove Penalidade de movimento<br/>Cura de Hemorragia Interna",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1985,11 +1985,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_AbsoluteDefense_Lv52": {
         "id": "28070",
-        "name": "Protection Charm - 보호부",
+        "name": "Selo de Proteção",
         "icon": "skill_icon_warlock_0_11.png",
-        "main_info1": "Creates a barrier around the user equivalent to 20% of the user's maximum health that lasts for 10 sec",
+        "main_info1": "Cria uma Barreira em volta do Usuário equivalente a 20% do HP Máximo que dura por 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user additional 10% of their maximum health on maintaining Protection Charm for 5 sec<br/>User is immune to knock-up<br/>Heals the user 10% of their maximum health<br/>Removes movement impairment effects<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Regenera um Adicional de 10% do HP Máximo ao manter o Selo de Proteção durante 5 seg<br/>Usuário é Imune a Queda<br/>Regenera o Usuário em 10% do HP Máximo<br/>Remove Penalidade de movimento<br/>Cura de Hemorragia Interna",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3397,7 +3397,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit on resist<br/>Heals the user 5% of their maximum health is refreshed on resist<br/>Removes immobilizing effects on the user<br/>User is invulnerable during use<br/>Used by double tapping [S]",
+        "sub_info": "Cooldown of Raging Spirit on resist<br/>Regenera o Usuário em 5% do HP Máximo is refreshed on resist<br/>Removes immobilizing effects on the user<br/>User is invulnerable during use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3461,7 +3461,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_18.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit on resist<br/>Heals the user 5% of their maximum health is refreshed on resist<br/>Removes immobilizing effects on the user<br/>User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Used by double tapping [S]",
+        "sub_info": "Cooldown of Raging Spirit on resist<br/>Regenera o Usuário em 5% do HP Máximo is refreshed on resist<br/>Removes immobilizing effects on the user<br/>User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3621,7 +3621,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Move back 10m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Escape from suppressed, seized, force gripped status<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Escape from suppressed, seized, force gripped status<br/>Regenera o Usuário em 5% do HP Máximo on escaping from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3653,7 +3653,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Move back 10m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Creates a barrier around the user equivalent to 10% of health<br/>Escape from suppressed, seized, force gripped status<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Creates a barrier around the user equivalent to 10% of health<br/>Escape from suppressed, seized, force gripped status<br/>Regenera o Usuário em 5% do HP Máximo on escaping from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
