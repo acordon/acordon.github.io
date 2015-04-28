@@ -33,11 +33,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Rcombo_Lv1": {
         "id": "28001",
-        "name": "Cleanse - 염",
+        "name": "Purificar",
         "icon": "skill_icon_warlock_0_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 additional chi on critical hit",
+        "sub_info": "Gera 1 Chi Adicional quando faz dano Crítico",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
