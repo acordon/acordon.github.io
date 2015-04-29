@@ -6273,7 +6273,7 @@ var skill_data_FM = {
     },
     "ForceMaster_Deal_Escape_Lv1": {
         "id": "22380",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, inconsciente",
         "main_info2": "Deals 12~14 damage",
@@ -6305,7 +6305,7 @@ var skill_data_FM = {
     },
     "ForceMaster_Deal_Escape_Lv11": {
         "id": "22380",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Deals 12~14 damage",
@@ -6337,7 +6337,7 @@ var skill_data_FM = {
     },
     "ForceMaster_Deal_Escape_Lv12": {
         "id": "22380",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
@@ -6369,7 +6369,7 @@ var skill_data_FM = {
     },
     "ForceMaster_Deal_Escape_Lv13": {
         "id": "22380",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
@@ -6401,7 +6401,7 @@ var skill_data_FM = {
     },
     "ForceMaster_Deal_Escape_Lv14": {
         "id": "22380",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
@@ -6433,7 +6433,7 @@ var skill_data_FM = {
     },
     "ForceMaster_Deal_Escape_Lv21": {
         "id": "22380",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
@@ -6465,7 +6465,7 @@ var skill_data_FM = {
     },
     "ForceMaster_Deal_Escape_Lv22": {
         "id": "22380",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
@@ -6497,7 +6497,7 @@ var skill_data_FM = {
     },
     "ForceMaster_Deal_Escape_Lv23": {
         "id": "22380",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
@@ -6529,7 +6529,7 @@ var skill_data_FM = {
     },
     "ForceMaster_Deal_Escape_Lv31": {
         "id": "22380",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
@@ -6561,7 +6561,7 @@ var skill_data_FM = {
     },
     "ForceMaster_Deal_Escape_Lv32": {
         "id": "22380",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
@@ -6593,7 +6593,7 @@ var skill_data_FM = {
     },
     "ForceMaster_Deal_Escape_Lv33": {
         "id": "22380",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",

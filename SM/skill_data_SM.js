@@ -2753,7 +2753,7 @@ var skill_data_SM = {
     },
     "SwordMaster_Sword_escape_LV1": {
         "id": "27129",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, inconsciente",
         "main_info2": "Deals 12~14 damage",
@@ -2785,7 +2785,7 @@ var skill_data_SM = {
     },
     "SwordMaster_Sword_escape_LV11": {
         "id": "27129",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Deals 12~14 damage",
@@ -2817,7 +2817,7 @@ var skill_data_SM = {
     },
     "SwordMaster_Sword_escape_LV12": {
         "id": "27129",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
@@ -2849,7 +2849,7 @@ var skill_data_SM = {
     },
     "SwordMaster_Sword_escape_LV13": {
         "id": "27129",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
@@ -2881,7 +2881,7 @@ var skill_data_SM = {
     },
     "SwordMaster_Sword_escape_LV14": {
         "id": "27129",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
@@ -2913,7 +2913,7 @@ var skill_data_SM = {
     },
     "SwordMaster_Sword_escape_LV21": {
         "id": "27129",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
@@ -2945,7 +2945,7 @@ var skill_data_SM = {
     },
     "SwordMaster_Sword_escape_LV22": {
         "id": "27129",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
@@ -2977,7 +2977,7 @@ var skill_data_SM = {
     },
     "SwordMaster_Sword_escape_LV23": {
         "id": "27129",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
@@ -3009,7 +3009,7 @@ var skill_data_SM = {
     },
     "SwordMaster_Sword_escape_LV31": {
         "id": "27129",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
@@ -3041,7 +3041,7 @@ var skill_data_SM = {
     },
     "SwordMaster_Sword_escape_LV32": {
         "id": "27129",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
@@ -3073,7 +3073,7 @@ var skill_data_SM = {
     },
     "SwordMaster_Sword_escape_LV33": {
         "id": "27129",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",

@@ -3223,7 +3223,7 @@ var skill_data_SU = {
     },
     "Summoner_Summon_Linked_escape_inhalation_Lv1": {
         "id": "26119",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_summon_0_36.png",
         "main_info1": "Escapa de Suprimido, apreendid, Agarrado a força when used at the foe's attack timing",
         "main_info2": "Recua 10 m",

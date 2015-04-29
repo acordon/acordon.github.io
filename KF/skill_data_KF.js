@@ -5985,7 +5985,7 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv1": {
         "id": "21205",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, inconsciente",
         "main_info2": "Deals 12~14 damage",
@@ -6017,7 +6017,7 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv11": {
         "id": "21205",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Deals 12~14 damage",
@@ -6049,7 +6049,7 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv12": {
         "id": "21205",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
@@ -6081,7 +6081,7 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv13": {
         "id": "21205",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
@@ -6113,7 +6113,7 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv14": {
         "id": "21205",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
@@ -6145,7 +6145,7 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv21": {
         "id": "21205",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
@@ -6177,7 +6177,7 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv22": {
         "id": "21205",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
@@ -6209,7 +6209,7 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv23": {
         "id": "21205",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
@@ -6241,7 +6241,7 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv31": {
         "id": "21205",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
@@ -6273,7 +6273,7 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv32": {
         "id": "21205",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
@@ -6305,7 +6305,7 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv33": {
         "id": "21205",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",

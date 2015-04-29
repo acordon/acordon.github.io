@@ -6426,7 +6426,7 @@ var skill_data_DE = {
     },
     "Destroyer_CatchFriend_Escape_Lv1": {
         "id": "24252",
-        "name": "Usuário fica invulnerável por 1 seg após o uso",
+        "name": "Recuar",
         "icon": "skill_icon_destroyer_1_13.png",
         "main_info1": "Move forward 15m with the rescuing ally",
         "main_info2": null,
