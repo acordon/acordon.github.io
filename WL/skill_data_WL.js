@@ -2017,10 +2017,10 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Nuke_Lv1": {
         "id": "28090",
-        "name": "Raging Spirit - 폭마령",
+        "name": "Íra Espiritual",
         "icon": "skill_icon_warlock_0_10.png",
-        "main_info1": "Deals 216~252 damage",
-        "main_info2": "Marks foes for 2 sec",
+        "main_info1": "Causa Dano de 216~252",
+        "main_info2": "Aplica MARCA ao inimigo por 2 Seg",
         "sub_info": "Não pode ser Refletida",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -2038,7 +2038,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -2049,10 +2049,10 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Nuke_Lv11": {
         "id": "28090",
-        "name": "Raging Spirit - 폭마령",
+        "name": "Íra Espiritual",
         "icon": "skill_icon_warlock_0_10.png",
-        "main_info1": "Deals 216~252 damage",
-        "main_info2": "Marks foes for 2 sec",
+        "main_info1": "Causa Dano de 216~252",
+        "main_info2": "Aplica MARCA ao inimigo por 2 Seg",
         "sub_info": "Não pode ser Refletida",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -2070,7 +2070,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -2081,10 +2081,10 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Nuke_Lv21": {
         "id": "28090",
-        "name": "Raging Spirit - 폭마령",
+        "name": "Íra Espiritual",
         "icon": "skill_icon_warlock_0_10.png",
-        "main_info1": "Deals 216~252 damage",
-        "main_info2": "Marks foes for 4 sec",
+        "main_info1": "Causa Dano de 216~252",
+        "main_info2": "Aplica MARCA ao inimigo por 4 Seg",
         "sub_info": "Não pode ser Refletida",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -2102,7 +2102,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -2113,11 +2113,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Nuke_Lv31": {
         "id": "28090",
-        "name": "Raging Spirit - 폭마령",
+        "name": "Íra Espiritual",
         "icon": "skill_icon_warlock_0_10.png",
-        "main_info1": "Deals 216~252 damage",
-        "main_info2": "Marks foes for 4 sec",
-        "sub_info": "Increases the critical of the user by 25% for 5 sec on hit<br/>Não pode ser Refletida",
+        "main_info1": "Causa Dano de 216~252",
+        "main_info2": "Aplica MARCA ao inimigo por 4 Seg",
+        "sub_info": "Aumenta o Crítico do Usuário em 25% por 5 seg<br/>Não pode ser Refletida",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2134,7 +2134,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -2145,10 +2145,10 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Nuke_Lv32": {
         "id": "28090",
-        "name": "Raging Spirit - 폭마령",
+        "name": "Íra Espiritual",
         "icon": "skill_icon_warlock_0_10.png",
-        "main_info1": "Deals 240~280 damage",
-        "main_info2": "Marks foes for 4 sec<br/>Deals an additional 120~140 damage to airborne foes",
+        "main_info1": "Causa Dano de 240~280",
+        "main_info2": "Aplica MARCA ao inimigo por 4 Seg<br/>Causa um Dano Adicional de 120~140 à inimigos que estiverem no Ar",
         "sub_info": "Não pode ser Refletida",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -2166,7 +2166,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -2177,11 +2177,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Nuke_Lv51": {
         "id": "28090",
-        "name": "Raging Spirit - 폭마령",
+        "name": "Íra Espiritual",
         "icon": "skill_icon_warlock_0_10.png",
-        "main_info1": "Deals 216~252 damage",
-        "main_info2": "Marks foes for 4 sec",
-        "sub_info": "Raging Spirit can be instantly recast 1 more time on critical hit<br/>Increases the critical of the user by 25% for 5 sec on hit<br/>Não pode ser Refletida",
+        "main_info1": "Causa Dano de 216~252",
+        "main_info2": "Aplica MARCA ao inimigo por 4 Seg",
+        "sub_info": "Íra Espiritual pode ser lançada instantaneamente mais 1 vez ao Críticar<br/>Aumenta o Crítico do Usuário em 25% por 5 seg<br/>Não pode ser Refletida",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2198,7 +2198,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -2209,10 +2209,10 @@ var skill_data_WL = {
     },
     "Warlock_Spell_Nuke_Lv52": {
         "id": "28090",
-        "name": "Raging Spirit - 폭마령",
+        "name": "Íra Espiritual",
         "icon": "skill_icon_warlock_0_10.png",
-        "main_info1": "Deals 240~280 damage",
-        "main_info2": "Marks foes for 4 sec<br/>Deals an additional 120~140 damage to airborne foes",
+        "main_info1": "Causa Dano de 240~280",
+        "main_info2": "Aplica MARCA ao inimigo por 4 Seg<br/>Causa um Dano Adicional de 120~140 à inimigos que estiverem no Ar",
         "sub_info": "Não pode ser Refletida<br/>Ignora Defesa",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -2230,7 +2230,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -2852,7 +2852,7 @@ var skill_data_WL = {
         "name": "Awakened Rupture - 각성 파열",
         "icon": "skill_icon_warlock_0_42.png",
         "main_info1": "Deals 108~126 damage",
-        "main_info2": "Marks foes for 4 sec<br/>Available while Spiritualized",
+        "main_info2": "Aplica MARCA ao inimigo por 4 Seg<br/>Available while Spiritualized",
         "sub_info": "Generates 6 chi over 2 sec on critical hit<br/>Cooldown of Raging Spirit is decreased by 3 sec<br/>Ignora Defesa<br/>Does not generate threat",
         "consume_sp": null,
         "ui_sp_heal_value": "6",
@@ -4410,7 +4410,7 @@ var skill_data_WL = {
         "name": "Ruin - 멸",
         "icon": "skill_icon_warlock_0_30.png",
         "main_info1": "Deals 40~46 damage",
-        "main_info2": "Marks foes for 2 sec",
+        "main_info2": "Aplica MARCA ao inimigo por 2 Seg",
         "sub_info": "Increases the familiar's attack by 3% for 10 sec on hit with Blast, Ruin<br/>Attack increase stacks up to 10 times<br/>Automatically used by the familiar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
