@@ -1189,7 +1189,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_31.png",
         "main_info1": "Gives Ice Flower that lasts for 3 seg",
         "main_info2": "Applies to the user and allies",
-        "sub_info": "Removes charge ability disable<br/>Removes immobilizing effects on the user<br/>Ice Flower negates the damage and locks the holder in Ice Prison for 3 seg on receiving an attack<br/>Freezes foes within 5m",
+        "sub_info": "Removes charge ability disable<br/>Remove Efeitos de Imobilizar<br/>Ice Flower negates the damage and locks the holder in Ice Prison for 3 seg on receiving an attack<br/>Freezes foes within 5m",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -1221,7 +1221,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_31.png",
         "main_info1": "Gives Ice Flower that lasts for 3 seg",
         "main_info2": "Applies to the user and allies",
-        "sub_info": "Removes immobilizing effects on the user<br/>Removes charge ability disable<br/>Ice Flower negates the damage and locks the holder in Ice Prison for 3 seg on receiving an attack<br/>Heals the holder 5% of their maximum health on entering Ice Prison<br/>Freezes foes within 5m",
+        "sub_info": "Remove Efeitos de Imobilizar<br/>Removes charge ability disable<br/>Ice Flower negates the damage and locks the holder in Ice Prison for 3 seg on receiving an attack<br/>Heals the holder 5% of their maximum health on entering Ice Prison<br/>Freezes foes within 5m",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -1637,7 +1637,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_49.png",
         "main_info1": "Deals 72~84 damage over 4 hits",
         "main_info2": "Charge to the target",
-        "sub_info": "Heals the user 25% of the damage dealt<br/>User is invulnerable during use",
+        "sub_info": "Heals the user 25% of the damage dealt<br/>Usuário fica invulnerável durante o uso",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1669,7 +1669,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_49.png",
         "main_info1": "Deals 72~84 damage over 4 hits",
         "main_info2": "Charge to the target",
-        "sub_info": "Heals the user 50% of the damage dealt<br/>User is invulnerable during use",
+        "sub_info": "Heals the user 50% of the damage dealt<br/>Usuário fica invulnerável durante o uso",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1925,7 +1925,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_38.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": "Knocks foes back 11m and knocks them down for 3 seg",
-        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>User is invulnerable during use<br/>Generates 2 chi on resist<br/>Disables charge abilities of foes for 8 seg<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>Usuário fica invulnerável durante o uso<br/>Generates 2 chi on resist<br/>Disables charge abilities of foes for 8 seg<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1957,7 +1957,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_38.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": "Knocks foes back 24m and knocks them unconscious for 30 seg",
-        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>User is invulnerable during use<br/>Generates 2 chi on resist<br/>Disables charge abilities of foes for 8 seg<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Breaks defense<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>Usuário fica invulnerável durante o uso<br/>Generates 2 chi on resist<br/>Disables charge abilities of foes for 8 seg<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Breaks defense<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3237,7 +3237,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Move back 5m",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Used by double tapping [S]<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usado apertando 2 vezes o [S]<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3269,7 +3269,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Move back 5m",
         "main_info2": null,
-        "sub_info": "Increases the movement speed of the user by 50% after use<br/>User is invulnerable during use<br/>Used by double tapping [S]<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Increases the movement speed of the user by 50% after use<br/>Usuário fica invulnerável durante o uso<br/>Usado apertando 2 vezes o [S]<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3301,7 +3301,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Move back 5m",
         "main_info2": null,
-        "sub_info": "Freezes nearby foes for 5 seg<br/>Increases the movement speed of the user by 50% after use<br/>User is invulnerable during use<br/>Used by double tapping [S]<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Freezes nearby foes for 5 seg<br/>Increases the movement speed of the user by 50% after use<br/>Usuário fica invulnerável durante o uso<br/>Usado apertando 2 vezes o [S]<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3333,7 +3333,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Move back 5m",
         "main_info2": null,
-        "sub_info": "Cooldown of Martial Dance is refreshed on resist<br/>Freezes nearby foes for 5 seg<br/>Increases the movement speed of the user by 50% after use<br/>User is invulnerable during use<br/>Used by double tapping [S]<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Cooldown of Martial Dance is refreshed on resist<br/>Freezes nearby foes for 5 seg<br/>Increases the movement speed of the user by 50% after use<br/>Usuário fica invulnerável durante o uso<br/>Usado apertando 2 vezes o [S]<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4933,7 +4933,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_13.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg<br/>User is invulnerable during use<br/>User is invulnerable for 1 seg after use",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Usuário fica invulnerável durante o uso<br/>Usuário fica invulnerável por 1 seg após o uso",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -5157,7 +5157,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_10.png",
         "main_info1": "Escape from downed, dazed, unconscious status",
         "main_info2": "Move back 4m",
-        "sub_info": "User is invulnerable during use",
+        "sub_info": "Usuário fica invulnerável durante o uso",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5507,7 +5507,7 @@ var skill_data_KF = {
         "id": "21166",
         "name": "Rising Strike - 비상격",
         "icon": "skill_icon_kungfufighter_1_21.png",
-        "main_info1": "Escape from suppressed, seized, force gripped status when used at the foe's attack timing",
+        "main_info1": "Escapa de Suprimido, apreendid, Agarrado a força when used at the foe's attack timing",
         "main_info2": "Deals 31~36 damage",
         "sub_info": null,
         "consume_sp": null,
@@ -5669,7 +5669,7 @@ var skill_data_KF = {
         "icon": "buff_debuff_icon_00_29.png",
         "main_info1": "Move to the target's left",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Generates 2 chi on resist<br/>Heals the user 1% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Generates 2 chi on resist<br/>Heals the user 1% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5701,7 +5701,7 @@ var skill_data_KF = {
         "icon": "buff_debuff_icon_00_29.png",
         "main_info1": "Move to the target's left",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 1% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Generates 5 chi on resist<br/>Heals the user 1% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5733,7 +5733,7 @@ var skill_data_KF = {
         "icon": "buff_debuff_icon_00_29.png",
         "main_info1": "Move to the target's left",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5765,7 +5765,7 @@ var skill_data_KF = {
         "icon": "buff_debuff_icon_00_29.png",
         "main_info1": "Move to the target's left",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário fica invulnerável por 1 seg após o uso<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5797,7 +5797,7 @@ var skill_data_KF = {
         "icon": "buff_debuff_icon_00_29.png",
         "main_info1": "Move to the target's left",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Cooldown of Advancing Step is refreshed on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário fica invulnerável por 1 seg após o uso<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Cooldown of Advancing Step is refreshed on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5829,7 +5829,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_24.png",
         "main_info1": "Move to the target's right",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Generates 2 chi on resist<br/>Heals the user 1% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Generates 2 chi on resist<br/>Heals the user 1% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5861,7 +5861,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_24.png",
         "main_info1": "Move to the target's right",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 1% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Generates 5 chi on resist<br/>Heals the user 1% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5893,7 +5893,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_24.png",
         "main_info1": "Move to the target's right",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5925,7 +5925,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_24.png",
         "main_info1": "Move to the target's right",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário fica invulnerável por 1 seg após o uso<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5957,7 +5957,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_24.png",
         "main_info1": "Move to the target's right",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Increases the attack of the user by 10% per resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário fica invulnerável por 1 seg após o uso<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Increases the attack of the user by 10% per resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5985,11 +5985,11 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv1": {
         "id": "21205",
-        "name": "Escape - 탈출",
+        "name": "Usuário fica invulnerável por 1 seg após o uso",
         "icon": "skill_icon_kungfufighter_1_18.png",
-        "main_info1": "Escape from downed, unconscious status",
+        "main_info1": "Escapa de Caido, inconsciente",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra abilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6017,11 +6017,11 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv11": {
         "id": "21205",
-        "name": "Escape - 탈출",
+        "name": "Usuário fica invulnerável por 1 seg após o uso",
         "icon": "skill_icon_kungfufighter_1_18.png",
-        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra abilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6049,11 +6049,11 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv12": {
         "id": "21205",
-        "name": "Escape - 탈출",
+        "name": "Usuário fica invulnerável por 1 seg após o uso",
         "icon": "skill_icon_kungfufighter_1_18.png",
-        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra abilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6081,11 +6081,11 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv13": {
         "id": "21205",
-        "name": "Escape - 탈출",
+        "name": "Usuário fica invulnerável por 1 seg após o uso",
         "icon": "skill_icon_kungfufighter_1_18.png",
-        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
+        "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra abilidade<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6113,11 +6113,11 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv14": {
         "id": "21205",
-        "name": "Escape - 탈출",
+        "name": "Usuário fica invulnerável por 1 seg após o uso",
         "icon": "skill_icon_kungfufighter_1_18.png",
-        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
+        "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário fica invulnerável por 1 seg após o uso<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6145,11 +6145,11 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv21": {
         "id": "21205",
-        "name": "Escape - 탈출",
+        "name": "Usuário fica invulnerável por 1 seg após o uso",
         "icon": "skill_icon_kungfufighter_1_18.png",
-        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra abilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6177,11 +6177,11 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv22": {
         "id": "21205",
-        "name": "Escape - 탈출",
+        "name": "Usuário fica invulnerável por 1 seg após o uso",
         "icon": "skill_icon_kungfufighter_1_18.png",
-        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of the target by 30% for 6 seg",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra abilidade<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of the target by 30% for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6209,11 +6209,11 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv23": {
         "id": "21205",
-        "name": "Escape - 탈출",
+        "name": "Usuário fica invulnerável por 1 seg após o uso",
         "icon": "skill_icon_kungfufighter_1_18.png",
-        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of the target by 30% for 6 seg<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 seg",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra abilidade<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of the target by 30% for 6 seg<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6241,11 +6241,11 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv31": {
         "id": "21205",
-        "name": "Escape - 탈출",
+        "name": "Usuário fica invulnerável por 1 seg após o uso",
         "icon": "skill_icon_kungfufighter_1_18.png",
-        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra abilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6273,11 +6273,11 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv32": {
         "id": "21205",
-        "name": "Escape - 탈출",
+        "name": "Usuário fica invulnerável por 1 seg após o uso",
         "icon": "skill_icon_kungfufighter_1_18.png",
-        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra abilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -6305,11 +6305,11 @@ var skill_data_KF = {
     },
     "KungfuMaster_Attack_Escape_Stun_Lv33": {
         "id": "21205",
-        "name": "Escape - 탈출",
+        "name": "Usuário fica invulnerável por 1 seg após o uso",
         "icon": "skill_icon_kungfufighter_1_18.png",
-        "main_info1": "Escape from downed, dazed, stunned, unconscious status",
+        "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Deals 50% chi damage",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra abilidade<br/>Deals 50% chi damage",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -6469,7 +6469,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_43.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "Charge to the target",
-        "sub_info": "Pressure Point is available on critical hit<br/>User is invulnerable during use",
+        "sub_info": "Pressure Point is available on critical hit<br/>Usuário fica invulnerável durante o uso",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -6501,7 +6501,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_43.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "Charge to the target",
-        "sub_info": "Pressure Point is available on critical hit<br/>Ignores charge ability disable<br/>User is invulnerable during use",
+        "sub_info": "Pressure Point is available on critical hit<br/>Ignores charge ability disable<br/>Usuário fica invulnerável durante o uso",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -6533,7 +6533,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_43.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "Charge to the target",
-        "sub_info": "Pressure Point is available on critical hit<br/>Removes charge ability disable<br/>User is invulnerable during use",
+        "sub_info": "Pressure Point is available on critical hit<br/>Removes charge ability disable<br/>Usuário fica invulnerável durante o uso",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
