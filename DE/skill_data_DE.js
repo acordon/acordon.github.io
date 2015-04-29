@@ -341,7 +341,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "User is immune to daze, stun, knock back during use",
-        "sub_info": "Mobile during use<br/>Remove Efeitos de Imobilizar once<br/>Offensive defense ability",
+        "sub_info": "Mobile during use<br/>Remove Efeitos de Imobilizar 1 vez<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -373,7 +373,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "User is immune to daze, stun, knock back during use",
-        "sub_info": "Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Remove Efeitos de Imobilizar once<br/>Offensive defense ability",
+        "sub_info": "Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Remove Efeitos de Imobilizar 1 vez<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -405,7 +405,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 34~39 damage",
         "main_info2": "User is immune to daze, stun, knock back during use",
-        "sub_info": "Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Remove Efeitos de Imobilizar once<br/>Offensive defense ability<br/>Ignora Defesa",
+        "sub_info": "Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Remove Efeitos de Imobilizar 1 vez<br/>Offensive defense ability<br/>Ignora Defesa",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -437,7 +437,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 34~39 damage",
         "main_info2": "User is immune to daze, stun, knock back during use",
-        "sub_info": "Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Remove Efeitos de Imobilizar once<br/>Offensive defense ability<br/>Ignora Defesa<br/>Increases the defense of the user by 20% for 5 seg on hit up to 10 stacks",
+        "sub_info": "Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Remove Efeitos de Imobilizar 1 vez<br/>Offensive defense ability<br/>Ignora Defesa<br/>Increases the defense of the user by 20% for 5 seg on hit up to 10 stacks",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -501,7 +501,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "User is immune to daze, stun, knock back during use",
-        "sub_info": "Increases the defense of the user by 400% during use<br/>Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Remove Efeitos de Imobilizar once<br/>Offensive defense ability",
+        "sub_info": "Increases the defense of the user by 400% during use<br/>Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Remove Efeitos de Imobilizar 1 vez<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -533,7 +533,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "User is immune to daze, stun, knock back during use",
-        "sub_info": "User takes 25% less damage for the first attack received<br/>Increases the defense of the user by 400% during use<br/>Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Remove Efeitos de Imobilizar once<br/>Offensive defense ability",
+        "sub_info": "User takes 25% less damage for the first attack received<br/>Increases the defense of the user by 400% during use<br/>Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Remove Efeitos de Imobilizar 1 vez<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -565,7 +565,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "User is immune to daze, stun, knock back during use",
-        "sub_info": "Deflects an attack for 0.5 seg<br/>Increases the movement speed of the user by 60% during use<br/>Increases the movement speed of the user by 30% for 3 seg on deflect<br/>Generates 30% chi on deflect<br/>User is immune to slows for 3 seg on deflect<br/>Mobile during use<br/>Remove Efeitos de Imobilizar once<br/>Offensive defense ability",
+        "sub_info": "Deflects an attack for 0.5 seg<br/>Increases the movement speed of the user by 60% during use<br/>Increases the movement speed of the user by 30% for 3 seg on deflect<br/>Generates 30% chi on deflect<br/>User is immune to slows for 3 seg on deflect<br/>Mobile during use<br/>Remove Efeitos de Imobilizar 1 vez<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -597,7 +597,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "User is immune to daze, stun, knock back during use",
-        "sub_info": "Deflects multiple attacks for 0.5 seg<br/>Cooldown of Collide is decreased by 9 seg on the first deflect<br/>Removes charge ability disable on deflect<br/>Increases the movement speed of the user by 30% for 3 seg on deflect<br/>User is immune to slows for 3 seg on deflect<br/>Generates 30% chi on deflect<br/>Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Remove Efeitos de Imobilizar once<br/>Offensive defense ability",
+        "sub_info": "Deflects multiple attacks for 0.5 seg<br/>Cooldown of Collide is decreased by 9 seg on the first deflect<br/>Removes charge ability disable on deflect<br/>Increases the movement speed of the user by 30% for 3 seg on deflect<br/>User is immune to slows for 3 seg on deflect<br/>Generates 30% chi on deflect<br/>Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Remove Efeitos de Imobilizar 1 vez<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -629,7 +629,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_21.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "User is immune to daze, stun, knock back during use",
-        "sub_info": "Mobile during use<br/>Remove Efeitos de Imobilizar once<br/>Offensive defense ability<br/>Cures the user of Internal Bleeding",
+        "sub_info": "Mobile during use<br/>Remove Efeitos de Imobilizar 1 vez<br/>Offensive defense ability<br/>Cures the user of Internal Bleeding",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -661,7 +661,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_40.png",
         "main_info1": "Deals 162~189 damage",
         "main_info2": "User is immune to down, daze, stun, knock back, knock up, pull, force grip during use",
-        "sub_info": "Mobile during use<br/>Decreases the movement speed of the user by 30% during use<br/>Ignora Defesa<br/>Typhoon can be recast<br/>Remove Efeitos de Imobilizar once<br/>Deals 39~46 damage on recast",
+        "sub_info": "Mobile during use<br/>Decreases the movement speed of the user by 30% during use<br/>Ignora Defesa<br/>Typhoon can be recast<br/>Remove Efeitos de Imobilizar 1 vez<br/>Deals 39~46 damage on recast",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
