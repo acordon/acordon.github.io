@@ -197,7 +197,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_5.png",
         "main_info1": "Usuário retém o Espírito por 12 Segundos",
         "main_info2": "Causa Dano de 60~70 ",
-        "sub_info": "Regenera o Usuário em 10% do seu HP Máximo ao acertar<br/>Usuário Gera 1 Chi Adicional enquanto retém espírito<br/>Íra Espiritual, Sobrecarga Espiritual tem cast Instantâneo enquanto retém espírito<br/>Cooldown de Íra Espiritual, Sobrecarga Espiritual são Zerados ao acertar<br/>Incapacita o Inimigo por 1 seg<br/>Quebra defesa<br/>Desabilita HHabilidades de Desfesa por 6 seg em inimigos que tiverem a defesa quebrada",
+        "sub_info": "Regenera o Usuário em 10% do seu HP Máximo ao acertar<br/>Usuário Gera 1 Chi Adicional enquanto retém espírito<br/>Íra Espiritual, Sobrecarga Espiritual tem cast Instantâneo enquanto retém espírito<br/>Cooldown de Íra Espiritual, Sobrecarga Espiritual são Zerados ao acertar<br/>Incapacita o Inimigo por 1 seg<br/>Quebra defesa<br/>Desabilita Habilidades de Desfesa por 6 seg em inimigos que tiverem a defesa quebrada",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -293,7 +293,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_5.png",
         "main_info1": "Usuário retém o Espírito por 12 Segundos",
         "main_info2": "Causa Dano de 60~70 ",
-        "sub_info": "Regenera o Usuário em 10% do seu HP Máximo ao acertar<br/>Usuário Gera 1 Chi Adicional enquanto retém espírito<br/>Íra Espiritual, Sobrecarga Espiritual tem cast Instantâneo enquanto retém espírito<br/>Cooldown de Íra Espiritual, Sobrecarga Espiritual são Zerados ao acertar<br/>Incapacita o Inimigo por 1 seg<br/>Quebra defesa<br/>Atordoa por 3 seg inimigos com a defesa quebrada<br/>Desabilita HHabilidades de Desfesa por 6 seg em inimigos que tiverem a defesa quebrada",
+        "sub_info": "Regenera o Usuário em 10% do seu HP Máximo ao acertar<br/>Usuário Gera 1 Chi Adicional enquanto retém espírito<br/>Íra Espiritual, Sobrecarga Espiritual tem cast Instantâneo enquanto retém espírito<br/>Cooldown de Íra Espiritual, Sobrecarga Espiritual são Zerados ao acertar<br/>Incapacita o Inimigo por 1 seg<br/>Quebra defesa<br/>Atordoa por 3 seg inimigos com a defesa quebrada<br/>Desabilita Habilidades de Desfesa por 6 seg em inimigos que tiverem a defesa quebrada",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -2501,7 +2501,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_8.png",
         "main_info1": "Aplica BRAND ao inimigo por 4 seg",
         "main_info2": "Causa Dano de 72~84",
-        "sub_info": "Diminui a velocidade do inimigo em 40% por 4 seg<br/>Quebra defesa<br/>Desabilita HHabilidades de Desfesa por 6 seg em inimigos que tiverem a defesa quebrada",
+        "sub_info": "Diminui a velocidade do inimigo em 40% por 4 seg<br/>Quebra defesa<br/>Desabilita Habilidades de Desfesa por 6 seg em inimigos que tiverem a defesa quebrada",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2565,7 +2565,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_8.png",
         "main_info1": "Aplica BRAND ao inimigo por 4 seg",
         "main_info2": "Causa Dano de 6~7",
-        "sub_info": "Diminui a velocidade do inimigo em 40% por 4 seg<br/>Diminui a velocidade dos inimigos próximos em 40% por 4 seg<br/>Desabilita HHabilidades de Investida por 8 seg<br/>Imobiliza o inimigo por 4 seg to nearby foes<br/>Cria uma Area de Dano em volta do primeiro inimigo acertado que dura por 4 seg<br/><br/>Aplica BRAND por 4 seg aos inimigos proximos",
+        "sub_info": "Diminui a velocidade do inimigo em 40% por 4 seg<br/>Diminui a velocidade dos inimigos próximos em 40% por 4 seg<br/>Desabilita Habilidades de Investida por 8 seg<br/>Imobiliza o inimigo por 4 seg to nearby foes<br/>Cria uma Area de Dano em volta do primeiro inimigo acertado que dura por 4 seg<br/><br/>Aplica BRAND por 4 seg aos inimigos proximos",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2629,7 +2629,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_8.png",
         "main_info1": "Aplica BRAND ao inimigo por 4 seg",
         "main_info2": "Causa Dano de 72~84",
-        "sub_info": "Diminui a velocidade do inimigo em 40% por 4 seg<br/>Quebra defesa<br/>Desabilita HHabilidades de Desfesa por 6 seg em inimigos que tiverem a defesa quebrada<br/>Atordoa por 2 seg inimigos que tiverem a Defesa quebrada ",
+        "sub_info": "Diminui a velocidade do inimigo em 40% por 4 seg<br/>Quebra defesa<br/>Desabilita Habilidades de Desfesa por 6 seg em inimigos que tiverem a defesa quebrada<br/>Atordoa por 2 seg inimigos que tiverem a Defesa quebrada ",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -3525,7 +3525,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Recua 10 m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Escapa de Caido, inconsciente<br/>Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade",
+        "sub_info": "Escapa de Caido, inconsciente<br/>Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3557,7 +3557,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Recua 10 m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Escapa de Caido, Atordoado,Tonto, inconsciente<br/>Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade",
+        "sub_info": "Escapa de Caido, Atordoado,Tonto, inconsciente<br/>Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3589,7 +3589,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Recua 10 m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Escapa de Caido, Atordoado,Tonto, inconsciente<br/>Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade",
+        "sub_info": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Escapa de Caido, Atordoado,Tonto, inconsciente<br/>Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3621,7 +3621,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Recua 10 m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Regenera o Usuário em 5% do HP Máximo ao escapar de Suprimido, apreendid, Agarrado a força<br/>Escapa de Caido, Atordoado,Tonto, inconsciente<br/>Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade",
+        "sub_info": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Regenera o Usuário em 5% do HP Máximo ao escapar de Suprimido, apreendid, Agarrado a força<br/>Escapa de Caido, Atordoado,Tonto, inconsciente<br/>Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3653,7 +3653,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Recua 10 m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Cria uma barreira equivalente a 10% do HP<br/>Escapa de Suprimido, apreendid, Agarrado a força<br/>Regenera o Usuário em 5% do HP Máximo ao escapar de Suprimido, apreendid, Agarrado a força<br/>Escapa de Caido, Atordoado,Tonto, inconsciente<br/>Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade",
+        "sub_info": "Cria uma barreira equivalente a 10% do HP<br/>Escapa de Suprimido, apreendid, Agarrado a força<br/>Regenera o Usuário em 5% do HP Máximo ao escapar de Suprimido, apreendid, Agarrado a força<br/>Escapa de Caido, Atordoado,Tonto, inconsciente<br/>Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4859,7 +4859,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_33.png",
         "main_info1": "Ativa o Círculo Gravitacional",
         "main_info2": "Puxa os Inimigos para o Centro 5 vezes",
-        "sub_info": "Diminui a Velocidade dos Inimigos em 80%<br/>Desabilita HHabilidades de Investida dos inimigos Próximos<br/>Automaticamente utilizada pelo Espirito",
+        "sub_info": "Diminui a Velocidade dos Inimigos em 80%<br/>Desabilita Habilidades de Investida dos inimigos Próximos<br/>Automaticamente utilizada pelo Espirito",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {

@@ -2757,7 +2757,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, inconsciente",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2789,7 +2789,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2821,7 +2821,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2853,7 +2853,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2917,7 +2917,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2949,7 +2949,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2981,7 +2981,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 seg",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -3013,7 +3013,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -3045,7 +3045,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -3077,7 +3077,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade<br/>Deals 50% chi damage",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Deals 50% chi damage",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
