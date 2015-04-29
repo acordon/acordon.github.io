@@ -3163,7 +3163,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_23.png",
         "main_info1": "Recua 10 m",
         "main_info2": null,
-        "sub_info": "Escapa de Caido, Atordoado, inconsciente<br/>Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra Habilidade<br/>Familiar is invulnerable for 2 seg",
+        "sub_info": "Escapa de Caido, Atordoado, inconsciente<br/>Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>InvulnerHabilidade acaba ao usar outra HHabilidade<br/>Familiar is invulnerable for 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3643,7 +3643,7 @@ var skill_data_SU = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Escapa de Caido, inconsciente",
         "main_info2": null,
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Recua 10 m<br/>User is stealthed for 3 seg<br/>Invulnerabilidade acaba ao usar outra Habilidade",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Recua 10 m<br/>User is stealthed for 3 seg<br/>InvulnerHabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3675,7 +3675,7 @@ var skill_data_SU = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
         "main_info2": null,
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Recua 10 m<br/>User is stealthed for 3 seg<br/>Invulnerabilidade acaba ao usar outra Habilidade",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Recua 10 m<br/>User is stealthed for 3 seg<br/>InvulnerHabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3707,7 +3707,7 @@ var skill_data_SU = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Escapa de Caidoed, dazed, stunned, unconscious, suppressed, seized, force gripped status",
         "main_info2": null,
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Recua 10 m<br/>User is stealthed for 3 seg<br/>Invulnerabilidade acaba ao usar outra Habilidade",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Recua 10 m<br/>User is stealthed for 3 seg<br/>InvulnerHabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3739,7 +3739,7 @@ var skill_data_SU = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Escapa de Caidoed, dazed, stunned, unconscious, suppressed, seized, force gripped status",
         "main_info2": null,
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Recua 10 m<br/>User is stealthed for 3 seg<br/>Invulnerabilidade acaba ao usar outra Habilidade<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Recua 10 m<br/>User is stealthed for 3 seg<br/>InvulnerHabilidade acaba ao usar outra HHabilidade<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3771,7 +3771,7 @@ var skill_data_SU = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Escapa de Caidoed, dazed, stunned, unconscious, suppressed, seized, force gripped status",
         "main_info2": null,
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Recua 10 m<br/>User is stealthed for 3 seg<br/>Invulnerabilidade acaba ao usar outra Habilidade<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Recua 10 m<br/>User is stealthed for 3 seg<br/>InvulnerHabilidade acaba ao usar outra HHabilidade<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
