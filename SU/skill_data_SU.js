@@ -5467,7 +5467,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_30.png",
         "main_info1": "Deals 78~91 damage",
         "main_info2": null,
-        "sub_info": "Familiar is invulnerable during use",
+        "sub_info": "Espirito fica Invulnerável durante o uso",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5499,7 +5499,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_30.png",
         "main_info1": "Deals 78~91 damage",
         "main_info2": null,
-        "sub_info": "Flap Flap can be recast up to 2 times on critical hit<br/>Familiar is invulnerable during use",
+        "sub_info": "Flap Flap can be recast up to 2 times on critical hit<br/>Espirito fica Invulnerável durante o uso",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
