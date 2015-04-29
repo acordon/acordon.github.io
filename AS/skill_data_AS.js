@@ -643,9 +643,9 @@ var skill_data_AS = {
         "id": "25005",
         "name": "Block of Wood - 나무토막",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 sec",
+        "main_info1": "Counters an attack for 1.5 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on counter<br/>Generates 3 chi on Counter",
+        "sub_info": "User is stealthed for 6 seg on counter<br/>Generates 3 chi on Counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -667,7 +667,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -675,9 +675,9 @@ var skill_data_AS = {
         "id": "25005",
         "name": "Block of Wood - 나무토막",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 sec",
+        "main_info1": "Counters an attack for 1.5 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on counter<br/>Generates 4 chi on counter",
+        "sub_info": "User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -699,7 +699,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -707,9 +707,9 @@ var skill_data_AS = {
         "id": "25005",
         "name": "Block of Wood - 나무토막",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 sec",
+        "main_info1": "Counters an attack for 1.5 seg",
         "main_info2": null,
-        "sub_info": "Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 sec if an attack isn't countered<br/>User is stealthed for 6 sec on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 seg if an attack isn't countered<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -731,7 +731,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -739,9 +739,9 @@ var skill_data_AS = {
         "id": "25005",
         "name": "Block of Wood - 나무토막",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 sec",
+        "main_info1": "Counters an attack for 1.5 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 2% of their maximum health over 5 sec on counter<br/>Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 sec if an attack isn't countered<br/>User is stealthed for 6 sec on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Heals the user 2% of their maximum health over 5 seg on counter<br/>Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 seg if an attack isn't countered<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -763,7 +763,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -771,9 +771,9 @@ var skill_data_AS = {
         "id": "25005",
         "name": "Block of Wood - 나무토막",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 sec",
+        "main_info1": "Counters an attack for 1.5 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable for 2 sec on counter<br/>Heals the user 2% of their maximum health over 5 sec on counter<br/>Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 sec if an attack isn't countered<br/>User is stealthed for 6 sec on counter<br/>Generates 4 chi on counter",
+        "sub_info": "User is invulnerable for 2 seg on counter<br/>Heals the user 2% of their maximum health over 5 seg on counter<br/>Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 seg if an attack isn't countered<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -795,7 +795,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -803,9 +803,9 @@ var skill_data_AS = {
         "id": "25005",
         "name": "Block of Wood - 나무토막",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 sec",
+        "main_info1": "Counters an attack for 1.5 seg",
         "main_info2": null,
-        "sub_info": "Gives Dandelion effect to the user and nearby allies<br/>User is stealthed for 6 sec on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Gives Dandelion effect to the user and nearby allies<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -827,7 +827,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -835,9 +835,9 @@ var skill_data_AS = {
         "id": "25005",
         "name": "Block of Wood - 나무토막",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 sec",
+        "main_info1": "Counters an attack for 1.5 seg",
         "main_info2": null,
-        "sub_info": "Heals the user or allies 5% of their maximum health over 10 sec on entering stealth<br/>Gives Dandelion effect to the user and nearby allies<br/>User is stealthed for 6 sec on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Heals the user or allies 5% of their maximum health over 10 seg on entering stealth<br/>Gives Dandelion effect to the user and nearby allies<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -859,7 +859,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -867,9 +867,9 @@ var skill_data_AS = {
         "id": "25005",
         "name": "Block of Wood - 나무토막",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 sec",
+        "main_info1": "Counters an attack for 1.5 seg",
         "main_info2": null,
-        "sub_info": "User and allies are invulnerable for the next 1 attack on exiting stealth<br/>Heals the user or allies 5% of their maximum health over 10 sec on entering stealth<br/>Gives Dandelion effect to the user and nearby allies<br/>User is stealthed for 6 sec on counter<br/>Generates 4 chi on counter",
+        "sub_info": "User and allies are invulnerable for the next 1 attack on exiting stealth<br/>Heals the user or allies 5% of their maximum health over 10 seg on entering stealth<br/>Gives Dandelion effect to the user and nearby allies<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -891,7 +891,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -899,9 +899,9 @@ var skill_data_AS = {
         "id": "25005",
         "name": "Block of Wood - 나무토막",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1 sec",
+        "main_info1": "Counters an attack for 1 seg",
         "main_info2": null,
-        "sub_info": "Deals 20% chi damage to the countered foe<br/>User is stealthed for 6 sec on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Deals 20% chi damage to the countered foe<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -923,7 +923,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -931,9 +931,9 @@ var skill_data_AS = {
         "id": "25005",
         "name": "Block of Wood - 나무토막",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1 sec",
+        "main_info1": "Counters an attack for 1 seg",
         "main_info2": null,
-        "sub_info": "Dazes the countered target for 2 sec on counter within 0.5 sec<br/>Deals 20% chi damage to the countered foe<br/>User is stealthed for 6 sec on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Dazes the countered target for 2 seg on counter within 0.5 seg<br/>Deals 20% chi damage to the countered foe<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -955,7 +955,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -963,9 +963,9 @@ var skill_data_AS = {
         "id": "25005",
         "name": "Block of Wood - 나무토막",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1 sec",
+        "main_info1": "Counters an attack for 1 seg",
         "main_info2": null,
-        "sub_info": "Blinds, deafens the countered target for 2 sec on counter<br/>Dazes the countered target for 2 sec on counter within 0.5 sec<br/>Deals 20% chi damage to the countered foe<br/>User is stealthed for 6 sec on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Blinds, deafens the countered target for 2 seg on counter<br/>Dazes the countered target for 2 seg on counter within 0.5 seg<br/>Deals 20% chi damage to the countered foe<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -987,7 +987,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -997,7 +997,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_28.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Knocks foes down for 3 sec<br/>Manually detonated using Detonate",
+        "sub_info": "Knocks foes down for 3 seg<br/>Manually detonated using Detonate",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1019,7 +1019,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1029,7 +1029,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_28.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Knocks foes down for 3 sec<br/>Decreases the movement speed of foes by 30% for 8 sec<br/>Manually detonated using Detonate",
+        "sub_info": "Knocks foes down for 3 seg<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Manually detonated using Detonate",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1051,7 +1051,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1061,7 +1061,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_28.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Knocks foes down for 3 sec<br/>Dazes foes with Deadly Poison for 3 sec<br/>Decreases the movement speed of foes by 30% for 8 sec<br/>Manually detonated using Detonate",
+        "sub_info": "Knocks foes down for 3 seg<br/>Dazes foes with Deadly Poison for 3 seg<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Manually detonated using Detonate",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1083,7 +1083,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1093,7 +1093,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_28.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Knocks foes down for 3 sec<br/>Dazes foes with Deadly Poison for 3 sec<br/>Knocks dazed, stunned foes into the air<br/>Decreases the movement speed of foes by 30% for 8 sec<br/>Manually detonated using Detonate",
+        "sub_info": "Knocks foes down for 3 seg<br/>Dazes foes with Deadly Poison for 3 seg<br/>Knocks dazed, stunned foes into the air<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Manually detonated using Detonate",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1115,7 +1115,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1123,7 +1123,7 @@ var skill_data_AS = {
         "id": "25006",
         "name": "Freezing Mine - 빙결지뢰",
         "icon": "skill_icon_assassin_1_13.png",
-        "main_info1": "Locks foes in Ice Prison for 8 sec",
+        "main_info1": "Locks foes in Ice Prison for 8 seg",
         "main_info2": null,
         "sub_info": "Manually detonated using Detonate",
         "consume_sp": "3",
@@ -1155,7 +1155,7 @@ var skill_data_AS = {
         "id": "25006",
         "name": "Freezing Mine - 빙결지뢰",
         "icon": "skill_icon_assassin_1_13.png",
-        "main_info1": "Locks foes in Ice Prison for 8 sec",
+        "main_info1": "Locks foes in Ice Prison for 8 seg",
         "main_info2": null,
         "sub_info": "Manually detonated using Detonate",
         "consume_sp": "3",
@@ -1211,7 +1211,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1243,7 +1243,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1275,7 +1275,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1307,7 +1307,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1339,7 +1339,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1371,7 +1371,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1403,7 +1403,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1435,7 +1435,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1467,7 +1467,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1499,7 +1499,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1531,7 +1531,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1563,7 +1563,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1595,7 +1595,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1605,7 +1605,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_12.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Knocks foes down for 3 sec<br/>Applies 1 stack of Deadly Poison on down",
+        "sub_info": "Knocks foes down for 3 seg<br/>Applies 1 stack of Deadly Poison on down",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1627,7 +1627,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1637,7 +1637,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_12.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Knocks foes down for 3 sec<br/>Applies 1 stack of Deadly Poison on down<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 40% for 6 sec",
+        "sub_info": "Knocks foes down for 3 seg<br/>Applies 1 stack of Deadly Poison on down<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 40% for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1659,7 +1659,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1669,7 +1669,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_12.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Knocks foes down for 3 sec<br/>Applies 1 stack of Deadly Poison on down<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 40% for 6 sec",
+        "sub_info": "Knocks foes down for 3 seg<br/>Applies 1 stack of Deadly Poison on down<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 40% for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1691,7 +1691,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1701,7 +1701,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_33.png",
         "main_info1": "Charge to the target",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on hitting the target's back<br/>Generates 4 additional chi on entering stealth",
+        "sub_info": "User is stealthed for 6 seg on hitting the target's back<br/>Generates 4 additional chi on entering stealth",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -1723,7 +1723,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1733,7 +1733,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_33.png",
         "main_info1": "Charge to the target",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on hitting the target's back<br/>Generates 4 additional chi on entering stealth<br/>Increased charge speed",
+        "sub_info": "User is stealthed for 6 seg on hitting the target's back<br/>Generates 4 additional chi on entering stealth<br/>Increased charge speed",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -1755,7 +1755,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1765,7 +1765,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_33.png",
         "main_info1": "Charge to the target",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on hitting the target's back<br/>Generates 4 additional chi on entering stealth<br/>Increased charge speed<br/>Increases the evade chance of the user by 99% for the next 1 attack if stealthing fails<br/>Increases Evade by 10% for 8 sec if stealthing fails",
+        "sub_info": "User is stealthed for 6 seg on hitting the target's back<br/>Generates 4 additional chi on entering stealth<br/>Increased charge speed<br/>Increases the evade chance of the user by 99% for the next 1 attack if stealthing fails<br/>Increases Evade by 10% for 8 seg if stealthing fails",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -1787,7 +1787,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1797,7 +1797,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_33.png",
         "main_info1": "Charge to the target",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on hitting the target's back<br/>Generates 4 additional chi on entering stealth<br/>Increased charge speed<br/>Increases the evade chance of the user by 99% for the next 1 attack if stealthing fails<br/>Increases Evade by 10% for 8 sec if stealthing fails",
+        "sub_info": "User is stealthed for 6 seg on hitting the target's back<br/>Generates 4 additional chi on entering stealth<br/>Increased charge speed<br/>Increases the evade chance of the user by 99% for the next 1 attack if stealthing fails<br/>Increases Evade by 10% for 8 seg if stealthing fails",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -1819,7 +1819,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -1829,7 +1829,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_33.png",
         "main_info1": "Charge to the target",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on hitting the target's back<br/>Generates 5 additional chi on entering stealth<br/>Increased charge speed<br/>Increases the evade chance of the user by 99% for the next 1 attack if stealthing fails<br/>Increases Evade by 10% for 8 sec if stealthing fails",
+        "sub_info": "User is stealthed for 6 seg on hitting the target's back<br/>Generates 5 additional chi on entering stealth<br/>Increased charge speed<br/>Increases the evade chance of the user by 99% for the next 1 attack if stealthing fails<br/>Increases Evade by 10% for 8 seg if stealthing fails",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -1851,7 +1851,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -1861,7 +1861,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_33.png",
         "main_info1": "Charge to the target",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on hitting the target's back<br/>Generates 5 additional chi on entering stealth<br/>Increased charge speed<br/>Increases the evade chance of the user by 99% for the next 1 attack if stealthing fails<br/>Increases Evade by 10% for 8 sec if stealthing fails<br/>User is invulnerable for 2 sec on entering stealth",
+        "sub_info": "User is stealthed for 6 seg on hitting the target's back<br/>Generates 5 additional chi on entering stealth<br/>Increased charge speed<br/>Increases the evade chance of the user by 99% for the next 1 attack if stealthing fails<br/>Increases Evade by 10% for 8 seg if stealthing fails<br/>User is invulnerable for 2 seg on entering stealth",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -1883,7 +1883,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -1893,7 +1893,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_1.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Charge to the target<br/>Stuns foes for 2 sec<br/>User is stealthed for 6 sec on hitting the target's back<br/>Generates 4 additional chi on entering stealth",
+        "sub_info": "Charge to the target<br/>Stuns foes for 2 seg<br/>User is stealthed for 6 seg on hitting the target's back<br/>Generates 4 additional chi on entering stealth",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -1915,7 +1915,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1925,7 +1925,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_1.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Charge to the target<br/>Stuns foes for 2 sec<br/>User is stealthed for 6 sec on hitting the target's back<br/>Generates 4 additional chi on entering stealth",
+        "sub_info": "Charge to the target<br/>Stuns foes for 2 seg<br/>User is stealthed for 6 seg on hitting the target's back<br/>Generates 4 additional chi on entering stealth",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -1947,7 +1947,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1957,7 +1957,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_1.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Charge to the target<br/>Stuns foes for 2 sec<br/>User is stealthed for 6 sec on hitting the target's back<br/>User is stealthed for 6 sec on critical hit<br/>Generates 4 additional chi on entering stealth",
+        "sub_info": "Charge to the target<br/>Stuns foes for 2 seg<br/>User is stealthed for 6 seg on hitting the target's back<br/>User is stealthed for 6 seg on critical hit<br/>Generates 4 additional chi on entering stealth",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -1979,7 +1979,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2011,7 +2011,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2043,7 +2043,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2075,7 +2075,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2107,7 +2107,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2117,7 +2117,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_60.png",
         "main_info1": "Deals 75~88 damage over 5 hits",
         "main_info2": null,
-        "sub_info": "Charge to the target<br/>Heals the user 20% of the damage dealt<br/>User is invulnerable during use<br/>Heals the user 2% of their maximum health on resist<br/>User is invulnerable for 1 sec after use",
+        "sub_info": "Charge to the target<br/>Heals the user 20% of the damage dealt<br/>User is invulnerable during use<br/>Heals the user 2% of their maximum health on resist<br/>User is invulnerable for 1 seg after use",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2139,7 +2139,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2149,7 +2149,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_60.png",
         "main_info1": "Deals 75~88 damage over 5 hits",
         "main_info2": null,
-        "sub_info": "Charge to the target<br/>Heals the user 50% of the damage dealt<br/>User is invulnerable during use<br/>Heals the user 2% of their maximum health on resist<br/>User is invulnerable for 1 sec after use",
+        "sub_info": "Charge to the target<br/>Heals the user 50% of the damage dealt<br/>User is invulnerable during use<br/>Heals the user 2% of their maximum health on resist<br/>User is invulnerable for 1 seg after use",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2171,7 +2171,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2179,8 +2179,8 @@ var skill_data_AS = {
         "id": "25009",
         "name": "Lotus Kick - 연화각",
         "icon": "skill_icon_assassin_0_60.png",
-        "main_info1": "Stuns the target for 2 sec on hitting the target's back",
-        "main_info2": "Stuns foes with 5 stacks of Deadly Poison for 2 sec",
+        "main_info1": "Stuns the target for 2 seg on hitting the target's back",
+        "main_info2": "Stuns foes with 5 stacks of Deadly Poison for 2 seg",
         "sub_info": "Deals 61~71 damage",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -2203,7 +2203,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2211,8 +2211,8 @@ var skill_data_AS = {
         "id": "25009",
         "name": "Lotus Kick - 연화각",
         "icon": "skill_icon_assassin_0_60.png",
-        "main_info1": "Stuns the target for 3 sec on hitting the target's back",
-        "main_info2": "Stuns foes with 5 stacks of Deadly Poison for 3 sec",
+        "main_info1": "Stuns the target for 3 seg on hitting the target's back",
+        "main_info2": "Stuns foes with 5 stacks of Deadly Poison for 3 seg",
         "sub_info": "Deals 61~71 damage",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -2235,7 +2235,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2243,8 +2243,8 @@ var skill_data_AS = {
         "id": "25009",
         "name": "Lotus Kick - 연화각",
         "icon": "skill_icon_assassin_0_60.png",
-        "main_info1": "Stuns the target for 3 sec on hitting the target's back",
-        "main_info2": "Stuns foes with 5 stacks of Deadly Poison for 3 sec",
+        "main_info1": "Stuns the target for 3 seg on hitting the target's back",
+        "main_info2": "Stuns foes with 5 stacks of Deadly Poison for 3 seg",
         "sub_info": "Deals 61~71 damage",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
@@ -2267,7 +2267,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2277,7 +2277,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_31.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Ignores defense",
+        "sub_info": "Ignora Defesa",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2309,7 +2309,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_31.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Ignores defense",
+        "sub_info": "Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2341,7 +2341,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_31.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Deals an additional 12~14 damage to Deadly Poisoned foes<br/>Ignores defense",
+        "sub_info": "Deals an additional 12~14 damage to Deadly Poisoned foes<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2373,7 +2373,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_31.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Deals an additional 12~14 damage to Deadly Poisoned foes<br/>Generates 1 chi per target hit<br/>Ignores defense",
+        "sub_info": "Deals an additional 12~14 damage to Deadly Poisoned foes<br/>Generates 1 chi per target hit<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2403,9 +2403,9 @@ var skill_data_AS = {
         "id": "25010",
         "name": "Lightning Kick - 번개차기",
         "icon": "skill_icon_assassin_0_31.png",
-        "main_info1": "Deals 84~98 damage",
+        "main_info1": "Causa Dano de 84~98",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Ignores defense",
+        "sub_info": "Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2435,9 +2435,9 @@ var skill_data_AS = {
         "id": "25010",
         "name": "Lightning Kick - 번개차기",
         "icon": "skill_icon_assassin_0_31.png",
-        "main_info1": "Deals 84~98 damage",
+        "main_info1": "Causa Dano de 84~98",
         "main_info2": "User is invulnerable during use",
-        "sub_info": "Deals an additional 18~21 damage to foes with 5 stacks of Deadly Poison<br/>Ignores defense",
+        "sub_info": "Deals an additional 18~21 damage to foes with 5 stacks of Deadly Poison<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2467,7 +2467,7 @@ var skill_data_AS = {
         "id": "25010",
         "name": "Spider's Web - 거미줄",
         "icon": "skill_icon_assassin_0_29.png",
-        "main_info1": "Extends the duration of the target's down, airborne status up to 4 sec",
+        "main_info1": "Extends the duration of the target's down, airborne status up to 4 seg",
         "main_info2": null,
         "sub_info": "Suspended target is released when they are hit",
         "consume_sp": null,
@@ -2491,7 +2491,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2499,7 +2499,7 @@ var skill_data_AS = {
         "id": "25010",
         "name": "Spider's Web - 거미줄",
         "icon": "skill_icon_assassin_0_29.png",
-        "main_info1": "Extends the duration of the target's down, airborne status up to 4 sec",
+        "main_info1": "Extends the duration of the target's down, airborne status up to 4 seg",
         "main_info2": null,
         "sub_info": "Suspended target is released when they are hit",
         "consume_sp": null,
@@ -2523,7 +2523,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2555,7 +2555,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2582,12 +2582,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.4 sec"
+                "value": "0.4 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2614,12 +2614,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.4 sec"
+                "value": "0.4 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2646,12 +2646,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.4 sec"
+                "value": "0.4 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2659,9 +2659,9 @@ var skill_data_AS = {
         "id": "25012",
         "name": "Poison Moth - 독나방",
         "icon": "skill_icon_assassin_0_59.png",
-        "main_info1": "Deals 24~28 damage up to 5 foes",
+        "main_info1": "Causa Dano de 24~28  up to 5 foes",
         "main_info2": null,
-        "sub_info": "Applies 1 stack of Deadly Poison<br/>Deals 36~42 damage over 8 sec<br/>Disables defense abilities of foes for 8 sec",
+        "sub_info": "Applies 1 stack of Deadly Poison<br/>Deals 36~42 damage over 8 seg<br/>Disables defense abilities of foes for 8 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2678,12 +2678,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.4 sec"
+                "value": "0.4 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2693,7 +2693,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_59.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Applies 1 stack of Deadly Poison<br/>Decreases the movement speed of foes by 40% for 6 sec",
+        "sub_info": "Applies 1 stack of Deadly Poison<br/>Decreases the movement speed of foes by 40% for 6 seg",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2715,7 +2715,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2747,7 +2747,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2779,7 +2779,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2789,7 +2789,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_1_6.png",
         "main_info1": "Move forward 8m",
         "main_info2": null,
-        "sub_info": "Increases the movement speed of the user by 30% for 6 sec after use",
+        "sub_info": "Increases the movement speed of the user by 30% for 6 seg after use",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -2811,7 +2811,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2821,7 +2821,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_1_6.png",
         "main_info1": "Move forward 8m",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Increases the movement speed of the user by 30% for 6 sec after use",
+        "sub_info": "User is invulnerable during use<br/>Increases the movement speed of the user by 30% for 6 seg after use",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -2843,7 +2843,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2853,7 +2853,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_1_6.png",
         "main_info1": "Move forward 8m",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Strike is available on resist<br/>Increases the movement speed of the user by 30% for 6 sec after use",
+        "sub_info": "User is invulnerable during use<br/>Strike is available on resist<br/>Increases the movement speed of the user by 30% for 6 seg after use",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -2875,7 +2875,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2885,7 +2885,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_24.png",
         "main_info1": "Move to the target's right",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Increases the movement speed of the user by 30% for 6 sec after use",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Increases the movement speed of the user by 30% for 6 seg after use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2902,12 +2902,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2917,7 +2917,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_24.png",
         "main_info1": "Move to the target's right",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Leaf Sunder is available on resist<br/>Increases the movement speed of the user by 30% for 6 sec after use",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Leaf Sunder is available on resist<br/>Increases the movement speed of the user by 30% for 6 seg after use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2934,12 +2934,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2949,7 +2949,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_24.png",
         "main_info1": "Move to the target's right",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Shadow Kill is available on resist<br/>Lightning Kill is available on resist<br/>Increases the movement speed of the user by 30% for 6 sec after use",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Shadow Kill is available on resist<br/>Lightning Kill is available on resist<br/>Increases the movement speed of the user by 30% for 6 seg after use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2966,12 +2966,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -3107,9 +3107,9 @@ var skill_data_AS = {
         "id": "25016",
         "name": "Smokescreen - 연막",
         "icon": "skill_icon_assassin_0_13.png",
-        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 10 sec",
+        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 10 seg",
         "main_info2": null,
-        "sub_info": "User is immune to stuns caused by deflect<br/>Generates 15 chi over 10 sec",
+        "sub_info": "User is immune to stuns caused by deflect<br/>Generates 15 chi over 10 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3131,7 +3131,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -3139,9 +3139,9 @@ var skill_data_AS = {
         "id": "25016",
         "name": "Smokescreen - 연막",
         "icon": "skill_icon_assassin_0_13.png",
-        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 10 sec",
+        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 10 seg",
         "main_info2": null,
-        "sub_info": "User is immune to stuns caused by deflect<br/>Generates 15 chi over 10 sec<br/>Creates a healing area that lasts for 10 sec<br/>Heals the user and allies within the area 10% of their maximum health over 10 sec",
+        "sub_info": "User is immune to stuns caused by deflect<br/>Generates 15 chi over 10 seg<br/>Creates a healing area that lasts for 10 seg<br/>Heals the user and allies within the area 10% of their maximum health over 10 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3163,7 +3163,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -3173,7 +3173,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_1_11.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Applies 1 stack of Deadly Poison<br/>Confines foes for 15 sec<br/>Confine decreases the movement speed of the target by 30%",
+        "sub_info": "Applies 1 stack of Deadly Poison<br/>Confines foes for 15 seg<br/>Confine decreases the movement speed of the target by 30%",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -3195,7 +3195,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3269,7 +3269,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_1_12.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Move behind the foe hit by Shadow Dagger<br/>Dazes foes for 2 sec",
+        "sub_info": "Move behind the foe hit by Shadow Dagger<br/>Dazes foes for 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -3333,7 +3333,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_2.png",
         "main_info1": "Escape from downed statused, unconscious status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes for 5 sec<br/>Decreases the movement speed of foes by 50% for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Move back 8m<br/>User is stealthed for 6 seg<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes for 5 seg<br/>Decreases the movement speed of foes by 50% for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -3355,7 +3355,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3365,7 +3365,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_2.png",
         "main_info1": "Escape from downed statused, dazed, stunned, unconscious status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes for 5 sec<br/>Decreases the movement speed of foes by 50% for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Move back 8m<br/>User is stealthed for 6 seg<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes for 5 seg<br/>Decreases the movement speed of foes by 50% for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -3387,7 +3387,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3397,7 +3397,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_2.png",
         "main_info1": "Escape from downed statused, dazed, stunned, unconscious, suppressed, seized, force gripped status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes for 5 sec<br/>Decreases the movement speed of foes by 50% for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Move back 8m<br/>User is stealthed for 6 seg<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes for 5 seg<br/>Decreases the movement speed of foes by 50% for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -3419,7 +3419,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3429,7 +3429,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_2.png",
         "main_info1": "Escape from downed statused, dazed, stunned, unconscious, suppressed, seized, force gripped status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes for 5 sec<br/>Decreases the movement speed of foes by 50% for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Move back 8m<br/>User is stealthed for 6 seg<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes for 5 seg<br/>Decreases the movement speed of foes by 50% for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -3451,7 +3451,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3461,7 +3461,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_2.png",
         "main_info1": "Escape from downed statused, dazed, stunned, unconscious, suppressed, seized, force gripped status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 8m<br/>User is stealthed for 6 sec<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status<br/>User is immune to daze, stun for 5 sec<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes for 5 sec<br/>Decreases the movement speed of foes by 50% for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Move back 8m<br/>User is stealthed for 6 seg<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status<br/>User is immune to daze, stun for 5 seg<br/>Applies 1 stack of Deadly Poison<br/>Blinds, deafens foes for 5 seg<br/>Decreases the movement speed of foes by 50% for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -3483,7 +3483,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3515,7 +3515,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.1 sec"
+                "value": "1.1 seg"
             }
         }
     },
@@ -3547,7 +3547,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -3555,9 +3555,9 @@ var skill_data_AS = {
         "id": "25023",
         "name": "Leaf Shift - 나뭇잎운신",
         "icon": "skill_icon_assassin_0_47.png",
-        "main_info1": "Dazes foes for 3 sec",
+        "main_info1": "Dazes foes for 3 seg",
         "main_info2": null,
-        "sub_info": "Deals 24~28 damage<br/>Charge beyond the target",
+        "sub_info": "Causa Dano de 24~28 <br/>Charge beyond the target",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3579,7 +3579,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3589,7 +3589,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_9.png",
         "main_info1": "Move behind the target",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is stealthed for 6 sec on resist<br/>Generates 4 chi on resist",
+        "sub_info": "User is invulnerable during use<br/>User is stealthed for 6 seg on resist<br/>Generates 4 chi on resist",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3606,12 +3606,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -3621,7 +3621,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_9.png",
         "main_info1": "Move behind the target",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is stealthed for 6 sec on resist<br/>Generates 6 chi on resist",
+        "sub_info": "User is invulnerable during use<br/>User is stealthed for 6 seg on resist<br/>Generates 6 chi on resist",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3638,12 +3638,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -3653,7 +3653,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_9.png",
         "main_info1": "Move behind the target",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is stealthed for 6 sec on resist<br/>Generates 6 chi on resist<br/>Next Heart Stab has guaranteed critical hit on risist",
+        "sub_info": "User is invulnerable during use<br/>User is stealthed for 6 seg on resist<br/>Generates 6 chi on resist<br/>Next Heart Stab has guaranteed critical hit on risist",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3670,12 +3670,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -3685,7 +3685,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_20.png",
         "main_info1": "Move to the target's left",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is stealthed for 6 sec on resist<br/>Generates 6 chi on resist<br/>Leaf Sunder is available on resist",
+        "sub_info": "User is invulnerable during use<br/>User is stealthed for 6 seg on resist<br/>Generates 6 chi on resist<br/>Leaf Sunder is available on resist",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3702,12 +3702,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -3715,9 +3715,9 @@ var skill_data_AS = {
         "id": "25025",
         "name": "Neutralize - 공수탈백인",
         "icon": "skill_icon_assassin_0_48.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": null,
-        "sub_info": "Deals 24~28 damage<br/>Disables defense abilities of foes for 6 sec",
+        "sub_info": "Causa Dano de 24~28 <br/>Disables defense abilities of foes for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3739,7 +3739,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -3771,7 +3771,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3779,9 +3779,9 @@ var skill_data_AS = {
         "id": "25029",
         "name": "Straw Doll - 볏짚인형",
         "icon": "skill_icon_assassin_0_36.png",
-        "main_info1": "Counters an attack for 1 sec",
+        "main_info1": "Counters an attack for 1 seg",
         "main_info2": null,
-        "sub_info": "Move behind the countered foe. User is stealthed for 6 sec on counter<br/>Stuns the countered foe for 2 sec on counter",
+        "sub_info": "Move behind the countered foe. User is stealthed for 6 seg on counter<br/>Stuns the countered foe for 2 seg on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3803,7 +3803,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3835,7 +3835,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3867,7 +3867,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3907,9 +3907,9 @@ var skill_data_AS = {
         "id": "25033",
         "name": "Thunder - 천둥",
         "icon": "skill_icon_assassin_0_32.png",
-        "main_info1": "Deals 84~98 damage",
+        "main_info1": "Causa Dano de 84~98",
         "main_info2": null,
-        "sub_info": "Knocks foes down for 2 sec<br/>Ends the target's airborne status<br/>Increases the evade chance of the user by 100% during use<br/>Applies 1 stack of Deadly Poison",
+        "sub_info": "Knocks foes down for 2 seg<br/>Ends the target's airborne status<br/>Increases the evade chance of the user by 100% during use<br/>Applies 1 stack of Deadly Poison",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4069,7 +4069,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_18.png",
         "main_info1": "Charge beyond the target",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec",
+        "sub_info": "User is stealthed for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "6",
         "skill_info": {
@@ -4086,12 +4086,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4099,7 +4099,7 @@ var skill_data_AS = {
         "id": "25037",
         "name": "Silver Wire - 은사",
         "icon": "skill_icon_assassin_0_52.png",
-        "main_info1": "Restrains dazed, stunned foes for 3 sec",
+        "main_info1": "Restrains dazed, stunned foes for 3 seg",
         "main_info2": null,
         "sub_info": "Applies 1 stack of Deadly Poison",
         "consume_sp": null,
@@ -4123,7 +4123,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4131,7 +4131,7 @@ var skill_data_AS = {
         "id": "25038",
         "name": "Pluck - 은사탄주",
         "icon": "skill_icon_assassin_0_58.png",
-        "main_info1": "Knocks foes down for 3 sec",
+        "main_info1": "Knocks foes down for 3 seg",
         "main_info2": null,
         "sub_info": "Deals 30~35 damage",
         "consume_sp": null,
@@ -4163,7 +4163,7 @@ var skill_data_AS = {
         "id": "25039",
         "name": "Pull Wire - 은사당기기",
         "icon": "skill_icon_assassin_0_61.png",
-        "main_info1": "Pulls and dazes foes for 2 sec",
+        "main_info1": "Pulls and dazes foes for 2 seg",
         "main_info2": null,
         "sub_info": "Deals 30~35 damage",
         "consume_sp": "3",
@@ -4229,7 +4229,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_40.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on hitting foes with Deadly Poison",
+        "sub_info": "User is stealthed for 6 seg on hitting foes with Deadly Poison",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4251,7 +4251,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4259,7 +4259,7 @@ var skill_data_AS = {
         "id": "25043",
         "name": "Struggle - 걷어차기",
         "icon": "skill_icon_assassin_1_4.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -4315,7 +4315,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4347,7 +4347,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -4379,7 +4379,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4443,7 +4443,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4475,7 +4475,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -4483,9 +4483,9 @@ var skill_data_AS = {
         "id": "25111",
         "name": "Leaf Whirlwind - 나뭇잎선풍",
         "icon": "skill_icon_assassin_0_22.png",
-        "main_info1": "Knocks foes unconscious for 30 sec",
+        "main_info1": "Knocks foes unconscious for 30 seg",
         "main_info2": null,
-        "sub_info": "Deals 24~28 damage",
+        "sub_info": "Causa Dano de 24~28 ",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4507,7 +4507,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4515,9 +4515,9 @@ var skill_data_AS = {
         "id": "25111",
         "name": "Leaf Whirlwind - 나뭇잎선풍",
         "icon": "skill_icon_assassin_0_22.png",
-        "main_info1": "Knocks foes unconscious for 30 sec",
+        "main_info1": "Knocks foes unconscious for 30 seg",
         "main_info2": null,
-        "sub_info": "Deals 24~28 damage",
+        "sub_info": "Causa Dano de 24~28 ",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4539,7 +4539,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4547,9 +4547,9 @@ var skill_data_AS = {
         "id": "25111",
         "name": "Leaf Whirlwind - 나뭇잎선풍",
         "icon": "skill_icon_assassin_0_22.png",
-        "main_info1": "Knocks foes down for 3 sec",
+        "main_info1": "Knocks foes down for 3 seg",
         "main_info2": null,
-        "sub_info": "Deals 24~28 damage",
+        "sub_info": "Causa Dano de 24~28 ",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4571,7 +4571,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4579,9 +4579,9 @@ var skill_data_AS = {
         "id": "25111",
         "name": "Leaf Whirlwind - 나뭇잎선풍",
         "icon": "skill_icon_assassin_0_22.png",
-        "main_info1": "Dazes foes for 3 sec",
+        "main_info1": "Dazes foes for 3 seg",
         "main_info2": null,
-        "sub_info": "Deals 24~28 damage",
+        "sub_info": "Causa Dano de 24~28 ",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4603,7 +4603,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4611,9 +4611,9 @@ var skill_data_AS = {
         "id": "25111",
         "name": "Leaf Whirlwind - 나뭇잎선풍",
         "icon": "skill_icon_assassin_0_22.png",
-        "main_info1": "Dazes foes for 3 sec",
+        "main_info1": "Dazes foes for 3 seg",
         "main_info2": null,
-        "sub_info": "Charge beyond the target<br/>Deals 24~28 damage",
+        "sub_info": "Charge beyond the target<br/>Causa Dano de 24~28 ",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4635,7 +4635,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4643,9 +4643,9 @@ var skill_data_AS = {
         "id": "25111",
         "name": "Leaf Whirlwind - 나뭇잎선풍",
         "icon": "skill_icon_assassin_0_22.png",
-        "main_info1": "Knocks foes down for 3 sec",
+        "main_info1": "Knocks foes down for 3 seg",
         "main_info2": null,
-        "sub_info": "Deals 24~28 damage",
+        "sub_info": "Causa Dano de 24~28 ",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4667,7 +4667,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4675,9 +4675,9 @@ var skill_data_AS = {
         "id": "25111",
         "name": "Leaf Whirlwind - 나뭇잎선풍",
         "icon": "skill_icon_assassin_0_22.png",
-        "main_info1": "Knocks foes down for 3 sec",
+        "main_info1": "Knocks foes down for 3 seg",
         "main_info2": null,
-        "sub_info": "Deals 24~28 damage<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 40% for 6 sec",
+        "sub_info": "Causa Dano de 24~28 <br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 40% for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4699,7 +4699,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4707,9 +4707,9 @@ var skill_data_AS = {
         "id": "25111",
         "name": "Leaf Whirlwind - 나뭇잎선풍",
         "icon": "skill_icon_assassin_0_22.png",
-        "main_info1": "Knocks foes down for 3 sec",
+        "main_info1": "Knocks foes down for 3 seg",
         "main_info2": null,
-        "sub_info": "Deals 24~28 damage<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 40% for 6 sec<br/>Ignores defense",
+        "sub_info": "Causa Dano de 24~28 <br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 40% for 6 seg<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4731,7 +4731,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4739,7 +4739,7 @@ var skill_data_AS = {
         "id": "25120",
         "name": "Backstab - 척추찌르기",
         "icon": "skill_icon_assassin_0_21.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": null,
         "sub_info": "Deals 18~21 damage<br/>Applies 1 stack of Deadly Poison on stun",
         "consume_sp": "3",
@@ -4763,7 +4763,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4771,7 +4771,7 @@ var skill_data_AS = {
         "id": "25120",
         "name": "Backstab - 척추찌르기",
         "icon": "skill_icon_assassin_0_21.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": null,
         "sub_info": "Deals 18~21 damage<br/>Applies 1 stack of Deadly Poison on stun",
         "consume_sp": "2",
@@ -4795,7 +4795,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4803,9 +4803,9 @@ var skill_data_AS = {
         "id": "25120",
         "name": "Backstab - 척추찌르기",
         "icon": "skill_icon_assassin_0_21.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": null,
-        "sub_info": "Deals 18~21 damage<br/>Applies 1 stack of Deadly Poison on stun<br/>Ignores defense",
+        "sub_info": "Deals 18~21 damage<br/>Applies 1 stack of Deadly Poison on stun<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4827,7 +4827,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4859,7 +4859,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4891,7 +4891,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4933,7 +4933,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_38.png",
         "main_info1": "Deals 72~84 damage",
         "main_info2": null,
-        "sub_info": "Detonates after 7 sec<br/>Detonates on hit with Mine, Throwing Mine<br/>Generates 9 chi over 3 sec when detonated using Mine, Throwing Mine",
+        "sub_info": "Detonates after 7 seg<br/>Detonates on hit with Mine, Throwing Mine<br/>Generates 9 chi over 3 seg when detonated using Mine, Throwing Mine",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4955,7 +4955,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4963,7 +4963,7 @@ var skill_data_AS = {
         "id": "25142",
         "name": "Lightning Rend - 뇌절도",
         "icon": "skill_icon_assassin_0_63.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": null,
         "sub_info": "Deals 36~42 damage",
         "consume_sp": "4",
@@ -4987,7 +4987,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -4995,7 +4995,7 @@ var skill_data_AS = {
         "id": "25142",
         "name": "Lightning Rend - 뇌절도",
         "icon": "skill_icon_assassin_0_63.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": null,
         "sub_info": "Deals 36~42 damage",
         "consume_sp": "3",
@@ -5019,7 +5019,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5027,7 +5027,7 @@ var skill_data_AS = {
         "id": "25142",
         "name": "Lightning Rend - 뇌절도",
         "icon": "skill_icon_assassin_0_63.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": null,
         "sub_info": "Deals 36~42 damage",
         "consume_sp": "3",
@@ -5051,7 +5051,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5059,7 +5059,7 @@ var skill_data_AS = {
         "id": "25142",
         "name": "Lightning Rend - 뇌절도",
         "icon": "skill_icon_assassin_0_63.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": null,
         "sub_info": "Deals 36~42 damage<br/>Generates 1 chi per target hit",
         "consume_sp": "3",
@@ -5083,7 +5083,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5115,7 +5115,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -5147,7 +5147,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -5155,9 +5155,9 @@ var skill_data_AS = {
         "id": "25199",
         "name": "Shadowless Step - 무영보",
         "icon": "skill_icon_assassin_1_8.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": "Charge beyond the target",
-        "sub_info": "Deals 66~77 damage<br/>Disables charge abilities of foes for 9 sec<br/>Decreases the movement speed of foes by 40% for 9 sec<br/>Move back 8m after use",
+        "sub_info": "Deals 66~77 damage<br/>Disables charge abilities of foes for 9 seg<br/>Decreases the movement speed of foes by 40% for 9 seg<br/>Move back 8m after use",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5179,7 +5179,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -5187,9 +5187,9 @@ var skill_data_AS = {
         "id": "25199",
         "name": "Shadowless Step - 무영보",
         "icon": "skill_icon_assassin_1_8.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": "Charge beyond the target",
-        "sub_info": "Deals 66~77 damage<br/>Disables charge abilities of foes for 9 sec<br/>Decreases the movement speed of foes by 40% for 9 sec<br/>Move back 8m after use",
+        "sub_info": "Deals 66~77 damage<br/>Disables charge abilities of foes for 9 seg<br/>Decreases the movement speed of foes by 40% for 9 seg<br/>Move back 8m after use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5211,7 +5211,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -5219,9 +5219,9 @@ var skill_data_AS = {
         "id": "25199",
         "name": "Shadowless Step - 무영보",
         "icon": "skill_icon_assassin_1_8.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": "Charge beyond the target",
-        "sub_info": "Deals 66~77 damage<br/>Disables charge abilities of foes for 9 sec<br/>Decreases the movement speed of foes by 40% for 9 sec<br/>Move back 8m after use<br/>User is stealthed for 6 sec after use",
+        "sub_info": "Deals 66~77 damage<br/>Disables charge abilities of foes for 9 seg<br/>Decreases the movement speed of foes by 40% for 9 seg<br/>Move back 8m after use<br/>User is stealthed for 6 seg after use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5251,9 +5251,9 @@ var skill_data_AS = {
         "id": "25199",
         "name": "Shadowless Step - 무영보",
         "icon": "skill_icon_assassin_1_8.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": "Charge beyond the target",
-        "sub_info": "Deals 66~77 damage<br/>Disables charge abilities of foes for 9 sec<br/>Decreases the movement speed of foes by 40% for 9 sec<br/>Blinds, deafens foes for 5 sec<br/>Move back 8m after use<br/>User is stealthed for 6 sec after use",
+        "sub_info": "Deals 66~77 damage<br/>Disables charge abilities of foes for 9 seg<br/>Decreases the movement speed of foes by 40% for 9 seg<br/>Blinds, deafens foes for 5 seg<br/>Move back 8m after use<br/>User is stealthed for 6 seg after use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5307,7 +5307,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5339,7 +5339,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5349,7 +5349,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_42.png",
         "main_info1": "Places Circle of Flight",
         "main_info2": null,
-        "sub_info": "Move to the circle on using Art of Flight<br/>Heals the user 1% of their maximum health on using Art of Flight<br/>Generates 3 chi on using Art of Flight<br/>User is invulnerable during travel<br/>User is invulnerable for 1 sec after travel<br/>Art of Flight cannot be used if the circle is out of sight",
+        "sub_info": "Move to the circle on using Art of Flight<br/>Heals the user 1% of their maximum health on using Art of Flight<br/>Generates 3 chi on using Art of Flight<br/>User is invulnerable during travel<br/>User is invulnerable for 1 seg after travel<br/>Art of Flight cannot be used if the circle is out of sight",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5371,7 +5371,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5381,7 +5381,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_42.png",
         "main_info1": "Places Circle of Flight",
         "main_info2": null,
-        "sub_info": "Move to the circle on using Art of Flight<br/>Heals the user 1% of their maximum health on using Art of Flight<br/>Generates 3 chi on using Art of Flight<br/>User is invulnerable during travel<br/>User is invulnerable for 1 sec after travel<br/>Art of Flight is available while dazed, stunned<br/>Art of Flight cannot be used if the circle is out of sight",
+        "sub_info": "Move to the circle on using Art of Flight<br/>Heals the user 1% of their maximum health on using Art of Flight<br/>Generates 3 chi on using Art of Flight<br/>User is invulnerable during travel<br/>User is invulnerable for 1 seg after travel<br/>Art of Flight is available while dazed, stunned<br/>Art of Flight cannot be used if the circle is out of sight",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5403,7 +5403,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5413,7 +5413,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_42.png",
         "main_info1": "Places Circle of Flight",
         "main_info2": null,
-        "sub_info": "Move to the circle on using Art of Flight<br/>Heals the user 1% of their maximum health on using Art of Flight<br/>Generates 3 chi on using Art of Flight<br/>User is invulnerable during travel<br/>User is invulnerable for 1 sec after travel<br/>Art of Flight is available while dazed, stunned<br/>Cooldown of Circle of Flight is decreased by 15 sec if Art of Flight is used while not dazed, stunned<br/>Art of Flight cannot be used if the circle is out of sight",
+        "sub_info": "Move to the circle on using Art of Flight<br/>Heals the user 1% of their maximum health on using Art of Flight<br/>Generates 3 chi on using Art of Flight<br/>User is invulnerable during travel<br/>User is invulnerable for 1 seg after travel<br/>Art of Flight is available while dazed, stunned<br/>Cooldown of Circle of Flight is decreased by 15 seg if Art of Flight is used while not dazed, stunned<br/>Art of Flight cannot be used if the circle is out of sight",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5435,7 +5435,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5445,7 +5445,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_42.png",
         "main_info1": "Places Circle of Flight",
         "main_info2": null,
-        "sub_info": "Move to the circle on using Art of Flight<br/>Heals the user 1% of their maximum health on using Art of Flight<br/>Generates 3 chi on using Art of Flight<br/>User is invulnerable during travel<br/>User is invulnerable for 1 sec after travel<br/>Art of Flight is available while dazed, stunned, seized, suppressed, force gripped<br/>Cooldown of Circle of Flight is decreased by 15 sec if Art of Flight is used while not dazed, stunned, seized, suppressed, force gripped<br/>Art of Flight cannot be used if the circle is out of sight",
+        "sub_info": "Move to the circle on using Art of Flight<br/>Heals the user 1% of their maximum health on using Art of Flight<br/>Generates 3 chi on using Art of Flight<br/>User is invulnerable during travel<br/>User is invulnerable for 1 seg after travel<br/>Art of Flight is available while dazed, stunned, seized, suppressed, force gripped<br/>Cooldown of Circle of Flight is decreased by 15 seg if Art of Flight is used while not dazed, stunned, seized, suppressed, force gripped<br/>Art of Flight cannot be used if the circle is out of sight",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5467,7 +5467,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5499,7 +5499,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5509,7 +5509,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_42.png",
         "main_info1": "Places Circle of Flight",
         "main_info2": null,
-        "sub_info": "Circle lasts 10 sec longer<br/>Art of Flight cannot be used if the circle is out of sight<br/>Moves nearby meditating, incapacitated allies to the circle",
+        "sub_info": "Circle lasts 10 seg longer<br/>Art of Flight cannot be used if the circle is out of sight<br/>Moves nearby meditating, incapacitated allies to the circle",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5531,7 +5531,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5541,7 +5541,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_42.png",
         "main_info1": "Places Circle of Flight",
         "main_info2": null,
-        "sub_info": "Decreases the meditation time of nearby meditating allies by 6 sec<br/>Circle lasts 10 sec longer<br/>Art of Flight cannot be used if the circle is out of sight<br/>Moves nearby meditating, incapacitated allies to the circle",
+        "sub_info": "Decreases the meditation time of nearby meditating allies by 6 seg<br/>Circle lasts 10 seg longer<br/>Art of Flight cannot be used if the circle is out of sight<br/>Moves nearby meditating, incapacitated allies to the circle",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5563,7 +5563,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5573,7 +5573,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_55.png",
         "main_info1": "Places Circle of Incursion",
         "main_info2": null,
-        "sub_info": "Moves Deadly Poisoned foes to the circle<br/>Disables offensive defense abilities for 6 sec",
+        "sub_info": "Moves Deadly Poisoned foes to the circle<br/>Disables offensive defense abilities for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5595,7 +5595,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5605,7 +5605,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_55.png",
         "main_info1": "Places Circle of Incursion",
         "main_info2": null,
-        "sub_info": "Moves Deadly Poisoned foes to the circle<br/>Dazes moved foes for 3 sec<br/>Disables offensive defense abilities for 6 sec",
+        "sub_info": "Moves Deadly Poisoned foes to the circle<br/>Dazes moved foes for 3 seg<br/>Disables offensive defense abilities for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5627,7 +5627,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5637,7 +5637,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_55.png",
         "main_info1": "Places Circle of Incursion",
         "main_info2": null,
-        "sub_info": "Moves Deadly Poisoned foes to the circle<br/>Dazes moved foes for 3 sec<br/>Disables offensive defense abilities for 6 sec<br/>Applies up to 5 stacks of Deadly Poison to moved foes",
+        "sub_info": "Moves Deadly Poisoned foes to the circle<br/>Dazes moved foes for 3 seg<br/>Disables offensive defense abilities for 6 seg<br/>Applies up to 5 stacks of Deadly Poison to moved foes",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5659,7 +5659,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5669,7 +5669,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_1_9.png",
         "main_info1": "Places Circle of Return",
         "main_info2": null,
-        "sub_info": "Moves party members in the circle to the user on using Art of Return<br/>User is stealthed for 15 sec<br/>Circle disappears on exiting stealth<br/>Transported party members cannot travel again using Circle of Return for 30 sec",
+        "sub_info": "Moves party members in the circle to the user on using Art of Return<br/>User is stealthed for 15 seg<br/>Circle disappears on exiting stealth<br/>Transported party members cannot travel again using Circle of Return for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5700,8 +5700,8 @@ var skill_data_AS = {
         "name": "Awakened Lightning Kill - 각성 뇌전살",
         "icon": "skill_icon_assassin_1_17.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Available while Spiritualized",
-        "sub_info": "Applies 1 stack of Deadly Poison<br/>Does not generate threat",
+        "main_info2": "Disponível enquanto Espiritualizado",
+        "sub_info": "Applies 1 stack of Deadly Poison<br/>Não gera ameaça",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -5733,7 +5733,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_15.png",
         "main_info1": "Escape from downed status",
         "main_info2": null,
-        "sub_info": "Deals 14~17 damage<br/>Decreases the movement speed of foes by 30% for 8 sec<br/>User is downed for 1 sec on taking damage during use",
+        "sub_info": "Deals 14~17 damage<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>User is downed for 1 seg on taking damage during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5755,7 +5755,7 @@ var skill_data_AS = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     }

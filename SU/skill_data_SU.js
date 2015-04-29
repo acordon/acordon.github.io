@@ -76,7 +76,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "5 sec"
+                "value": "5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -473,7 +473,7 @@ var skill_data_SU = {
         "id": "26103",
         "name": "Entwine - 휘감기",
         "icon": "skill_icon_summon_0_4.png",
-        "main_info1": "Knocks foes down for 3 sec",
+        "main_info1": "Knocks foes down for 3 seg",
         "main_info2": null,
         "sub_info": "Deals 12~14 damage",
         "consume_sp": null,
@@ -497,7 +497,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -505,7 +505,7 @@ var skill_data_SU = {
         "id": "26104",
         "name": "Cheer - 응원",
         "icon": "skill_icon_summon_0_7.png",
-        "main_info1": "Heals the familiar 20% of its maximum health over 5 sec",
+        "main_info1": "Heals the familiar 20% of its maximum health over 5 seg",
         "main_info2": null,
         "sub_info": "Cheer cannot be used if the summoner has less than 11% health",
         "consume_sp": null,
@@ -537,7 +537,7 @@ var skill_data_SU = {
         "id": "26104",
         "name": "Cheer - 응원",
         "icon": "skill_icon_summon_0_7.png",
-        "main_info1": "Heals the familiar 20% of its maximum health over 4.2 sec",
+        "main_info1": "Heals the familiar 20% of its maximum health over 4.2 seg",
         "main_info2": null,
         "sub_info": "Cheer cannot be used if the summoner has less than 11% health",
         "consume_sp": null,
@@ -569,7 +569,7 @@ var skill_data_SU = {
         "id": "26104",
         "name": "Cheer - 응원",
         "icon": "skill_icon_summon_0_7.png",
-        "main_info1": "Heals the familiar 40% of its maximum health over 4.2 sec",
+        "main_info1": "Heals the familiar 40% of its maximum health over 4.2 seg",
         "main_info2": null,
         "sub_info": "Cheer cannot be used if the summoner has less than 21% health",
         "consume_sp": null,
@@ -601,7 +601,7 @@ var skill_data_SU = {
         "id": "26104",
         "name": "Cheer - 응원",
         "icon": "skill_icon_summon_0_7.png",
-        "main_info1": "Heals the familiar 40% of its maximum health over 4.2 sec",
+        "main_info1": "Heals the familiar 40% of its maximum health over 4.2 seg",
         "main_info2": null,
         "sub_info": "Increases the familiar's defense against boss area attacks by 4% per healing<br/>Boss area attack defense increase stacks up to 5 times<br/>Cheer cannot be used if the summoner has less than 21% health",
         "consume_sp": null,
@@ -633,7 +633,7 @@ var skill_data_SU = {
         "id": "26104",
         "name": "Cheer - 응원",
         "icon": "skill_icon_summon_0_7.png",
-        "main_info1": "Heals the familiar 40% of its maximum health over 4.2 sec",
+        "main_info1": "Heals the familiar 40% of its maximum health over 4.2 seg",
         "main_info2": null,
         "sub_info": "Creates a barrier around the familiar equivalent to 5% of its maximum health on the last healing<br/>Increases the familiar's defense against boss area attacks by 4% per healing<br/>Boss area attack defense increase stacks up to 5 times<br/>Cheer cannot be used if the summoner has less than 21% health",
         "consume_sp": null,
@@ -665,7 +665,7 @@ var skill_data_SU = {
         "id": "26105",
         "name": "Tendril - 덩굴손",
         "icon": "skill_icon_summon_0_8.png",
-        "main_info1": "Roots foes for 8 sec",
+        "main_info1": "Roots foes for 8 seg",
         "main_info2": "Deals 23~27 damage",
         "sub_info": null,
         "consume_sp": "2",
@@ -689,7 +689,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -697,7 +697,7 @@ var skill_data_SU = {
         "id": "26105",
         "name": "Tendril - 덩굴손",
         "icon": "skill_icon_summon_0_8.png",
-        "main_info1": "Roots foes for 8 sec",
+        "main_info1": "Roots foes for 8 seg",
         "main_info2": "Deals 23~27 damage",
         "sub_info": "Decreases the movement speed of foes by 40%",
         "consume_sp": "2",
@@ -721,7 +721,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -729,9 +729,9 @@ var skill_data_SU = {
         "id": "26105",
         "name": "Tendril - 덩굴손",
         "icon": "skill_icon_summon_0_8.png",
-        "main_info1": "Roots foes for 8 sec",
+        "main_info1": "Roots foes for 8 seg",
         "main_info2": "Deals 23~27 damage",
-        "sub_info": "Cooldown of Tendril is refreshed on counter with Dandelion<br/>Deals 40% chi damage over 8 sec<br/>Decreases the movement speed of foes by 40%",
+        "sub_info": "Cooldown of Tendril is refreshed on counter with Dandelion<br/>Deals 40% chi damage over 8 seg<br/>Decreases the movement speed of foes by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -753,7 +753,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -761,9 +761,9 @@ var skill_data_SU = {
         "id": "26105",
         "name": "Tendril - 덩굴손",
         "icon": "skill_icon_summon_0_8.png",
-        "main_info1": "Roots foes for 8 sec",
+        "main_info1": "Roots foes for 8 seg",
         "main_info2": "Deals 23~27 damage",
-        "sub_info": "Spreads to nearby the foes<br/>Cooldown of Tendril is refreshed on counter with Dandelion<br/>Deals 40% chi damage over 8 sec<br/>Decreases the movement speed of foes by 40%",
+        "sub_info": "Spreads to nearby the foes<br/>Cooldown of Tendril is refreshed on counter with Dandelion<br/>Deals 40% chi damage over 8 seg<br/>Decreases the movement speed of foes by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -785,7 +785,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -793,9 +793,9 @@ var skill_data_SU = {
         "id": "26105",
         "name": "Ivy Hell - 덩굴지옥",
         "icon": "skill_icon_summon_0_8.png",
-        "main_info1": "Creates a Tendril field that lasts for 10 sec",
+        "main_info1": "Creates a Tendril field that lasts for 10 seg",
         "main_info2": "Deals 23~27 damage per hit",
-        "sub_info": "Spreads to nearby the foes<br/>Deals Tendril per hit<br/>Tendril roots foes for 8 sec<br/>Tendril deals 40% chi damage over 8 sec<br/>Tendril decreases the movement speed of foes by 40%<br/>Disables offensive defense abilities of foes within the area",
+        "sub_info": "Spreads to nearby the foes<br/>Deals Tendril per hit<br/>Tendril roots foes for 8 seg<br/>Tendril deals 40% chi damage over 8 seg<br/>Tendril decreases the movement speed of foes by 40%<br/>Disables offensive defense abilities of foes within the area",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -817,7 +817,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -825,9 +825,9 @@ var skill_data_SU = {
         "id": "26105",
         "name": "Tendril - 덩굴손",
         "icon": "skill_icon_summon_0_8.png",
-        "main_info1": "Roots foes for 8 sec",
+        "main_info1": "Roots foes for 8 seg",
         "main_info2": "Deals 23~27 damage",
-        "sub_info": "Cooldown of Tendril is refreshed on counter with Dandelion<br/>Deals 40% chi damage over 8 sec<br/>Decreases the movement speed of foes by 40%",
+        "sub_info": "Cooldown of Tendril is refreshed on counter with Dandelion<br/>Deals 40% chi damage over 8 seg<br/>Decreases the movement speed of foes by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -849,7 +849,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -857,9 +857,9 @@ var skill_data_SU = {
         "id": "26105",
         "name": "Ivy Hell - 덩굴지옥",
         "icon": "skill_icon_summon_0_8.png",
-        "main_info1": "Creates a Tendril field that lasts for 10 sec",
+        "main_info1": "Creates a Tendril field that lasts for 10 seg",
         "main_info2": "Deals 23~27 damage per hit",
-        "sub_info": "Deals Tendril per hit<br/>Tendril roots foes for 8 sec<br/>Tendril deals 40% chi damage over 8 sec<br/>Tendril decreases the movement speed of foes by 40%<br/>Disables offensive defense abilities of foes within the area",
+        "sub_info": "Deals Tendril per hit<br/>Tendril roots foes for 8 seg<br/>Tendril deals 40% chi damage over 8 seg<br/>Tendril decreases the movement speed of foes by 40%<br/>Disables offensive defense abilities of foes within the area",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -881,7 +881,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -889,9 +889,9 @@ var skill_data_SU = {
         "id": "26105",
         "name": "Ivy - 담쟁이덩굴",
         "icon": "skill_icon_summon_0_39.png",
-        "main_info1": "Roots foes for 8 sec",
+        "main_info1": "Roots foes for 8 seg",
         "main_info2": "Deals 23~27 damage",
-        "sub_info": "Applies Ivy Poison<br/>Ivy Poison deals 72~84 damage over 10 sec<br/>Cooldown of Ivy is refreshed on counter with Dandelion<br/>Cooldown of Ivy is decreased by 16 sec on hitting downed, suppressed foes<br/>Decreases the movement speed of foes by 40%",
+        "sub_info": "Applies Ivy Poison<br/>Ivy Poison deals 72~84 damage over 10 seg<br/>Cooldown of Ivy is refreshed on counter with Dandelion<br/>Cooldown of Ivy is decreased by 16 seg on hitting downed, suppressed foes<br/>Decreases the movement speed of foes by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -908,12 +908,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.1 sec"
+                "value": "0.1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -921,9 +921,9 @@ var skill_data_SU = {
         "id": "26105",
         "name": "Ivy - 담쟁이덩굴",
         "icon": "skill_icon_summon_0_39.png",
-        "main_info1": "Roots foes for 8 sec",
+        "main_info1": "Roots foes for 8 seg",
         "main_info2": "Deals 23~27 damage",
-        "sub_info": "Applies Ivy Poison<br/>Ivy Poison deals 72~84 damage over 10 sec<br/>Cannot be deflected<br/>Increased projectile speed<br/>Cooldown of Ivy is refreshed on counter with Dandelion<br/>Cooldown of Ivy is decreased by 16 sec on hitting downed, suppressed foes<br/>Decreases the movement speed of foes by 40%",
+        "sub_info": "Applies Ivy Poison<br/>Ivy Poison deals 72~84 damage over 10 seg<br/>Cannot be deflected<br/>Increased projectile speed<br/>Cooldown of Ivy is refreshed on counter with Dandelion<br/>Cooldown of Ivy is decreased by 16 seg on hitting downed, suppressed foes<br/>Decreases the movement speed of foes by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -940,12 +940,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.1 sec"
+                "value": "0.1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -955,7 +955,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_39.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Applies Ivy Poison<br/>Ivy Poison deals 72~84 damage over 10 sec<br/>Cooldown of Ivy is refreshed on counter with Dandelion<br/>Cooldown of Ivy is decreased by 16 sec on hitting downed, suppressed foes<br/>Decreases the movement speed of foes by 40%",
+        "sub_info": "Applies Ivy Poison<br/>Ivy Poison deals 72~84 damage over 10 seg<br/>Cooldown of Ivy is refreshed on counter with Dandelion<br/>Cooldown of Ivy is decreased by 16 seg on hitting downed, suppressed foes<br/>Decreases the movement speed of foes by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -972,12 +972,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.1 sec"
+                "value": "0.1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -987,7 +987,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_39.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Applies Ivy Poison<br/>Ivy Poison deals 72~84 damage over 10 sec<br/>Cooldown of Ivy is refreshed on counter with Dandelion<br/>Cooldown of Ivy is decreased by 12 sec on miss<br/>Cooldown of Ivy is decreased by 16 sec on hitting downed, suppressed foes<br/>Decreases the movement speed of foes by 40%",
+        "sub_info": "Applies Ivy Poison<br/>Ivy Poison deals 72~84 damage over 10 seg<br/>Cooldown of Ivy is refreshed on counter with Dandelion<br/>Cooldown of Ivy is decreased by 12 seg on miss<br/>Cooldown of Ivy is decreased by 16 seg on hitting downed, suppressed foes<br/>Decreases the movement speed of foes by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1004,12 +1004,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.1 sec"
+                "value": "0.1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1041,7 +1041,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1073,7 +1073,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1105,7 +1105,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1137,7 +1137,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1145,7 +1145,7 @@ var skill_data_SU = {
         "id": "26106",
         "name": "Siphon - 흡수",
         "icon": "skill_icon_summon_0_9.png",
-        "main_info1": "Deals 96~112 damage over 5 sec",
+        "main_info1": "Deals 96~112 damage over 5 seg",
         "main_info2": "Heals the user 100% of the damage dealt",
         "sub_info": "Can be instantly used on critical hit<br/>Blocks attacks from the front when used at a target's projectile timing<br/>Heals the user 5% of their maximum health on block<br/>Heals the user 200% of the damage dealt to dazed, stunned, seized, force gripped foes",
         "consume_sp": "3",
@@ -1169,7 +1169,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1201,7 +1201,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1233,7 +1233,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1265,7 +1265,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1275,7 +1275,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_40.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": "Deals an additional 12~14 damage on hitting the target's back",
-        "sub_info": "Applies Ivy Poison<br/>Ivy Poison deals 72~84 damage over 10 sec",
+        "sub_info": "Applies Ivy Poison<br/>Ivy Poison deals 72~84 damage over 10 seg",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1297,7 +1297,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1306,8 +1306,8 @@ var skill_data_SU = {
         "name": "Thorn Vine - 가시덩굴",
         "icon": "skill_icon_summon_0_40.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Deals 60~70 damage over 5 sec",
-        "sub_info": "Applies Ivy Poison<br/>Ivy Poison deals 72~84 damage over 10 sec",
+        "main_info2": "Deals 60~70 damage over 5 seg",
+        "sub_info": "Applies Ivy Poison<br/>Ivy Poison deals 72~84 damage over 10 seg",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1329,7 +1329,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1337,7 +1337,7 @@ var skill_data_SU = {
         "id": "26106",
         "name": "Thorn Vine - 가시덩굴",
         "icon": "skill_icon_summon_0_40.png",
-        "main_info1": "Dazes foes for 2 sec",
+        "main_info1": "Dazes foes for 2 seg",
         "main_info2": "Deals 18~21 damage",
         "sub_info": null,
         "consume_sp": "3",
@@ -1361,7 +1361,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1369,7 +1369,7 @@ var skill_data_SU = {
         "id": "26106",
         "name": "Thorn Vine - 가시덩굴",
         "icon": "skill_icon_summon_0_40.png",
-        "main_info1": "Dazes foes for 2 sec",
+        "main_info1": "Dazes foes for 2 seg",
         "main_info2": "Deals 18~21 damage",
         "sub_info": "Cooldown of Press, UuDaDa is refreshed on critical hit",
         "consume_sp": "3",
@@ -1393,7 +1393,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1401,7 +1401,7 @@ var skill_data_SU = {
         "id": "26107",
         "name": "Hornet - 말벌",
         "icon": "skill_icon_summon_0_10.png",
-        "main_info1": "Deals 60~70 damage over 10 sec",
+        "main_info1": "Deals 60~70 damage over 10 seg",
         "main_info2": null,
         "sub_info": "Cannot be countered, deflected",
         "consume_sp": "4",
@@ -1420,12 +1420,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1433,7 +1433,7 @@ var skill_data_SU = {
         "id": "26107",
         "name": "Hornet - 말벌",
         "icon": "skill_icon_summon_0_10.png",
-        "main_info1": "Deals 60~70 damage over 10 sec",
+        "main_info1": "Deals 60~70 damage over 10 seg",
         "main_info2": null,
         "sub_info": "Instantly cast while stealthed<br/>Throwing Chestnut Burr is available on use<br/>Cannot be countered, deflected",
         "consume_sp": "4",
@@ -1452,12 +1452,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1465,7 +1465,7 @@ var skill_data_SU = {
         "id": "26107",
         "name": "Hornet - 말벌",
         "icon": "skill_icon_summon_0_10.png",
-        "main_info1": "Deals 60~70 damage over 10 sec",
+        "main_info1": "Deals 60~70 damage over 10 seg",
         "main_info2": null,
         "sub_info": "Causes foes to Bleed up to 5 stacks<br/>Instantly cast while stealthed<br/>Throwing Chestnut Burr is available on use<br/>Cannot be countered, deflected",
         "consume_sp": "4",
@@ -1484,12 +1484,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1497,7 +1497,7 @@ var skill_data_SU = {
         "id": "26107",
         "name": "Hornet - 말벌",
         "icon": "skill_icon_summon_0_10.png",
-        "main_info1": "Deals 60~70 damage over 10 sec",
+        "main_info1": "Deals 60~70 damage over 10 seg",
         "main_info2": null,
         "sub_info": "Causes foes to Bleed up to 5 stacks<br/>Deals an additional 12~14 damage to foes with 5 stacks of Poison, Ivy Poison<br/>Instantly cast while stealthed<br/>Throwing Chestnut Burr is available on use<br/>Cannot be countered, deflected",
         "consume_sp": "4",
@@ -1516,12 +1516,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1529,9 +1529,9 @@ var skill_data_SU = {
         "id": "26107",
         "name": "Hornet - 말벌",
         "icon": "skill_icon_summon_0_10.png",
-        "main_info1": "Deals 60~70 damage over 10 sec",
+        "main_info1": "Deals 60~70 damage over 10 seg",
         "main_info2": null,
-        "sub_info": "Causes foes to Bleed up to 5 stacks<br/>Mobile during use<br/>Decreases the movement speed of the user by 40% during cast<br/>Extends the duration of the Poison of foes up to 10 sec<br/>Deals an additional 12~14 damage to foes with 5 stacks of Poison, Ivy Poison<br/>Instantly cast while stealthed<br/>Throwing Chestnut Burr is available on use<br/>Cannot be countered, deflected",
+        "sub_info": "Causes foes to Bleed up to 5 stacks<br/>Mobile during use<br/>Decreases the movement speed of the user by 40% during cast<br/>Extends the duration of the Poison of foes up to 10 seg<br/>Deals an additional 12~14 damage to foes with 5 stacks of Poison, Ivy Poison<br/>Instantly cast while stealthed<br/>Throwing Chestnut Burr is available on use<br/>Cannot be countered, deflected",
         "consume_sp": "4",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1548,12 +1548,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1561,9 +1561,9 @@ var skill_data_SU = {
         "id": "26107",
         "name": "Hornet - 말벌",
         "icon": "skill_icon_summon_0_10.png",
-        "main_info1": "Deals 168~196 damage over 10 sec",
+        "main_info1": "Deals 168~196 damage over 10 seg",
         "main_info2": null,
-        "sub_info": "Maintains stealth while casting<br/>Cast time is decreased to 0.5 sec while stealthed<br/>Throwing Chestnut Burr is available on use<br/>Cannot be countered, deflected",
+        "sub_info": "Maintains stealth while casting<br/>Cast time is decreased to 0.5 seg while stealthed<br/>Throwing Chestnut Burr is available on use<br/>Cannot be countered, deflected",
         "consume_sp": "4",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1580,12 +1580,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2 sec"
+                "value": "2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1593,9 +1593,9 @@ var skill_data_SU = {
         "id": "26107",
         "name": "Hornet - 말벌",
         "icon": "skill_icon_summon_0_10.png",
-        "main_info1": "Deals 168~196 damage over 10 sec",
+        "main_info1": "Deals 168~196 damage over 10 seg",
         "main_info2": null,
-        "sub_info": "Applies Hornet Venom<br/>Hornet Venom decreases the movement speed of foes by 20%<br/>Hornet Venom decreases the health regeneration of foes by 20%<br/>Maintains stealth while casting<br/>Cast time is decreased to 0.5 sec while stealthed<br/>Throwing Chestnut Burr is available on use<br/>Cannot be countered, deflected",
+        "sub_info": "Applies Hornet Venom<br/>Hornet Venom decreases the movement speed of foes by 20%<br/>Hornet Venom decreases the health regeneration of foes by 20%<br/>Maintains stealth while casting<br/>Cast time is decreased to 0.5 seg while stealthed<br/>Throwing Chestnut Burr is available on use<br/>Cannot be countered, deflected",
         "consume_sp": "4",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1612,12 +1612,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2 sec"
+                "value": "2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1625,9 +1625,9 @@ var skill_data_SU = {
         "id": "26107",
         "name": "Hornet - 말벌",
         "icon": "skill_icon_summon_0_10.png",
-        "main_info1": "10 sec간 Deals 198~231 damage",
+        "main_info1": "10 seg간 Deals 198~231 damage",
         "main_info2": null,
-        "sub_info": "Applies Hornet Venom<br/>Hornet Venom decreases the movement speed of foes by 20%<br/>Hornet Venom decreases the health regeneration of foes by 20%<br/>Decreases the movement speed of foes by an additional 2% per stack up to 10 stacks<br/>Maintains stealth while casting<br/>Instantly used on airborne, seized, force gripped foes<br/>Cast time is decreased to 0.5 sec while stealthed<br/>Throwing Chestnut Burr is available on use<br/>Cannot be countered, deflected",
+        "sub_info": "Applies Hornet Venom<br/>Hornet Venom decreases the movement speed of foes by 20%<br/>Hornet Venom decreases the health regeneration of foes by 20%<br/>Decreases the movement speed of foes by an additional 2% per stack up to 10 stacks<br/>Maintains stealth while casting<br/>Instantly used on airborne, seized, force gripped foes<br/>Cast time is decreased to 0.5 seg while stealthed<br/>Throwing Chestnut Burr is available on use<br/>Cannot be countered, deflected",
         "consume_sp": "4",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1644,12 +1644,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2 sec"
+                "value": "2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1659,7 +1659,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_10.png",
         "main_info1": "Deals 126~147 damage",
         "main_info2": null,
-        "sub_info": "Cast time is decreased to 1 sec while stealthed<br/>Cooldown of Hornet is refreshed on kill",
+        "sub_info": "Cast time is decreased to 1 seg while stealthed<br/>Cooldown of Hornet is refreshed on kill",
         "consume_sp": "4",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1676,12 +1676,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -1691,7 +1691,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_10.png",
         "main_info1": "Deals 126~147 damage",
         "main_info2": null,
-        "sub_info": "Hornet can be instantly recast on critical hit<br/>Cast time is decreased to 1 sec while stealthed<br/>Cooldown of Hornet is refreshed on kill",
+        "sub_info": "Hornet can be instantly recast on critical hit<br/>Cast time is decreased to 1 seg while stealthed<br/>Cooldown of Hornet is refreshed on kill",
         "consume_sp": "4",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1708,12 +1708,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -1723,7 +1723,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_10.png",
         "main_info1": "Deals 126~147 damage",
         "main_info2": null,
-        "sub_info": "Hornet can be instantly recast on critical hit<br/>Costs 2 chi on recast<br/>Cast time is decreased to 1 sec while stealthed<br/>Cooldown of Hornet is refreshed on kill",
+        "sub_info": "Hornet can be instantly recast on critical hit<br/>Costs 2 chi on recast<br/>Cast time is decreased to 1 seg while stealthed<br/>Cooldown of Hornet is refreshed on kill",
         "consume_sp": "4",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1740,12 +1740,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -1772,7 +1772,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -1804,7 +1804,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -1836,7 +1836,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -1849,9 +1849,9 @@ var skill_data_SU = {
         "id": "26108",
         "name": "Morning Glory Siphon - 나팔꽃 흡수",
         "icon": "skill_icon_summon_0_11.png",
-        "main_info1": "Deals 38~45 damage over 5 sec",
+        "main_info1": "Deals 38~45 damage over 5 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Generates 5 chi over 5 sec",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Generates 5 chi over 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -1881,9 +1881,9 @@ var skill_data_SU = {
         "id": "26108",
         "name": "Morning Glory Siphon - 나팔꽃 흡수",
         "icon": "skill_icon_summon_0_11.png",
-        "main_info1": "Deals 38~45 damage over 5 sec",
+        "main_info1": "Deals 38~45 damage over 5 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Mobile during use<br/>Decreases the movement speed of the user by 40% during cast<br/>Generates 5 chi over 5 sec",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Mobile during use<br/>Decreases the movement speed of the user by 40% during cast<br/>Generates 5 chi over 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -1913,9 +1913,9 @@ var skill_data_SU = {
         "id": "26108",
         "name": "Morning Glory Siphon - 나팔꽃 흡수",
         "icon": "skill_icon_summon_0_11.png",
-        "main_info1": "Deals 38~45 damage over 5 sec",
+        "main_info1": "Deals 38~45 damage over 5 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Heals nearby familiar 10% of its maximum health over 5 sec<br/>Mobile during use<br/>Decreases the movement speed of the user by 40% during cast<br/>Generates 5 chi over 5 sec",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Heals nearby familiar 10% of its maximum health over 5 seg<br/>Mobile during use<br/>Decreases the movement speed of the user by 40% during cast<br/>Generates 5 chi over 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -1945,9 +1945,9 @@ var skill_data_SU = {
         "id": "26108",
         "name": "Morning Glory Siphon - 나팔꽃 흡수",
         "icon": "skill_icon_summon_0_11.png",
-        "main_info1": "Deals 38~45 damage over 5 sec to nearby foes",
+        "main_info1": "Deals 38~45 damage over 5 seg to nearby foes",
         "main_info2": null,
-        "sub_info": "Heals the user 200% of the damage dealt per target hit<br/>Heals nearby familiar 10% of its maximum health over 5 sec<br/>Mobile during use<br/>Decreases the movement speed of the user by 40% during cast<br/>Generates 5 chi over 5 sec",
+        "sub_info": "Heals the user 200% of the damage dealt per target hit<br/>Heals nearby familiar 10% of its maximum health over 5 seg<br/>Mobile during use<br/>Decreases the movement speed of the user by 40% during cast<br/>Generates 5 chi over 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -1969,7 +1969,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1977,9 +1977,9 @@ var skill_data_SU = {
         "id": "26108",
         "name": "Morning Glory Siphon - 나팔꽃 흡수",
         "icon": "skill_icon_summon_0_11.png",
-        "main_info1": "Deals 38~45 damage over 5 sec to nearby foes",
+        "main_info1": "Deals 38~45 damage over 5 seg to nearby foes",
         "main_info2": null,
-        "sub_info": "Heals the user 200% of the damage dealt per target hit<br/>Creates a barrier around the user equivalent to 5% of the user's maximum health if all hits hit<br/>Heals nearby familiar 10% of its maximum health over 5 sec<br/>Mobile during use<br/>Decreases the movement speed of the user by 40% during cast<br/>Generates 5 chi over 5 sec",
+        "sub_info": "Heals the user 200% of the damage dealt per target hit<br/>Creates a barrier around the user equivalent to 5% of the user's maximum health if all hits hit<br/>Heals nearby familiar 10% of its maximum health over 5 seg<br/>Mobile during use<br/>Decreases the movement speed of the user by 40% during cast<br/>Generates 5 chi over 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -2001,7 +2001,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2009,9 +2009,9 @@ var skill_data_SU = {
         "id": "26108",
         "name": "Morning Glory Siphon - 나팔꽃 흡수",
         "icon": "skill_icon_summon_0_11.png",
-        "main_info1": "Deals 38~45 damage over 5 sec",
+        "main_info1": "Deals 38~45 damage over 5 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Other actions can be done while siphoning health<br/>Heals nearby familiar 10% of its maximum health over 5 sec<br/>Mobile during use<br/>Generates 5 chi over 5 sec",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Other actions can be done while siphoning health<br/>Heals nearby familiar 10% of its maximum health over 5 seg<br/>Mobile during use<br/>Generates 5 chi over 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -2033,7 +2033,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -2041,9 +2041,9 @@ var skill_data_SU = {
         "id": "26108",
         "name": "Morning Glory Siphon - 나팔꽃 흡수",
         "icon": "skill_icon_summon_0_11.png",
-        "main_info1": "Deals 38~45 damage over 5 sec",
+        "main_info1": "Deals 38~45 damage over 5 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Doubles health regeneration from damage dealt from other abilities<br/>Other actions can be done while siphoning health<br/>Heals nearby familiar 10% of its maximum health over 5 sec<br/>Mobile during use<br/>Generates 5 chi over 5 sec",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Doubles health regeneration from damage dealt from other abilities<br/>Other actions can be done while siphoning health<br/>Heals nearby familiar 10% of its maximum health over 5 seg<br/>Mobile during use<br/>Generates 5 chi over 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -2065,7 +2065,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -2073,9 +2073,9 @@ var skill_data_SU = {
         "id": "26108",
         "name": "Morning Glory Siphon - 나팔꽃 흡수",
         "icon": "skill_icon_summon_0_11.png",
-        "main_info1": "Deals 96~112 damage over 2.4 sec",
+        "main_info1": "Deals 96~112 damage over 2.4 seg",
         "main_info2": null,
-        "sub_info": "Generates 5 chi over 5 sec<br/>Mobile during use",
+        "sub_info": "Generates 5 chi over 5 seg<br/>Mobile during use",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -2097,7 +2097,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -2105,9 +2105,9 @@ var skill_data_SU = {
         "id": "26108",
         "name": "Morning Glory Siphon - 나팔꽃 흡수",
         "icon": "skill_icon_summon_0_11.png",
-        "main_info1": "Deals 96~112 damage over 2.4 sec",
+        "main_info1": "Deals 96~112 damage over 2.4 seg",
         "main_info2": null,
-        "sub_info": "Generates 5 chi over 5 sec<br/>Generates 5 additional chi over 5 sec if the last hit hits<br/>Mobile during use",
+        "sub_info": "Generates 5 chi over 5 seg<br/>Generates 5 additional chi over 5 seg if the last hit hits<br/>Mobile during use",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -2129,7 +2129,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -2137,9 +2137,9 @@ var skill_data_SU = {
         "id": "26108",
         "name": "Morning Glory Siphon - 나팔꽃 흡수",
         "icon": "skill_icon_summon_0_11.png",
-        "main_info1": "Deals 96~112 damage over 2.4 sec",
+        "main_info1": "Deals 96~112 damage over 2.4 seg",
         "main_info2": null,
-        "sub_info": "Deals an additional 24~28 damage per hit to foes within the area of Chestnut Burr, Throwing Chestnut Burr<br/>Generates 5 chi over 5 sec<br/>Generates 5 additional chi over 5 sec if the last hit hits<br/>Mobile during use",
+        "sub_info": "Deals an additional 24~28 damage per hit to foes within the area of Chestnut Burr, Throwing Chestnut Burr<br/>Generates 5 chi over 5 seg<br/>Generates 5 additional chi over 5 seg if the last hit hits<br/>Mobile during use",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -2161,7 +2161,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -2193,7 +2193,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "3 sec"
+                "value": "3 seg"
             }
         }
     },
@@ -2225,7 +2225,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2257,7 +2257,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2289,7 +2289,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2321,7 +2321,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2331,7 +2331,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_14.png",
         "main_info1": "Calls the familiar to the user",
         "main_info2": "Deals 11~13 damage",
-        "sub_info": "Pulls nearby foes and knocks them down for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
+        "sub_info": "Pulls nearby foes and knocks them down for 3 seg<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2353,7 +2353,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2363,7 +2363,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_14.png",
         "main_info1": "Calls the familiar to the user",
         "main_info2": "Deals 11~13 damage",
-        "sub_info": "Disables defense abilities for 8 sec<br/>Pulls nearby foes and knocks them down for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
+        "sub_info": "Disables defense abilities for 8 seg<br/>Pulls nearby foes and knocks them down for 3 seg<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2385,7 +2385,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2395,7 +2395,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_14.png",
         "main_info1": "Calls the familiar to the user",
         "main_info2": "Deals 11~13 damage",
-        "sub_info": "Disables defense abilities for 8 sec<br/>Pulls nearby foes and knocks them down for 3 sec<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
+        "sub_info": "Disables defense abilities for 8 seg<br/>Pulls nearby foes and knocks them down for 3 seg<br/>Cooldown of Evade is refreshed on hitting more than 4 foes<br/>Basic Foxtail is used instead while Foxtail is on cooldown<br/>Removes status effects from the familiar except down, daze, stun, unconscious, airborne, suppress, seize, force grip<br/>Recalled familiar will await for orders",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2417,7 +2417,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2426,7 +2426,7 @@ var skill_data_SU = {
         "name": "Chestnut Burr - 밤송이",
         "icon": "skill_icon_summon_0_15.png",
         "main_info1": "Decreases the movement speed of foes within the area by 50%",
-        "main_info2": "Deals 120~140 damage over 10 sec",
+        "main_info2": "Deals 120~140 damage over 10 seg",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -2449,7 +2449,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2458,7 +2458,7 @@ var skill_data_SU = {
         "name": "Chestnut Burr - 밤송이",
         "icon": "skill_icon_summon_0_15.png",
         "main_info1": "Decreases the movement speed of foes within the area by 50%",
-        "main_info2": "Deals 120~140 damage over 10 sec",
+        "main_info2": "Deals 120~140 damage over 10 seg",
         "sub_info": "Maintains stealth",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -2481,7 +2481,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2490,7 +2490,7 @@ var skill_data_SU = {
         "name": "Chestnut Burr - 밤송이",
         "icon": "skill_icon_summon_0_15.png",
         "main_info1": "Decreases the movement speed of foes within the area by 50%",
-        "main_info2": "Deals 120~140 damage over 10 sec",
+        "main_info2": "Deals 120~140 damage over 10 seg",
         "sub_info": "Deals an additional 24~28 damage on consecutive hit<br/>Maintains stealth",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -2513,7 +2513,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2522,7 +2522,7 @@ var skill_data_SU = {
         "name": "Chestnut Burr - 밤송이",
         "icon": "skill_icon_summon_0_15.png",
         "main_info1": "Decreases the movement speed of foes within the area by 50%",
-        "main_info2": "Deals 180~210 damage over 10 sec",
+        "main_info2": "Deals 180~210 damage over 10 seg",
         "sub_info": "Deals an additional 36~42 damage on consecutive hit<br/>Maintains stealth",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -2545,7 +2545,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2554,8 +2554,8 @@ var skill_data_SU = {
         "name": "Chestnut Burr - 밤송이",
         "icon": "skill_icon_summon_0_15.png",
         "main_info1": "Decreases the movement speed of foes within the area by 50%",
-        "main_info2": "Deals 120~140 damage over 10 sec",
-        "sub_info": "Deals 50% chi damage over 10 sec<br/>Maintains stealth",
+        "main_info2": "Deals 120~140 damage over 10 seg",
+        "sub_info": "Deals 50% chi damage over 10 seg<br/>Maintains stealth",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2577,7 +2577,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2586,8 +2586,8 @@ var skill_data_SU = {
         "name": "Chestnut Burr - 밤송이",
         "icon": "skill_icon_summon_0_15.png",
         "main_info1": "Decreases the movement speed of foes within the area by 50%",
-        "main_info2": "Deals 120~140 damage over 10 sec",
-        "sub_info": "Deals 50% chi damage over 10 sec<br/>Maintains stealth<br/>Disables charge abilities of foes within the area",
+        "main_info2": "Deals 120~140 damage over 10 seg",
+        "sub_info": "Deals 50% chi damage over 10 seg<br/>Maintains stealth<br/>Disables charge abilities of foes within the area",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2609,7 +2609,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2617,7 +2617,7 @@ var skill_data_SU = {
         "id": "26111",
         "name": "Pollen - 꽃가루",
         "icon": "skill_icon_summon_0_16.png",
-        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 sec",
+        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 seg",
         "main_info2": null,
         "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
@@ -2641,7 +2641,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2649,7 +2649,7 @@ var skill_data_SU = {
         "id": "26111",
         "name": "Pollen - 꽃가루",
         "icon": "skill_icon_summon_0_16.png",
-        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 sec",
+        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 seg",
         "main_info2": null,
         "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
@@ -2673,7 +2673,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2681,7 +2681,7 @@ var skill_data_SU = {
         "id": "26111",
         "name": "Pollen - 꽃가루",
         "icon": "skill_icon_summon_0_16.png",
-        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 sec",
+        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 seg",
         "main_info2": null,
         "sub_info": "Protects allies within the area from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
@@ -2705,7 +2705,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2713,7 +2713,7 @@ var skill_data_SU = {
         "id": "26111",
         "name": "Pollen - 꽃가루",
         "icon": "skill_icon_summon_0_16.png",
-        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 sec",
+        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 seg",
         "main_info2": null,
         "sub_info": "Protects allies within the area from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Heals the user and allies 2% of their maximum health on resist<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
@@ -2737,7 +2737,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2745,9 +2745,9 @@ var skill_data_SU = {
         "id": "26111",
         "name": "Pollen - 꽃가루",
         "icon": "skill_icon_summon_0_16.png",
-        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 sec",
+        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 seg",
         "main_info2": null,
-        "sub_info": "Protects allies within the area from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Heals the user and allies 2% of their maximum health on resist<br/>Meditating allies are invulnerable<br/>Decreases the meditation time of meditating allies by 6 sec<br/>Foes within the area cannot passively block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>Heals the user and allies within the area 10% of their maximum health<br/>Cures the user of Internal Bleeding on hit with Burn Pollen<br/>User is immune to stuns caused by deflect<br/>Heals the user and allies 2% of their maximum health on resist<br/>Meditating allies are invulnerable<br/>Decreases the meditation time of meditating allies by 6 seg<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2769,7 +2769,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2777,7 +2777,7 @@ var skill_data_SU = {
         "id": "26111",
         "name": "Pollen - 꽃가루",
         "icon": "skill_icon_summon_0_16.png",
-        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 sec",
+        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 seg",
         "main_info2": null,
         "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Spreads to nearby the foes<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
@@ -2801,7 +2801,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2809,7 +2809,7 @@ var skill_data_SU = {
         "id": "26111",
         "name": "Pollen - 꽃가루",
         "icon": "skill_icon_summon_0_16.png",
-        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 sec",
+        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 seg",
         "main_info2": null,
         "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Applies up to 5 stacks of Poison<br/>Spreads to nearby the foes<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
@@ -2833,7 +2833,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2841,9 +2841,9 @@ var skill_data_SU = {
         "id": "26111",
         "name": "Pollen - 꽃가루",
         "icon": "skill_icon_summon_0_16.png",
-        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 sec",
+        "main_info1": "User and allies within the area are invulnerable to projectiles for 10 seg",
         "main_info2": null,
-        "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Cooldown of Pollen is refreshed on kill with Burn Pollen<br/>User and allies generate 10% chi over 10 sec<br/>Applies up to 5 stacks of Poison<br/>Spreads to nearby the foes<br/>Foes within the area cannot passively block, evade",
+        "sub_info": "Protects allies within the area from projectiles<br/>User is immune to stuns caused by deflect<br/>Cooldown of Pollen is refreshed on kill with Burn Pollen<br/>User and allies generate 10% chi over 10 seg<br/>Applies up to 5 stacks of Poison<br/>Spreads to nearby the foes<br/>Foes within the area cannot passively block, evade",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2865,7 +2865,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2873,9 +2873,9 @@ var skill_data_SU = {
         "id": "26112",
         "name": "Dandelion - 민들레씨",
         "icon": "skill_icon_summon_0_17.png",
-        "main_info1": "Counters an attack for 1.5 sec",
+        "main_info1": "Counters an attack for 1.5 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on counter<br/>User is invulnerable for 1.5 sec on counter<br/>Generates 4 chi on counter",
+        "sub_info": "User is stealthed for 6 seg on counter<br/>User is invulnerable for 1.5 seg on counter<br/>Generates 4 chi on counter",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2897,7 +2897,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -2905,9 +2905,9 @@ var skill_data_SU = {
         "id": "26112",
         "name": "Dandelion - 민들레씨",
         "icon": "skill_icon_summon_0_17.png",
-        "main_info1": "Counters an attack for 2 sec",
+        "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on counter<br/>User is invulnerable for 1.5 sec on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "User is stealthed for 6 seg on counter<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2929,7 +2929,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -2937,9 +2937,9 @@ var skill_data_SU = {
         "id": "26112",
         "name": "Dandelion - 민들레씨",
         "icon": "skill_icon_summon_0_17.png",
-        "main_info1": "Counters an attack for 2 sec",
+        "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on counter<br/>User is invulnerable for 1.5 sec on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "User is stealthed for 6 seg on counter<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2961,7 +2961,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -2969,9 +2969,9 @@ var skill_data_SU = {
         "id": "26112",
         "name": "Dandelion - 민들레씨",
         "icon": "skill_icon_summon_0_17.png",
-        "main_info1": "Counters an attack for 2 sec",
+        "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on counter<br/>User is invulnerable for 1.5 sec on counter<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "User is stealthed for 6 seg on counter<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2993,7 +2993,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -3001,9 +3001,9 @@ var skill_data_SU = {
         "id": "26112",
         "name": "Dandelion - 민들레씨",
         "icon": "skill_icon_summon_0_17.png",
-        "main_info1": "Counters an attack for 2 sec",
+        "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on counter<br/>User is invulnerable for 1.5 sec on counter<br/>Cooldown of Hornet is refreshed on counter<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "User is stealthed for 6 seg on counter<br/>User is invulnerable for 1.5 seg on counter<br/>Cooldown of Hornet is refreshed on counter<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3025,7 +3025,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -3033,9 +3033,9 @@ var skill_data_SU = {
         "id": "26112",
         "name": "Dandelion - 민들레씨",
         "icon": "skill_icon_summon_0_17.png",
-        "main_info1": "Counters an attack for 2 sec",
+        "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on counter<br/>User is invulnerable for 1.5 sec on counter<br/>Creates a barrier around the user equivalent to 25% of the user's maximum health during use<br/>Barrier disappears on counter<br/>Barrier removed on using another ability<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "User is stealthed for 6 seg on counter<br/>User is invulnerable for 1.5 seg on counter<br/>Creates a barrier around the user equivalent to 25% of the user's maximum health during use<br/>Barrier disappears on counter<br/>Barrier removed on using another ability<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3057,7 +3057,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3065,9 +3065,9 @@ var skill_data_SU = {
         "id": "26112",
         "name": "Dandelion - 민들레씨",
         "icon": "skill_icon_summon_0_17.png",
-        "main_info1": "Counters an attack for 2 sec",
+        "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on counter<br/>Gives Dandelion effect to nearby allies<br/>Heals the user 1% of their maximum health per protected ally<br/>User is invulnerable for 1.5 sec on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "User is stealthed for 6 seg on counter<br/>Gives Dandelion effect to nearby allies<br/>Heals the user 1% of their maximum health per protected ally<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3089,7 +3089,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -3097,9 +3097,9 @@ var skill_data_SU = {
         "id": "26112",
         "name": "Dandelion - 민들레씨",
         "icon": "skill_icon_summon_0_17.png",
-        "main_info1": "Counters an attack for 2 sec",
+        "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on counter<br/>Gives Dandelion effect to nearby allies<br/>Heals the user 1% of their maximum health per protected ally<br/>User is immune to daze, stun, knock back while stealthed<br/>User is invulnerable for 1.5 sec on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "User is stealthed for 6 seg on counter<br/>Gives Dandelion effect to nearby allies<br/>Heals the user 1% of their maximum health per protected ally<br/>User is immune to daze, stun, knock back while stealthed<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3121,7 +3121,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -3129,9 +3129,9 @@ var skill_data_SU = {
         "id": "26112",
         "name": "Dandelion - 민들레씨",
         "icon": "skill_icon_summon_0_17.png",
-        "main_info1": "Counters an attack for 2 sec",
+        "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 sec on counter<br/>Heals the user 4% of their maximum health on counter<br/>Gives Dandelion effect to nearby allies<br/>Heals allies 4% of their maximum health on resist<br/>Heals the user 1% of their maximum health per protected ally<br/>User is immune to daze, stun, knock back while stealthed<br/>User is invulnerable for 1.5 sec on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "User is stealthed for 6 seg on counter<br/>Heals the user 4% of their maximum health on counter<br/>Gives Dandelion effect to nearby allies<br/>Heals allies 4% of their maximum health on resist<br/>Heals the user 1% of their maximum health per protected ally<br/>User is immune to daze, stun, knock back while stealthed<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3153,7 +3153,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -3163,7 +3163,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_23.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "Escape from downed, dazed, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Familiar is invulnerable for 2 sec",
+        "sub_info": "Escape from downed, dazed, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Familiar is invulnerable for 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3185,7 +3185,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3195,7 +3195,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_24.png",
         "main_info1": "Escape from downed status",
         "main_info2": null,
-        "sub_info": "Switch places with the familiar<br/>User is downed for 1 sec on taking damage during use",
+        "sub_info": "Switch places with the familiar<br/>User is downed for 1 seg on taking damage during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3217,7 +3217,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3249,7 +3249,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -3259,7 +3259,7 @@ var skill_data_SU = {
         "icon": "skill_icon_forcemaster_0_56.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Unstealthed familiar is immune to status effects for 2 sec",
+        "sub_info": "User is invulnerable during use<br/>Unstealthed familiar is immune to status effects for 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3281,7 +3281,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3291,7 +3291,7 @@ var skill_data_SU = {
         "icon": "skill_icon_forcemaster_0_56.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Unstealthed familiar is immune to status effects for 2 sec<br/>Increases unstealthed familiar's defense against area attacks by 50% for 2 sec",
+        "sub_info": "User is invulnerable during use<br/>Unstealthed familiar is immune to status effects for 2 seg<br/>Increases unstealthed familiar's defense against area attacks by 50% for 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3313,7 +3313,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3323,7 +3323,7 @@ var skill_data_SU = {
         "icon": "skill_icon_forcemaster_0_56.png",
         "main_info1": "Move back 10m",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Unstealthed familiar is immune to status effects for 2 sec<br/>Increases unstealthed familiar's defense against area attacks by 50% for 2 sec<br/>Heals the user 5% of their maximum health over 10 sec",
+        "sub_info": "User is invulnerable during use<br/>Unstealthed familiar is immune to status effects for 2 seg<br/>Increases unstealthed familiar's defense against area attacks by 50% for 2 seg<br/>Heals the user 5% of their maximum health over 10 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3345,7 +3345,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3355,7 +3355,7 @@ var skill_data_SU = {
         "icon": "skill_icon_forcemaster_0_56.png",
         "main_info1": "Move back 10m",
         "main_info2": "Deals 23~27 damage",
-        "sub_info": "User is invulnerable during use<br/>Deals Tendril<br/>Rooted foes are immobilized for 3 sec",
+        "sub_info": "User is invulnerable during use<br/>Deals Tendril<br/>Rooted foes are immobilized for 3 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3377,7 +3377,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3385,7 +3385,7 @@ var skill_data_SU = {
         "id": "26130",
         "name": "Burn Pollen - 꽃가루 태우기",
         "icon": "skill_icon_assassin_0_64.png",
-        "main_info1": "Deals 90~105 damage over 10 sec",
+        "main_info1": "Deals 90~105 damage over 10 seg",
         "main_info2": null,
         "sub_info": "Burns Pollen",
         "consume_sp": null,
@@ -3417,7 +3417,7 @@ var skill_data_SU = {
         "id": "26130",
         "name": "Burn Pollen - 꽃가루 태우기",
         "icon": "skill_icon_assassin_0_64.png",
-        "main_info1": "Deals 90~105 damage over 10 sec",
+        "main_info1": "Deals 90~105 damage over 10 seg",
         "main_info2": null,
         "sub_info": "Burns Pollen",
         "consume_sp": null,
@@ -3449,7 +3449,7 @@ var skill_data_SU = {
         "id": "26130",
         "name": "Burn Pollen - 꽃가루 태우기",
         "icon": "skill_icon_assassin_0_64.png",
-        "main_info1": "Deals 90~105 damage over 10 sec",
+        "main_info1": "Deals 90~105 damage over 10 seg",
         "main_info2": null,
         "sub_info": "Burns Pollen<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
@@ -3481,7 +3481,7 @@ var skill_data_SU = {
         "id": "26130",
         "name": "Burn Pollen - 꽃가루 태우기",
         "icon": "skill_icon_assassin_0_64.png",
-        "main_info1": "Deals 90~105 damage over 10 sec",
+        "main_info1": "Deals 90~105 damage over 10 seg",
         "main_info2": null,
         "sub_info": "Burns Pollen<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
@@ -3513,7 +3513,7 @@ var skill_data_SU = {
         "id": "26130",
         "name": "Burn Pollen - 꽃가루 태우기",
         "icon": "skill_icon_assassin_0_64.png",
-        "main_info1": "Deals 90~105 damage over 10 sec",
+        "main_info1": "Deals 90~105 damage over 10 seg",
         "main_info2": null,
         "sub_info": "Burns Pollen<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
@@ -3545,7 +3545,7 @@ var skill_data_SU = {
         "id": "26130",
         "name": "Burn Pollen - 꽃가루 태우기",
         "icon": "skill_icon_assassin_0_64.png",
-        "main_info1": "Deals 90~105 damage over 10 sec",
+        "main_info1": "Deals 90~105 damage over 10 seg",
         "main_info2": null,
         "sub_info": "Burns Pollen",
         "consume_sp": null,
@@ -3577,7 +3577,7 @@ var skill_data_SU = {
         "id": "26130",
         "name": "Burn Pollen - 꽃가루 태우기",
         "icon": "skill_icon_assassin_0_64.png",
-        "main_info1": "Deals 90~105 damage over 10 sec",
+        "main_info1": "Deals 90~105 damage over 10 seg",
         "main_info2": null,
         "sub_info": "Burns Pollen",
         "consume_sp": null,
@@ -3609,7 +3609,7 @@ var skill_data_SU = {
         "id": "26130",
         "name": "Burn Pollen - 꽃가루 태우기",
         "icon": "skill_icon_assassin_0_64.png",
-        "main_info1": "Deals 90~105 damage over 10 sec",
+        "main_info1": "Deals 90~105 damage over 10 seg",
         "main_info2": null,
         "sub_info": "Burns Pollen",
         "consume_sp": null,
@@ -3643,7 +3643,7 @@ var skill_data_SU = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Escape from downed, unconscious status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 10m<br/>User is stealthed for 3 sec<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Move back 10m<br/>User is stealthed for 3 seg<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3665,7 +3665,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3675,7 +3675,7 @@ var skill_data_SU = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 10m<br/>User is stealthed for 3 sec<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Move back 10m<br/>User is stealthed for 3 seg<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3697,7 +3697,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3707,7 +3707,7 @@ var skill_data_SU = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Escape from downed statused, dazed, stunned, unconscious, suppressed, seized, force gripped status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 10m<br/>User is stealthed for 3 sec<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Move back 10m<br/>User is stealthed for 3 seg<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3729,7 +3729,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3739,7 +3739,7 @@ var skill_data_SU = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Escape from downed statused, dazed, stunned, unconscious, suppressed, seized, force gripped status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 10m<br/>User is stealthed for 3 sec<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Move back 10m<br/>User is stealthed for 3 seg<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3761,7 +3761,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3771,7 +3771,7 @@ var skill_data_SU = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Escape from downed statused, dazed, stunned, unconscious, suppressed, seized, force gripped status",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Move back 10m<br/>User is stealthed for 3 sec<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Move back 10m<br/>User is stealthed for 3 seg<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3793,7 +3793,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3803,7 +3803,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_6.png",
         "main_info1": "Familiar charges to the target",
         "main_info2": null,
-        "sub_info": "Deals 24~28 damage",
+        "sub_info": "Causa Dano de 24~28 ",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3825,7 +3825,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "2 sec"
+                "value": "2 seg"
             }
         }
     },
@@ -3835,7 +3835,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_6.png",
         "main_info1": "Familiar charges to the target",
         "main_info2": null,
-        "sub_info": "Deals 24~28 damage<br/>Increased charge speed",
+        "sub_info": "Causa Dano de 24~28 <br/>Increased charge speed",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3857,7 +3857,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "2 sec"
+                "value": "2 seg"
             }
         }
     },
@@ -3867,7 +3867,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_6.png",
         "main_info1": "Familiar charges to the target",
         "main_info2": null,
-        "sub_info": "Deflects attacks while charging<br/>Deals 24~28 damage<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
+        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 24~28 <br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3889,7 +3889,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3899,7 +3899,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_6.png",
         "main_info1": "Familiar charges to the target",
         "main_info2": null,
-        "sub_info": "Deflects attacks while charging<br/>Deals 24~28 damage<br/>Decreases the movement speed of foes by 20%<br/>Disables charge abilities of foes for 8 sec<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
+        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 24~28 <br/>Decreases the movement speed of foes by 20%<br/>Disables charge abilities of foes for 8 seg<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3921,7 +3921,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3931,7 +3931,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_6.png",
         "main_info1": "Familiar charges to the target",
         "main_info2": null,
-        "sub_info": "Deflects attacks while charging<br/>Deals 24~28 damage<br/>Ignores defense<br/>Stuns defending foes for 2 sec<br/>Decreases the movement speed of foes by 20%<br/>Disables charge abilities of foes for 8 sec<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
+        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 24~28 <br/>Ignora Defesa<br/>Stuns defending foes for 2 seg<br/>Decreases the movement speed of foes by 20%<br/>Disables charge abilities of foes for 8 seg<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3953,7 +3953,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3985,7 +3985,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -4017,7 +4017,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -4027,7 +4027,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_42.png",
         "main_info1": "Familiar charges to the target",
         "main_info2": "Deals 60~70 damage over 5 hits",
-        "sub_info": "Stuns foes for 2 sec on hitting them 2 times<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
+        "sub_info": "Stuns foes for 2 seg on hitting them 2 times<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4049,7 +4049,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4059,7 +4059,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_42.png",
         "main_info1": "Familiar charges to the target",
         "main_info2": "Deals 60~70 damage over 5 hits",
-        "sub_info": "Stuns foes for 2 sec on hitting them 2 times<br/>Extends the duration of the stunned status of foes up to 2 sec per hit<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
+        "sub_info": "Stuns foes for 2 seg on hitting them 2 times<br/>Extends the duration of the stunned status of foes up to 2 seg per hit<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4081,7 +4081,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4251,7 +4251,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_28.png",
         "main_info1": "Deals 37~43 damage",
         "main_info2": null,
-        "sub_info": "Meow~ is replaced with Twirl<br/>Automatically used by the familiar<br/>Twirl deflects 1 attack for 0.5 sec<br/>Familiar is immune to daze, stun, knock back, knock up while using Twirl<br/>Breaks the familiar out of freeze on using Twirl<br/>Deals an additional 3~4 damage to immobile foes",
+        "sub_info": "Meow~ is replaced with Twirl<br/>Automatically used by the familiar<br/>Twirl deflects 1 attack for 0.5 seg<br/>Familiar is immune to daze, stun, knock back, knock up while using Twirl<br/>Breaks the familiar out of freeze on using Twirl<br/>Deals an additional 3~4 damage to immobile foes",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4281,7 +4281,7 @@ var skill_data_SU = {
         "id": "26202",
         "name": "Low Slash - 하단베기",
         "icon": "skill_icon_summon_0_34.png",
-        "main_info1": "Knocks foes down for 3 sec",
+        "main_info1": "Knocks foes down for 3 seg",
         "main_info2": null,
         "sub_info": "Deals 18~21 damage",
         "consume_sp": null,
@@ -4305,7 +4305,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4313,7 +4313,7 @@ var skill_data_SU = {
         "id": "26202",
         "name": "Low Slash - 하단베기",
         "icon": "skill_icon_summon_0_34.png",
-        "main_info1": "Knocks foes down for 4 sec",
+        "main_info1": "Knocks foes down for 4 seg",
         "main_info2": null,
         "sub_info": "Deals 18~21 damage",
         "consume_sp": null,
@@ -4337,7 +4337,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4345,7 +4345,7 @@ var skill_data_SU = {
         "id": "26202",
         "name": "Low Slash - 하단베기",
         "icon": "skill_icon_summon_0_34.png",
-        "main_info1": "Knocks foes down for 4 sec",
+        "main_info1": "Knocks foes down for 4 seg",
         "main_info2": null,
         "sub_info": "Deals 18~21 damage",
         "consume_sp": null,
@@ -4369,7 +4369,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4377,9 +4377,9 @@ var skill_data_SU = {
         "id": "26202",
         "name": "Low Slash - 하단베기",
         "icon": "skill_icon_summon_0_34.png",
-        "main_info1": "Knocks foes down for 4 sec",
+        "main_info1": "Knocks foes down for 4 seg",
         "main_info2": null,
-        "sub_info": "Deals 18~21 damage<br/>Decreases the movement speed of foes by 40%<br/>Disables charge abilities of foes for 8 sec",
+        "sub_info": "Deals 18~21 damage<br/>Decreases the movement speed of foes by 40%<br/>Disables charge abilities of foes for 8 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4401,7 +4401,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4409,9 +4409,9 @@ var skill_data_SU = {
         "id": "26202",
         "name": "Low Slash - 하단베기",
         "icon": "skill_icon_summon_0_34.png",
-        "main_info1": "Knocks foes down for 4 sec",
+        "main_info1": "Knocks foes down for 4 seg",
         "main_info2": null,
-        "sub_info": "Deals 18~21 damage<br/>Low Slash can be recast up to 2 times<br/>Cooldown of Low Slash is increased by 12 sec if it is used 2 times<br/>Decreases the movement speed of foes by 40%<br/>Disables charge abilities of foes for 8 sec",
+        "sub_info": "Deals 18~21 damage<br/>Low Slash can be recast up to 2 times<br/>Cooldown of Low Slash is increased by 12 seg if it is used 2 times<br/>Decreases the movement speed of foes by 40%<br/>Disables charge abilities of foes for 8 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4433,7 +4433,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4441,7 +4441,7 @@ var skill_data_SU = {
         "id": "26202",
         "name": "Plant Bomb - 폭탄 설치",
         "icon": "skill_icon_summon_0_26.png",
-        "main_info1": "Knocks foes down for 3 sec",
+        "main_info1": "Knocks foes down for 3 seg",
         "main_info2": null,
         "sub_info": "Familiar plants a bomb<br/>Deals 36~42 damage",
         "consume_sp": null,
@@ -4465,7 +4465,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4473,7 +4473,7 @@ var skill_data_SU = {
         "id": "26202",
         "name": "Plant Bomb - 폭탄 설치",
         "icon": "skill_icon_summon_0_26.png",
-        "main_info1": "Knocks foes down for 3 sec",
+        "main_info1": "Knocks foes down for 3 seg",
         "main_info2": null,
         "sub_info": "Familiar plants a bomb<br/>Deals 36~42 damage",
         "consume_sp": null,
@@ -4497,7 +4497,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4505,7 +4505,7 @@ var skill_data_SU = {
         "id": "26202",
         "name": "Plant Bomb - 폭탄 설치",
         "icon": "skill_icon_summon_0_26.png",
-        "main_info1": "Knocks foes down for 3 sec",
+        "main_info1": "Knocks foes down for 3 seg",
         "main_info2": null,
         "sub_info": "Familiar plants a bomb<br/>Synergy down applied<br/>Deals 36~42 damage",
         "consume_sp": null,
@@ -4529,7 +4529,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4561,7 +4561,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4593,7 +4593,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4603,7 +4603,7 @@ var skill_data_SU = {
         "icon": "buff_debuff_icon_03_21.png",
         "main_info1": "Deals 240~280 damage",
         "main_info2": null,
-        "sub_info": "Blows up around the familiar after 8 sec<br/>Ignores defense",
+        "sub_info": "Blows up around the familiar after 8 seg<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4625,7 +4625,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -4635,7 +4635,7 @@ var skill_data_SU = {
         "icon": "buff_debuff_icon_03_21.png",
         "main_info1": "Deals 240~280 damage",
         "main_info2": null,
-        "sub_info": "Blows up around the familiar after 8 sec<br/>Cooldown of Launch Bomb is decreased by 12 sec on hit<br/>Ignores defense",
+        "sub_info": "Blows up around the familiar after 8 seg<br/>Cooldown of Launch Bomb is decreased by 12 seg on hit<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4657,7 +4657,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -4684,7 +4684,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "11 sec"
+                "value": "11 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4697,7 +4697,7 @@ var skill_data_SU = {
         "id": "26206",
         "name": "Press - 누르기",
         "icon": "skill_icon_summon_0_18.png",
-        "main_info1": "Suppress the target for 3 sec",
+        "main_info1": "Suppress the target for 3 seg",
         "main_info2": "Deals 114~133 damage at the end of the duration",
         "sub_info": null,
         "consume_sp": null,
@@ -4721,7 +4721,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4729,7 +4729,7 @@ var skill_data_SU = {
         "id": "26206",
         "name": "Press - 누르기",
         "icon": "skill_icon_summon_0_18.png",
-        "main_info1": "Suppress the target for 4 sec",
+        "main_info1": "Suppress the target for 4 seg",
         "main_info2": "Deals 114~133 damage at the end of the duration",
         "sub_info": null,
         "consume_sp": null,
@@ -4753,7 +4753,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4761,9 +4761,9 @@ var skill_data_SU = {
         "id": "26206",
         "name": "Press - 누르기",
         "icon": "skill_icon_summon_0_18.png",
-        "main_info1": "Suppress the target for 4 sec",
+        "main_info1": "Suppress the target for 4 seg",
         "main_info2": "Deals 114~133 damage at the end of the duration",
-        "sub_info": "Disables defense abilities of the suppressed target for 10 sec at the end of the duration<br/>Decreases Defense by 50% for 10 sec",
+        "sub_info": "Disables defense abilities of the suppressed target for 10 seg at the end of the duration<br/>Decreases Defense by 50% for 10 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4785,7 +4785,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4793,9 +4793,9 @@ var skill_data_SU = {
         "id": "26206",
         "name": "Press - 누르기",
         "icon": "skill_icon_summon_0_18.png",
-        "main_info1": "Suppress the target for 4 sec",
+        "main_info1": "Suppress the target for 4 seg",
         "main_info2": "Deals 114~133 damage at the end of the duration",
-        "sub_info": "Blinds, deafens the suppressed target for 5 sec at the end of the duration<br/>Disables defense abilities of the suppressed target for 10 sec at the end of the duration<br/>Decreases Defense by 50% for 10 sec",
+        "sub_info": "Blinds, deafens the suppressed target for 5 seg at the end of the duration<br/>Disables defense abilities of the suppressed target for 10 seg at the end of the duration<br/>Decreases Defense by 50% for 10 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4817,7 +4817,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4825,7 +4825,7 @@ var skill_data_SU = {
         "id": "26206",
         "name": "Press - 누르기",
         "icon": "skill_icon_summon_0_18.png",
-        "main_info1": "Suppress the target for 4 sec",
+        "main_info1": "Suppress the target for 4 seg",
         "main_info2": "Deals 114~133 damage at the end of the duration",
         "sub_info": "Throwing Chestnut Burr is available on the suppressed target",
         "consume_sp": null,
@@ -4849,7 +4849,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4857,7 +4857,7 @@ var skill_data_SU = {
         "id": "26206",
         "name": "Press - 누르기",
         "icon": "skill_icon_summon_0_18.png",
-        "main_info1": "Suppress the target for 4 sec",
+        "main_info1": "Suppress the target for 4 seg",
         "main_info2": "Deals 150~175 damage at the end of the duration",
         "sub_info": "Throwing Chestnut Burr is available on the suppressed target",
         "consume_sp": null,
@@ -4881,7 +4881,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4908,12 +4908,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.1 sec"
+                "value": "0.1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4921,7 +4921,7 @@ var skill_data_SU = {
         "id": "26208",
         "name": "Headbutt - 박치기",
         "icon": "skill_icon_summon_0_20.png",
-        "main_info1": "Knocks the suppressed foe unconscious for 30 sec",
+        "main_info1": "Knocks the suppressed foe unconscious for 30 seg",
         "main_info2": "Deals 42~49 damage",
         "sub_info": null,
         "consume_sp": "2",
@@ -4945,7 +4945,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4953,7 +4953,7 @@ var skill_data_SU = {
         "id": "26209",
         "name": "Curl - 웅크리기",
         "icon": "skill_icon_summon_0_21.png",
-        "main_info1": "Familiar takes 90% less damage for 5 sec",
+        "main_info1": "Familiar takes 90% less damage for 5 seg",
         "main_info2": null,
         "sub_info": "Familiar is immune to status effects during use",
         "consume_sp": null,
@@ -4977,7 +4977,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4985,7 +4985,7 @@ var skill_data_SU = {
         "id": "26209",
         "name": "Curl - 웅크리기",
         "icon": "skill_icon_summon_0_21.png",
-        "main_info1": "Familiar takes 90% less damage for 5 sec",
+        "main_info1": "Familiar takes 90% less damage for 5 seg",
         "main_info2": null,
         "sub_info": "Familiar is immune to status effects during use<br/>Heals the familiar 2% of its maximum health on taking damage",
         "consume_sp": null,
@@ -5009,7 +5009,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -5017,7 +5017,7 @@ var skill_data_SU = {
         "id": "26209",
         "name": "Curl - 웅크리기",
         "icon": "skill_icon_summon_0_21.png",
-        "main_info1": "Familiar takes 90% less damage for 8 sec",
+        "main_info1": "Familiar takes 90% less damage for 8 seg",
         "main_info2": null,
         "sub_info": "Familiar is immune to status effects during use<br/>Heals the familiar 2% of its maximum health on taking damage",
         "consume_sp": null,
@@ -5041,7 +5041,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -5049,9 +5049,9 @@ var skill_data_SU = {
         "id": "26209",
         "name": "Curl - 웅크리기",
         "icon": "skill_icon_summon_0_21.png",
-        "main_info1": "Familiar takes 90% less damage for 8 sec",
+        "main_info1": "Familiar takes 90% less damage for 8 seg",
         "main_info2": null,
-        "sub_info": "Generates 12 chi over 8 sec<br/>Familiar is immune to status effects during use<br/>Heals the familiar 2% of its maximum health on taking damage",
+        "sub_info": "Generates 12 chi over 8 seg<br/>Familiar is immune to status effects during use<br/>Heals the familiar 2% of its maximum health on taking damage",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5073,7 +5073,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -5081,9 +5081,9 @@ var skill_data_SU = {
         "id": "26209",
         "name": "Curl - 웅크리기",
         "icon": "skill_icon_summon_0_21.png",
-        "main_info1": "Familiar takes 90% less damage for 8 sec",
+        "main_info1": "Familiar takes 90% less damage for 8 seg",
         "main_info2": null,
-        "sub_info": "Has a 30% chance to deal Tendril to the attacking target for 6 sec<br/>Familiar is immune to status effects during use<br/>Generates 12 chi over 8 sec<br/>Heals the familiar 2% of its maximum health on taking damage",
+        "sub_info": "Has a 30% chance to deal Tendril to the attacking target for 6 seg<br/>Familiar is immune to status effects during use<br/>Generates 12 chi over 8 seg<br/>Heals the familiar 2% of its maximum health on taking damage",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5105,7 +5105,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -5113,9 +5113,9 @@ var skill_data_SU = {
         "id": "26209",
         "name": "Curl - 웅크리기",
         "icon": "skill_icon_summon_0_21.png",
-        "main_info1": "Familiar takes 90% less damage for 8 sec",
+        "main_info1": "Familiar takes 90% less damage for 8 seg",
         "main_info2": null,
-        "sub_info": "Taunts nearby foes for 8 sec<br/>Familiar is immune to status effects during use<br/>Heals the familiar 2% of its maximum health on taking damage",
+        "sub_info": "Taunts nearby foes for 8 seg<br/>Familiar is immune to status effects during use<br/>Heals the familiar 2% of its maximum health on taking damage",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5137,7 +5137,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -5145,9 +5145,9 @@ var skill_data_SU = {
         "id": "26209",
         "name": "Curl - 웅크리기",
         "icon": "skill_icon_summon_0_21.png",
-        "main_info1": "Familiar takes 90% less damage for 8 sec",
+        "main_info1": "Familiar takes 90% less damage for 8 seg",
         "main_info2": null,
-        "sub_info": "Nearby allies generate 40% chi over 8 sec<br/>Taunts nearby foes for 8 sec<br/>Familiar is immune to status effects during use<br/>Heals the familiar 2% of its maximum health on taking damage",
+        "sub_info": "Nearby allies generate 40% chi over 8 seg<br/>Taunts nearby foes for 8 seg<br/>Familiar is immune to status effects during use<br/>Heals the familiar 2% of its maximum health on taking damage",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5169,7 +5169,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -5179,7 +5179,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_22.png",
         "main_info1": "Familiar escapes from downed status",
         "main_info2": null,
-        "sub_info": "Deals 10~11 damage<br/>Familiar is downed for 1 sec if it is hit during use",
+        "sub_info": "Deals 10~11 damage<br/>Familiar is downed for 1 seg if it is hit during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5201,7 +5201,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -5209,7 +5209,7 @@ var skill_data_SU = {
         "id": "26211",
         "name": "Impact - 충격",
         "icon": "skill_icon_summon_0_25.png",
-        "main_info1": "Deals 84~98 damage",
+        "main_info1": "Causa Dano de 84~98",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -5233,7 +5233,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5241,7 +5241,7 @@ var skill_data_SU = {
         "id": "26211",
         "name": "Impact - 충격",
         "icon": "skill_icon_summon_0_25.png",
-        "main_info1": "Deals 84~98 damage",
+        "main_info1": "Causa Dano de 84~98",
         "main_info2": null,
         "sub_info": "Heals the familiar 10% of its maximum health",
         "consume_sp": null,
@@ -5265,7 +5265,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5273,9 +5273,9 @@ var skill_data_SU = {
         "id": "26211",
         "name": "Impact - 충격",
         "icon": "skill_icon_summon_0_25.png",
-        "main_info1": "Deals 84~98 damage",
+        "main_info1": "Causa Dano de 84~98",
         "main_info2": null,
-        "sub_info": "Heals the familiar 10% of its maximum health<br/>Ignores defense",
+        "sub_info": "Heals the familiar 10% of its maximum health<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5297,7 +5297,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5305,8 +5305,8 @@ var skill_data_SU = {
         "id": "26211",
         "name": "Impact - 충격",
         "icon": "skill_icon_summon_0_25.png",
-        "main_info1": "Dazes foes for 2 sec",
-        "main_info2": "Deals 84~98 damage",
+        "main_info1": "Dazes foes for 2 seg",
+        "main_info2": "Causa Dano de 84~98",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5329,7 +5329,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5337,8 +5337,8 @@ var skill_data_SU = {
         "id": "26211",
         "name": "Impact - 충격",
         "icon": "skill_icon_summon_0_25.png",
-        "main_info1": "Dazes foes for 2 sec",
-        "main_info2": "Deals 84~98 damage<br/>Foes suffer from Internal Bleeding for 12 sec",
+        "main_info1": "Dazes foes for 2 seg",
+        "main_info2": "Causa Dano de 84~98<br/>Foes suffer from Internal Bleeding for 12 seg",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5361,7 +5361,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5371,7 +5371,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_44.png",
         "main_info1": "Deals 66~77 damage",
         "main_info2": null,
-        "sub_info": "Automatically used by the familiar<br/>Ignores defense",
+        "sub_info": "Automatically used by the familiar<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5393,7 +5393,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "3 sec"
+                "value": "3 seg"
             }
         }
     },
@@ -5561,7 +5561,7 @@ var skill_data_SU = {
         "id": "26219",
         "name": "Boing Boing - 뿌잉뿌잉",
         "icon": "skill_icon_summon_0_5.png",
-        "main_info1": "Decreases the meditation time of the meditating summoner or ally by 6 sec",
+        "main_info1": "Decreases the meditation time of the meditating summoner or ally by 6 seg",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -5585,7 +5585,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5617,7 +5617,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5649,7 +5649,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5659,7 +5659,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_41.png",
         "main_info1": "Transfers 10% of the familiar's health to the summoner",
         "main_info2": null,
-        "sub_info": "Cat is immune to status effects for 0.8 sec<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 11% health",
+        "sub_info": "Cat is immune to status effects for 0.8 seg<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 11% health",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5681,7 +5681,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5691,7 +5691,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_41.png",
         "main_info1": "Transfers 20% of the familiar's health to the summoner",
         "main_info2": null,
-        "sub_info": "Cat is immune to status effects for 0.8 sec<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 21% health",
+        "sub_info": "Cat is immune to status effects for 0.8 seg<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 21% health",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5713,7 +5713,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5723,7 +5723,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_41.png",
         "main_info1": "Transfers 20% of the familiar's health to the summoner",
         "main_info2": null,
-        "sub_info": "Friendship is available while the familiar is under status effects<br/>Cat is immune to status effects for 0.8 sec<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 21% health",
+        "sub_info": "Friendship is available while the familiar is under status effects<br/>Cat is immune to status effects for 0.8 seg<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 21% health",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5745,7 +5745,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5755,7 +5755,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_41.png",
         "main_info1": "Transfers 20% of the familiar's health to the summoner",
         "main_info2": null,
-        "sub_info": "Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 sec<br/>Friendship is available while the familiar is under status effects<br/>Cat is immune to status effects for 0.8 sec<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 21% health",
+        "sub_info": "Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 seg<br/>Friendship is available while the familiar is under status effects<br/>Cat is immune to status effects for 0.8 seg<br/>Generates 3 chi<br/>Cannot be used if the familiar has less than 21% health",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5777,7 +5777,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5785,7 +5785,7 @@ var skill_data_SU = {
         "id": "26304",
         "name": "Friendship - 우정",
         "icon": "skill_icon_summon_0_41.png",
-        "main_info1": "Summoner, familiar are invulnerable for 5 sec",
+        "main_info1": "Summoner, familiar are invulnerable for 5 seg",
         "main_info2": null,
         "sub_info": "Consumes 10% of the familiar's health<br/>Cannot be used if the familiar has less than 11% health<br/>Summoner, familiar cannot move or act during use",
         "consume_sp": null,
@@ -5809,7 +5809,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -5817,7 +5817,7 @@ var skill_data_SU = {
         "id": "26304",
         "name": "Friendship - 우정",
         "icon": "skill_icon_summon_0_41.png",
-        "main_info1": "Summoner, familiar are invulnerable for 5 sec",
+        "main_info1": "Summoner, familiar are invulnerable for 5 seg",
         "main_info2": null,
         "sub_info": "Heals the user 1% of their maximum health on resist<br/>Heals the familiar 1% of their maximum health on resist<br/>Consumes 10% of the familiar's health<br/>Cannot be used if the familiar has less than 11% health<br/>Summoner, familiar cannot move or act during use",
         "consume_sp": null,
@@ -5841,7 +5841,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -5850,7 +5850,7 @@ var skill_data_SU = {
         "name": "Throwing Chestnut Burr - 투척밤송이",
         "icon": "skill_icon_summon_0_15.png",
         "main_info1": "Decreases the movement speed of foes within the area by 50%",
-        "main_info2": "Deals 120~140 damage over 10 sec",
+        "main_info2": "Deals 120~140 damage over 10 seg",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5873,7 +5873,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5882,7 +5882,7 @@ var skill_data_SU = {
         "name": "Throwing Chestnut Burr - 투척밤송이",
         "icon": "skill_icon_summon_0_15.png",
         "main_info1": "Decreases the movement speed of foes within the area by 50%",
-        "main_info2": "Deals 120~140 damage over 10 sec",
+        "main_info2": "Deals 120~140 damage over 10 seg",
         "sub_info": "Maintains stealth",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5905,7 +5905,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5914,7 +5914,7 @@ var skill_data_SU = {
         "name": "Throwing Chestnut Burr - 투척밤송이",
         "icon": "skill_icon_summon_0_15.png",
         "main_info1": "Decreases the movement speed of foes within the area by 50%",
-        "main_info2": "Deals 120~140 damage over 10 sec",
+        "main_info2": "Deals 120~140 damage over 10 seg",
         "sub_info": "Deals an additional 24~28 damage on consecutive hit<br/>Maintains stealth",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5937,7 +5937,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5946,7 +5946,7 @@ var skill_data_SU = {
         "name": "Throwing Chestnut Burr - 투척밤송이",
         "icon": "skill_icon_summon_0_15.png",
         "main_info1": "Decreases the movement speed of foes within the area by 50%",
-        "main_info2": "Deals 180~210 damage over 10 sec",
+        "main_info2": "Deals 180~210 damage over 10 seg",
         "sub_info": "Deals an additional 36~42 damage on consecutive hit<br/>Maintains stealth",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5969,7 +5969,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5978,8 +5978,8 @@ var skill_data_SU = {
         "name": "Throwing Chestnut Burr - 투척밤송이",
         "icon": "skill_icon_summon_0_15.png",
         "main_info1": "Decreases the movement speed of foes within the area by 50%",
-        "main_info2": "Deals 120~140 damage over 10 sec",
-        "sub_info": "Deals 50% chi damage over 10 sec<br/>Maintains stealth",
+        "main_info2": "Deals 120~140 damage over 10 seg",
+        "sub_info": "Deals 50% chi damage over 10 seg<br/>Maintains stealth",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6001,7 +6001,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6010,8 +6010,8 @@ var skill_data_SU = {
         "name": "Throwing Chestnut Burr - 투척밤송이",
         "icon": "skill_icon_summon_0_15.png",
         "main_info1": "Decreases the movement speed of foes within the area by 50%",
-        "main_info2": "Deals 120~140 damage over 10 sec",
-        "sub_info": "Deals 50% chi damage over 10 sec<br/>Maintains stealth<br/>Disables charge abilities of foes within the area",
+        "main_info2": "Deals 120~140 damage over 10 seg",
+        "sub_info": "Deals 50% chi damage over 10 seg<br/>Maintains stealth<br/>Disables charge abilities of foes within the area",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6033,7 +6033,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6106,8 +6106,8 @@ var skill_data_SU = {
         "name": "Awakened Rose - 각성 장미",
         "icon": "skill_icon_summon_0_47.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Available while Spiritualized",
-        "sub_info": "Increased consecutive cast speed<br/>Increased projectile speed<br/>Applies 1 stack of Poison<br/>Applies 2 stacks of Poison on critical hit<br/>Poison decreases the defense of the target by 10% per stack<br/>Hornet can be instantly cast on critical hit<br/>Cooldown of Chestnut Burr, Throwing Chestnut Burr is decreased by 2 sec on critical hit<br/>Cannot be deflected<br/>Does not generate threat",
+        "main_info2": "Disponível enquanto Espiritualizado",
+        "sub_info": "Increased consecutive cast speed<br/>Increased projectile speed<br/>Applies 1 stack of Poison<br/>Applies 2 stacks of Poison on critical hit<br/>Poison decreases the defense of the target by 10% per stack<br/>Hornet can be instantly cast on critical hit<br/>Cooldown of Chestnut Burr, Throwing Chestnut Burr is decreased by 2 seg on critical hit<br/>Cannot be deflected<br/>Não gera ameaça",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {

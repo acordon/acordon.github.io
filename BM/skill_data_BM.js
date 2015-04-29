@@ -35,7 +35,7 @@ var skill_data_BM = {
         "id": "20003",
         "name": "Soulblade Discharge - 어검발산",
         "icon": "skill_icon_blademaster_0_53.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": "Summons soulblades, allowing the user to use soulblade abilities",
         "consume_sp": null,
@@ -67,7 +67,7 @@ var skill_data_BM = {
         "id": "20003",
         "name": "Soulblade Discharge - 어검발산",
         "icon": "skill_icon_blademaster_0_53.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": "Summons soulblades, allowing the user to use soulblade abilities",
         "consume_sp": null,
@@ -99,7 +99,7 @@ var skill_data_BM = {
         "id": "20003",
         "name": "Soulblade Discharge - 어검발산",
         "icon": "skill_icon_blademaster_0_53.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": "Knocks foes back 11m",
         "sub_info": "Summons soulblades, allowing the user to use soulblade abilities",
         "consume_sp": null,
@@ -131,7 +131,7 @@ var skill_data_BM = {
         "id": "20003",
         "name": "Soulblade Discharge - 어검발산",
         "icon": "skill_icon_blademaster_0_53.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": "Knocks foes back 11m",
         "sub_info": "Summons soulblades, allowing the user to use soulblade abilities",
         "consume_sp": null,
@@ -163,7 +163,7 @@ var skill_data_BM = {
         "id": "20003",
         "name": "Soulblade Discharge - 어검발산",
         "icon": "skill_icon_blademaster_0_53.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": "Knocks foes back 11m",
         "sub_info": "User is invulnerable from the next 6 attacks<br/>Heals the user 5% of their maximum health<br/>Summons soulblades, allowing the user to use soulblade abilities",
         "consume_sp": null,
@@ -195,9 +195,9 @@ var skill_data_BM = {
         "id": "20003",
         "name": "Heaven's Blade - 천검",
         "icon": "skill_icon_blademaster_1_16.png",
-        "main_info1": "Deals 288~336 damage over 2 sec",
+        "main_info1": "Deals 288~336 damage over 2 seg",
         "main_info2": null,
-        "sub_info": "Deals damage after 5 sec<br/>Summons soulblades, allowing the user to use soulblade abilities",
+        "sub_info": "Deals damage after 5 seg<br/>Summons soulblades, allowing the user to use soulblade abilities",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -227,9 +227,9 @@ var skill_data_BM = {
         "id": "20003",
         "name": "Heaven's Blade - 천검",
         "icon": "skill_icon_blademaster_1_16.png",
-        "main_info1": "Deals 288~336 damage over 2 sec",
+        "main_info1": "Deals 288~336 damage over 2 seg",
         "main_info2": null,
-        "sub_info": "Decreases the movement speed of foes by 50% for 8 sec<br/>Disables charge abilities of foes for 6 sec<br/>Deals damage after 5 sec<br/>Summons soulblades, allowing the user to use soulblade abilities",
+        "sub_info": "Decreases the movement speed of foes by 50% for 8 seg<br/>Disables charge abilities of foes for 6 seg<br/>Deals damage after 5 seg<br/>Summons soulblades, allowing the user to use soulblade abilities",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -259,9 +259,9 @@ var skill_data_BM = {
         "id": "20003",
         "name": "Heaven's Blade - 천검",
         "icon": "skill_icon_blademaster_1_16.png",
-        "main_info1": "Deals 480~560 damage over 2 sec",
+        "main_info1": "Deals 480~560 damage over 2 seg",
         "main_info2": null,
-        "sub_info": "Decreases the movement speed of foes by 50% for 8 sec<br/>Disables charge abilities of foes for 6 sec<br/>Deals damage after 5 sec<br/>Summons soulblades, allowing the user to use soulblade abilities",
+        "sub_info": "Decreases the movement speed of foes by 50% for 8 seg<br/>Disables charge abilities of foes for 6 seg<br/>Deals damage after 5 seg<br/>Summons soulblades, allowing the user to use soulblade abilities",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -293,7 +293,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_1.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Knocks foes whose defense has been broken by Front Kick unconscious for 30 sec",
+        "sub_info": "Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -325,7 +325,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_1.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Knocks foes whose defense has been broken by Front Kick unconscious for 30 sec",
+        "sub_info": "Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -357,7 +357,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_1.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 sec",
+        "sub_info": "Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -389,7 +389,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_1.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Causes foes to bleed (1 stack)<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 sec",
+        "sub_info": "Causes foes to bleed (1 stack)<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -421,7 +421,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_1.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Maximum speed Stab is available on critical hit<br/>Maximum speed World Sunder is available on critical hit<br/>Causes foes to bleed (1 stack)<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 sec",
+        "sub_info": "Maximum speed Stab is available on critical hit<br/>Maximum speed World Sunder is available on critical hit<br/>Causes foes to bleed (1 stack)<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -453,7 +453,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_1.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 sec",
+        "sub_info": "Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -485,7 +485,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_1.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per target hit<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 sec",
+        "sub_info": "Generates 1 chi per target hit<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -517,7 +517,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_1.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Heals the user 20% of the damage dealt<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 sec",
+        "sub_info": "Heals the user 20% of the damage dealt<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -549,7 +549,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_1.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Heals the user 2% of their maximum health over 5 sec on critical hit<br/>Heals the user 20% of the damage dealt<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 sec",
+        "sub_info": "Heals the user 2% of their maximum health over 5 seg on critical hit<br/>Heals the user 20% of the damage dealt<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -709,7 +709,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_4.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Ignores defense<br/>Causes foes to bleed (1 stack)<br/>Maximum speed on recast<br/>Maximum speed on blocking an attack<br/>Maximum speed on using Spin Slash<br/>Maximum speed on resisting an attack with Counterattack",
+        "sub_info": "Ignora Defesa<br/>Causes foes to bleed (1 stack)<br/>Maximum speed on recast<br/>Maximum speed on blocking an attack<br/>Maximum speed on using Spin Slash<br/>Maximum speed on resisting an attack with Counterattack",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -886,12 +886,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -918,12 +918,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -933,7 +933,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Decreases the movement speed of foes by 50% for 3 sec<br/>Swallow Blade can be used while dashing, dash-jumping, gliding",
+        "sub_info": "Decreases the movement speed of foes by 50% for 3 seg<br/>Swallow Blade can be used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -950,12 +950,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -964,8 +964,8 @@ var skill_data_BM = {
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes down for 3 sec",
-        "sub_info": "Decreases the movement speed of foes by 50% for 3 sec<br/>Swallow Blade can be used while dashing, dash-jumping, gliding",
+        "main_info2": "Knocks foes down for 3 seg",
+        "sub_info": "Decreases the movement speed of foes by 50% for 3 seg<br/>Swallow Blade can be used while dashing, dash-jumping, gliding",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -982,12 +982,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -996,8 +996,8 @@ var skill_data_BM = {
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Pulls foes and stuns them for 2 sec",
-        "sub_info": "Cannot be deflected<br/>Decreases the movement speed of foes by 50% for 3 sec",
+        "main_info2": "Pulls foes and stuns them for 2 seg",
+        "sub_info": "Cannot be deflected<br/>Decreases the movement speed of foes by 50% for 3 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1014,12 +1014,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1046,12 +1046,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1078,12 +1078,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1092,7 +1092,7 @@ var skill_data_BM = {
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Deals 12~14 damage up to 5 foes",
-        "main_info2": "Pulls foes and dazes them for 2 sec",
+        "main_info2": "Pulls foes and dazes them for 2 seg",
         "sub_info": "Generates 1 chi per target hit<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1110,12 +1110,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1123,7 +1123,7 @@ var skill_data_BM = {
         "id": "20105",
         "name": "Block - 막기",
         "icon": "skill_icon_blademaster_0_6.png",
-        "main_info1": "Blocks attacks from the front for 3 sec",
+        "main_info1": "Blocks attacks from the front for 3 seg",
         "main_info2": null,
         "sub_info": "Maximum speed Stab is available on block<br/>Maximum speed World Sunder is available on block<br/>Generates 1 chi on block",
         "consume_sp": null,
@@ -1147,7 +1147,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "2 sec"
+                "value": "2 seg"
             }
         }
     },
@@ -1155,7 +1155,7 @@ var skill_data_BM = {
         "id": "20105",
         "name": "Block - 막기",
         "icon": "skill_icon_blademaster_0_6.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": null,
         "sub_info": "Maximum speed Stab is available on block<br/>Maximum speed World Sunder is available on block<br/>Generates 1 chi on block",
         "consume_sp": null,
@@ -1179,7 +1179,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             }
         }
     },
@@ -1188,7 +1188,7 @@ var skill_data_BM = {
         "name": "Parry - 칼날치기",
         "icon": "skill_icon_blademaster_1_19.png",
         "main_info1": "Deals 36~42 damage",
-        "main_info2": "Deflects multiple attacks for 0.5 sec",
+        "main_info2": "Deflects multiple attacks for 0.5 seg",
         "sub_info": "Maximum speed Stab is available on deflect<br/>Maximum speed World Sunder is available on deflect<br/>Generates 1 chi on deflect<br/>Offensive defense ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1211,7 +1211,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "3 sec"
+                "value": "3 seg"
             }
         }
     },
@@ -1220,8 +1220,8 @@ var skill_data_BM = {
         "name": "Parry - 칼날치기",
         "icon": "skill_icon_blademaster_1_19.png",
         "main_info1": "Deals 36~42 damage",
-        "main_info2": "Deflects multiple attacks for 0.5 sec",
-        "sub_info": "Increases the critical hit damage of the user by 10% for 3 sec on deflect<br/>Maximum speed Stab is available on deflect<br/>Maximum speed World Sunder is available on deflect<br/>Offensive defense ability",
+        "main_info2": "Deflects multiple attacks for 0.5 seg",
+        "sub_info": "Increases the critical hit damage of the user by 10% for 3 seg on deflect<br/>Maximum speed Stab is available on deflect<br/>Maximum speed World Sunder is available on deflect<br/>Offensive defense ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1243,7 +1243,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "3 sec"
+                "value": "3 seg"
             }
         }
     },
@@ -1252,8 +1252,8 @@ var skill_data_BM = {
         "name": "Parry - 칼날치기",
         "icon": "skill_icon_blademaster_1_19.png",
         "main_info1": "Deals 36~42 damage",
-        "main_info2": "Deflects multiple attacks for 0.5 sec",
-        "sub_info": "Cooldown of Lightning Slash is decreased by 1 sec on deflect<br/>Increases the critical hit damage of the user by 10% for 3 sec on deflect<br/>Maximum speed Stab is available on deflect<br/>Maximum speed World Sunder is available on deflect<br/>Offensive defense ability",
+        "main_info2": "Deflects multiple attacks for 0.5 seg",
+        "sub_info": "Cooldown of Lightning Slash is decreased by 1 seg on deflect<br/>Increases the critical hit damage of the user by 10% for 3 seg on deflect<br/>Maximum speed Stab is available on deflect<br/>Maximum speed World Sunder is available on deflect<br/>Offensive defense ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1275,7 +1275,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "3 sec"
+                "value": "3 seg"
             }
         }
     },
@@ -1283,8 +1283,8 @@ var skill_data_BM = {
         "id": "20105",
         "name": "Block - 막기",
         "icon": "skill_icon_blademaster_0_6.png",
-        "main_info1": "Blocks attacks from the front for 2 sec",
-        "main_info2": "Deflects multiple attacks for 0.5 sec",
+        "main_info1": "Blocks attacks from the front for 2 seg",
+        "main_info2": "Deflects multiple attacks for 0.5 seg",
         "sub_info": "Maximum speed Stab is available on block<br/>Maximum speed World Sunder is available on block<br/>Generates 1 chi on block, deflect",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1307,7 +1307,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -1315,9 +1315,9 @@ var skill_data_BM = {
         "id": "20105",
         "name": "Block - 막기",
         "icon": "skill_icon_blademaster_0_6.png",
-        "main_info1": "Blocks attacks from the front for 2 sec",
-        "main_info2": "Deflects multiple attacks for 0.5 sec",
-        "sub_info": "Heals the user 2% of their maximum health over 5 sec on deflect<br/>Maximum speed Stab is available on block<br/>Maximum speed World Sunder is available on block<br/>Generates 1 chi on block, deflect",
+        "main_info1": "Blocks attacks from the front for 2 seg",
+        "main_info2": "Deflects multiple attacks for 0.5 seg",
+        "sub_info": "Heals the user 2% of their maximum health over 5 seg on deflect<br/>Maximum speed Stab is available on block<br/>Maximum speed World Sunder is available on block<br/>Generates 1 chi on block, deflect",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1339,7 +1339,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -1347,9 +1347,9 @@ var skill_data_BM = {
         "id": "20105",
         "name": "Block - 막기",
         "icon": "skill_icon_blademaster_0_6.png",
-        "main_info1": "Blocks attacks from the front for 2 sec",
-        "main_info2": "Deflects multiple attacks for 0.5 sec",
-        "sub_info": "Cooldown of Low Slash, Earth Sunder is decreased by 6 sec on deflect<br/>Heals the user 2% of their maximum health over 5 sec on deflect<br/>Maximum speed Stab is available on block<br/>Maximum speed World Sunder is available on block<br/>Generates 1 chi on block, deflect",
+        "main_info1": "Blocks attacks from the front for 2 seg",
+        "main_info2": "Deflects multiple attacks for 0.5 seg",
+        "sub_info": "Cooldown of Low Slash, Earth Sunder is decreased by 6 seg on deflect<br/>Heals the user 2% of their maximum health over 5 seg on deflect<br/>Maximum speed Stab is available on block<br/>Maximum speed World Sunder is available on block<br/>Generates 1 chi on block, deflect",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1371,7 +1371,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -1379,7 +1379,7 @@ var skill_data_BM = {
         "id": "20105",
         "name": "Block - 막기",
         "icon": "skill_icon_blademaster_0_6.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": null,
         "sub_info": "Heals the user 2% of their maximum health per block up to 3 times<br/>Lying Block learned<br/>Maximum speed Stab is available on block<br/>Maximum speed World Sunder is available on block<br/>Generates 1 chi on block",
         "consume_sp": null,
@@ -1403,7 +1403,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             }
         }
     },
@@ -1411,7 +1411,7 @@ var skill_data_BM = {
         "id": "20105",
         "name": "Block - 막기",
         "icon": "skill_icon_blademaster_0_6.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": null,
         "sub_info": "Sword Barrier is available during use<br/>Lying Block learned<br/>User and allies within the Sword Barrier are invulnerable<br/>Heals the user 2% of their maximum health per block up to 3 times<br/>Maximum speed Stab is available on block<br/>Maximum speed World Sunder is available on block<br/>Generates 1 chi on block",
         "consume_sp": null,
@@ -1435,7 +1435,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             }
         }
     },
@@ -1443,7 +1443,7 @@ var skill_data_BM = {
         "id": "20105",
         "name": "Block - 막기",
         "icon": "skill_icon_blademaster_0_6.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": null,
         "sub_info": "Soulblade Protection is available during use<br/>Lying Block learned<br/>Soulblade Protection gives the user and allies invulnerability from the next 3 attacks<br/>Soulblade Protection heals the user 10% of their maximum health<br/>Heals the user 2% of their maximum health per block up to 3 times<br/>Maximum speed Stab is available on block<br/>Maximum speed World Sunder is available on block<br/>Generates 1 chi on block",
         "consume_sp": null,
@@ -1467,7 +1467,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             }
         }
     },
@@ -1499,7 +1499,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -1508,7 +1508,7 @@ var skill_data_BM = {
         "name": "Low Slash - 하단베기",
         "icon": "skill_icon_blademaster_0_9.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes down for 2 sec",
+        "main_info2": "Knocks foes down for 2 seg",
         "sub_info": null,
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -1531,7 +1531,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1540,7 +1540,7 @@ var skill_data_BM = {
         "name": "Low Slash - 하단베기",
         "icon": "skill_icon_blademaster_0_9.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes down for 2 sec",
+        "main_info2": "Knocks foes down for 2 seg",
         "sub_info": null,
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -1563,7 +1563,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1572,7 +1572,7 @@ var skill_data_BM = {
         "name": "Low Slash - 하단베기",
         "icon": "skill_icon_blademaster_0_9.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes down for 3 sec",
+        "main_info2": "Knocks foes down for 3 seg",
         "sub_info": null,
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -1595,7 +1595,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1604,8 +1604,8 @@ var skill_data_BM = {
         "name": "Low Slash - 하단베기",
         "icon": "skill_icon_blademaster_0_9.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes down for 3 sec",
-        "sub_info": "Decreases the movement speed of foes by 50% for 8 sec<br/>Disables charge abilities of foes for 6 sec",
+        "main_info2": "Knocks foes down for 3 seg",
+        "sub_info": "Decreases the movement speed of foes by 50% for 8 seg<br/>Disables charge abilities of foes for 6 seg",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1627,7 +1627,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1636,8 +1636,8 @@ var skill_data_BM = {
         "name": "Low Slash - 하단베기",
         "icon": "skill_icon_blademaster_0_9.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes down for 3 sec",
-        "sub_info": "Can be recast up to 2 times<br/>Decreases the movement speed of foes by 50% for 8 sec<br/>Disables charge abilities of foes for 6 sec",
+        "main_info2": "Knocks foes down for 3 seg",
+        "sub_info": "Can be recast up to 2 times<br/>Decreases the movement speed of foes by 50% for 8 seg<br/>Disables charge abilities of foes for 6 seg",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1659,7 +1659,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1668,8 +1668,8 @@ var skill_data_BM = {
         "name": "Low Slash - 하단베기",
         "icon": "skill_icon_blademaster_0_9.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes down for 3 sec",
-        "sub_info": "Heals the user 3% of their maximum health<br/>Decreases the movement speed of foes by 50% for 8 sec<br/>Disables charge abilities of foes for 6 sec",
+        "main_info2": "Knocks foes down for 3 seg",
+        "sub_info": "Heals the user 3% of their maximum health<br/>Decreases the movement speed of foes by 50% for 8 seg<br/>Disables charge abilities of foes for 6 seg",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1691,7 +1691,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1700,8 +1700,8 @@ var skill_data_BM = {
         "name": "Low Slash - 하단베기",
         "icon": "skill_icon_blademaster_0_9.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes down for 3 sec",
-        "sub_info": "Ignores defense<br/>Heals the user 3% of their maximum health<br/>Decreases the movement speed of foes by 50% for 8 sec<br/>Disables charge abilities of foes for 6 sec",
+        "main_info2": "Knocks foes down for 3 seg",
+        "sub_info": "Ignora Defesa<br/>Heals the user 3% of their maximum health<br/>Decreases the movement speed of foes by 50% for 8 seg<br/>Disables charge abilities of foes for 6 seg",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1723,7 +1723,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1732,7 +1732,7 @@ var skill_data_BM = {
         "name": "Earth Sunder - 대지가르기",
         "icon": "skill_icon_blademaster_1_12.png",
         "main_info1": "Deals 48~56 damage",
-        "main_info2": "Creates a damaging area that lasts for 4 sec<br/>Deals 48~56 damage to foes within the area over 4 sec",
+        "main_info2": "Creates a damaging area that lasts for 4 seg<br/>Deals 48~56 damage to foes within the area over 4 seg",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1755,7 +1755,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1764,7 +1764,7 @@ var skill_data_BM = {
         "name": "Earth Sunder - 대지가르기",
         "icon": "skill_icon_blademaster_1_12.png",
         "main_info1": "Deals 48~56 damage",
-        "main_info2": "Creates a damaging area that lasts for 4 sec<br/>Deals 48~56 damage to foes within the area over 4 sec",
+        "main_info2": "Creates a damaging area that lasts for 4 seg<br/>Deals 48~56 damage to foes within the area over 4 seg",
         "sub_info": "Generates 2 chi per hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1787,7 +1787,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1796,7 +1796,7 @@ var skill_data_BM = {
         "name": "Earth Sunder - 대지가르기",
         "icon": "skill_icon_blademaster_1_12.png",
         "main_info1": "Deals 48~56 damage",
-        "main_info2": "Creates a damaging area that lasts for 4 sec<br/>Deals 48~56 damage to foes within the area over 4 sec",
+        "main_info2": "Creates a damaging area that lasts for 4 seg<br/>Deals 48~56 damage to foes within the area over 4 seg",
         "sub_info": "Damage doubled on consecutive hit<br/>Generates 2 chi per hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1819,7 +1819,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1851,7 +1851,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1883,7 +1883,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1915,7 +1915,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1947,7 +1947,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1979,7 +1979,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2011,7 +2011,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2043,7 +2043,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2053,7 +2053,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, unconscious status",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2075,7 +2075,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2085,7 +2085,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2107,7 +2107,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2117,7 +2117,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2139,7 +2139,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2149,7 +2149,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2171,7 +2171,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2181,7 +2181,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2203,7 +2203,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2213,7 +2213,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2235,7 +2235,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2245,7 +2245,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 30% for 6 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2267,7 +2267,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2277,7 +2277,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 30% for 6 sec<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2299,7 +2299,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2308,8 +2308,8 @@ var skill_data_BM = {
         "name": "Escape - 탈출",
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Dazes foes for 2 sec<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2331,7 +2331,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2340,8 +2340,8 @@ var skill_data_BM = {
         "name": "Escape - 탈출",
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Dazes foes for 2 sec<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -2363,7 +2363,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2372,8 +2372,8 @@ var skill_data_BM = {
         "name": "Escape - 탈출",
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Dazes foes for 2 sec<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Deals 50% chi damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Deals 50% chi damage",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -2395,7 +2395,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2427,7 +2427,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -2459,7 +2459,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.1 sec"
+                "value": "1.1 seg"
             }
         }
     },
@@ -2491,7 +2491,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.1 sec"
+                "value": "1.1 seg"
             }
         }
     },
@@ -2523,7 +2523,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.1 sec"
+                "value": "1.1 seg"
             }
         }
     },
@@ -2555,7 +2555,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.1 sec"
+                "value": "1.1 seg"
             }
         }
     },
@@ -2563,9 +2563,9 @@ var skill_data_BM = {
         "id": "20115",
         "name": "Thunderbolt - 벼락",
         "icon": "skill_icon_blademaster_1_10.png",
-        "main_info1": "Deals 84~98 damage",
+        "main_info1": "Causa Dano de 84~98",
         "main_info2": null,
-        "sub_info": "Ignores defense",
+        "sub_info": "Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2587,7 +2587,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.1 sec"
+                "value": "1.1 seg"
             }
         }
     },
@@ -2595,9 +2595,9 @@ var skill_data_BM = {
         "id": "20115",
         "name": "Thunderbolt - 벼락",
         "icon": "skill_icon_blademaster_1_10.png",
-        "main_info1": "Deals 84~98 damage",
+        "main_info1": "Causa Dano de 84~98",
         "main_info2": "Charge to the target",
-        "sub_info": "Ignores defense",
+        "sub_info": "Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2619,7 +2619,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.1 sec"
+                "value": "1.1 seg"
             }
         }
     },
@@ -2627,9 +2627,9 @@ var skill_data_BM = {
         "id": "20115",
         "name": "Thunderbolt - 벼락",
         "icon": "skill_icon_blademaster_1_10.png",
-        "main_info1": "Deals 84~98 damage",
+        "main_info1": "Causa Dano de 84~98",
         "main_info2": null,
-        "sub_info": "Deals 168~196 damage to nearby foes over 10 sec<br/>Ignores defense",
+        "sub_info": "Deals 168~196 damage to nearby foes over 10 seg<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2651,7 +2651,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2747,7 +2747,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -2757,7 +2757,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_23.png",
         "main_info1": "Deals 2~3 damage",
         "main_info2": "Charge to the target",
-        "sub_info": "Increases the movement speed of the user by 30% for 8 sec",
+        "sub_info": "Increases the movement speed of the user by 30% for 8 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2779,7 +2779,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -2788,8 +2788,8 @@ var skill_data_BM = {
         "name": "Charge - 돌진",
         "icon": "skill_icon_blademaster_0_23.png",
         "main_info1": "Deals 2~3 damage",
-        "main_info2": "Stuns foes for 2 sec<br/>Charge to the target",
-        "sub_info": "Increases the movement speed of the user by 30% for 8 sec",
+        "main_info2": "Stuns foes for 2 seg<br/>Charge to the target",
+        "sub_info": "Increases the movement speed of the user by 30% for 8 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2811,7 +2811,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2820,8 +2820,8 @@ var skill_data_BM = {
         "name": "Charge - 돌진",
         "icon": "skill_icon_blademaster_0_23.png",
         "main_info1": "Deals 2~3 damage",
-        "main_info2": "Stuns foes for 2 sec<br/>Charge to the target",
-        "sub_info": "Disables charge abilities of foes for 6 sec<br/>Increases the movement speed of the user by 30% for 8 sec",
+        "main_info2": "Stuns foes for 2 seg<br/>Charge to the target",
+        "sub_info": "Disables charge abilities of foes for 6 seg<br/>Increases the movement speed of the user by 30% for 8 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2843,7 +2843,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2852,8 +2852,8 @@ var skill_data_BM = {
         "name": "Charge - 돌진",
         "icon": "skill_icon_blademaster_0_23.png",
         "main_info1": "Deals 2~3 damage",
-        "main_info2": "Stuns foes for 2 sec<br/>Charge beyond the target",
-        "sub_info": "Disables charge abilities of foes for 6 sec<br/>User is invulnerable during use<br/>Increases the movement speed of the user by 30% for 8 sec",
+        "main_info2": "Stuns foes for 2 seg<br/>Charge beyond the target",
+        "sub_info": "Disables charge abilities of foes for 6 seg<br/>User is invulnerable during use<br/>Increases the movement speed of the user by 30% for 8 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2875,7 +2875,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2883,9 +2883,9 @@ var skill_data_BM = {
         "id": "20126",
         "name": "Sequence Slash - 연속베기",
         "icon": "skill_icon_blademaster_1_11.png",
-        "main_info1": "Deals 96~112 damage over 1.3 sec",
+        "main_info1": "Deals 96~112 damage over 1.3 seg",
         "main_info2": "Charge to the target",
-        "sub_info": "User is invulnerable during use<br/>Increases the movement speed of the user by 30% for 8 sec",
+        "sub_info": "User is invulnerable during use<br/>Increases the movement speed of the user by 30% for 8 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2907,7 +2907,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2915,9 +2915,9 @@ var skill_data_BM = {
         "id": "20126",
         "name": "Sequence Slash - 연속베기",
         "icon": "skill_icon_blademaster_1_11.png",
-        "main_info1": "Deals 96~112 damage over 1.3 sec",
+        "main_info1": "Deals 96~112 damage over 1.3 seg",
         "main_info2": "Charge to the target",
-        "sub_info": "Spin Slash is available on resist<br/>User is invulnerable during use<br/>Increases the movement speed of the user by 30% for 8 sec",
+        "sub_info": "Spin Slash is available on resist<br/>User is invulnerable during use<br/>Increases the movement speed of the user by 30% for 8 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2939,7 +2939,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2947,9 +2947,9 @@ var skill_data_BM = {
         "id": "20126",
         "name": "Sequence Slash - 연속베기",
         "icon": "skill_icon_blademaster_1_11.png",
-        "main_info1": "Deals 96~112 damage over 1.3 sec",
+        "main_info1": "Deals 96~112 damage over 1.3 seg",
         "main_info2": "Charge to the target",
-        "sub_info": "Heals the user 200% of the damage dealt<br/>Spin Slash is available on resist<br/>User is invulnerable during use<br/>Increases the movement speed of the user by 30% for 8 sec",
+        "sub_info": "Heals the user 200% of the damage dealt<br/>Spin Slash is available on resist<br/>User is invulnerable during use<br/>Increases the movement speed of the user by 30% for 8 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2971,7 +2971,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2981,7 +2981,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_35.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Breaks defense<br/>Causes foes to bleed (1 stack)<br/>Stuns defense broken foes for 2 sec<br/>Stuns casting foes for 2 sec",
+        "sub_info": "Breaks defense<br/>Causes foes to bleed (1 stack)<br/>Stuns defense broken foes for 2 seg<br/>Stuns casting foes for 2 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3003,7 +3003,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -3013,7 +3013,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_35.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Breaks defense<br/>Causes foes to bleed (1 stack)<br/>Stuns defense broken foes for 2 sec<br/>Stuns casting foes for 2 sec",
+        "sub_info": "Breaks defense<br/>Causes foes to bleed (1 stack)<br/>Stuns defense broken foes for 2 seg<br/>Stuns casting foes for 2 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3035,7 +3035,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -3044,8 +3044,8 @@ var skill_data_BM = {
         "name": "Front Kick - 앞차기",
         "icon": "skill_icon_blademaster_0_35.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes down for 2 sec",
-        "sub_info": "Breaks defense<br/>Causes foes to bleed (1 stack)<br/>Stuns defense broken foes for 2 sec<br/>Stuns casting foes for 2 sec",
+        "main_info2": "Knocks foes down for 2 seg",
+        "sub_info": "Breaks defense<br/>Causes foes to bleed (1 stack)<br/>Stuns defense broken foes for 2 seg<br/>Stuns casting foes for 2 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3067,7 +3067,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -3077,7 +3077,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_35.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Maximum speed Stab is available on hit<br/>Maximum speed World Sunder is available on hit<br/>Breaks defense<br/>Causes foes to bleed (1 stack)<br/>Stuns defense broken foes for 2 sec<br/>Stuns casting foes for 2 sec",
+        "sub_info": "Maximum speed Stab is available on hit<br/>Maximum speed World Sunder is available on hit<br/>Breaks defense<br/>Causes foes to bleed (1 stack)<br/>Stuns defense broken foes for 2 seg<br/>Stuns casting foes for 2 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3099,7 +3099,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -3109,7 +3109,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 46~53 damage",
         "main_info2": null,
-        "sub_info": "Ends the target's airborne status<br/>Knocks the airborne foe down for 2 sec<br/>Knocks nearby foes down for 2 sec<br/>Increases the evade chance of the user by 100% during use",
+        "sub_info": "Ends the target's airborne status<br/>Knocks the airborne foe down for 2 seg<br/>Knocks nearby foes down for 2 seg<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3141,7 +3141,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 46~53 damage",
         "main_info2": null,
-        "sub_info": "Ends the target's airborne status<br/>Knocks the airborne foe down for 2 sec<br/>Knocks nearby foes down for 2 sec<br/>Increases the evade chance of the user by 100% during use",
+        "sub_info": "Ends the target's airborne status<br/>Knocks the airborne foe down for 2 seg<br/>Knocks nearby foes down for 2 seg<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3173,7 +3173,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 46~53 damage",
         "main_info2": null,
-        "sub_info": "Ends the target's airborne status<br/>Knocks the airborne foe down for 3 sec<br/>Knocks nearby foes down for 3 sec<br/>Increases the evade chance of the user by 100% during use",
+        "sub_info": "Ends the target's airborne status<br/>Knocks the airborne foe down for 3 seg<br/>Knocks nearby foes down for 3 seg<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3205,7 +3205,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 46~53 damage",
         "main_info2": null,
-        "sub_info": "Ends the target's airborne status<br/>Disables charge abilities of foes for 6 sec<br/>Knocks the airborne foe down for 3 sec<br/>Knocks nearby foes down for 3 sec<br/>Increases the evade chance of the user by 100% during use",
+        "sub_info": "Ends the target's airborne status<br/>Disables charge abilities of foes for 6 seg<br/>Knocks the airborne foe down for 3 seg<br/>Knocks nearby foes down for 3 seg<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3237,7 +3237,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Knocks nearby downed foes into the air",
         "main_info2": null,
-        "sub_info": "Ends the target's airborne status<br/>Deals 46~53 damage<br/>Disables charge abilities of foes for 6 sec<br/>Knocks the airborne foe down for 3 sec<br/>Knocks nearby foes down for 3 sec<br/>Increases the evade chance of the user by 100% during use",
+        "sub_info": "Ends the target's airborne status<br/>Deals 46~53 damage<br/>Disables charge abilities of foes for 6 seg<br/>Knocks the airborne foe down for 3 seg<br/>Knocks nearby foes down for 3 seg<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3259,7 +3259,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -3269,7 +3269,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Ends the target's airborne status<br/>Causes foes to bleed (1 stack)<br/>Knocks the airborne foe down for 2 sec<br/>Knocks nearby foes down for 2 sec<br/>Increases the evade chance of the user by 100% during use",
+        "sub_info": "Ends the target's airborne status<br/>Causes foes to bleed (1 stack)<br/>Knocks the airborne foe down for 2 seg<br/>Knocks nearby foes down for 2 seg<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3301,7 +3301,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 82~95 damage",
         "main_info2": null,
-        "sub_info": "Ends the target's airborne status<br/>Causes foes to bleed (1 stack)<br/>Knocks the airborne foe down for 2 sec<br/>Knocks nearby foes down for 2 sec<br/>Increases the evade chance of the user by 100% during use",
+        "sub_info": "Ends the target's airborne status<br/>Causes foes to bleed (1 stack)<br/>Knocks the airborne foe down for 2 seg<br/>Knocks nearby foes down for 2 seg<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3333,7 +3333,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 82~95 damage",
         "main_info2": null,
-        "sub_info": "Ends the target's airborne status<br/>Deals 83~97 damage to nearby foes over 10 sec<br/>Causes foes to bleed (1 stack)<br/>Knocks the airborne foe down for 2 sec<br/>Knocks nearby foes down for 2 sec<br/>Increases the evade chance of the user by 100% during use",
+        "sub_info": "Ends the target's airborne status<br/>Deals 83~97 damage to nearby foes over 10 seg<br/>Causes foes to bleed (1 stack)<br/>Knocks the airborne foe down for 2 seg<br/>Knocks nearby foes down for 2 seg<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3365,7 +3365,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_39.png",
         "main_info1": "Escape from downed status",
         "main_info2": "Deals 7~8 damage",
-        "sub_info": "User is downed for 1 sec on taking damage during use",
+        "sub_info": "User is downed for 1 seg on taking damage during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3387,7 +3387,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3419,7 +3419,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -3451,7 +3451,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -3483,7 +3483,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -3492,7 +3492,7 @@ var skill_data_BM = {
         "name": "Blade Rush - 신검합일",
         "icon": "skill_icon_blademaster_0_61.png",
         "main_info1": "Deals 1~1 damage",
-        "main_info2": "Stuns the target for 2 sec on hitting the target's back<br/>Charge beyond the target",
+        "main_info2": "Stuns the target for 2 seg on hitting the target's back<br/>Charge beyond the target",
         "sub_info": "Decreases the movement speed of nearby foes by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
@@ -3515,7 +3515,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -3523,8 +3523,8 @@ var skill_data_BM = {
         "id": "20135",
         "name": "Retaliate - 받아치기",
         "icon": "skill_icon_blademaster_0_51.png",
-        "main_info1": "Counters an attack for 0.8 sec",
-        "main_info2": "Deals 16~18 damage on counter<br/>Knocks the countered foe down for 3 sec on counter",
+        "main_info1": "Counters an attack for 0.8 seg",
+        "main_info2": "Deals 16~18 damage on counter<br/>Knocks the countered foe down for 3 seg on counter",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -3547,7 +3547,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3555,7 +3555,7 @@ var skill_data_BM = {
         "id": "20138",
         "name": "Full Moon Slash - 만월베기",
         "icon": "skill_icon_blademaster_0_26.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": "Skill speed accelerates on recast",
         "consume_sp": "2",
@@ -3587,7 +3587,7 @@ var skill_data_BM = {
         "id": "20138",
         "name": "Full Moon Slash - 만월베기",
         "icon": "skill_icon_blademaster_0_26.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": "Instantly used",
         "consume_sp": "2",
@@ -3619,7 +3619,7 @@ var skill_data_BM = {
         "id": "20138",
         "name": "Full Moon Slash - 만월베기",
         "icon": "skill_icon_blademaster_0_26.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": "Maximum speed Stab is available on critical hit during sword stance<br/>Maximum speed World Sunder is available on critical hit during sword stance<br/>Instantly used",
         "consume_sp": null,
@@ -3643,7 +3643,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3651,7 +3651,7 @@ var skill_data_BM = {
         "id": "20138",
         "name": "Full Moon Slash - 만월베기",
         "icon": "skill_icon_blademaster_0_26.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": "Generates 4 chi on critical hit<br/>Maximum speed Stab is available on critical hit during sword stance<br/>Maximum speed World Sunder is available on critical hit during sword stance<br/>Instantly used",
         "consume_sp": null,
@@ -3675,7 +3675,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3683,7 +3683,7 @@ var skill_data_BM = {
         "id": "20138",
         "name": "Full Moon Slash - 만월베기",
         "icon": "skill_icon_blademaster_0_26.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": "Full Moon Slash can be recast up to 3 times<br/>Generates 4 chi on critical hit<br/>Maximum speed Stab is available on critical hit during sword stance<br/>Maximum speed World Sunder is available on critical hit during sword stance<br/>Instantly used",
         "consume_sp": null,
@@ -3707,7 +3707,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3715,8 +3715,8 @@ var skill_data_BM = {
         "id": "20138",
         "name": "Full Moon Slash - 만월베기",
         "icon": "skill_icon_blademaster_0_26.png",
-        "main_info1": "Deals 24~28 damage",
-        "main_info2": "Dazes foes for 2 sec",
+        "main_info1": "Causa Dano de 24~28 ",
+        "main_info2": "Dazes foes for 2 seg",
         "sub_info": "Tier1 Class1 Full Moon Slash is used instead while Full Moon Slash is on cooldown<br/>Instantly used",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -3739,7 +3739,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3747,8 +3747,8 @@ var skill_data_BM = {
         "id": "20138",
         "name": "Full Moon Slash - 만월베기",
         "icon": "skill_icon_blademaster_0_26.png",
-        "main_info1": "Deals 24~28 damage",
-        "main_info2": "Dazes foes for 3 sec",
+        "main_info1": "Causa Dano de 24~28 ",
+        "main_info2": "Dazes foes for 3 seg",
         "sub_info": "Tier1 Class1 Full Moon Slash is used instead while Full Moon Slash is on cooldown<br/>Instantly used",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -3771,7 +3771,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3779,8 +3779,8 @@ var skill_data_BM = {
         "id": "20138",
         "name": "Full Moon Slash - 만월베기",
         "icon": "skill_icon_blademaster_0_26.png",
-        "main_info1": "Deals 24~28 damage",
-        "main_info2": "Dazes foes for 2 sec<br/>Pulls foes",
+        "main_info1": "Causa Dano de 24~28 ",
+        "main_info2": "Dazes foes for 2 seg<br/>Pulls foes",
         "sub_info": "Tier1 Class1 Full Moon Slash is used instead while Full Moon Slash is on cooldown<br/>Instantly used",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -3803,7 +3803,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3812,7 +3812,7 @@ var skill_data_BM = {
         "name": "Shoulder Charge - 어깨치기",
         "icon": "skill_icon_blademaster_0_42.png",
         "main_info1": "Deals 43~50 damage",
-        "main_info2": "Dazes foes for 2 sec",
+        "main_info2": "Dazes foes for 2 seg",
         "sub_info": "Heals the user 10% of their maximum health",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -3835,7 +3835,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -3844,7 +3844,7 @@ var skill_data_BM = {
         "name": "Shoulder Charge - 어깨치기",
         "icon": "skill_icon_blademaster_0_42.png",
         "main_info1": "Deals 43~50 damage",
-        "main_info2": "Dazes foes for 3 sec",
+        "main_info2": "Dazes foes for 3 seg",
         "sub_info": "Heals the user 10% of their maximum health",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -3867,7 +3867,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -3876,7 +3876,7 @@ var skill_data_BM = {
         "name": "Shoulder Charge - 어깨치기",
         "icon": "skill_icon_blademaster_0_42.png",
         "main_info1": "Deals 43~50 damage",
-        "main_info2": "Dazes foes for 3 sec",
+        "main_info2": "Dazes foes for 3 seg",
         "sub_info": "Cures the user of Internal Bleeding<br/>Heals the user 10% of their maximum health",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -3899,7 +3899,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -3908,8 +3908,8 @@ var skill_data_BM = {
         "name": "Shoulder Charge - 어깨치기",
         "icon": "skill_icon_blademaster_0_42.png",
         "main_info1": "Deals 43~50 damage",
-        "main_info2": "Dazes foes for 3 sec",
-        "sub_info": "Cures the user of Internal Bleeding<br/>Ignores defense<br/>Heals the user 10% of their maximum health",
+        "main_info2": "Dazes foes for 3 seg",
+        "sub_info": "Cures the user of Internal Bleeding<br/>Ignora Defesa<br/>Heals the user 10% of their maximum health",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -3931,7 +3931,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -3939,8 +3939,8 @@ var skill_data_BM = {
         "id": "20142",
         "name": "Shoulder Charge - 어깨치기",
         "icon": "skill_icon_blademaster_0_42.png",
-        "main_info1": "Deals 24~28 damage",
-        "main_info2": "Dazes foes for 3 sec",
+        "main_info1": "Causa Dano de 24~28 ",
+        "main_info2": "Dazes foes for 3 seg",
         "sub_info": "Cures the user of Internal Bleeding<br/>Heals the user 10% of their maximum health",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -3963,7 +3963,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3971,9 +3971,9 @@ var skill_data_BM = {
         "id": "20142",
         "name": "Shoulder Charge - 어깨치기",
         "icon": "skill_icon_blademaster_0_42.png",
-        "main_info1": "Deals 24~28 damage",
-        "main_info2": "Dazes foes for 3 sec",
-        "sub_info": "Cures the user of Internal Bleeding<br/>Ignores defense<br/>Heals the user 10% of their maximum health",
+        "main_info1": "Causa Dano de 24~28 ",
+        "main_info2": "Dazes foes for 3 seg",
+        "sub_info": "Cures the user of Internal Bleeding<br/>Ignora Defesa<br/>Heals the user 10% of their maximum health",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3995,7 +3995,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -4027,7 +4027,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4059,7 +4059,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4068,7 +4068,7 @@ var skill_data_BM = {
         "name": "Lightning Strike - 번개찍기",
         "icon": "skill_icon_blademaster_0_62.png",
         "main_info1": "Deals 2~3 damage",
-        "main_info2": "Stuns foes for 2 sec",
+        "main_info2": "Stuns foes for 2 seg",
         "sub_info": "Generates 1 chi per target hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -4091,7 +4091,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4099,7 +4099,7 @@ var skill_data_BM = {
         "id": "20151",
         "name": "Side Kick - 걷어차기 ",
         "icon": "skill_icon_blademaster_1_8.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -4123,7 +4123,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -4155,7 +4155,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4293,7 +4293,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_19.png",
         "main_info1": "Deals 20~23 damage",
         "main_info2": null,
-        "sub_info": "Increases the critical hit chance of the user by 10% for 3 sec<br/>Flash Draw is available on critical hit",
+        "sub_info": "Increases the critical hit chance of the user by 10% for 3 seg<br/>Flash Draw is available on critical hit",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4325,7 +4325,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_19.png",
         "main_info1": "Deals 20~23 damage",
         "main_info2": null,
-        "sub_info": "Deflects multiple attacks during use<br/>Cooldown of Flash of Light is refreshed on deflect<br/>Increases the critical hit chance of the user by 10% for 3 sec<br/>Flash Draw is available on critical hit",
+        "sub_info": "Deflects multiple attacks during use<br/>Cooldown of Flash of Light is refreshed on deflect<br/>Increases the critical hit chance of the user by 10% for 3 seg<br/>Flash Draw is available on critical hit",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4356,7 +4356,7 @@ var skill_data_BM = {
         "name": "Draw - 발도",
         "icon": "skill_icon_blademaster_0_19.png",
         "main_info1": "Deals 20~23 damage",
-        "main_info2": "Stuns foes for 2 sec",
+        "main_info2": "Stuns foes for 2 seg",
         "sub_info": "Tier2 Class1 Draw is used instead while Draw is on cooldown",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -4379,7 +4379,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4388,8 +4388,8 @@ var skill_data_BM = {
         "name": "Draw - 발도",
         "icon": "skill_icon_blademaster_0_19.png",
         "main_info1": "Deals 20~23 damage",
-        "main_info2": "Stuns foes for 2 sec",
-        "sub_info": "Tier2 Class1 Draw is used instead while Draw is on cooldown<br/>Decreases the movement speed of foes by 50% for 8 sec",
+        "main_info2": "Stuns foes for 2 seg",
+        "sub_info": "Tier2 Class1 Draw is used instead while Draw is on cooldown<br/>Decreases the movement speed of foes by 50% for 8 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4411,7 +4411,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4420,8 +4420,8 @@ var skill_data_BM = {
         "name": "Draw - 발도",
         "icon": "skill_icon_blademaster_0_19.png",
         "main_info1": "Deals 20~23 damage",
-        "main_info2": "Stuns foes for 2 sec",
-        "sub_info": "Tier2 Class1 Draw is used instead while Draw is on cooldown<br/>Flash Draw is available on critical hit<br/>Decreases the movement speed of foes by 50% for 8 sec",
+        "main_info2": "Stuns foes for 2 seg",
+        "sub_info": "Tier2 Class1 Draw is used instead while Draw is on cooldown<br/>Flash Draw is available on critical hit<br/>Decreases the movement speed of foes by 50% for 8 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4443,7 +4443,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4451,7 +4451,7 @@ var skill_data_BM = {
         "id": "20201",
         "name": "Draw - 발도",
         "icon": "skill_icon_blademaster_0_19.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": "Skill speed accelerates on recast",
         "consume_sp": "1",
@@ -4483,7 +4483,7 @@ var skill_data_BM = {
         "id": "20201",
         "name": "Draw - 발도",
         "icon": "skill_icon_blademaster_0_19.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": "Causes foes to bleed (1 stack)<br/>Skill speed accelerates on recast",
         "consume_sp": "1",
@@ -4515,7 +4515,7 @@ var skill_data_BM = {
         "id": "20201",
         "name": "Draw - 발도",
         "icon": "skill_icon_blademaster_0_19.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": "Flash Draw is available on critical hit<br/>Causes foes to bleed (1 stack)<br/>Skill speed accelerates on recast",
         "consume_sp": "1",
@@ -4571,7 +4571,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -4603,7 +4603,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -4635,7 +4635,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -4667,7 +4667,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -4699,7 +4699,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -4709,7 +4709,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_21.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": null,
-        "sub_info": "Increases the critical of the user by 10% for 3 sec<br/>Increases the critical hit damage of the user by 5%<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Increases the critical of the user by 10% for 3 seg<br/>Increases the critical hit damage of the user by 5%<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4731,7 +4731,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -4740,8 +4740,8 @@ var skill_data_BM = {
         "name": "Lightning Slash - 번개베기",
         "icon": "skill_icon_blademaster_0_21.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Creates a damaging area that lasts for 8 sec<br/>Deals 192~224 damage to foes within the area over 8 sec",
-        "sub_info": "Increases the critical of the user by 10% for 3 sec<br/>Increases the critical hit damage of the user by 5%<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
+        "main_info2": "Creates a damaging area that lasts for 8 seg<br/>Deals 192~224 damage to foes within the area over 8 seg",
+        "sub_info": "Increases the critical of the user by 10% for 3 seg<br/>Increases the critical hit damage of the user by 5%<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4763,7 +4763,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -4795,7 +4795,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4827,7 +4827,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4837,7 +4837,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_21.png",
         "main_info1": "Deals 78~91 damage",
         "main_info2": null,
-        "sub_info": "Deals 12~14 damage and knocks the foe down for 3 sec after 3 sec<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Deals 12~14 damage and knocks the foe down for 3 seg after 3 seg<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4859,7 +4859,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4923,7 +4923,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4933,7 +4933,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_24.png",
         "main_info1": "Deals 86~101 damage over 5 hits",
         "main_info2": "Charge to the target",
-        "sub_info": "Disables defense abilities of the target for 8 sec if all 5 hits hit<br/>Generates 1 chi per hit",
+        "sub_info": "Disables defense abilities of the target for 8 seg if all 5 hits hit<br/>Generates 1 chi per hit",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4955,7 +4955,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4964,8 +4964,8 @@ var skill_data_BM = {
         "name": "Pentaslash - 오연베기",
         "icon": "skill_icon_blademaster_0_24.png",
         "main_info1": "Deals 86~101 damage over 5 hits",
-        "main_info2": "Dazes foes for 2 sec<br/>Charge to the target",
-        "sub_info": "Attacks up to 5 foes<br/>Disables defense abilities of the target for 8 sec if all 5 hits hit<br/>Generates 1 chi per hit",
+        "main_info2": "Dazes foes for 2 seg<br/>Charge to the target",
+        "sub_info": "Attacks up to 5 foes<br/>Disables defense abilities of the target for 8 seg if all 5 hits hit<br/>Generates 1 chi per hit",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4987,7 +4987,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -4996,8 +4996,8 @@ var skill_data_BM = {
         "name": "Pentaslash - 오연베기",
         "icon": "skill_icon_blademaster_0_24.png",
         "main_info1": "Deals 86~101 damage over 5 hits",
-        "main_info2": "Dazes foes for 2 sec<br/>Knocks dazed, stunned foes into the air<br/>Charge to the target",
-        "sub_info": "Attacks up to 5 foes<br/>Disables defense abilities of the target for 8 sec if all 5 hits hit<br/>Generates 1 chi per hit",
+        "main_info2": "Dazes foes for 2 seg<br/>Knocks dazed, stunned foes into the air<br/>Charge to the target",
+        "sub_info": "Attacks up to 5 foes<br/>Disables defense abilities of the target for 8 seg if all 5 hits hit<br/>Generates 1 chi per hit",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5019,7 +5019,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -5051,7 +5051,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -5061,7 +5061,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_24.png",
         "main_info1": "Deals 288~336 damage over 5 hits",
         "main_info2": "Charge to the target",
-        "sub_info": "User is invulnerable for 0.6 sec<br/>Spin Slash is available on resist<br/>Generates 1 chi per hit",
+        "sub_info": "User is invulnerable for 0.6 seg<br/>Spin Slash is available on resist<br/>Generates 1 chi per hit",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5083,7 +5083,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -5115,7 +5115,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5147,7 +5147,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5179,7 +5179,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5211,7 +5211,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5243,7 +5243,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5275,7 +5275,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -5307,7 +5307,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -5339,7 +5339,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -5371,7 +5371,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -5403,7 +5403,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5435,7 +5435,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5467,7 +5467,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5477,7 +5477,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_23.png",
         "main_info1": "Deals 2~3 damage",
         "main_info2": "Charge to the target",
-        "sub_info": "Extends the duration of status effects of foes up to 2 sec",
+        "sub_info": "Extends the duration of status effects of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -5499,7 +5499,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5509,7 +5509,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_23.png",
         "main_info1": "Deals 2~3 damage",
         "main_info2": "Charge to the target",
-        "sub_info": "Decreases the movement speed of foes by 50% for 8 sec on hit<br/>Disables charge abilities of foes for 6 sec<br/>Foes suffer from Internal Bleeding for 12 sec<br/>Extends the duration of status effects of foes up to 2 sec",
+        "sub_info": "Decreases the movement speed of foes by 50% for 8 seg on hit<br/>Disables charge abilities of foes for 6 seg<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Extends the duration of status effects of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -5531,7 +5531,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5605,7 +5605,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_63.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": null,
-        "sub_info": "Cooldown of Flash of Light is decreased by 1 sec on critical hit<br/>Generates 1 chi on critical hit<br/>Deals an additional 42~49 damage to downed, dazed, stunned, force gripped, seized, suppressed foes<br/>Deals an additional 42~49 damage to foes with Soulblade Tempest",
+        "sub_info": "Cooldown of Flash of Light is decreased by 1 seg on critical hit<br/>Generates 1 chi on critical hit<br/>Deals an additional 42~49 damage to downed, dazed, stunned, force gripped, seized, suppressed foes<br/>Deals an additional 42~49 damage to foes with Soulblade Tempest",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5637,7 +5637,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_63.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": null,
-        "sub_info": "Breaks defense<br/>Stuns defense broken foes for 2 sec<br/>Disables defense abilities of defense broken foes for 8 sec<br/>Generates 1 chi on critical hit<br/>Deals an additional 42~49 damage to downed, dazed, stunned, force gripped, seized, suppressed foes<br/>Deals an additional 42~49 damage to foes with Soulblade Tempest",
+        "sub_info": "Breaks defense<br/>Stuns defense broken foes for 2 seg<br/>Disables defense abilities of defense broken foes for 8 seg<br/>Generates 1 chi on critical hit<br/>Deals an additional 42~49 damage to downed, dazed, stunned, force gripped, seized, suppressed foes<br/>Deals an additional 42~49 damage to foes with Soulblade Tempest",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5659,7 +5659,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5691,7 +5691,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -5723,7 +5723,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -5733,7 +5733,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_45.png",
         "main_info1": "Deals 42~49 damage over 4 hits",
         "main_info2": null,
-        "sub_info": "Generates 15 chi over 5 sec<br/>Maximum speed Stab is available after use<br/>Maximum speed World Sunder is available after use",
+        "sub_info": "Generates 15 chi over 5 seg<br/>Maximum speed Stab is available after use<br/>Maximum speed World Sunder is available after use",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -5755,7 +5755,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -5765,7 +5765,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_45.png",
         "main_info1": "Deals 42~49 damage over 4 hits",
         "main_info2": null,
-        "sub_info": "Soulblades are used to attack instead while the user is conducting soulblades<br/>Generates 15 chi over 5 sec<br/>Maximum speed Stab is available after use<br/>Maximum speed World Sunder is available after use",
+        "sub_info": "Soulblades are used to attack instead while the user is conducting soulblades<br/>Generates 15 chi over 5 seg<br/>Maximum speed Stab is available after use<br/>Maximum speed World Sunder is available after use",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -5787,7 +5787,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -5797,7 +5797,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_45.png",
         "main_info1": "Deals 42~49 damage over 4 hits",
         "main_info2": null,
-        "sub_info": "Soulblades are used to attack instead while the user is conducting soulblades<br/>Generates 15 chi over 5 sec<br/>Maximum speed Stab is available after use<br/>Maximum speed World Sunder is available after use",
+        "sub_info": "Soulblades are used to attack instead while the user is conducting soulblades<br/>Generates 15 chi over 5 seg<br/>Maximum speed Stab is available after use<br/>Maximum speed World Sunder is available after use",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -5819,7 +5819,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -5829,7 +5829,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_45.png",
         "main_info1": "Deals 42~49 damage over 4 hits",
         "main_info2": null,
-        "sub_info": "Generates 9 chi over 3 sec<br/>Generates additional threat<br/>Maximum speed Stab is available after use<br/>Maximum speed World Sunder is available after use",
+        "sub_info": "Generates 9 chi over 3 seg<br/>Generates additional threat<br/>Maximum speed Stab is available after use<br/>Maximum speed World Sunder is available after use",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -5851,7 +5851,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -5861,7 +5861,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_45.png",
         "main_info1": "Deals 42~49 damage over 4 hits",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Generates 9 chi over 3 sec<br/>Generates additional threat<br/>Maximum speed Stab is available after use<br/>Maximum speed World Sunder is available after use",
+        "sub_info": "User is invulnerable during use<br/>Generates 9 chi over 3 seg<br/>Generates additional threat<br/>Maximum speed Stab is available after use<br/>Maximum speed World Sunder is available after use",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -5883,7 +5883,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -5893,7 +5893,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_45.png",
         "main_info1": "Deals 42~49 damage over 4 hits",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Generates 9 chi over 3 sec<br/>Generates additional threat<br/>Maximum speed Stab is available after use<br/>Maximum speed World Sunder is available after use",
+        "sub_info": "User is invulnerable during use<br/>Generates 9 chi over 3 seg<br/>Generates additional threat<br/>Maximum speed Stab is available after use<br/>Maximum speed World Sunder is available after use",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -5915,7 +5915,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5947,7 +5947,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5979,7 +5979,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6011,7 +6011,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6019,7 +6019,7 @@ var skill_data_BM = {
         "id": "20603",
         "name": "Lightning Soul - 뇌령",
         "icon": "skill_icon_blademaster_1_20.png",
-        "main_info1": "Deals 72~84 damage over 6 sec",
+        "main_info1": "Deals 72~84 damage over 6 seg",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": "3",
@@ -6043,7 +6043,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6051,7 +6051,7 @@ var skill_data_BM = {
         "id": "20603",
         "name": "Lightning Soul - 뇌령",
         "icon": "skill_icon_blademaster_1_20.png",
-        "main_info1": "Deals 72~84 damage over 6 sec",
+        "main_info1": "Deals 72~84 damage over 6 seg",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": "2",
@@ -6075,7 +6075,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6083,7 +6083,7 @@ var skill_data_BM = {
         "id": "20603",
         "name": "Lightning Soul - 뇌령",
         "icon": "skill_icon_blademaster_1_20.png",
-        "main_info1": "Deals 120~140 damage over 8 sec",
+        "main_info1": "Deals 120~140 damage over 8 seg",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": "2",
@@ -6107,7 +6107,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6115,7 +6115,7 @@ var skill_data_BM = {
         "id": "20603",
         "name": "Lightning Soul - 뇌령",
         "icon": "skill_icon_blademaster_1_20.png",
-        "main_info1": "Deals 120~140 damage over 8 sec",
+        "main_info1": "Deals 120~140 damage over 8 seg",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": "2",
@@ -6139,7 +6139,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -6147,9 +6147,9 @@ var skill_data_BM = {
         "id": "20603",
         "name": "Lightning Soul - 뇌령",
         "icon": "skill_icon_blademaster_1_20.png",
-        "main_info1": "Deals 120~140 damage over 8 sec",
+        "main_info1": "Deals 120~140 damage over 8 seg",
         "main_info2": null,
-        "sub_info": "Decreases the cooldown of Soulblade Discharge, Heaven's Blade by 3 sec per hit",
+        "sub_info": "Decreases the cooldown of Soulblade Discharge, Heaven's Blade by 3 seg per hit",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6171,7 +6171,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -6179,8 +6179,8 @@ var skill_data_BM = {
         "id": "20603",
         "name": "Lightning Smite - 뇌징",
         "icon": "skill_icon_blademaster_1_15.png",
-        "main_info1": "Deals 24~28 damage",
-        "main_info2": "Dazes foes for 2 sec",
+        "main_info1": "Causa Dano de 24~28 ",
+        "main_info2": "Dazes foes for 2 seg",
         "sub_info": null,
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -6203,7 +6203,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6211,8 +6211,8 @@ var skill_data_BM = {
         "id": "20603",
         "name": "Lightning Smite - 뇌징",
         "icon": "skill_icon_blademaster_1_15.png",
-        "main_info1": "Deals 24~28 damage",
-        "main_info2": "Dazes foes for 2 sec",
+        "main_info1": "Causa Dano de 24~28 ",
+        "main_info2": "Dazes foes for 2 seg",
         "sub_info": "Increased projectile speed",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -6235,7 +6235,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6243,8 +6243,8 @@ var skill_data_BM = {
         "id": "20603",
         "name": "Lightning Smite - 뇌징",
         "icon": "skill_icon_blademaster_1_15.png",
-        "main_info1": "Deals 24~28 damage",
-        "main_info2": "Dazes foes for 2 sec",
+        "main_info1": "Causa Dano de 24~28 ",
+        "main_info2": "Dazes foes for 2 seg",
         "sub_info": "Can be recast up to 2 times<br/>Increased projectile speed",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -6267,7 +6267,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6299,7 +6299,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6331,7 +6331,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6363,7 +6363,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6371,7 +6371,7 @@ var skill_data_BM = {
         "id": "20604",
         "name": "Blade Blast Soul - 폭검령",
         "icon": "skill_icon_blademaster_1_18.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": "Generates 4 chi on hit",
         "consume_sp": null,
@@ -6395,7 +6395,7 @@ var skill_data_BM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6404,8 +6404,8 @@ var skill_data_BM = {
         "name": "Awakened Draw - 각성 발도",
         "icon": "skill_icon_swordmaster_2_23.png",
         "main_info1": "Deals 60~70 damage",
-        "main_info2": "Available while Spiritualized",
-        "sub_info": "Causes foes to bleed (1 stack)<br/>Skill speed accelerates on recast<br/>Generates 2 additional chi on critical hit<br/>Increases the critical hit chance of the user by 10% for 3 sec<br/>Does not generate threat",
+        "main_info2": "Disponível enquanto Espiritualizado",
+        "sub_info": "Causes foes to bleed (1 stack)<br/>Skill speed accelerates on recast<br/>Generates 2 additional chi on critical hit<br/>Increases the critical hit chance of the user by 10% for 3 seg<br/>Não gera ameaça",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {

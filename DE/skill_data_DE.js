@@ -152,7 +152,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_0_31.png",
 		"main_info1": "Deals 16~18 damage",
 		"main_info2": null,
-		"sub_info": "Generates 10% chi per target hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical hit effect lasts for 3 sec",
+		"sub_info": "Generates 10% chi per target hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical hit effect lasts for 3 seg",
 		"consume_sp": null,
 		"ui_sp_heal_value": "10",
 		"skill_info": 
@@ -190,7 +190,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_0_31.png",
 		"main_info1": "Deals 16~18 damage",
 		"main_info2": null,
-		"sub_info": "Generates 15% chi per target hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical hit effect lasts for 3 sec",
+		"sub_info": "Generates 15% chi per target hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical hit effect lasts for 3 seg",
 		"consume_sp": null,
 		"ui_sp_heal_value": "15",
 		"skill_info": 
@@ -228,7 +228,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_0_31.png",
 		"main_info1": "Deals 16~18 damage",
 		"main_info2": null,
-		"sub_info": "Generates 15% chi per target hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical hit effect lasts for 3 sec<br/>Generates chi even when blocked, countered, deflected",
+		"sub_info": "Generates 15% chi per target hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical hit effect lasts for 3 seg<br/>Generates chi even when blocked, countered, deflected",
 		"consume_sp": null,
 		"ui_sp_heal_value": "15",
 		"skill_info": 
@@ -266,7 +266,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_0_31.png",
 		"main_info1": "Deals 16~18 damage",
 		"main_info2": null,
-		"sub_info": "Generates 10% chi per target hit<br/> Generates 10% additional chi on critical hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical hit effect lasts for 3 sec",
+		"sub_info": "Generates 10% chi per target hit<br/> Generates 10% additional chi on critical hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical hit effect lasts for 3 seg",
 		"consume_sp": null,
 		"ui_sp_heal_value": "10",
 		"skill_info": 
@@ -304,7 +304,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_0_31.png",
 		"main_info1": "Deals 18~21 damage",
 		"main_info2": null,
-		"sub_info": "Generates 10% chi per target hit<br/> Generates 10% additional chi on critical hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical hit effect lasts for 3 sec",
+		"sub_info": "Generates 10% chi per target hit<br/> Generates 10% additional chi on critical hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical hit effect lasts for 3 seg",
 		"consume_sp": null,
 		"ui_sp_heal_value": "10",
 		"skill_info": 
@@ -405,7 +405,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 34~39 damage",
         "main_info2": "User is immune to daze, stun, knock back during use",
-        "sub_info": "Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Removes immobilizing effects on the user once<br/>Offensive defense ability<br/>Ignores defense",
+        "sub_info": "Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Removes immobilizing effects on the user once<br/>Offensive defense ability<br/>Ignora Defesa",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -437,7 +437,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 34~39 damage",
         "main_info2": "User is immune to daze, stun, knock back during use",
-        "sub_info": "Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Removes immobilizing effects on the user once<br/>Offensive defense ability<br/>Ignores defense<br/>Increases the defense of the user by 20% for 5 sec on hit up to 10 stacks",
+        "sub_info": "Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Removes immobilizing effects on the user once<br/>Offensive defense ability<br/>Ignora Defesa<br/>Increases the defense of the user by 20% for 5 seg on hit up to 10 stacks",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -469,7 +469,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 34~39 damage",
         "main_info2": "User is immune to daze, stun, knock back during use",
-        "sub_info": "Increases the movement speed of the user by 80% during use<br/>Mobile during use<br/>Removes immobilizing effects on the user<br/>Offensive defense ability<br/>Ignores defense<br/>Increases the defense of the user by 20% for 5 sec on hit up to 10 stacks",
+        "sub_info": "Increases the movement speed of the user by 80% during use<br/>Mobile during use<br/>Removes immobilizing effects on the user<br/>Offensive defense ability<br/>Ignora Defesa<br/>Increases the defense of the user by 20% for 5 seg on hit up to 10 stacks",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -565,7 +565,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "User is immune to daze, stun, knock back during use",
-        "sub_info": "Deflects an attack for 0.5 sec<br/>Increases the movement speed of the user by 60% during use<br/>Increases the movement speed of the user by 30% for 3 sec on deflect<br/>Generates 30% chi on deflect<br/>User is immune to slows for 3 sec on deflect<br/>Mobile during use<br/>Removes immobilizing effects on the user once<br/>Offensive defense ability",
+        "sub_info": "Deflects an attack for 0.5 seg<br/>Increases the movement speed of the user by 60% during use<br/>Increases the movement speed of the user by 30% for 3 seg on deflect<br/>Generates 30% chi on deflect<br/>User is immune to slows for 3 seg on deflect<br/>Mobile during use<br/>Removes immobilizing effects on the user once<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -597,7 +597,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_29.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": "User is immune to daze, stun, knock back during use",
-        "sub_info": "Deflects multiple attacks for 0.5 sec<br/>Cooldown of Collide is decreased by 9 sec on the first deflect<br/>Removes charge ability disable on deflect<br/>Increases the movement speed of the user by 30% for 3 sec on deflect<br/>User is immune to slows for 3 sec on deflect<br/>Generates 30% chi on deflect<br/>Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Removes immobilizing effects on the user once<br/>Offensive defense ability",
+        "sub_info": "Deflects multiple attacks for 0.5 seg<br/>Cooldown of Collide is decreased by 9 seg on the first deflect<br/>Removes charge ability disable on deflect<br/>Increases the movement speed of the user by 30% for 3 seg on deflect<br/>User is immune to slows for 3 seg on deflect<br/>Generates 30% chi on deflect<br/>Increases the movement speed of the user by 60% during use<br/>Mobile during use<br/>Removes immobilizing effects on the user once<br/>Offensive defense ability",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -661,7 +661,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_40.png",
         "main_info1": "Deals 162~189 damage",
         "main_info2": "User is immune to down, daze, stun, knock back, knock up, pull, force grip during use",
-        "sub_info": "Mobile during use<br/>Decreases the movement speed of the user by 30% during use<br/>Ignores defense<br/>Typhoon can be recast<br/>Removes immobilizing effects on the user once<br/>Deals 39~46 damage on recast",
+        "sub_info": "Mobile during use<br/>Decreases the movement speed of the user by 30% during use<br/>Ignora Defesa<br/>Typhoon can be recast<br/>Removes immobilizing effects on the user once<br/>Deals 39~46 damage on recast",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -722,7 +722,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "0.4 sec"
+				"value": "0.4 seg"
 			}
 		}
 	},
@@ -760,7 +760,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "0.4 sec"
+				"value": "0.4 seg"
 			}
 		}
 	},
@@ -771,7 +771,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_1_39.png",
 		"main_info1": "Deals 58~67 damage",
 		"main_info2": null,
-		"sub_info": "Maximum speed<br/>Heals the user 5% of the damage dealt<br/>Fury can be used for 4 sec on hit with Slam",
+		"sub_info": "Maximum speed<br/>Heals the user 5% of the damage dealt<br/>Fury can be used for 4 seg on hit with Slam",
 		"consume_sp": null,
 		"ui_sp_heal_value": null,
 		"skill_info": 
@@ -798,7 +798,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "0.4 sec"
+				"value": "0.4 seg"
 			}
 		}
 	},
@@ -809,7 +809,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_1_39.png",
 		"main_info1": "Deals 58~67 damage",
 		"main_info2": null,
-		"sub_info": "Maximum speed<br/>Heals the user 5% of the damage dealt<br/>Generates 10% on critical hit<br/>Fury can be used for 4 sec on hit with Slam",
+		"sub_info": "Maximum speed<br/>Heals the user 5% of the damage dealt<br/>Generates 10% on critical hit<br/>Fury can be used for 4 seg on hit with Slam",
 		"consume_sp": null,
 		"ui_sp_heal_value": null,
 		"skill_info": 
@@ -836,7 +836,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "0.4 sec"
+				"value": "0.4 seg"
 			}
 		}
 	},
@@ -848,7 +848,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_0_23.png",
 		"main_info1": "Knocks foes into the air",
 		"main_info2": null,
-		"sub_info": "Deals 54~63 damage<br/>Decreases the defense of foes by 20% for 5 sec",
+		"sub_info": "Deals 54~63 damage<br/>Decreases the defense of foes by 20% for 5 seg",
 		"consume_sp": "10",
 		"ui_sp_heal_value": null,
 		"skill_info": 
@@ -875,7 +875,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "18 sec"
+				"value": "18 seg"
 			}
 		}
 	},
@@ -981,7 +981,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": "Deals an additional 6~7 damage to downed, suppressed foes",
-        "sub_info": "Skill speed increases by 0.3 sec per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy is available while using Seize",
+        "sub_info": "Skill speed increases by 0.3 seg per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy is available while using Seize",
         "consume_sp": "30",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1013,7 +1013,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": "Deals an additional 6~7 damage to downed, suppressed foes",
-        "sub_info": "Costs 20 chi on recast<br/>Skill speed increases by 0.3 sec per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy is available while using Seize",
+        "sub_info": "Costs 20 chi on recast<br/>Skill speed increases by 0.3 seg per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy is available while using Seize",
         "consume_sp": "30",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1077,7 +1077,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": "Deals an additional 6~7 damage to downed, suppressed foes",
-        "sub_info": "Ignores defense<br/>Maximum speed<br/>Destroy is available while using Seize",
+        "sub_info": "Ignora Defesa<br/>Maximum speed<br/>Destroy is available while using Seize",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1109,7 +1109,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": "Deals an additional 6~7 damage to downed, suppressed foes",
-        "sub_info": "Heals the user 20% of the damage dealt<br/>Costs 20 chi on recast<br/>Skill speed increases by 0.3 sec per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy is available while using Seize",
+        "sub_info": "Heals the user 20% of the damage dealt<br/>Costs 20 chi on recast<br/>Skill speed increases by 0.3 seg per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy is available while using Seize",
         "consume_sp": "30",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1141,7 +1141,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": "Deals an additional 6~7 damage to downed, suppressed foes",
-        "sub_info": "Destroy can be instantly recast at no cost on critical hit<br/>Heals the user 20% of the damage dealt<br/>Costs 20 chi on recast<br/>Skill speed increases by 0.3 sec per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy is available while using Seize",
+        "sub_info": "Destroy can be instantly recast at no cost on critical hit<br/>Heals the user 20% of the damage dealt<br/>Costs 20 chi on recast<br/>Skill speed increases by 0.3 seg per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy is available while using Seize",
         "consume_sp": "30",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1172,7 +1172,7 @@ var skill_data_DE = {
         "name": "Devastate - 대파괴",
         "icon": "skill_icon_destroyer_1_41.png",
         "main_info1": "Deals 60~70 damage",
-        "main_info2": "Deals 96~112 damage over 8 sec",
+        "main_info2": "Deals 96~112 damage over 8 seg",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": "20",
@@ -1195,7 +1195,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1204,7 +1204,7 @@ var skill_data_DE = {
         "name": "Devastate - 대파괴",
         "icon": "skill_icon_destroyer_1_41.png",
         "main_info1": "Deals 60~70 damage",
-        "main_info2": "Deals 192~224 damage over 8 sec",
+        "main_info2": "Deals 192~224 damage over 8 seg",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": "20",
@@ -1227,7 +1227,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1235,7 +1235,7 @@ var skill_data_DE = {
         "id": "24040",
         "name": "Kick - 발차기",
         "icon": "skill_icon_destroyer_0_47.png",
-        "main_info1": "Knocks foes down for 2 sec",
+        "main_info1": "Knocks foes down for 2 seg",
         "main_info2": "Deals 19~22 damage",
         "sub_info": null,
         "consume_sp": "10",
@@ -1259,7 +1259,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1267,7 +1267,7 @@ var skill_data_DE = {
         "id": "24040",
         "name": "Kick - 발차기",
         "icon": "skill_icon_destroyer_0_47.png",
-        "main_info1": "Knocks foes down for 2 sec",
+        "main_info1": "Knocks foes down for 2 seg",
         "main_info2": "Deals 19~22 damage",
         "sub_info": "Maximum speed Destroy is available on hit",
         "consume_sp": "10",
@@ -1291,7 +1291,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1299,7 +1299,7 @@ var skill_data_DE = {
         "id": "24040",
         "name": "Kick - 발차기",
         "icon": "skill_icon_destroyer_0_47.png",
-        "main_info1": "Knocks foes down for 3 sec",
+        "main_info1": "Knocks foes down for 3 seg",
         "main_info2": "Deals 19~22 damage",
         "sub_info": "Maximum speed Destroy is available on hit",
         "consume_sp": "10",
@@ -1323,7 +1323,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1331,9 +1331,9 @@ var skill_data_DE = {
         "id": "24040",
         "name": "Kick - 발차기",
         "icon": "skill_icon_destroyer_0_47.png",
-        "main_info1": "Knocks foes down for 3 sec",
+        "main_info1": "Knocks foes down for 3 seg",
         "main_info2": "Deals 19~22 damage",
-        "sub_info": "Breaks defense<br/>Disables defense abilities of defense broken foes for 5 sec<br/>Maximum speed Destroy is available on hit",
+        "sub_info": "Breaks defense<br/>Disables defense abilities of defense broken foes for 5 seg<br/>Maximum speed Destroy is available on hit",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1355,7 +1355,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1365,7 +1365,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_47.png",
         "main_info1": "Deals 19~22 damage",
         "main_info2": null,
-        "sub_info": "User generates 50% additional threat for 6 sec<br/>Increases the defense of the user by 100% for 6 sec<br/>Maximum speed Destroy is available on hit",
+        "sub_info": "User generates 50% additional threat for 6 seg<br/>Increases the defense of the user by 100% for 6 seg<br/>Maximum speed Destroy is available on hit",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1387,7 +1387,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1397,7 +1397,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_47.png",
         "main_info1": "Deals 19~22 damage",
         "main_info2": null,
-        "sub_info": "Taunts dazed, stunned foes for 3 sec<br/>User generates 50% additional threat for 6 sec<br/>Increases the defense of the user by 100% for 6 sec<br/>Maximum speed Destroy is available on hit",
+        "sub_info": "Taunts dazed, stunned foes for 3 seg<br/>User generates 50% additional threat for 6 seg<br/>Increases the defense of the user by 100% for 6 seg<br/>Maximum speed Destroy is available on hit",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1419,7 +1419,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1427,7 +1427,7 @@ var skill_data_DE = {
         "id": "24040",
         "name": "Pull - 끌어오기",
         "icon": "skill_icon_destroyer_1_42.png",
-        "main_info1": "Pulls foes and dazes them for 2 sec",
+        "main_info1": "Pulls foes and dazes them for 2 seg",
         "main_info2": "Deals 19~22 damage",
         "sub_info": "Cannot be deflected",
         "consume_sp": "10",
@@ -1446,12 +1446,12 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1459,7 +1459,7 @@ var skill_data_DE = {
         "id": "24040",
         "name": "Pull - 끌어오기",
         "icon": "skill_icon_destroyer_1_42.png",
-        "main_info1": "Pulls foes and dazes them for 3 sec",
+        "main_info1": "Pulls foes and dazes them for 3 seg",
         "main_info2": "Deals 19~22 damage",
         "sub_info": "Cannot be deflected",
         "consume_sp": "10",
@@ -1478,12 +1478,12 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1491,7 +1491,7 @@ var skill_data_DE = {
         "id": "24040",
         "name": "Pull - 끌어오기",
         "icon": "skill_icon_destroyer_1_42.png",
-        "main_info1": "Pulls foes and dazes them for 2 sec",
+        "main_info1": "Pulls foes and dazes them for 2 seg",
         "main_info2": "Deals 19~22 damage",
         "sub_info": "Cannot be deflected",
         "consume_sp": "10",
@@ -1510,12 +1510,12 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1523,9 +1523,9 @@ var skill_data_DE = {
         "id": "24050",
         "name": "Collide - 격돌",
         "icon": "skill_icon_destroyer_0_13.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1547,7 +1547,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1555,9 +1555,9 @@ var skill_data_DE = {
         "id": "24050",
         "name": "Collide - 격돌",
         "icon": "skill_icon_destroyer_0_13.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1579,7 +1579,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1587,9 +1587,9 @@ var skill_data_DE = {
         "id": "24050",
         "name": "Collide - 격돌",
         "icon": "skill_icon_destroyer_0_13.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1611,7 +1611,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1619,9 +1619,9 @@ var skill_data_DE = {
         "id": "24050",
         "name": "Collide - 격돌",
         "icon": "skill_icon_destroyer_0_13.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Decreases the movement speed of foes by 30%<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Decreases the movement speed of foes by 30%<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1643,7 +1643,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1651,9 +1651,9 @@ var skill_data_DE = {
         "id": "24050",
         "name": "Collide - 격돌",
         "icon": "skill_icon_destroyer_0_13.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Deflects attacks while charging<br/>Generates 50% chi on deflect<br/>Increased charge speed<br/>Charge to the target<br/>Decreases the movement speed of foes by 30%<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "Deflects attacks while charging<br/>Generates 50% chi on deflect<br/>Increased charge speed<br/>Charge to the target<br/>Decreases the movement speed of foes by 30%<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1675,7 +1675,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1683,9 +1683,9 @@ var skill_data_DE = {
         "id": "24050",
         "name": "Collide - 격돌",
         "icon": "skill_icon_destroyer_0_13.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "User is invulnerable during use<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "User is invulnerable during use<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1707,7 +1707,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1715,9 +1715,9 @@ var skill_data_DE = {
         "id": "24050",
         "name": "Collide - 격돌",
         "icon": "skill_icon_destroyer_0_13.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "User is invulnerable for 1 sec after use<br/>User is invulnerable during use<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "User is invulnerable for 1 seg after use<br/>User is invulnerable during use<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1739,7 +1739,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1749,7 +1749,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1771,7 +1771,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1781,7 +1781,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Generates 60% chi over 6 sec on hitting dazed, stunned, seized, force gripped foes<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "Generates 60% chi over 6 seg on hitting dazed, stunned, seized, force gripped foes<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1803,7 +1803,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1813,7 +1813,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Collide can be recast up to 2 times on critical hit<br/>Generates 60% chi over 6 sec on hitting dazed, stunned, seized, force gripped foes<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "Collide can be recast up to 2 times on critical hit<br/>Generates 60% chi over 6 seg on hitting dazed, stunned, seized, force gripped foes<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1835,7 +1835,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1845,7 +1845,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Collide can be recast up to 2 times on critical hit<br/>Generates 60% chi over 6 sec on hitting dazed, stunned, seized, force gripped foes<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "Collide can be recast up to 2 times on critical hit<br/>Generates 60% chi over 6 seg on hitting dazed, stunned, seized, force gripped foes<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1867,7 +1867,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1875,9 +1875,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 20% of their maximum health over 4 sec",
+        "sub_info": "Heals the user 20% of their maximum health over 4 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1899,7 +1899,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1907,9 +1907,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": null,
-        "sub_info": "Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 sec",
+        "sub_info": "Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1931,7 +1931,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1939,9 +1939,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 1% of their maximum health on block<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 sec",
+        "sub_info": "Heals the user 1% of their maximum health on block<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1963,7 +1963,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1971,9 +1971,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": null,
-        "sub_info": "Cooldown of Retreat is refreshed on blocking 3 attacks<br/>Heals the user 1% of their maximum health on block<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 sec",
+        "sub_info": "Cooldown of Retreat is refreshed on blocking 3 attacks<br/>Heals the user 1% of their maximum health on block<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1995,7 +1995,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2003,9 +2003,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": null,
-        "sub_info": "Ignores defense ability disable<br/>Cooldown of Retreat is refreshed on blocking 3 attacks<br/>Heals the user 1% of their maximum health on block<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 sec",
+        "sub_info": "Ignora Defesa ability disable<br/>Cooldown of Retreat is refreshed on blocking 3 attacks<br/>Heals the user 1% of their maximum health on block<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2027,7 +2027,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2035,9 +2035,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 20% of their maximum health over 4 sec<br/>Generates 20% chi on block",
+        "sub_info": "Heals the user 20% of their maximum health over 4 seg<br/>Generates 20% chi on block",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2059,7 +2059,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2067,9 +2067,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": null,
-        "sub_info": "Cooldown of Iron Wall is decreased by 1 sec on hit with Wedge<br/>Heals the user 10% of their maximum health over 4 sec<br/>Generates 20% chi on block",
+        "sub_info": "Cooldown of Iron Wall is decreased by 1 seg on hit with Wedge<br/>Heals the user 10% of their maximum health over 4 seg<br/>Generates 20% chi on block",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2091,7 +2091,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2099,9 +2099,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": null,
-        "sub_info": "Cooldown of Iron Wall is decreased by 1 sec on block<br/>Cooldown of Iron Wall is decreased by 1 sec on hit with Wedge<br/>Heals the user 10% of their maximum health over 4 sec<br/>Generates 20% chi on block",
+        "sub_info": "Cooldown of Iron Wall is decreased by 1 seg on block<br/>Cooldown of Iron Wall is decreased by 1 seg on hit with Wedge<br/>Heals the user 10% of their maximum health over 4 seg<br/>Generates 20% chi on block",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2123,7 +2123,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2131,9 +2131,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": null,
-        "sub_info": "User and nearby allies take 25% less damage for 3 attacks<br/>Heals the user 20% of their maximum health over 4 sec<br/>Generates 20% chi on block",
+        "sub_info": "User and nearby allies take 25% less damage for 3 attacks<br/>Heals the user 20% of their maximum health over 4 seg<br/>Generates 20% chi on block",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2155,7 +2155,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2163,9 +2163,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": null,
-        "sub_info": "Increases the movement speed of the user and nearby allies by 30% for 4 sec<br/>User and nearby allies take 25% less damage for 3 attacks<br/>Heals the user 20% of their maximum health over 4 sec<br/>Generates 20% chi on block",
+        "sub_info": "Increases the movement speed of the user and nearby allies by 30% for 4 seg<br/>User and nearby allies take 25% less damage for 3 attacks<br/>Heals the user 20% of their maximum health over 4 seg<br/>Generates 20% chi on block",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2187,7 +2187,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2195,9 +2195,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_0_24.png",
-        "main_info1": "Blocks attacks from the front for 8 sec",
+        "main_info1": "Blocks attacks from the front for 8 seg",
         "main_info2": null,
-        "sub_info": "Ignores defense ability disable<br/>Increases the movement speed of the user and nearby allies by 30% for 4 sec<br/>User and nearby allies take 50% less damage<br/>Heals the user 20% of their maximum health over 8 sec<br/>Generates 20% chi on block",
+        "sub_info": "Ignora Defesa ability disable<br/>Increases the movement speed of the user and nearby allies by 30% for 4 seg<br/>User and nearby allies take 50% less damage<br/>Heals the user 20% of their maximum health over 8 seg<br/>Generates 20% chi on block",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2227,9 +2227,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_1_7.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": "Deals 6~7 damage",
-        "sub_info": "Stuns foes for 2 sec<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 sec<br/>Cannot be deflected",
+        "sub_info": "Stuns foes for 2 seg<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2251,7 +2251,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2259,9 +2259,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_1_7.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": "Deals 6~7 damage",
-        "sub_info": "Stuns foes for 3 sec<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 sec<br/>Cannot be deflected",
+        "sub_info": "Stuns foes for 3 seg<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2283,7 +2283,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2291,9 +2291,9 @@ var skill_data_DE = {
         "id": "24060",
         "name": "Iron Wall - 철벽",
         "icon": "skill_icon_destroyer_1_7.png",
-        "main_info1": "Blocks attacks from the front for 4 sec",
+        "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": "Deals 6~7 damage",
-        "sub_info": "Knocks foes back 12m and knocks them down for 3 sec<br/>Knocks foes that resist knock back down for 3 sec<br/>Knocks foes that can be chained with knock back down for 3 sec<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 sec<br/>Cannot be deflected",
+        "sub_info": "Knocks foes back 12m and knocks them down for 3 seg<br/>Knocks foes that resist knock back down for 3 seg<br/>Knocks foes that can be chained with knock back down for 3 seg<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2323,8 +2323,8 @@ var skill_data_DE = {
         "id": "24070",
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
-        "main_info1": "Deals 24~28 damage",
-        "main_info2": "Deals 72~84 damage over 8 sec",
+        "main_info1": "Causa Dano de 24~28 ",
+        "main_info2": "Deals 72~84 damage over 8 seg",
         "sub_info": null,
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -2347,7 +2347,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2356,7 +2356,7 @@ var skill_data_DE = {
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Deals 84~98 damage over 8 sec",
+        "main_info2": "Causa Dano de 84~98 over 8 seg",
         "sub_info": null,
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -2379,7 +2379,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2388,7 +2388,7 @@ var skill_data_DE = {
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Deals 84~98 damage over 8 sec",
+        "main_info2": "Causa Dano de 84~98 over 8 seg",
         "sub_info": "Generates 10% chi per target hit",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -2411,7 +2411,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2420,7 +2420,7 @@ var skill_data_DE = {
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Deals 84~98 damage over 8 sec",
+        "main_info2": "Causa Dano de 84~98 over 8 seg",
         "sub_info": "Generates 10% chi per target hit",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -2443,7 +2443,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2452,7 +2452,7 @@ var skill_data_DE = {
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Deals 84~98 damage over 8 sec<br/>Deals an additional 21~25 damage per consecutive hit",
+        "main_info2": "Causa Dano de 84~98 over 8 seg<br/>Deals an additional 21~25 damage per consecutive hit",
         "sub_info": "Generates 10% chi per target hit",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -2475,7 +2475,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2484,7 +2484,7 @@ var skill_data_DE = {
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Deals 84~98 damage over 8 sec",
+        "main_info2": "Causa Dano de 84~98 over 8 seg",
         "sub_info": "Decreases the movement speed of foes by 40%<br/>Doubles health regeneration from damage dealt within the area",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -2507,7 +2507,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2516,7 +2516,7 @@ var skill_data_DE = {
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Deals 84~98 damage over 8 sec",
+        "main_info2": "Causa Dano de 84~98 over 8 seg",
         "sub_info": "Decreases the movement speed of foes by 40%<br/>Increases the defense of the user by 200% while within the area<br/>Doubles health regeneration from damage dealt within the area",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -2539,7 +2539,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2548,7 +2548,7 @@ var skill_data_DE = {
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Deals 84~98 damage over 8 sec",
+        "main_info2": "Causa Dano de 84~98 over 8 seg",
         "sub_info": "Decreases the movement speed of foes by 40%<br/>User is immune to down, daze, stun, knock back while within the area<br/>Increases the defense of the user by 400% while within the area<br/>Doubles health regeneration from damage dealt within the area",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -2571,7 +2571,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2580,7 +2580,7 @@ var skill_data_DE = {
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Deals an additional 54~63 damage to downed, suppressed foes for the first hit<br/>Deals 84~98 damage over 8 sec",
+        "main_info2": "Deals an additional 54~63 damage to downed, suppressed foes for the first hit<br/>Causa Dano de 84~98 over 8 seg",
         "sub_info": null,
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -2603,7 +2603,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2612,7 +2612,7 @@ var skill_data_DE = {
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Deals an additional 54~63 damage to downed, suppressed foes for the first hit<br/>Deals 84~98 damage over 8 sec",
+        "main_info2": "Deals an additional 54~63 damage to downed, suppressed foes for the first hit<br/>Causa Dano de 84~98 over 8 seg",
         "sub_info": "All attacks dealt while within the area deal an additional 6~7 damage",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -2635,7 +2635,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2644,7 +2644,7 @@ var skill_data_DE = {
         "name": "Stomp - 발구르기",
         "icon": "skill_icon_destroyer_1_43.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Deals an additional 54~63 damage to downed, suppressed foes for the first hit<br/>Deals 84~98 damage over 8 sec",
+        "main_info2": "Deals an additional 54~63 damage to downed, suppressed foes for the first hit<br/>Causa Dano de 84~98 over 8 seg",
         "sub_info": "Destroy, Fury deals 20% additional damage while within the area<br/>All attacks dealt while within the area deal an additional 6~7 damage",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
@@ -2667,7 +2667,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2699,7 +2699,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2731,7 +2731,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2741,7 +2741,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_44.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Decreases the meditaion time of meditating allies by 6 sec<br/>Meditating allies within the area are invulnerable<br/>Heals the user and allies within the area 5% of their maximum health<br/>Removes down, daze, stun, unconscious status from nearby allies",
+        "sub_info": "Decreases the meditaion time of meditating allies by 6 seg<br/>Meditating allies within the area are invulnerable<br/>Heals the user and allies within the area 5% of their maximum health<br/>Removes down, daze, stun, unconscious status from nearby allies",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2763,7 +2763,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2771,7 +2771,7 @@ var skill_data_DE = {
         "id": "24080",
         "name": "Sever - 절단",
         "icon": "skill_icon_destroyer_1_5.png",
-        "main_info1": "Knocks foes down for 2 sec",
+        "main_info1": "Knocks foes down for 2 seg",
         "main_info2": null,
         "sub_info": "Deals 23~27 damage",
         "consume_sp": "20",
@@ -2795,7 +2795,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2803,7 +2803,7 @@ var skill_data_DE = {
         "id": "24080",
         "name": "Sever - 절단",
         "icon": "skill_icon_destroyer_1_5.png",
-        "main_info1": "Knocks foes down for 2 sec",
+        "main_info1": "Knocks foes down for 2 seg",
         "main_info2": null,
         "sub_info": "Deals 23~27 damage<br/>Decreases the movement speed of foes by 30%",
         "consume_sp": "20",
@@ -2827,7 +2827,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2835,9 +2835,9 @@ var skill_data_DE = {
         "id": "24080",
         "name": "Sever - 절단",
         "icon": "skill_icon_destroyer_1_5.png",
-        "main_info1": "Knocks foes down for 2 sec",
+        "main_info1": "Knocks foes down for 2 seg",
         "main_info2": null,
-        "sub_info": "Deals 23~27 damage<br/>Decreases the movement speed of foes by 30%<br/>Disables charge abilities of foes for 6 sec",
+        "sub_info": "Deals 23~27 damage<br/>Decreases the movement speed of foes by 30%<br/>Disables charge abilities of foes for 6 seg",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2859,7 +2859,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2867,9 +2867,9 @@ var skill_data_DE = {
         "id": "24080",
         "name": "Sever - 절단",
         "icon": "skill_icon_destroyer_1_5.png",
-        "main_info1": "Knocks foes down for 2 sec",
+        "main_info1": "Knocks foes down for 2 seg",
         "main_info2": null,
-        "sub_info": "Deals 23~27 damage<br/>Decreases the movement speed of foes by 30%<br/>Disables charge abilities of foes for 6 sec<br/>Ignores defense",
+        "sub_info": "Deals 23~27 damage<br/>Decreases the movement speed of foes by 30%<br/>Disables charge abilities of foes for 6 seg<br/>Ignora Defesa",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2891,7 +2891,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2899,9 +2899,9 @@ var skill_data_DE = {
         "id": "24080",
         "name": "Sever - 절단",
         "icon": "skill_icon_destroyer_1_5.png",
-        "main_info1": "Knocks foes down for 2 sec",
+        "main_info1": "Knocks foes down for 2 seg",
         "main_info2": null,
-        "sub_info": "Deals 23~27 damage<br/>Decreases the movement speed of foes by 30%<br/>Disables charge abilities of foes for 6 sec<br/>Ignores defense",
+        "sub_info": "Deals 23~27 damage<br/>Decreases the movement speed of foes by 30%<br/>Disables charge abilities of foes for 6 seg<br/>Ignora Defesa",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2923,7 +2923,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2964,8 +2964,8 @@ var skill_data_DE = {
         "name": "Abyss - 나락",
         "icon": "skill_icon_destroyer_0_22.png",
         "main_info1": "Deals 120~140 damage",
-        "main_info2": "Knocks foes down for 2 sec",
-        "sub_info": "Ends the target's airborne status<br/>Ignores defense<br/>Increases the movement speed of the user by 30%<br/>Desables defense, charge abilities of foes for 4 sec<br/>Increases the evade chance of the user by 100% during use<br/>",
+        "main_info2": "Knocks foes down for 2 seg",
+        "sub_info": "Ends the target's airborne status<br/>Ignora Defesa<br/>Increases the movement speed of the user by 30%<br/>Desables defense, charge abilities of foes for 4 seg<br/>Increases the evade chance of the user by 100% during use<br/>",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2995,9 +2995,9 @@ var skill_data_DE = {
         "id": "24090",
         "name": "Enrage - 분노",
         "icon": "skill_icon_destroyer_1_45.png",
-        "main_info1": "User is Enraged for 4 sec",
+        "main_info1": "User is Enraged for 4 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable on use<br/>Generates 120% chi over 4 sec<br/>Decreases the defense of the user by 100%",
+        "sub_info": "User is invulnerable on use<br/>Generates 120% chi over 4 seg<br/>Decreases the defense of the user by 100%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3027,9 +3027,9 @@ var skill_data_DE = {
         "id": "24090",
         "name": "Enrage - 분노",
         "icon": "skill_icon_destroyer_1_45.png",
-        "main_info1": "User is Enraged for 4 sec",
+        "main_info1": "User is Enraged for 4 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable on use<br/>Generates 120% chi over 4 sec<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged",
+        "sub_info": "User is invulnerable on use<br/>Generates 120% chi over 4 seg<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3059,9 +3059,9 @@ var skill_data_DE = {
         "id": "24090",
         "name": "Enrage - 분노",
         "icon": "skill_icon_destroyer_1_45.png",
-        "main_info1": "User is Enraged for 4 sec",
+        "main_info1": "User is Enraged for 4 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable on use<br/>Generates 120% chi over 4 sec<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged<br/>Increases the critical hit chance of the user by 100% while they are Enraged",
+        "sub_info": "User is invulnerable on use<br/>Generates 120% chi over 4 seg<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged<br/>Increases the critical hit chance of the user by 100% while they are Enraged",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3091,9 +3091,9 @@ var skill_data_DE = {
         "id": "24090",
         "name": "Enrage - 분노",
         "icon": "skill_icon_destroyer_1_45.png",
-        "main_info1": "User is Enraged for 4 sec",
+        "main_info1": "User is Enraged for 4 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable on use<br/>Generates 120% chi over 4 sec<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged<br/>Increases the critical hit chance of the user by 100% while they are Enraged<br/>Increases the critical hit damage of the user by 5% while they are Enraged",
+        "sub_info": "User is invulnerable on use<br/>Generates 120% chi over 4 seg<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged<br/>Increases the critical hit chance of the user by 100% while they are Enraged<br/>Increases the critical hit damage of the user by 5% while they are Enraged",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3123,9 +3123,9 @@ var skill_data_DE = {
         "id": "24090",
         "name": "Enrage - 분노",
         "icon": "skill_icon_destroyer_1_45.png",
-        "main_info1": "User is Enraged for 6 sec",
+        "main_info1": "User is Enraged for 6 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable on use<br/>Generates 180% chi over 6 sec<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged<br/>Increases the critical hit chance of the user by 100% while they are Enraged<br/>Increases the critical hit damage of the user by 5% while they are Enraged",
+        "sub_info": "User is invulnerable on use<br/>Generates 180% chi over 6 seg<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged<br/>Increases the critical hit chance of the user by 100% while they are Enraged<br/>Increases the critical hit damage of the user by 5% while they are Enraged",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3155,9 +3155,9 @@ var skill_data_DE = {
         "id": "24090",
         "name": "Enrage - 분노",
         "icon": "skill_icon_destroyer_1_45.png",
-        "main_info1": "User is Enraged for 6 sec",
+        "main_info1": "User is Enraged for 6 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable on use<br/>Generates 180% chi over 6 sec<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged<br/>Increases the critical hit chance of the user by 100% while they are Enraged<br/>Increases the critical hit damage of the user by 5% while they are Enraged<br/>Cooldown of Annihilate is refreshed on use",
+        "sub_info": "User is invulnerable on use<br/>Generates 180% chi over 6 seg<br/>Decreases the defense of the user by 100%<br/>User is immune to daze, stun, knock back while they are Enraged<br/>Increases the critical hit chance of the user by 100% while they are Enraged<br/>Increases the critical hit damage of the user by 5% while they are Enraged<br/>Cooldown of Annihilate is refreshed on use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3187,9 +3187,9 @@ var skill_data_DE = {
         "id": "24090",
         "name": "Adamant - 불굴",
         "icon": "skill_icon_destroyer_1_17.png",
-        "main_info1": "User is Adamant for 6 sec",
+        "main_info1": "User is Adamant for 6 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable on use<br/>Generates 150% chi over 6 sec<br/>Increases the defense of the user by 400% while they are Adamant<br/>User is immune to daze, stun, knock back while they are Adamant<br/>User ignores slow, charge ability disable while they are adamant",
+        "sub_info": "User is invulnerable on use<br/>Generates 150% chi over 6 seg<br/>Increases the defense of the user by 400% while they are Adamant<br/>User is immune to daze, stun, knock back while they are Adamant<br/>User ignores slow, charge ability disable while they are adamant",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3219,9 +3219,9 @@ var skill_data_DE = {
         "id": "24090",
         "name": "Adamant - 불굴",
         "icon": "skill_icon_destroyer_1_17.png",
-        "main_info1": "User is Adamant for 6 sec",
+        "main_info1": "User is Adamant for 6 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable on use<br/>Generates 150% chi over 6 sec<br/>Generates 100% chi on taking damage while the user is Adamant<br/>Increases the defense of the user by 400% while they are Adamant<br/>User is immune to daze, stun, knock back while they are Adamant<br/>User ignores slow, charge ability disable while they are adamant",
+        "sub_info": "User is invulnerable on use<br/>Generates 150% chi over 6 seg<br/>Generates 100% chi on taking damage while the user is Adamant<br/>Increases the defense of the user by 400% while they are Adamant<br/>User is immune to daze, stun, knock back while they are Adamant<br/>User ignores slow, charge ability disable while they are adamant",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3251,9 +3251,9 @@ var skill_data_DE = {
         "id": "24090",
         "name": "Adamant - 불굴",
         "icon": "skill_icon_destroyer_1_17.png",
-        "main_info1": "User is Adamant for 6 sec",
+        "main_info1": "User is Adamant for 6 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable on use<br/>Generates 150% chi over 6 sec<br/>Generates 100% chi on taking damage while the user is Adamant<br/>Increases the defense of the user by 400% while they are Adamant<br/>User is immune to daze, stun, knock back while they are Adamant<br/>User ignores slow, charge ability disable while they are adamant<br/>Escape from dazed, stunned status",
+        "sub_info": "User is invulnerable on use<br/>Generates 150% chi over 6 seg<br/>Generates 100% chi on taking damage while the user is Adamant<br/>Increases the defense of the user by 400% while they are Adamant<br/>User is immune to daze, stun, knock back while they are Adamant<br/>User ignores slow, charge ability disable while they are adamant<br/>Escape from dazed, stunned status",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3283,9 +3283,9 @@ var skill_data_DE = {
         "id": "24090",
         "name": "Adamant - 불굴",
         "icon": "skill_icon_destroyer_1_17.png",
-        "main_info1": "User is Adamant for 6 sec",
+        "main_info1": "User is Adamant for 6 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable on use<br/>Generates 150% chi over 6 sec<br/>Generates 100% chi on taking damage while the user is Adamant<br/>Increases the defense of the user by 400% while they are Adamant<br/>User is immune to daze, stun, knock back while they are Adamant<br/>User ignores slow, charge ability disable while they are adamant<br/>Escape from dazed, stunned status<br/>Cooldown of Iron Wall is refreshed on use",
+        "sub_info": "User is invulnerable on use<br/>Generates 150% chi over 6 seg<br/>Generates 100% chi on taking damage while the user is Adamant<br/>Increases the defense of the user by 400% while they are Adamant<br/>User is immune to daze, stun, knock back while they are Adamant<br/>User ignores slow, charge ability disable while they are adamant<br/>Escape from dazed, stunned status<br/>Cooldown of Iron Wall is refreshed on use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3345,7 +3345,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "24 sec"
+				"value": "24 seg"
 			}
 		}
 	},
@@ -3383,7 +3383,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "24 sec"
+				"value": "24 seg"
 			}
 		}
 	},
@@ -3421,7 +3421,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "24 sec"
+				"value": "24 seg"
 			}
 		}
 	},
@@ -3459,7 +3459,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "24 sec"
+				"value": "24 seg"
 			}
 		}
 	},
@@ -3497,7 +3497,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "24 sec"
+				"value": "24 seg"
 			}
 		}
 	},
@@ -3529,7 +3529,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3561,7 +3561,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3593,7 +3593,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3625,7 +3625,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3657,7 +3657,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3689,7 +3689,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3699,7 +3699,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_60.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": "Heals the user 100% of the damage dealt",
-        "sub_info": "Heals the user 150% of the damage dealt on hitting dazed, stunned, seized, force gripped foes<br/>Generates 100% chi over 5 sec",
+        "sub_info": "Heals the user 150% of the damage dealt on hitting dazed, stunned, seized, force gripped foes<br/>Generates 100% chi over 5 seg",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3721,7 +3721,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -3731,7 +3731,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_60.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": "Heals the user 100% of the damage dealt",
-        "sub_info": "Heals the user 150% of the damage dealt on hitting dazed, stunned, seized, force gripped foes<br/>Heals the user 2% of their maximum health over 5 sec on hit<br/>Generates 100% chi over 5 sec",
+        "sub_info": "Heals the user 150% of the damage dealt on hitting dazed, stunned, seized, force gripped foes<br/>Heals the user 2% of their maximum health over 5 seg on hit<br/>Generates 100% chi over 5 seg",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3753,7 +3753,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -3761,7 +3761,7 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "Seize the target for 4 sec",
+        "main_info1": "Seize the target for 4 seg",
         "main_info2": null,
         "sub_info": "Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes",
         "consume_sp": "10",
@@ -3785,7 +3785,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3793,7 +3793,7 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "Seize the target for 6 sec",
+        "main_info1": "Seize the target for 6 seg",
         "main_info2": null,
         "sub_info": "Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes",
         "consume_sp": "10",
@@ -3817,7 +3817,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3825,7 +3825,7 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "Seize the target for 6 sec",
+        "main_info1": "Seize the target for 6 seg",
         "main_info2": null,
         "sub_info": "Decreases the defense of the seized target by 10% whenever they are hit<br/>Defense reduction stacks up to 5 times<br/>Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes",
         "consume_sp": "10",
@@ -3849,7 +3849,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3857,7 +3857,7 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "Seize the target for 6 sec",
+        "main_info1": "Seize the target for 6 seg",
         "main_info2": null,
         "sub_info": "Decreases the defense of the seized target by 10% whenever they are hit<br/>Defense reduction stacks up to 5 times<br/>Seized target takes 10% chi damage whenever they are hit<br/>Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes",
         "consume_sp": "10",
@@ -3881,7 +3881,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3889,7 +3889,7 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "Seize the target for 6 sec",
+        "main_info1": "Seize the target for 6 seg",
         "main_info2": null,
         "sub_info": "Charge to the target<br/>Decreases the defense of the seized target by 10% whenever they are hit<br/>Defense reduction stacks up to 5 times<br/>Seized target takes 10% chi damage whenever they are hit<br/>Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes",
         "consume_sp": "10",
@@ -3913,7 +3913,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3921,7 +3921,7 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "Seize the target for 6 sec",
+        "main_info1": "Seize the target for 6 seg",
         "main_info2": null,
         "sub_info": "Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized target generates 20% of their maximum chi",
         "consume_sp": "10",
@@ -3945,7 +3945,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3953,7 +3953,7 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "Seize the target for 6 sec",
+        "main_info1": "Seize the target for 6 seg",
         "main_info2": null,
         "sub_info": "Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized target generates 20% of their maximum chi<br/>Increases the critical of whoever attacks the seized target by 5%<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
         "consume_sp": "10",
@@ -3977,7 +3977,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3985,9 +3985,9 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "Seize the target for 6 sec",
+        "main_info1": "Seize the target for 6 seg",
         "main_info2": null,
-        "sub_info": "Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized target generates 20% of their maximum chi<br/>Increases the critical of whoever attacks the seized target by 5%<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit<br/>Whoever critically hits the seized target generates 150% chi over 5 sec",
+        "sub_info": "Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized target generates 20% of their maximum chi<br/>Increases the critical of whoever attacks the seized target by 5%<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit<br/>Whoever critically hits the seized target generates 150% chi over 5 seg",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4009,7 +4009,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4017,7 +4017,7 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "Seize the target for 6 sec",
+        "main_info1": "Seize the target for 6 seg",
         "main_info2": null,
         "sub_info": "Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized target generates 20% of their maximum chi<br/>User takes 10% less damage",
         "consume_sp": "10",
@@ -4041,7 +4041,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4049,9 +4049,9 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "Seize the target for 6 sec",
+        "main_info1": "Seize the target for 6 seg",
         "main_info2": null,
-        "sub_info": "Blocks attacks from the front during use<br/>Generates 60% chi over 6 sec<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized target generates 20% of their maximum chi<br/>Heals the user 3% of their maximum health on breaking defense<br/>User takes 10% less damage",
+        "sub_info": "Blocks attacks from the front during use<br/>Generates 60% chi over 6 seg<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized target generates 20% of their maximum chi<br/>Heals the user 3% of their maximum health on breaking defense<br/>User takes 10% less damage",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4073,7 +4073,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4081,9 +4081,9 @@ var skill_data_DE = {
         "id": "24110",
         "name": "Seize - 장악",
         "icon": "skill_icon_destroyer_1_4.png",
-        "main_info1": "Seize the target for 6 sec",
+        "main_info1": "Seize the target for 6 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 12% of their maximum health over 6 sec<br/>Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized target generates 20% of their maximum chi<br/>User takes 10% less damage",
+        "sub_info": "Heals the user 12% of their maximum health over 6 seg<br/>Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes<br/>Whoever attacks the seized target generates 20% of their maximum chi<br/>User takes 10% less damage",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4105,7 +4105,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4113,7 +4113,7 @@ var skill_data_DE = {
         "id": "24120",
         "name": "Knee Kick - 무릎차기",
         "icon": "skill_icon_destroyer_0_59.png",
-        "main_info1": "Dazes foes for 2 sec",
+        "main_info1": "Dazes foes for 2 seg",
         "main_info2": "Deals 18~21 damage",
         "sub_info": null,
         "consume_sp": null,
@@ -4137,7 +4137,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4145,7 +4145,7 @@ var skill_data_DE = {
         "id": "24120",
         "name": "Knee Kick - 무릎차기",
         "icon": "skill_icon_destroyer_0_59.png",
-        "main_info1": "Dazes foes for 2 sec",
+        "main_info1": "Dazes foes for 2 seg",
         "main_info2": "Deals 18~21 damage",
         "sub_info": "Generates 30% chi on critical hit",
         "consume_sp": null,
@@ -4169,7 +4169,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4177,7 +4177,7 @@ var skill_data_DE = {
         "id": "24120",
         "name": "Knee Kick - 무릎차기",
         "icon": "skill_icon_destroyer_0_59.png",
-        "main_info1": "Dazes foes for 3 sec",
+        "main_info1": "Dazes foes for 3 seg",
         "main_info2": "Deals 18~21 damage",
         "sub_info": "Generates 30% chi on critical hit",
         "consume_sp": null,
@@ -4201,7 +4201,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4209,7 +4209,7 @@ var skill_data_DE = {
         "id": "24120",
         "name": "Knee Kick - 무릎차기",
         "icon": "skill_icon_destroyer_0_59.png",
-        "main_info1": "Dazes foes for 3 sec",
+        "main_info1": "Dazes foes for 3 seg",
         "main_info2": "Deals 18~21 damage",
         "sub_info": "Generates 30% chi on critical hit<br/>Decreases the movement speed of foes by 40%",
         "consume_sp": null,
@@ -4233,7 +4233,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4241,7 +4241,7 @@ var skill_data_DE = {
         "id": "24120",
         "name": "Knee Kick - 무릎차기",
         "icon": "skill_icon_destroyer_0_59.png",
-        "main_info1": "Dazes foes for 3 sec",
+        "main_info1": "Dazes foes for 3 seg",
         "main_info2": "Deals 18~21 damage",
         "sub_info": "Generates 30% chi on critical hit<br/>Decreases the movement speed of foes by 40%<br/>Knee Kick can be recast 1 more time on miss",
         "consume_sp": null,
@@ -4265,7 +4265,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4273,7 +4273,7 @@ var skill_data_DE = {
         "id": "24120",
         "name": "Knee Kick - 무릎차기",
         "icon": "skill_icon_destroyer_0_59.png",
-        "main_info1": "Dazes foes for 3 sec",
+        "main_info1": "Dazes foes for 3 seg",
         "main_info2": "Deals 18~21 damage",
         "sub_info": "Generates 30% chi on critical hit",
         "consume_sp": null,
@@ -4297,7 +4297,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4305,7 +4305,7 @@ var skill_data_DE = {
         "id": "24120",
         "name": "Knee Kick - 무릎차기",
         "icon": "skill_icon_destroyer_0_59.png",
-        "main_info1": "Dazes foes for 3 sec",
+        "main_info1": "Dazes foes for 3 seg",
         "main_info2": "Deals 18~21 damage",
         "sub_info": "Generates 30% chi on critical hit<br/>Maximum speed Destroy is available on hit",
         "consume_sp": null,
@@ -4329,7 +4329,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4337,7 +4337,7 @@ var skill_data_DE = {
         "id": "24120",
         "name": "Knee Kick - 무릎차기",
         "icon": "skill_icon_destroyer_0_59.png",
-        "main_info1": "Dazes foes for 3 sec",
+        "main_info1": "Dazes foes for 3 seg",
         "main_info2": "Deals 18~21 damage",
         "sub_info": "Generates 30% chi on critical hit<br/>Charge to the target<br/>Maximum speed Destroy is available on hit",
         "consume_sp": null,
@@ -4361,7 +4361,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4400,7 +4400,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "18 sec"
+				"value": "18 seg"
 			}
 		}
 	},
@@ -4438,7 +4438,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "18 sec"
+				"value": "18 seg"
 			}
 		}
 	},
@@ -4476,7 +4476,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "18 sec"
+				"value": "18 seg"
 			}
 		}
 	},
@@ -4487,7 +4487,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_1_32.png",
 		"main_info1": "Knocks foes into the air",
 		"main_info2": "Deals 60~70 damage",
-		"sub_info": "Ignores charge ability disable<br/>Charge to the target<br/>Ignores defense",
+		"sub_info": "Ignores charge ability disable<br/>Charge to the target<br/>Ignora Defesa",
 		"consume_sp": "10",
 		"ui_sp_heal_value": null,
 		"skill_info": 
@@ -4514,7 +4514,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "18 sec"
+				"value": "18 seg"
 			}
 		}
 	},
@@ -4552,7 +4552,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "18 sec"
+				"value": "18 seg"
 			}
 		}
 	},
@@ -4590,7 +4590,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "18 sec"
+				"value": "18 seg"
 			}
 		}
 	},
@@ -4601,7 +4601,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_1_32.png",
 		"main_info1": "Deals 108~126 damage",
 		"main_info2": null,
-		"sub_info": "Charge to the target<br/>Generates 120% chi over 5 sec on critical hit",
+		"sub_info": "Charge to the target<br/>Generates 120% chi over 5 seg on critical hit",
 		"consume_sp": "10",
 		"ui_sp_heal_value": null,
 		"skill_info": 
@@ -4628,7 +4628,7 @@ var skill_data_DE = {
 			{
 				"name": "Cooldown",
 				"type": "recycle_time",
-				"value": "18 sec"
+				"value": "18 seg"
 			}
 		}
 	},
@@ -4655,7 +4655,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4687,7 +4687,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4719,7 +4719,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4751,7 +4751,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4783,7 +4783,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4798,7 +4798,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_62.png",
         "main_info1": "Deals 60~70 damage",
         "main_info2": null,
-        "sub_info": "Deals 20% chi damage on hit for 10 sec up to 5 hits<br/>Decreases the defense of the seized target by 50%",
+        "sub_info": "Deals 20% chi damage on hit for 10 seg up to 5 hits<br/>Decreases the defense of the seized target by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4815,7 +4815,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4830,7 +4830,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_62.png",
         "main_info1": "Deals 60~70 damage",
         "main_info2": null,
-        "sub_info": "Deals 20% chi damage on hit for 10 sec up to 5 hits<br/>Decreases the defense of the seized target by 50%<br/>Decreases the movement speed of the seized target by 40%",
+        "sub_info": "Deals 20% chi damage on hit for 10 seg up to 5 hits<br/>Decreases the defense of the seized target by 50%<br/>Decreases the movement speed of the seized target by 40%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4847,7 +4847,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4862,7 +4862,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_62.png",
         "main_info1": "Deals 60~70 damage",
         "main_info2": null,
-        "sub_info": "Deals 20% chi damage on hit for 10 sec up to 5 hits<br/>Disables defense abilities of the seized target for 5 sec<br/>Decreases the defense of the seized target by 50%<br/>Decreases the movement speed of the seized target by 40%",
+        "sub_info": "Deals 20% chi damage on hit for 10 seg up to 5 hits<br/>Disables defense abilities of the seized target for 5 seg<br/>Decreases the defense of the seized target by 50%<br/>Decreases the movement speed of the seized target by 40%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4879,7 +4879,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4894,7 +4894,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Heals the user 50% of the damage dealt<br/>Knocks foes down for 3 sec",
+        "sub_info": "Heals the user 50% of the damage dealt<br/>Knocks foes down for 3 seg",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4911,7 +4911,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4926,7 +4926,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Heals the user 50% of the damage dealt<br/>Knocks foes down for 3 sec",
+        "sub_info": "Heals the user 50% of the damage dealt<br/>Knocks foes down for 3 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4943,7 +4943,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4958,7 +4958,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": null,
-        "sub_info": "Knocks foes down for 3 sec<br/>Deals 18~21 damage<br/>Heals the user 50% of the damage dealt",
+        "sub_info": "Knocks foes down for 3 seg<br/>Deals 18~21 damage<br/>Heals the user 50% of the damage dealt",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4975,7 +4975,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4990,7 +4990,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": null,
-        "sub_info": "Knocks foes down for 3 sec<br/>Deals 18~21 damage<br/>Heals the user 100% of the damage dealt",
+        "sub_info": "Knocks foes down for 3 seg<br/>Deals 18~21 damage<br/>Heals the user 100% of the damage dealt",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5007,7 +5007,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5022,7 +5022,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": null,
-        "sub_info": "Knocks foes down for 3 sec<br/>Deals 18~21 damage<br/>Heals the user 100% of the damage dealt<br/>Generates 20% chi on resist<br/>Heals the user 3% of their maximum health on resist",
+        "sub_info": "Knocks foes down for 3 seg<br/>Deals 18~21 damage<br/>Heals the user 100% of the damage dealt<br/>Generates 20% chi on resist<br/>Heals the user 3% of their maximum health on resist",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5039,7 +5039,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5054,7 +5054,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Dazes nearby foes for 3 sec<br/>Knocks the seized target down for 3 sec<br/>Applies 12 sec Internal Bleeding to seized target",
+        "sub_info": "Dazes nearby foes for 3 seg<br/>Knocks the seized target down for 3 seg<br/>Applies 12 seg Internal Bleeding to seized target",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5071,7 +5071,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5086,7 +5086,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Dazes nearby foes for 3 sec<br/>Knocks the seized target down for 3 sec<br/>Applies 12 sec Internal Bleeding to seized target<br/>Generates 120% chi over 4 sec",
+        "sub_info": "Dazes nearby foes for 3 seg<br/>Knocks the seized target down for 3 seg<br/>Applies 12 seg Internal Bleeding to seized target<br/>Generates 120% chi over 4 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5103,7 +5103,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5118,7 +5118,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Dazes nearby foes for 3 sec<br/>Knocks the seized target down for 3 sec<br/>Applies 12 sec Internal Bleeding to seized target<br/>Generates 160% chi over 6 sec",
+        "sub_info": "Dazes nearby foes for 3 seg<br/>Knocks the seized target down for 3 seg<br/>Applies 12 seg Internal Bleeding to seized target<br/>Generates 160% chi over 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5135,7 +5135,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5150,7 +5150,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_63.png",
         "main_info1": "Throws the seized target up to 15m",
         "main_info2": null,
-        "sub_info": "Knocks the seized and nearby foes down for 3 sec for 3 sec<br/>Deals 54~63 damage<br/>Decreases the movement speed of foes by 40%",
+        "sub_info": "Knocks the seized and nearby foes down for 3 seg for 3 seg<br/>Deals 54~63 damage<br/>Decreases the movement speed of foes by 40%",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5167,7 +5167,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2 sec"
+                "value": "2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5182,7 +5182,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_63.png",
         "main_info1": "Throws the seized target up to 15m",
         "main_info2": "Deals 54~63 damage",
-        "sub_info": "Knocks the seized and nearby foes down for 3 sec for 3 sec<br/>Decreases the movement speed of foes by 30%<br/>Disables charge abilities of foes for 6 sec",
+        "sub_info": "Knocks the seized and nearby foes down for 3 seg for 3 seg<br/>Decreases the movement speed of foes by 30%<br/>Disables charge abilities of foes for 6 seg",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5199,7 +5199,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2 sec"
+                "value": "2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5214,7 +5214,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_63.png",
         "main_info1": "Throws the seized target up to 15m",
         "main_info2": "Deals 54~63 damage",
-        "sub_info": "Knocks the thrown foe unconscious for 30 sec<br/>Knocks the seized and nearby foes down for 3 sec for 3 sec<br/>Decreases the movement speed of foes by 30%<br/>Disables charge abilities of foes for 6 sec",
+        "sub_info": "Knocks the thrown foe unconscious for 30 seg<br/>Knocks the seized and nearby foes down for 3 seg for 3 seg<br/>Decreases the movement speed of foes by 30%<br/>Disables charge abilities of foes for 6 seg",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5231,7 +5231,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2 sec"
+                "value": "2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5246,7 +5246,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_63.png",
         "main_info1": "Throws the seized target to the target",
         "main_info2": "Deals 54~63 damage",
-        "sub_info": "Knocks the thrown foe unconscious for 30 sec<br/>Knocks the seized and nearby foes down for 3 sec for 3 sec<br/>Decreases the movement speed of foes by 30%<br/>Disables charge abilities of foes for 6 sec",
+        "sub_info": "Knocks the thrown foe unconscious for 30 seg<br/>Knocks the seized and nearby foes down for 3 seg for 3 seg<br/>Decreases the movement speed of foes by 30%<br/>Disables charge abilities of foes for 6 seg",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5263,7 +5263,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2 sec"
+                "value": "2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5278,7 +5278,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_63.png",
         "main_info1": "Throws the seized target to the target",
         "main_info2": "Deals 54~63 damage",
-        "sub_info": "Knocks the thrown foe unconscious for 30 sec<br/>Knocks the seized and nearby foes down for 3 sec for 3 sec<br/>Decreases the movement speed of foes by 30%<br/>Disables charge abilities of foes for 6 sec",
+        "sub_info": "Knocks the thrown foe unconscious for 30 seg<br/>Knocks the seized and nearby foes down for 3 seg for 3 seg<br/>Decreases the movement speed of foes by 30%<br/>Disables charge abilities of foes for 6 seg",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5295,7 +5295,7 @@ var skill_data_DE = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2 sec"
+                "value": "2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5310,7 +5310,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_48.png",
         "main_info1": "Escape from downed, unconscious status",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -5332,7 +5332,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -5342,7 +5342,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_48.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -5364,7 +5364,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -5374,7 +5374,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_48.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -5396,7 +5396,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -5406,7 +5406,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_48.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -5428,7 +5428,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -5438,7 +5438,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_48.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -5460,7 +5460,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -5470,7 +5470,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_48.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -5492,7 +5492,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -5502,7 +5502,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_48.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 30% for 6 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -5524,7 +5524,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -5534,7 +5534,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_48.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 30% for 6 sec<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -5556,7 +5556,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -5565,8 +5565,8 @@ var skill_data_DE = {
         "name": "Escape Hurricane - 탈출광풍",
         "icon": "skill_icon_destroyer_0_48.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Dazes foes for 2 sec<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -5588,7 +5588,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -5597,8 +5597,8 @@ var skill_data_DE = {
         "name": "Escape Hurricane - 탈출광풍",
         "icon": "skill_icon_destroyer_0_48.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Dazes foes for 2 sec<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "50",
         "skill_info": {
@@ -5620,7 +5620,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -5629,8 +5629,8 @@ var skill_data_DE = {
         "name": "Escape Hurricane - 탈출광풍",
         "icon": "skill_icon_destroyer_0_48.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Dazes foes for 2 sec<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Deals 50% chi damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Deals 50% chi damage",
         "consume_sp": null,
         "ui_sp_heal_value": "50",
         "skill_info": {
@@ -5652,7 +5652,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -5684,7 +5684,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -5716,7 +5716,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -5748,7 +5748,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -5758,7 +5758,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_46.png",
         "main_info1": "Move back 8m",
         "main_info2": null,
-        "sub_info": "User is invulnerable for 1 sec after use<br/>Generates 30% chi on resist<br/>Increases the movement speed of the user by 30%<br/>User is invulnerable during use",
+        "sub_info": "User is invulnerable for 1 seg after use<br/>Generates 30% chi on resist<br/>Increases the movement speed of the user by 30%<br/>User is invulnerable during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5780,7 +5780,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5788,9 +5788,9 @@ var skill_data_DE = {
         "id": "24180",
         "name": "Earthquake - 지진",
         "icon": "skill_icon_destroyer_0_5.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -5812,7 +5812,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5820,9 +5820,9 @@ var skill_data_DE = {
         "id": "24180",
         "name": "Earthquake - 지진",
         "icon": "skill_icon_destroyer_0_5.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Charge to the target<br/>Ignores defense when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "Charge to the target<br/>Ignora Defesa when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -5844,7 +5844,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5852,9 +5852,9 @@ var skill_data_DE = {
         "id": "24180",
         "name": "Earthquake - 지진",
         "icon": "skill_icon_destroyer_0_5.png",
-        "main_info1": "Stuns foes for 3 sec",
+        "main_info1": "Stuns foes for 3 seg",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Charge to the target<br/>Ignores defense when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "Charge to the target<br/>Ignora Defesa when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -5876,7 +5876,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5884,9 +5884,9 @@ var skill_data_DE = {
         "id": "24180",
         "name": "Earthquake - 지진",
         "icon": "skill_icon_destroyer_0_5.png",
-        "main_info1": "Stuns foes for 3 sec",
+        "main_info1": "Stuns foes for 3 seg",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Charge to the target<br/>Decreases the movement speed of foes by 40%<br/>Ignores defense when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "Charge to the target<br/>Decreases the movement speed of foes by 40%<br/>Ignora Defesa when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -5908,7 +5908,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5916,9 +5916,9 @@ var skill_data_DE = {
         "id": "24180",
         "name": "Earthquake - 지진",
         "icon": "skill_icon_destroyer_0_5.png",
-        "main_info1": "Stuns foes for 3 sec",
+        "main_info1": "Stuns foes for 3 seg",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Charge to the target<br/>Decreases the movement speed of foes by 40%<br/>Ignores defense when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 sec",
+        "sub_info": "Charge to the target<br/>Decreases the movement speed of foes by 40%<br/>Ignora Defesa when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -5940,7 +5940,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5950,7 +5950,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Pulls nearby foes",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Charge to the target<br/>Cannot be deflected<br/>Ignores defense when used while dashing, dash-jumping, gliding",
+        "sub_info": "Charge to the target<br/>Cannot be deflected<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -5972,7 +5972,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5982,7 +5982,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Pulls nearby foes",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Charge to the target<br/>Cannot be deflected<br/>Ignores defense when used while dashing, dash-jumping, gliding",
+        "sub_info": "Charge to the target<br/>Cannot be deflected<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6004,7 +6004,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6014,7 +6014,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Pulls nearby foes",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Charge to the target<br/>Earthquake can be recast up to 2 times on critical hit<br/>Cannot be deflected<br/>Ignores defense when used while dashing, dash-jumping, gliding",
+        "sub_info": "Charge to the target<br/>Earthquake can be recast up to 2 times on critical hit<br/>Cannot be deflected<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6036,7 +6036,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6046,7 +6046,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Charge to the target<br/>Ignores defense when used while dashing, dash-jumping, gliding",
+        "sub_info": "Charge to the target<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6068,7 +6068,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6078,7 +6078,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Heals the user 50% of the damage dealt per target hit<br/>Generates 20% chi per target hit<br/>Charge to the target<br/>Ignores defense when used while dashing, dash-jumping, gliding",
+        "sub_info": "Heals the user 50% of the damage dealt per target hit<br/>Generates 20% chi per target hit<br/>Charge to the target<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "20",
         "skill_info": {
@@ -6100,7 +6100,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6110,7 +6110,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "User is invulnerable during use",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Cooldown of Iron Wall is decreased by 15 sec on resist<br/>Heals the user 50% of the damage dealt per target hit<br/>Generates 20% chi per target hit<br/>Charge to the target<br/>Ignores defense when used while dashing, dash-jumping, gliding",
+        "sub_info": "Cooldown of Iron Wall is decreased by 15 seg on resist<br/>Heals the user 50% of the damage dealt per target hit<br/>Generates 20% chi per target hit<br/>Charge to the target<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "20",
         "skill_info": {
@@ -6132,7 +6132,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6173,7 +6173,7 @@ var skill_data_DE = {
         "name": "Cleave - 둥치가르기",
         "icon": "skill_icon_destroyer_1_38.png",
         "main_info1": "Escape from seized, force gripped status when used at the foe's attack timing",
-        "main_info2": "Deals 24~28 damage",
+        "main_info2": "Causa Dano de 24~28 ",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -6196,7 +6196,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -6237,7 +6237,7 @@ var skill_data_DE = {
         "name": "Shove - 밀쳐내기",
         "icon": "skill_icon_destroyer_1_37.png",
         "main_info1": "Escape from suppressed status when used at the foe's attack timing",
-        "main_info2": "Deals 24~28 damage",
+        "main_info2": "Causa Dano de 24~28 ",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -6260,7 +6260,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -6268,9 +6268,9 @@ var skill_data_DE = {
         "id": "24220",
         "name": "Reprisal - 보복",
         "icon": "skill_icon_destroyer_0_52.png",
-        "main_info1": "Counters an attack from up to 8m away for 1.2 sec",
+        "main_info1": "Counters an attack from up to 8m away for 1.2 seg",
         "main_info2": null,
-        "sub_info": "Knocks the countered foe down for 3 sec on counter<br/>Deals 12~14 damage on counter",
+        "sub_info": "Knocks the countered foe down for 3 seg on counter<br/>Deals 12~14 damage on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6292,7 +6292,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -6302,7 +6302,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_9.png",
         "main_info1": "Escape from downed status",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "User is downed for 1 sec on taking damage during use",
+        "sub_info": "User is downed for 1 seg on taking damage during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6324,7 +6324,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -6356,7 +6356,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -6364,7 +6364,7 @@ var skill_data_DE = {
         "id": "24250",
         "name": "Rescue - 구조",
         "icon": "skill_icon_destroyer_1_6.png",
-        "main_info1": "Rescue incapacitated allies for 8 sec",
+        "main_info1": "Rescue incapacitated allies for 8 seg",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -6452,7 +6452,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -6498,9 +6498,9 @@ var skill_data_DE = {
         "id": "24590",
         "name": "Awakened Fury - 각성 격노",
         "icon": "skill_icon_destroyer_1_47.png",
-        "main_info1": "Deals 60~70 damage<br/>Available while Spiritualized",
+        "main_info1": "Deals 60~70 damage<br/>Disponível enquanto Espiritualizado",
         "main_info2": null,
-        "sub_info": "Maximum speed<br/>Generates 15% chi per target hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical hit effect lasts for 3 sec<br/>Does not generate threat",
+        "sub_info": "Maximum speed<br/>Generates 15% chi per target hit<br/>Next attack has guaranteed critical hit on taking damage during use<br/>Critical hit effect lasts for 3 seg<br/>Não gera ameaça",
         "consume_sp": null,
         "ui_sp_heal_value": "15",
         "skill_info": {
@@ -6522,7 +6522,7 @@ var skill_data_DE = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "0.4 sec"
+                "value": "0.4 seg"
             }
         }
     }

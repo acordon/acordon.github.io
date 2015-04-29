@@ -2657,10 +2657,10 @@ var skill_data_WL = {
     },
     "Warlock_Spell_EventTargetNuke_Lv1": {
         "id": "28220",
-        "name": "Rupture - 파열",
+        "name": "Ruptura",
         "icon": "skill_icon_warlock_0_4.png",
-        "main_info1": "Deals 24~28 damage",
-        "main_info2": "Marks foes for 0.8 sec",
+        "main_info1": "Causa Dano de 24~28 ",
+        "main_info2": "Aplica MARCA ao inimigo por 0.8 seg",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2689,11 +2689,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_EventTargetNuke_Lv11": {
         "id": "28220",
-        "name": "Rupture - 파열",
+        "name": "Ruptura",
         "icon": "skill_icon_warlock_0_4.png",
-        "main_info1": "Deals 24~28 damage",
-        "main_info2": "Marks foes for 0.8 sec",
-        "sub_info": "Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignora Defesa",
+        "main_info1": "Causa Dano de 24~28 ",
+        "main_info2": "Aplica MARCA ao inimigo por 0.8 seg",
+        "sub_info": "Cooldown de Íra Espiritual diminui em 1 seg<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -2721,11 +2721,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_EventTargetNuke_Lv21": {
         "id": "28220",
-        "name": "Rupture - 파열",
+        "name": "Ruptura",
         "icon": "skill_icon_warlock_0_4.png",
-        "main_info1": "Deals 24~28 damage",
-        "main_info2": "Marks foes for 0.8 sec",
-        "sub_info": "Generates 6 chi over 2 sec on critical hit<br/>Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignora Defesa",
+        "main_info1": "Causa Dano de 24~28 ",
+        "main_info2": "Aplica MARCA ao inimigo por 0.8 seg",
+        "sub_info": "Gera 6 Chi em 2 seg ao Críticar<br/>Cooldown de Íra Espiritual diminui em 1 seg<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": "6",
         "skill_info": {
@@ -2753,11 +2753,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_EventTargetNuke_Lv22": {
         "id": "28220",
-        "name": "Rupture - 파열",
+        "name": "Ruptura",
         "icon": "skill_icon_warlock_0_4.png",
-        "main_info1": "Deals 84~98 damage",
-        "main_info2": "Marks foes for 0.8 sec",
-        "sub_info": "Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignora Defesa",
+        "main_info1": "Causa Dano de 84~98",
+        "main_info2": "Aplica MARCA ao inimigo por 0.8 seg",
+        "sub_info": "Cooldown de Íra Espiritual diminui em 1 seg<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2785,11 +2785,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_EventTargetNuke_Lv31": {
         "id": "28220",
-        "name": "Rupture - 파열",
+        "name": "Ruptura",
         "icon": "skill_icon_warlock_0_4.png",
-        "main_info1": "Deals 24~28 damage",
-        "main_info2": "Marks foes for 0.8 sec",
-        "sub_info": "Generates 6 chi over 2 sec on critical hit<br/>Cooldown of Raging Spirit is decreased by 1 seg<br/>Ignora Defesa",
+        "main_info1": "Causa Dano de 24~28 ",
+        "main_info2": "Aplica MARCA ao inimigo por 0.8 seg",
+        "sub_info": "Gera 6 Chi em 2 seg ao Críticar<br/>Cooldown de Íra Espiritual diminui em 1 seg<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": "6",
         "skill_info": {
@@ -2817,11 +2817,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_EventTargetNuke_Lv32": {
         "id": "28220",
-        "name": "Rupture - 파열",
+        "name": "Ruptura",
         "icon": "skill_icon_warlock_0_4.png",
-        "main_info1": "Deals 84~98 damage",
-        "main_info2": "Marks foes for 0.8 sec",
-        "sub_info": "Cooldown of Raging Spirit is decreased by 3 sec<br/>Ignora Defesa",
+        "main_info1": "Causa Dano de 84~98",
+        "main_info2": "Aplica MARCA ao inimigo por 0.8 seg",
+        "sub_info": "Cooldown de Íra Espiritual diminui em 3 seg<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2849,11 +2849,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_EventTargetNuke_SoulMask": {
         "id": "28225",
-        "name": "Awakened Rupture - 각성 파열",
+        "name": "Ruptura Espiritualizada",
         "icon": "skill_icon_warlock_0_42.png",
         "main_info1": "Deals 108~126 damage",
-        "main_info2": "Aplica MARCA ao inimigo por 4 Seg<br/>Available while Spiritualized",
-        "sub_info": "Generates 6 chi over 2 sec on critical hit<br/>Cooldown of Raging Spirit is decreased by 3 sec<br/>Ignora Defesa<br/>Does not generate threat",
+        "main_info2": "Aplica MARCA ao inimigo por 4 Seg<br/>Disponível enquanto Espiritualizado",
+        "sub_info": "Gera 6 Chi em 2 seg ao Críticar<br/>Cooldown de Íra Espiritual diminui em 3 seg<br/>Ignora Defesa<br/>Não gera ameaça",
         "consume_sp": null,
         "ui_sp_heal_value": "6",
         "skill_info": {
@@ -2875,7 +2875,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "3 sec"
+                "value": "3 seg"
             }
         }
     },
@@ -2902,7 +2902,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.5 sec"
+                "value": "0.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -2934,7 +2934,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.5 sec"
+                "value": "0.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -2966,7 +2966,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.5 sec"
+                "value": "0.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -2998,7 +2998,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.5 sec"
+                "value": "0.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3030,7 +3030,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.5 sec"
+                "value": "0.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3045,7 +3045,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_35.png",
         "main_info1": "User is immune to down for 6 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable for 0.5 sec<br/>Heals the user and allies within the area 9% of their maximum health over 6 seg<br/>User and allies within the area takes 20% less damage for 6 seg",
+        "sub_info": "User is invulnerable for 0.5 seg<br/>Heals the user and allies within the area 9% of their maximum health over 6 seg<br/>User and allies within the area takes 20% less damage for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3062,7 +3062,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.5 sec"
+                "value": "0.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3094,7 +3094,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.5 sec"
+                "value": "0.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3126,7 +3126,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.5 sec"
+                "value": "0.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3158,7 +3158,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.5 sec"
+                "value": "0.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3190,7 +3190,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.5 sec"
+                "value": "0.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3203,9 +3203,9 @@ var skill_data_WL = {
         "id": "28230",
         "name": "Circle of Purification - 항마진",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down for 10 sec",
+        "main_info1": "User is immune to down for 10 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable for 0.5 sec<br/>Heals the user and allies within the area 15% of their maximum health over 10 sec<br/>Heals the user an additional 3% of their maximum health on block, counter, resist within the area<br/>User and allies within the area takes 20% less damage for 10 sec",
+        "sub_info": "User is invulnerable for 0.5 seg<br/>Heals the user and allies within the area 15% of their maximum health over 10 seg<br/>Heals the user an additional 3% of their maximum health on block, counter, resist within the area<br/>User and allies within the area takes 20% less damage for 10 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3222,7 +3222,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.5 sec"
+                "value": "0.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3235,9 +3235,9 @@ var skill_data_WL = {
         "id": "28230",
         "name": "Circle of Purification - 항마진",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down, daze, stun for 10 sec",
+        "main_info1": "User is immune to down, daze, stun for 10 seg",
         "main_info2": null,
-        "sub_info": "User and allies within the area takes 20% less damage for 10 sec<br/>Generates allies within the area 15 chi over 10 sec",
+        "sub_info": "User and allies within the area takes 20% less damage for 10 seg<br/>Generates allies within the area 15 chi over 10 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3254,7 +3254,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.5 sec"
+                "value": "0.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3267,9 +3267,9 @@ var skill_data_WL = {
         "id": "28230",
         "name": "Circle of Purification - 항마진",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down, daze, stun for 10 sec",
+        "main_info1": "User is immune to down, daze, stun for 10 seg",
         "main_info2": null,
-        "sub_info": "Increases soul defense by 10%<br/>User and allies within the area takes 20% less damage for 10 sec<br/>Creates a barrier around allies within the area equivalent to 5% of their maximum health every 2 sec",
+        "sub_info": "Increases soul defense by 10%<br/>User and allies within the area takes 20% less damage for 10 seg<br/>Creates a barrier around allies within the area equivalent to 5% of their maximum health every 2 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3286,7 +3286,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.5 sec"
+                "value": "0.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3299,7 +3299,7 @@ var skill_data_WL = {
         "id": "28230",
         "name": "Circle of Purification - 항마진",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "Creates an anti-target area that lasts for 10 sec",
+        "main_info1": "Creates an anti-target area that lasts for 10 seg",
         "main_info2": null,
         "sub_info": "User and allies within the area cannot be auto targeted<br/>User and allies within the area cannot be targeted from the outside",
         "consume_sp": null,
@@ -3318,7 +3318,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.5 sec"
+                "value": "0.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3525,7 +3525,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Move back 10m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Escape from downed, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Escape from downed, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3557,7 +3557,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Move back 10m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3589,7 +3589,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Move back 10m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Escape from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Escape from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3621,7 +3621,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Move back 10m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Escape from suppressed, seized, force gripped status<br/>Regenera o Usuário em 5% do HP Máximo on escaping from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Escape from suppressed, seized, force gripped status<br/>Regenera o Usuário em 5% do HP Máximo on escaping from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3653,7 +3653,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Move back 10m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Creates a barrier around the user equivalent to 10% of health<br/>Escape from suppressed, seized, force gripped status<br/>Regenera o Usuário em 5% do HP Máximo on escaping from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Creates a barrier around the user equivalent to 10% of health<br/>Escape from suppressed, seized, force gripped status<br/>Regenera o Usuário em 5% do HP Máximo on escaping from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3830,7 +3830,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3845,7 +3845,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
+        "sub_info": "Cooldown de Íra Espiritual diminui em 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3862,7 +3862,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3877,7 +3877,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
+        "sub_info": "Deals an additional 6~7 damage on instant cast<br/>Cooldown de Íra Espiritual diminui em 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3894,7 +3894,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3909,7 +3909,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
+        "sub_info": "Cooldown de Íra Espiritual diminui em 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3926,7 +3926,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3941,7 +3941,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown de Íra Espiritual diminui em 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3958,7 +3958,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3973,7 +3973,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Não pode ser Refletida<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
+        "sub_info": "Não pode ser Refletida<br/>Heals the user 10% of the damage dealt<br/>Cooldown de Íra Espiritual diminui em 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3990,7 +3990,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4005,7 +4005,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown de Íra Espiritual diminui em 1 seg on hit while retém espírito<br/>Instantly cast on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4022,7 +4022,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4037,7 +4037,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on seized, force gripped foes<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Não gera ameaça<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown de Íra Espiritual diminui em 1 seg on hit while retém espírito<br/>Instantly cast on seized, force gripped foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4054,7 +4054,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4069,7 +4069,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes<br/>Used at no cost on downed, dazed, stunned, airborne foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Deals an additional 6~7 damage on instant cast<br/>Cooldown de Íra Espiritual diminui em 1 seg on hit while retém espírito<br/>Instantly cast on downed, dazed, stunned, airborne foes<br/>Instantly cast on Marked foes<br/>Used at no cost on downed, dazed, stunned, airborne foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4086,7 +4086,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4101,7 +4101,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 chi on critical hit<br/>Does not generate threat<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Guaranteed critical hit to seized, force gripped foes<br/>Instantly cast on seized, force gripped foes<br/>Instantly cast on Marked foes",
+        "sub_info": "Generates 1 chi on critical hit<br/>Não gera ameaça<br/>Deals an additional 12~14 damage on instant cast<br/>Cooldown de Íra Espiritual diminui em 1 seg on hit while retém espírito<br/>Guaranteed critical hit to seized, force gripped foes<br/>Instantly cast on seized, force gripped foes<br/>Instantly cast on Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4118,7 +4118,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4133,7 +4133,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_3.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Não pode ser Refletida<br/>Heals the user 10% of the damage dealt<br/>Cooldown of Raging Spirit is decreased by 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes<br/>Deals 20% chi damage to Marked foes",
+        "sub_info": "Não pode ser Refletida<br/>Heals the user 10% of the damage dealt<br/>Cooldown de Íra Espiritual diminui em 1 seg on hit while retém espírito<br/>Instantly cast on Marked foes<br/>Deals 20% chi damage to Marked foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4150,7 +4150,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4182,7 +4182,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.8 sec"
+                "value": "0.8 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4196,7 +4196,7 @@ var skill_data_WL = {
         "name": "Offensive Spirit - 공격 마령",
         "icon": "skill_icon_warlock_0_23.png",
         "main_info1": "Increases the familiar's offensive abilities",
-        "main_info2": "Summon a familiar for 32 sec<br/>Familiar is immune to all status effects",
+        "main_info2": "Summon a familiar for 32 seg<br/>Familiar is immune to all status effects",
         "sub_info": "Increases the familiar's defense against boss area attacks by 30%<br/>Familiar is summoned at the summoner's location<br/>Familiar is summoned at the target's location if targeting a target",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -4207,7 +4207,7 @@ var skill_data_WL = {
         "name": "Defensive Spirit - 방어 마령",
         "icon": "skill_icon_warlock_0_24.png",
         "main_info1": "Increases the familiar's defensive abilities",
-        "main_info2": "Summon a familiar for 32 sec<br/>Familiar is immune to all status effects",
+        "main_info2": "Summon a familiar for 32 seg<br/>Familiar is immune to all status effects",
         "sub_info": "Increases the familiar's defense against boss area attacks by 60%<br/>Familiar is summoned at the summoner's location",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -4217,7 +4217,7 @@ var skill_data_WL = {
         "id": "28610",
         "name": "Blast - 파",
         "icon": "skill_icon_warlock_0_29.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": "Automatically used by the familiar",
         "consume_sp": null,
@@ -4236,7 +4236,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4249,9 +4249,9 @@ var skill_data_WL = {
         "id": "28610",
         "name": "Blast - 파",
         "icon": "skill_icon_warlock_0_29.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
-        "sub_info": "Increases the familiar's attack by 3% for 10 sec on hit with Blast, Ruin<br/>Attack increase stacks up to 10 times<br/>Automatically used by the familiar",
+        "sub_info": "Increases the familiar's attack by 3% for 10 seg on hit with Blast, Ruin<br/>Attack increase stacks up to 10 times<br/>Automatically used by the familiar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4268,7 +4268,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4281,9 +4281,9 @@ var skill_data_WL = {
         "id": "28610",
         "name": "Blast - 파",
         "icon": "skill_icon_warlock_0_29.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
-        "sub_info": "Increases the familiar's attack by 3% for 10 sec on hit with Blast, Ruin<br/>Attack increase stacks up to 10 times<br/>Automatically used by the familiar",
+        "sub_info": "Increases the familiar's attack by 3% for 10 seg on hit with Blast, Ruin<br/>Attack increase stacks up to 10 times<br/>Automatically used by the familiar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4300,7 +4300,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4313,9 +4313,9 @@ var skill_data_WL = {
         "id": "28610",
         "name": "Blast - 파",
         "icon": "skill_icon_warlock_0_29.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
-        "sub_info": "Increases the familiar's attack by 3% for 10 sec on hit with Blast, Ruin<br/>Attack increase stacks up to 10 times<br/>Automatically used by the familiar",
+        "sub_info": "Increases the familiar's attack by 3% for 10 seg on hit with Blast, Ruin<br/>Attack increase stacks up to 10 times<br/>Automatically used by the familiar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4332,7 +4332,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.3 sec"
+                "value": "0.3 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -4379,7 +4379,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_30.png",
         "main_info1": "Deals 40~46 damage",
         "main_info2": null,
-        "sub_info": "Increases the familiar's attack by 3% for 10 sec on hit with Blast, Ruin<br/>Attack increase stacks up to 10 times<br/>Automatically used by the familiar",
+        "sub_info": "Increases the familiar's attack by 3% for 10 seg on hit with Blast, Ruin<br/>Attack increase stacks up to 10 times<br/>Automatically used by the familiar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4411,7 +4411,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_30.png",
         "main_info1": "Deals 40~46 damage",
         "main_info2": "Aplica MARCA ao inimigo por 2 Seg",
-        "sub_info": "Increases the familiar's attack by 3% for 10 sec on hit with Blast, Ruin<br/>Attack increase stacks up to 10 times<br/>Automatically used by the familiar",
+        "sub_info": "Increases the familiar's attack by 3% for 10 seg on hit with Blast, Ruin<br/>Attack increase stacks up to 10 times<br/>Automatically used by the familiar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4443,7 +4443,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_30.png",
         "main_info1": "Deals 40~46 damage",
         "main_info2": "Heals the familiar 2% of its maximum health",
-        "sub_info": "Increases the familiar's attack by 3% for 10 sec on hit with Blast, Ruin<br/>Attack increase stacks up to 10 times<br/>Automatically used by the familiar",
+        "sub_info": "Increases the familiar's attack by 3% for 10 seg on hit with Blast, Ruin<br/>Attack increase stacks up to 10 times<br/>Automatically used by the familiar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4602,7 +4602,7 @@ var skill_data_WL = {
         "name": "Void Strike - 진공참",
         "icon": "skill_icon_warlock_0_32.png",
         "main_info1": "Knocks foes into the air",
-        "main_info2": "Deals 24~28 damage",
+        "main_info2": "Causa Dano de 24~28 ",
         "sub_info": "Automatically used by the familiar on downed foes",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -4625,7 +4625,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "3 sec"
+                "value": "3 seg"
             }
         }
     },
@@ -4634,7 +4634,7 @@ var skill_data_WL = {
         "name": "Void Strike - 진공참",
         "icon": "skill_icon_warlock_0_32.png",
         "main_info1": "Knocks foes into the air",
-        "main_info2": "Deals 24~28 damage",
+        "main_info2": "Causa Dano de 24~28 ",
         "sub_info": "Automatically used by the familiar on downed, dazed, stunned foes",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -4657,7 +4657,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "3 sec"
+                "value": "3 seg"
             }
         }
     },
@@ -4689,7 +4689,7 @@ var skill_data_WL = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "3 sec"
+                "value": "3 seg"
             }
         }
     },
@@ -4826,7 +4826,7 @@ var skill_data_WL = {
         "name": "Circle of Chi",
         "icon": "skill_icon_warlock_0_38.png",
         "main_info1": "Activates Circle of Chi",
-        "main_info2": "Nearby summoner and allies generate 5 chi over 5 sec",
+        "main_info2": "Nearby summoner and allies generate 5 chi over 5 seg",
         "sub_info": "Automatically used by the familiar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -4891,7 +4891,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_34.png",
         "main_info1": "Activates Circle of the Wisdom King",
         "main_info2": "Increases the attack of nearby summoner and allies by 2% up to 3 stacks",
-        "sub_info": "Increases the attack by 10% for 10 sec at 3 stacks<br/>Automatically used by the familiar",
+        "sub_info": "Increases the attack by 10% for 10 seg at 3 stacks<br/>Automatically used by the familiar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4922,7 +4922,7 @@ var skill_data_WL = {
         "name": "Circle of Chi",
         "icon": "skill_icon_warlock_0_38.png",
         "main_info1": "Activates Circle of Chi",
-        "main_info2": "Nearby summoner and allies generate 15 chi over 5 sec",
+        "main_info2": "Nearby summoner and allies generate 15 chi over 5 seg",
         "sub_info": "Automatically used by the familiar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5019,7 +5019,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_21.png",
         "main_info1": "Familiar charges to the target",
         "main_info2": "Causa Dano de 72~84",
-        "sub_info": "Familiar taunts nearby foes for 3 sec<br/>Ignora Defesa",
+        "sub_info": "Familiar taunts nearby foes for 3 seg<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5051,7 +5051,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_21.png",
         "main_info1": "Familiar charges to the target",
         "main_info2": "Causa Dano de 72~84<br/>Knocks foes back 11m and knocks them down for 1 seg<br/>Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Familiar taunts nearby foes for 3 sec<br/>Ignora Defesa",
+        "sub_info": "Familiar taunts nearby foes for 3 seg<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5083,7 +5083,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_21.png",
         "main_info1": "Familiar charges to the target",
         "main_info2": "Causa Dano de 72~84<br/>Tonteia o inimigo por 3 seg",
-        "sub_info": "Familiar taunts nearby foes for 3 sec<br/>Ignora Defesa",
+        "sub_info": "Familiar taunts nearby foes for 3 seg<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5115,7 +5115,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_25.png",
         "main_info1": "Familiar self-destructs",
         "main_info2": "Deals 384~448 damage",
-        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Ignora Defesa",
+        "sub_info": "Deals damage after 3.7 seg<br/>Dismisses the familiar regardless of remaining time<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5132,7 +5132,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.2 sec"
+                "value": "1.2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5147,7 +5147,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_25.png",
         "main_info1": "Familiar self-destructs",
         "main_info2": "Deals 384~448 damage",
-        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Increases the familiar's defense by 400%<br/>Ignora Defesa",
+        "sub_info": "Deals damage after 3.7 seg<br/>Dismisses the familiar regardless of remaining time<br/>Increases the familiar's defense by 400%<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5164,7 +5164,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.2 sec"
+                "value": "1.2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5179,7 +5179,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_25.png",
         "main_info1": "Familiar self-destructs",
         "main_info2": "Deals 384~448 damage",
-        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Ignora Defesa",
+        "sub_info": "Deals damage after 3.7 seg<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5196,7 +5196,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.2 sec"
+                "value": "1.2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5210,7 +5210,7 @@ var skill_data_WL = {
         "name": "Spiritualize - 강신",
         "icon": "skill_icon_warlock_0_27.png",
         "main_info1": "Spiritualizes nearby summoner and allies",
-        "main_info2": "Spiritualize lasts for 20 sec<br/>Awakened skills are available while Spiritualized",
+        "main_info2": "Spiritualize lasts for 20 seg<br/>Awakened skills are available while Spiritualized",
         "sub_info": "Cooldown of all abilities is refreshed on Spiritualization<br/>Generates 10 chi on Spiritualization<br/>Dismisses the familiar regardless of remaining time",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5228,7 +5228,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2 sec"
+                "value": "2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5243,7 +5243,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_26.png",
         "main_info1": "Creates an area that refreshes the cooldown of all abilities",
         "main_info2": "Applies to nearby summoner and allies",
-        "sub_info": "Refreshes cooldowns 2 times over 5 sec",
+        "sub_info": "Refreshes cooldowns 2 times over 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5275,7 +5275,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_25.png",
         "main_info1": "Familiar self-destructs",
         "main_info2": "Deals 384~448 damage<br/>Deals an additional 216~252 damage to airborne foes",
-        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Ignora Defesa",
+        "sub_info": "Deals damage after 3.7 seg<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5292,7 +5292,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.2 sec"
+                "value": "1.2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5306,7 +5306,7 @@ var skill_data_WL = {
         "name": "Spiritualize - 강신",
         "icon": "skill_icon_warlock_0_27.png",
         "main_info1": "Spiritualizes nearby summoner and allies",
-        "main_info2": "Spiritualize lasts for 20 sec<br/>Awakened skills are available while Spiritualized",
+        "main_info2": "Spiritualize lasts for 20 seg<br/>Awakened skills are available while Spiritualized",
         "sub_info": "Cooldown of all abilities is refreshed on Spiritualization<br/>Generates 10 chi on Spiritualization<br/>Spiritualize increases critical hit damage by 50%<br/>Spiritualize increases movement speed by 20%<br/>Dismisses the familiar regardless of remaining time",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5324,7 +5324,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2 sec"
+                "value": "2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5339,7 +5339,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_26.png",
         "main_info1": "Creates an area that refreshes the cooldown of all abilities",
         "main_info2": "Applies to nearby summoner and allies",
-        "sub_info": "Refreshes cooldowns 3 times over 5 sec",
+        "sub_info": "Refreshes cooldowns 3 times over 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5371,7 +5371,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_25.png",
         "main_info1": "Familiar self-destructs",
         "main_info2": "Deals 384~448 damage<br/>Deals an additional 216~252 damage to airborne foes",
-        "sub_info": "Deals damage after 3.7 sec<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Brands pulled foes<br/>Ignora Defesa",
+        "sub_info": "Deals damage after 3.7 seg<br/>Dismisses the familiar regardless of remaining time<br/>Tonteia o Inimigo por 3 seg on first pull<br/>Increases the familiar's defense by 400%<br/>Pulls nearby foes to the center 3 times<br/>Decreases the movement speed of nearby foes by 80%<br/>Brands pulled foes<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5388,7 +5388,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.2 sec"
+                "value": "1.2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5402,8 +5402,8 @@ var skill_data_WL = {
         "name": "Spiritualize - 강신",
         "icon": "skill_icon_warlock_0_27.png",
         "main_info1": "Spiritualizes nearby summoner and allies",
-        "main_info2": "Spiritualize lasts for 20 sec<br/>Awakened skills are available while Spiritualized",
-        "sub_info": "User and allies are invulnerable for the first 3 sec on Spiritualization<br/>Cooldown of all abilities is refreshed on Spiritualization<br/>Generates 10 chi on Spiritualization<br/>Spiritualize increases critical hit damage by 50%<br/>Spiritualize increases movement speed by 20%<br/>Dismisses the familiar regardless of remaining time",
+        "main_info2": "Spiritualize lasts for 20 seg<br/>Awakened skills are available while Spiritualized",
+        "sub_info": "User and allies are invulnerable for the first 3 seg on Spiritualization<br/>Cooldown of all abilities is refreshed on Spiritualization<br/>Generates 10 chi on Spiritualization<br/>Spiritualize increases critical hit damage by 50%<br/>Spiritualize increases movement speed by 20%<br/>Dismisses the familiar regardless of remaining time",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5420,7 +5420,7 @@ var skill_data_WL = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2 sec"
+                "value": "2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -5435,7 +5435,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_26.png",
         "main_info1": "Creates an area that refreshes the cooldown of all abilities",
         "main_info2": "Applies to nearby summoner and allies",
-        "sub_info": "Refreshes cooldowns 3 times over 5 sec<br/>Familiar is invulnerable during use",
+        "sub_info": "Refreshes cooldowns 3 times over 5 seg<br/>Familiar is invulnerable during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {

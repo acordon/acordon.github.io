@@ -37,7 +37,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_6.png",
         "main_info1": "Deals 6~7 damage",
         "main_info2": null,
-        "sub_info": "Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 sec<br/>Deals an additional 30~35 damage on breaking ice",
+        "sub_info": "Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 seg<br/>Deals an additional 30~35 damage on breaking ice",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -68,8 +68,8 @@ var skill_data_FM = {
         "name": "Shockwave - 충격파",
         "icon": "skill_icon_forcemaster_0_6.png",
         "main_info1": "Deals 6~7 damage",
-        "main_info2": "Blocks projectiles fro 0.5 sec",
-        "sub_info": "Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 sec<br/>Deals an additional 30~35 damage on breaking ice<br/>Offensive defense ability",
+        "main_info2": "Blocks projectiles fro 0.5 seg",
+        "sub_info": "Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 seg<br/>Deals an additional 30~35 damage on breaking ice<br/>Offensive defense ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -100,8 +100,8 @@ var skill_data_FM = {
         "name": "Shockwave - 충격파",
         "icon": "skill_icon_forcemaster_0_6.png",
         "main_info1": "Deals 6~7 damage",
-        "main_info2": "Blocks projectiles fro 0.5 sec",
-        "sub_info": "Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 sec<br/>Deals an additional 30~35 damage on breaking ice<br/>Heals the user an additional 50% of the damage dealt on breaking ice<br/>Generates 2 chi on breaking ice<br/>Offensive defense ability",
+        "main_info2": "Blocks projectiles fro 0.5 seg",
+        "sub_info": "Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 seg<br/>Deals an additional 30~35 damage on breaking ice<br/>Heals the user an additional 50% of the damage dealt on breaking ice<br/>Generates 2 chi on breaking ice<br/>Offensive defense ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -132,8 +132,8 @@ var skill_data_FM = {
         "name": "Shockwave - 충격파",
         "icon": "skill_icon_forcemaster_0_6.png",
         "main_info1": "Deals 6~7 damage",
-        "main_info2": "Blocks projectiles fro 0.5 sec",
-        "sub_info": "Generates 3 chi on block<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 sec<br/>Deals an additional 30~35 damage on breaking ice<br/>Heals the user an additional 50% of the damage dealt on breaking ice<br/>Generates 2 chi on breaking ice<br/>Offensive defense ability",
+        "main_info2": "Blocks projectiles fro 0.5 seg",
+        "sub_info": "Generates 3 chi on block<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 seg<br/>Deals an additional 30~35 damage on breaking ice<br/>Heals the user an additional 50% of the damage dealt on breaking ice<br/>Generates 2 chi on breaking ice<br/>Offensive defense ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -164,8 +164,8 @@ var skill_data_FM = {
         "name": "Shockwave - 충격파",
         "icon": "skill_icon_forcemaster_0_6.png",
         "main_info1": "Deals 6~7 damage",
-        "main_info2": "Counters melee attacks for 0.5 sec<br/>Blocks projectiles fro 0.5 sec",
-        "sub_info": "Knocks the countered foe back 5m on counter<br/>Move back 5m on counter<br/>Generates 3 chi on block<br/>Generates 2 chi on breaking ice<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 sec<br/>Deals an additional 30~35 damage on breaking ice<br/>Heals the user an additional 50% of the damage dealt on breaking ice<br/>Offensive defense ability",
+        "main_info2": "Counters melee attacks for 0.5 seg<br/>Blocks projectiles fro 0.5 seg",
+        "sub_info": "Knocks the countered foe back 5m on counter<br/>Move back 5m on counter<br/>Generates 3 chi on block<br/>Generates 2 chi on breaking ice<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 seg<br/>Deals an additional 30~35 damage on breaking ice<br/>Heals the user an additional 50% of the damage dealt on breaking ice<br/>Offensive defense ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -187,7 +187,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -196,8 +196,8 @@ var skill_data_FM = {
         "name": "Shockwave - 충격파",
         "icon": "skill_icon_forcemaster_0_6.png",
         "main_info1": "Deals 6~7 damage",
-        "main_info2": "Blocks projectiles fro 0.5 sec",
-        "sub_info": "Deflects multiple charge attacks for 0.5 sec<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 sec<br/>Deals an additional 30~35 damage on breaking ice<br/>Heals the user an additional 50% of the damage dealt on breaking ice<br/>Generates 2 chi on breaking ice<br/>Offensive defense ability",
+        "main_info2": "Blocks projectiles fro 0.5 seg",
+        "sub_info": "Deflects multiple charge attacks for 0.5 seg<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 seg<br/>Deals an additional 30~35 damage on breaking ice<br/>Heals the user an additional 50% of the damage dealt on breaking ice<br/>Generates 2 chi on breaking ice<br/>Offensive defense ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -228,8 +228,8 @@ var skill_data_FM = {
         "name": "Shockwave - 충격파",
         "icon": "skill_icon_forcemaster_0_6.png",
         "main_info1": "Deals 6~7 damage",
-        "main_info2": "Counters projectiles for 0.5 sec",
-        "sub_info": "Deflects multiple charge attacks for 0.5 sec<br/>Heals the user 10% of their maximum health on deflect<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 sec<br/>Deals an additional 30~35 damage on breaking ice<br/>Heals the user an additional 50% of the damage dealt on breaking ice<br/>Generates 2 chi on breaking ice<br/>Offensive defense ability",
+        "main_info2": "Counters projectiles for 0.5 seg",
+        "sub_info": "Deflects multiple charge attacks for 0.5 seg<br/>Heals the user 10% of their maximum health on deflect<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 seg<br/>Deals an additional 30~35 damage on breaking ice<br/>Heals the user an additional 50% of the damage dealt on breaking ice<br/>Generates 2 chi on breaking ice<br/>Offensive defense ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -251,7 +251,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -261,7 +261,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_6.png",
         "main_info1": "Deals 6~7 damage",
         "main_info2": null,
-        "sub_info": "Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 sec<br/>Deals an additional 30~35 damage on breaking ice<br/>Increased consecutive cast speed",
+        "sub_info": "Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 seg<br/>Deals an additional 30~35 damage on breaking ice<br/>Increased consecutive cast speed",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -293,7 +293,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_6.png",
         "main_info1": "Deals 6~7 damage",
         "main_info2": null,
-        "sub_info": "Only detonates Ember on foes with 5 Ember stacks<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 sec<br/>Deals an additional 30~35 damage on breaking ice<br/>Increased consecutive cast speed",
+        "sub_info": "Only detonates Ember on foes with 5 Ember stacks<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 seg<br/>Deals an additional 30~35 damage on breaking ice<br/>Increased consecutive cast speed",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -325,7 +325,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_6.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Only detonates Ember on foes with 5 Ember stacks<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 sec<br/>Deals an additional 30~35 damage on breaking ice<br/>Increased consecutive cast speed",
+        "sub_info": "Only detonates Ember on foes with 5 Ember stacks<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 seg<br/>Deals an additional 30~35 damage on breaking ice<br/>Increased consecutive cast speed",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -357,7 +357,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_1_11.png",
         "main_info1": "Deals 6~7 damage",
         "main_info2": null,
-        "sub_info": "Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 sec<br/>Deals an additional 30~35 damage on breaking ice<br/>Increased consecutive cast speed",
+        "sub_info": "Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 seg<br/>Deals an additional 30~35 damage on breaking ice<br/>Increased consecutive cast speed",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -389,7 +389,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_1_11.png",
         "main_info1": "Deals 6~7 damage",
         "main_info2": "Deals an additional 30~35 damage to foes with 5 Ember stacks",
-        "sub_info": "Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 sec<br/>Deals an additional 30~35 damage on breaking ice<br/>Increased consecutive cast speed",
+        "sub_info": "Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 seg<br/>Deals an additional 30~35 damage on breaking ice<br/>Increased consecutive cast speed",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -443,7 +443,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -475,7 +475,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -507,7 +507,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -539,7 +539,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -571,7 +571,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -603,7 +603,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -635,7 +635,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -645,7 +645,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_10.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Breaks defense<br/>Freezes defense broken foes for 5 sec<br/>Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Breaks defense<br/>Freezes defense broken foes for 5 seg<br/>Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -667,7 +667,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -677,7 +677,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_10.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Breaks defense<br/>Freezes defense broken foes for 5 sec<br/>Disables defense abilities of defense broken foes for 6 sec<br/>Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Breaks defense<br/>Freezes defense broken foes for 5 seg<br/>Disables defense abilities of defense broken foes for 6 seg<br/>Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -699,7 +699,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -709,7 +709,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_10.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Breaks defense<br/>Freezes defense broken foes for 5 sec<br/>Disables defense abilities of defense broken foes for 6 sec<br/>Dazes defense broken foes for 2 sec<br/>Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Breaks defense<br/>Freezes defense broken foes for 5 seg<br/>Disables defense abilities of defense broken foes for 6 seg<br/>Dazes defense broken foes for 2 seg<br/>Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -731,7 +731,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -758,12 +758,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1 sec"
+                "value": "1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -790,12 +790,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1 sec"
+                "value": "1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -822,12 +822,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1 sec"
+                "value": "1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -837,7 +837,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_7.png",
         "main_info1": "Deals 420~490 damage",
         "main_info2": null,
-        "sub_info": "Ignores defense",
+        "sub_info": "Ignora Defesa",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -854,7 +854,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "5 sec"
+                "value": "5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -901,7 +901,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_45.png",
         "main_info1": "Deals 10~11 damage up to 3 foes",
         "main_info2": null,
-        "sub_info": "Ignores defense<br/>Applies 1 stack of Ember<br/>Applies up to 5 Ember stacks",
+        "sub_info": "Ignora Defesa<br/>Applies 1 stack of Ember<br/>Applies up to 5 Ember stacks",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -923,7 +923,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -933,7 +933,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_45.png",
         "main_info1": "Deals 10~11 damage up to 3 foes",
         "main_info2": null,
-        "sub_info": "Ignores defense<br/>Applies 2 stacks of Ember<br/>Applies up to 5 Ember stacks",
+        "sub_info": "Ignora Defesa<br/>Applies 2 stacks of Ember<br/>Applies up to 5 Ember stacks",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -955,7 +955,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -965,7 +965,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_45.png",
         "main_info1": "Deals 10~11 damage up to 5 foes",
         "main_info2": null,
-        "sub_info": "Ignores defense<br/>Applies 2 stacks of Ember<br/>Applies up to 5 Ember stacks",
+        "sub_info": "Ignora Defesa<br/>Applies 2 stacks of Ember<br/>Applies up to 5 Ember stacks",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -987,7 +987,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -995,7 +995,7 @@ var skill_data_FM = {
         "id": "22120",
         "name": "Ring of Fire - 염화진",
         "icon": "skill_icon_forcemaster_0_37.png",
-        "main_info1": "Deals 37~43 damage after 3 sec",
+        "main_info1": "Deals 37~43 damage after 3 seg",
         "main_info2": null,
         "sub_info": "Knocks downed, dazed, stunned foes into the air",
         "consume_sp": "2",
@@ -1019,7 +1019,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1061,7 +1061,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_11.png",
         "main_info1": "Deals 42~49 damage over 2 hits",
         "main_info2": null,
-        "sub_info": "Increases the critical of the user by 3% for 3 sec on hit<br/>Critical increase stacks up to 10 times<br/>Cannot be used while using Force Grip",
+        "sub_info": "Increases the critical of the user by 3% for 3 seg on hit<br/>Critical increase stacks up to 10 times<br/>Cannot be used while using Force Grip",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1093,7 +1093,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_11.png",
         "main_info1": "Deals 42~49 damage over 2 hits",
         "main_info2": "Deals an additional 15~18 damage to seized, force gripped foes",
-        "sub_info": "Increases the critical of the user by 3% for 3 sec on hit<br/>Critical increase stacks up to 10 times<br/>Cannot be used while using Force Grip",
+        "sub_info": "Increases the critical of the user by 3% for 3 seg on hit<br/>Critical increase stacks up to 10 times<br/>Cannot be used while using Force Grip",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1125,7 +1125,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_11.png",
         "main_info1": "Deals 42~49 damage over 2 hits",
         "main_info2": "Deals an additional 15~18 damage to seized, force gripped foes",
-        "sub_info": "Does not generate threat<br/>Increases the critical of the user by 3% for 3 sec on hit<br/>Critical increase stacks up to 10 times<br/>Cannot be used while using Force Grip",
+        "sub_info": "Não gera ameaça<br/>Increases the critical of the user by 3% for 3 seg on hit<br/>Critical increase stacks up to 10 times<br/>Cannot be used while using Force Grip",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1157,7 +1157,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_11.png",
         "main_info1": "Deals 42~49 damage over 2 hits",
         "main_info2": "Deals an additional 15~18 damage to seized, force gripped foes",
-        "sub_info": "Guaranteed critical hit to seized, force gripped foes<br/>Does not generate threat<br/>Increases the critical of the user by 3% for 3 sec on hit<br/>Critical increase stacks up to 10 times<br/>Cannot be used while using Force Grip",
+        "sub_info": "Guaranteed critical hit to seized, force gripped foes<br/>Não gera ameaça<br/>Increases the critical of the user by 3% for 3 seg on hit<br/>Critical increase stacks up to 10 times<br/>Cannot be used while using Force Grip",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1189,7 +1189,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_11.png",
         "main_info1": "Deals 42~49 damage over 2 hits",
         "main_info2": null,
-        "sub_info": "Increases the critical of the user by 3% for 3 sec on hit<br/>Critical increase stacks up to 10 times<br/>Cannot be used while using Force Grip",
+        "sub_info": "Increases the critical of the user by 3% for 3 seg on hit<br/>Critical increase stacks up to 10 times<br/>Cannot be used while using Force Grip",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1221,7 +1221,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_11.png",
         "main_info1": "Deals 42~49 damage over 2 hits",
         "main_info2": null,
-        "sub_info": "Generates 1 chi when used on airborne foes<br/>Increases the critical of the user by 3% for 3 sec on hit<br/>Critical increase stacks up to 10 times<br/>Cannot be used while using Force Grip",
+        "sub_info": "Generates 1 chi when used on airborne foes<br/>Increases the critical of the user by 3% for 3 seg on hit<br/>Critical increase stacks up to 10 times<br/>Cannot be used while using Force Grip",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1253,7 +1253,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_11.png",
         "main_info1": "Deals 42~49 damage over 2 hits",
         "main_info2": null,
-        "sub_info": "Guaranteed critical hit to airborne foes<br/>Generates 1 chi when used on airborne foes<br/>Increases the critical of the user by 3% for 3 sec on hit<br/>Critical increase stacks up to 10 times<br/>Cannot be used while using Force Grip",
+        "sub_info": "Guaranteed critical hit to airborne foes<br/>Generates 1 chi when used on airborne foes<br/>Increases the critical of the user by 3% for 3 seg on hit<br/>Critical increase stacks up to 10 times<br/>Cannot be used while using Force Grip",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1307,7 +1307,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -1316,7 +1316,7 @@ var skill_data_FM = {
         "name": "Reflect - 반탄공",
         "icon": "skill_icon_forcemaster_0_50.png",
         "main_info1": "Escape from suppressed, seized, force gripped status when used at the foe's attack timing",
-        "main_info2": "Stuns foes for 2 sec<br/>Deals 31~36 damage",
+        "main_info2": "Stuns foes for 2 seg<br/>Deals 31~36 damage",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1339,7 +1339,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -1371,7 +1371,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1379,7 +1379,7 @@ var skill_data_FM = {
         "id": "22221",
         "name": "Seal - 봉인",
         "icon": "skill_icon_forcemaster_0_4.png",
-        "main_info1": "Knocks the force gripped target unconscious for 30 sec",
+        "main_info1": "Knocks the force gripped target unconscious for 30 seg",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": "3",
@@ -1403,7 +1403,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1412,7 +1412,7 @@ var skill_data_FM = {
         "name": "Cryodragon - 빙백신장",
         "icon": "skill_icon_forcemaster_0_15.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Freezes foes for 5 sec",
+        "main_info2": "Freezes foes for 5 seg",
         "sub_info": "Cannot be deflected<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
@@ -1435,7 +1435,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1444,7 +1444,7 @@ var skill_data_FM = {
         "name": "Cryodragon - 빙백신장",
         "icon": "skill_icon_forcemaster_0_15.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Freezes foes for 5 sec",
+        "main_info2": "Freezes foes for 5 seg",
         "sub_info": "Cannot be deflected<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
@@ -1467,7 +1467,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1476,7 +1476,7 @@ var skill_data_FM = {
         "name": "Cryodragon - 빙백신장",
         "icon": "skill_icon_forcemaster_0_15.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Freezes foes for 5 sec",
+        "main_info2": "Freezes foes for 5 seg",
         "sub_info": "Creates 1 Frost Orb on hit<br/>Cannot be deflected<br/>Cures the user of Internal Bleeding<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
@@ -1499,7 +1499,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1508,7 +1508,7 @@ var skill_data_FM = {
         "name": "Cryodragon - 빙백신장",
         "icon": "skill_icon_forcemaster_0_15.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Freezes foes for 5 sec",
+        "main_info2": "Freezes foes for 5 seg",
         "sub_info": "Heals the user 100% of the damage dealt<br/>Generates 1 chi per target hit<br/>Creates 1 Frost Orb on hit<br/>Cannot be deflected<br/>Cures the user of Internal Bleeding<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
@@ -1531,7 +1531,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1540,7 +1540,7 @@ var skill_data_FM = {
         "name": "Cryodragon - 빙백신장",
         "icon": "skill_icon_forcemaster_0_15.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Freezes foes for 5 sec",
+        "main_info2": "Freezes foes for 5 seg",
         "sub_info": "Heals the user 100% of the damage dealt<br/>Generates 1 chi per target hit<br/>Creates 1 Frost Orb on hit<br/>Cannot be deflected<br/>Cures the user of Internal Bleeding<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
@@ -1563,7 +1563,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1572,8 +1572,8 @@ var skill_data_FM = {
         "name": "Cryodragon - 빙백신장",
         "icon": "skill_icon_forcemaster_0_15.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Freezes foes for 5 sec",
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Heals the user 6% of their maximum health over 9 sec on critical hit<br/>Generates 1 chi per target hit<br/>Creates 1 Frost Orb on hit<br/>Cannot be deflected<br/>Cures the user of Internal Bleeding<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
+        "main_info2": "Freezes foes for 5 seg",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Heals the user 6% of their maximum health over 9 seg on critical hit<br/>Generates 1 chi per target hit<br/>Creates 1 Frost Orb on hit<br/>Cannot be deflected<br/>Cures the user of Internal Bleeding<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -1595,7 +1595,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1604,8 +1604,8 @@ var skill_data_FM = {
         "name": "Flash Freeze - 광한지",
         "icon": "skill_icon_forcemaster_0_43.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Freezes foes for 5 sec",
-        "sub_info": "Deep Freezes frozen foes for 6 sec<br/>Creates 1 Frost Orb on hit<br/>Cures the user of Internal Bleeding<br/>Increases the defense of the user by 10% on using frost spells",
+        "main_info2": "Freezes foes for 5 seg",
+        "sub_info": "Deep Freezes frozen foes for 6 seg<br/>Creates 1 Frost Orb on hit<br/>Cures the user of Internal Bleeding<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -1627,7 +1627,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1636,8 +1636,8 @@ var skill_data_FM = {
         "name": "Flash Freeze - 광한지",
         "icon": "skill_icon_forcemaster_0_43.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Freezes foes for 5 sec",
-        "sub_info": "Deep Freezes frozen foes for 6 sec<br/>Creates 1 Frost Orb on hit<br/>Flash Freeze can be recast up to 2 times on critical hit<br/>Cures the user of Internal Bleeding<br/>Increases the defense of the user by 10% on using frost spells",
+        "main_info2": "Freezes foes for 5 seg",
+        "sub_info": "Deep Freezes frozen foes for 6 seg<br/>Creates 1 Frost Orb on hit<br/>Flash Freeze can be recast up to 2 times on critical hit<br/>Cures the user of Internal Bleeding<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -1659,7 +1659,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1668,7 +1668,7 @@ var skill_data_FM = {
         "name": "Cryoblast - 빙백한포",
         "icon": "skill_icon_forcemaster_0_57.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Stuns foes for 2 sec<br/>Freezes foes for 5 sec",
+        "main_info2": "Stuns foes for 2 seg<br/>Freezes foes for 5 seg",
         "sub_info": "Creates 1 Frost Orb on hit<br/>Cures the user of Internal Bleeding<br/>Increases the defense of the user by 10% on using frost spells<br/>Synergy stun applied",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
@@ -1691,7 +1691,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1700,7 +1700,7 @@ var skill_data_FM = {
         "name": "Cryoblast - 빙백한포",
         "icon": "skill_icon_forcemaster_0_57.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Stuns foes for 2 sec<br/>Freezes foes for 5 sec",
+        "main_info2": "Stuns foes for 2 seg<br/>Freezes foes for 5 seg",
         "sub_info": "Cooldown of Glacier Palm, Glacial Torren is refreshed on critical hit<br/>Creates 1 Frost Orb on hit<br/>Cures the user of Internal Bleeding<br/>Increases the defense of the user by 10% on using frost spells<br/>Stun synergy instantly applied",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
@@ -1723,7 +1723,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1731,7 +1731,7 @@ var skill_data_FM = {
         "id": "22237",
         "name": "Ice Prison - 얼음감옥",
         "icon": "skill_icon_forcemaster_0_17.png",
-        "main_info1": "Locks foes in Ice Prison for 8 sec",
+        "main_info1": "Locks foes in Ice Prison for 8 seg",
         "main_info2": null,
         "sub_info": "Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "1",
@@ -1750,12 +1750,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1763,7 +1763,7 @@ var skill_data_FM = {
         "id": "22237",
         "name": "Ice Prison - 얼음감옥",
         "icon": "skill_icon_forcemaster_0_17.png",
-        "main_info1": "Locks foes in Ice Prison for 8 sec",
+        "main_info1": "Locks foes in Ice Prison for 8 seg",
         "main_info2": null,
         "sub_info": "Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
@@ -1782,12 +1782,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1795,9 +1795,9 @@ var skill_data_FM = {
         "id": "22237",
         "name": "Ice Prison - 얼음감옥",
         "icon": "skill_icon_forcemaster_0_17.png",
-        "main_info1": "Locks foes in Ice Prison for 8 sec",
+        "main_info1": "Locks foes in Ice Prison for 8 seg",
         "main_info2": null,
-        "sub_info": "Foes suffer from Frostbite for 6 sec on exiting Ice Prison<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Foes suffer from Frostbite for 6 seg on exiting Ice Prison<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1814,12 +1814,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1827,9 +1827,9 @@ var skill_data_FM = {
         "id": "22237",
         "name": "Ice Flower - 얼음꽃",
         "icon": "skill_icon_forcemaster_0_29.png",
-        "main_info1": "Gives Ice Flower that lasts for 3 sec",
+        "main_info1": "Gives Ice Flower that lasts for 3 seg",
         "main_info2": "Applies to the user and allies",
-        "sub_info": "Ice Flower negates the damage and locks the holder in Ice Prison for 3 sec on receiving an attack",
+        "sub_info": "Ice Flower negates the damage and locks the holder in Ice Prison for 3 seg on receiving an attack",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1851,7 +1851,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1859,9 +1859,9 @@ var skill_data_FM = {
         "id": "22237",
         "name": "Ice Flower - 얼음꽃",
         "icon": "skill_icon_forcemaster_0_29.png",
-        "main_info1": "Gives Ice Flower that lasts for 3 sec",
+        "main_info1": "Gives Ice Flower that lasts for 3 seg",
         "main_info2": "Applies to the user and allies",
-        "sub_info": "Ice Flower negates the damage and locks the holder in Ice Prison for 3 sec on receiving an attack<br/>Generates 100% chi on entering Ice Prison",
+        "sub_info": "Ice Flower negates the damage and locks the holder in Ice Prison for 3 seg on receiving an attack<br/>Generates 100% chi on entering Ice Prison",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1883,7 +1883,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1891,9 +1891,9 @@ var skill_data_FM = {
         "id": "22237",
         "name": "Ice Prison - 얼음감옥",
         "icon": "skill_icon_forcemaster_0_17.png",
-        "main_info1": "Locks foes in Ice Prison for 8 sec",
+        "main_info1": "Locks foes in Ice Prison for 8 seg",
         "main_info2": null,
-        "sub_info": "Foes suffer from Frostbite for 6 sec on exiting Ice Prison<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Foes suffer from Frostbite for 6 seg on exiting Ice Prison<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1910,7 +1910,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -1947,7 +1947,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -1979,7 +1979,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2011,7 +2011,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2043,7 +2043,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2075,7 +2075,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2107,7 +2107,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2139,7 +2139,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2148,7 +2148,7 @@ var skill_data_FM = {
         "name": "Explosion - 화염폭발",
         "icon": "skill_icon_forcemaster_0_20.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Deflects an attack for 0.5 sec",
+        "main_info2": "Deflects an attack for 0.5 seg",
         "sub_info": "Knocks downed, dazed, stunned foes into the air<br/>Applies 1 stack of Ember",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -2171,7 +2171,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2180,8 +2180,8 @@ var skill_data_FM = {
         "name": "Explosion - 화염폭발",
         "icon": "skill_icon_forcemaster_0_20.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Deflects an attack for 0.5 sec",
-        "sub_info": "Generates 6 chi over 3 sec on deflect<br/>Knocks downed, dazed, stunned foes into the air<br/>Applies 1 stack of Ember",
+        "main_info2": "Deflects an attack for 0.5 seg",
+        "sub_info": "Generates 6 chi over 3 seg on deflect<br/>Knocks downed, dazed, stunned foes into the air<br/>Applies 1 stack of Ember",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2203,7 +2203,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2212,8 +2212,8 @@ var skill_data_FM = {
         "name": "Explosion - 화염폭발",
         "icon": "skill_icon_forcemaster_0_20.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Deflects an attack for 0.5 sec",
-        "sub_info": "Explosion can be recast up to 2 times on deflect<br/>Generates 6 chi over 3 sec on deflect<br/>Knocks downed, dazed, stunned foes into the air<br/>Applies 1 stack of Ember",
+        "main_info2": "Deflects an attack for 0.5 seg",
+        "sub_info": "Explosion can be recast up to 2 times on deflect<br/>Generates 6 chi over 3 seg on deflect<br/>Knocks downed, dazed, stunned foes into the air<br/>Applies 1 stack of Ember",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2235,7 +2235,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2244,7 +2244,7 @@ var skill_data_FM = {
         "name": "Searing Flame - 폭염",
         "icon": "skill_icon_forcemaster_0_46.png",
         "main_info1": "Deals 36~42 damage",
-        "main_info2": "Knocks foes down for 3 sec",
+        "main_info2": "Knocks foes down for 3 seg",
         "sub_info": "Knocks dazed, stunned foes into the air<br/>Applies 1 stack of Ember<br/>Manually detonated using Dissipate Flame",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -2267,7 +2267,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2276,7 +2276,7 @@ var skill_data_FM = {
         "name": "Searing Flame - 폭염",
         "icon": "skill_icon_forcemaster_0_46.png",
         "main_info1": "Deals 36~42 damage",
-        "main_info2": "Knocks foes down for 3 sec",
+        "main_info2": "Knocks foes down for 3 seg",
         "sub_info": "Knocks dazed, stunned foes into the air<br/>Applies 1 stack of Ember<br/>Ranged ability<br/>Manually detonated using Dissipate Flame",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -2299,7 +2299,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2307,7 +2307,7 @@ var skill_data_FM = {
         "id": "22239",
         "name": "Inferno - 화염지옥",
         "icon": "skill_icon_forcemaster_0_21.png",
-        "main_info1": "Deals 72~84 damage over 5 sec",
+        "main_info1": "Deals 72~84 damage over 5 seg",
         "main_info2": null,
         "sub_info": "Used on the area 2m in front of the user if there is no target within 5m<br/>Used on the force gripped target if there is no target within 5m<br/>Used on target's location if the target is within 5m",
         "consume_sp": "1",
@@ -2331,7 +2331,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2339,7 +2339,7 @@ var skill_data_FM = {
         "id": "22239",
         "name": "Inferno - 화염지옥",
         "icon": "skill_icon_forcemaster_0_21.png",
-        "main_info1": "Deals 72~84 damage over 5 sec",
+        "main_info1": "Deals 72~84 damage over 5 seg",
         "main_info2": null,
         "sub_info": "Applies 1 stack of Ember on hit<br/>Used on the area 2m in front of the user if there is no target within 5m<br/>Used on the force gripped target if there is no target within 5m<br/>Used on target's location if the target is within 5m",
         "consume_sp": "1",
@@ -2363,7 +2363,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2371,7 +2371,7 @@ var skill_data_FM = {
         "id": "22239",
         "name": "Inferno - 화염지옥",
         "icon": "skill_icon_forcemaster_0_21.png",
-        "main_info1": "Deals 72~84 damage over 5 sec",
+        "main_info1": "Deals 72~84 damage over 5 seg",
         "main_info2": null,
         "sub_info": "Applies 1 stack of Ember on hit<br/>Automatically detonates Ember at 5 stacks<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Used on the area 2m in front of the user if there is no target within 5m<br/>Used on the force gripped target if there is no target within 5m<br/>Used on target's location if the target is within 5m",
         "consume_sp": "1",
@@ -2395,7 +2395,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2403,7 +2403,7 @@ var skill_data_FM = {
         "id": "22239",
         "name": "Inferno - 화염지옥",
         "icon": "skill_icon_forcemaster_0_21.png",
-        "main_info1": "Deals 72~84 damage over 5 sec",
+        "main_info1": "Deals 72~84 damage over 5 seg",
         "main_info2": "Deals an additional 10~11 damage to seized, force gripped foes",
         "sub_info": "Applies 1 stack of Ember on hit<br/>Automatically detonates Ember at 5 stacks<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Used on the area 2m in front of the user if there is no target within 5m<br/>Used on the force gripped target if there is no target within 5m<br/>Used on target's location if the target is within 5m",
         "consume_sp": "1",
@@ -2427,7 +2427,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2435,7 +2435,7 @@ var skill_data_FM = {
         "id": "22239",
         "name": "Meteor Shower - 유성지",
         "icon": "skill_icon_forcemaster_1_5.png",
-        "main_info1": "Deals 144~168 damage over 5 sec",
+        "main_info1": "Deals 144~168 damage over 5 seg",
         "main_info2": null,
         "sub_info": "Applies 1 stack of Ember on hit",
         "consume_sp": "2",
@@ -2459,7 +2459,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2467,7 +2467,7 @@ var skill_data_FM = {
         "id": "22239",
         "name": "Meteor Shower - 유성지",
         "icon": "skill_icon_forcemaster_1_5.png",
-        "main_info1": "Deals 144~168 damage over 5 sec",
+        "main_info1": "Deals 144~168 damage over 5 seg",
         "main_info2": null,
         "sub_info": "Applies 1 stack of Ember on hit<br/>Applies 2 stacks of Ember to Burned foes",
         "consume_sp": "2",
@@ -2491,7 +2491,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2500,7 +2500,7 @@ var skill_data_FM = {
         "name": "Blaze Palm - 화련장",
         "icon": "skill_icon_forcemaster_0_25.png",
         "main_info1": "Deals 204~238 damage",
-        "main_info2": "Deals 22~25 burn damage over 9 sec",
+        "main_info2": "Deals 22~25 burn damage over 9 seg",
         "sub_info": null,
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -2518,12 +2518,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2532,7 +2532,7 @@ var skill_data_FM = {
         "name": "Blaze Palm - 화련장",
         "icon": "skill_icon_forcemaster_0_25.png",
         "main_info1": "Deals 204~238 damage",
-        "main_info2": "Deals 22~25 burn damage over 9 sec",
+        "main_info2": "Deals 22~25 burn damage over 9 seg",
         "sub_info": null,
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -2550,12 +2550,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2564,7 +2564,7 @@ var skill_data_FM = {
         "name": "Blaze Palm - 화련장",
         "icon": "skill_icon_forcemaster_0_25.png",
         "main_info1": "Deals 204~238 damage",
-        "main_info2": "Deals 22~25 burn damage over 9 sec",
+        "main_info2": "Deals 22~25 burn damage over 9 seg",
         "sub_info": null,
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -2582,12 +2582,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2596,8 +2596,8 @@ var skill_data_FM = {
         "name": "Blaze Palm - 화련장",
         "icon": "skill_icon_forcemaster_0_25.png",
         "main_info1": "Deals 204~238 damage",
-        "main_info2": "Deals 22~25 burn damage over 9 sec",
-        "sub_info": "Does not generate threat",
+        "main_info2": "Deals 22~25 burn damage over 9 seg",
+        "sub_info": "Não gera ameaça",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2614,12 +2614,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2628,8 +2628,8 @@ var skill_data_FM = {
         "name": "Blaze Palm - 화련장",
         "icon": "skill_icon_forcemaster_0_25.png",
         "main_info1": "Deals 204~238 damage",
-        "main_info2": "Deals 22~25 burn damage over 9 sec",
-        "sub_info": "Blaze Palm can be recast 1 more time at no cost on critical hit<br/>Does not generate threat",
+        "main_info2": "Deals 22~25 burn damage over 9 seg",
+        "sub_info": "Blaze Palm can be recast 1 more time at no cost on critical hit<br/>Não gera ameaça",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2646,12 +2646,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2660,7 +2660,7 @@ var skill_data_FM = {
         "name": "Blaze Palm - 화련장",
         "icon": "skill_icon_forcemaster_0_25.png",
         "main_info1": "Deals 132~154 damage",
-        "main_info2": "Deals 22~25 burn damage over 9 sec",
+        "main_info2": "Deals 22~25 burn damage over 9 seg",
         "sub_info": "Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Increased projectile speed",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -2683,7 +2683,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2692,7 +2692,7 @@ var skill_data_FM = {
         "name": "Blaze Palm - 화련장",
         "icon": "skill_icon_forcemaster_0_25.png",
         "main_info1": "Deals 132~154 damage",
-        "main_info2": "Deals an additional 24~28 damage to dazed, stunned foes<br/>Deals 22~25 burn damage over 9 sec",
+        "main_info2": "Deals an additional 24~28 damage to dazed, stunned foes<br/>Deals 22~25 burn damage over 9 seg",
         "sub_info": "Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Increased projectile speed",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -2715,7 +2715,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2724,7 +2724,7 @@ var skill_data_FM = {
         "name": "Blaze Palm - 화련장",
         "icon": "skill_icon_forcemaster_0_25.png",
         "main_info1": "Deals 132~154 damage",
-        "main_info2": "Deals an additional 24~28 damage to dazed, stunned foes<br/>Deals 22~25 burn damage over 9 sec",
+        "main_info2": "Deals an additional 24~28 damage to dazed, stunned foes<br/>Deals 22~25 burn damage over 9 seg",
         "sub_info": "Guaranteed critical hit to dazed, stunned foes<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Increased projectile speed",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -2747,7 +2747,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2756,8 +2756,8 @@ var skill_data_FM = {
         "name": "Blaze Palm - 화련장",
         "icon": "skill_icon_forcemaster_0_25.png",
         "main_info1": "Deals 96~112 damage",
-        "main_info2": "Deals 22~25 burn damage over 9 sec",
-        "sub_info": "Ignores defense",
+        "main_info2": "Deals 22~25 burn damage over 9 seg",
+        "sub_info": "Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2774,12 +2774,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2788,8 +2788,8 @@ var skill_data_FM = {
         "name": "Blaze Palm - 화련장",
         "icon": "skill_icon_forcemaster_0_25.png",
         "main_info1": "Deals 96~112 damage",
-        "main_info2": "Deals 22~25 burn damage over 9 sec",
-        "sub_info": "Ignores defense<br/>Applies 5 stacks of Ember",
+        "main_info2": "Deals 22~25 burn damage over 9 seg",
+        "sub_info": "Ignora Defesa<br/>Applies 5 stacks of Ember",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2806,12 +2806,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2820,8 +2820,8 @@ var skill_data_FM = {
         "name": "Blaze Palm - 화련장",
         "icon": "skill_icon_forcemaster_0_25.png",
         "main_info1": "Deals 96~112 damage",
-        "main_info2": "Deals 72~84 damage over 5 sec to nearby foes<br/>Deals 22~25 burn damage over 9 sec",
-        "sub_info": "Ignores defense<br/>Applies 5 stacks of Ember",
+        "main_info2": "Deals 72~84 damage over 5 seg to nearby foes<br/>Deals 22~25 burn damage over 9 seg",
+        "sub_info": "Ignora Defesa<br/>Applies 5 stacks of Ember",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2838,12 +2838,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2.5 sec"
+                "value": "2.5 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2875,7 +2875,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "16 sec"
+                "value": "16 seg"
             }
         }
     },
@@ -2907,7 +2907,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -2917,7 +2917,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_19.png",
         "main_info1": "Move back 14m",
         "main_info2": "Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use",
-        "sub_info": "Freezes foes for 5 sec<br/>Removes all immobilize effects<br/>Used by double tapping [S]",
+        "sub_info": "Freezes foes for 5 seg<br/>Removes all immobilize effects<br/>Used by double tapping [S]",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2939,7 +2939,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -2971,7 +2971,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "16 sec"
+                "value": "16 seg"
             }
         }
     },
@@ -3003,7 +3003,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "16 sec"
+                "value": "16 seg"
             }
         }
     },
@@ -3011,7 +3011,7 @@ var skill_data_FM = {
         "id": "22249",
         "name": "Protection Barrier - 호신장막",
         "icon": "skill_icon_forcemaster_0_41.png",
-        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 10 sec",
+        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 10 seg",
         "main_info2": null,
         "sub_info": "User takes 30% less damage<br/>Immunity and damage reduction also applies to nearby allies<br/>Releases on movement<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "2",
@@ -3035,7 +3035,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3043,9 +3043,9 @@ var skill_data_FM = {
         "id": "22249",
         "name": "Protection Barrier - 호신장막",
         "icon": "skill_icon_forcemaster_0_41.png",
-        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 10 sec",
+        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of their maximum health over 10 sec<br/>Immunity and damage reduction also applies to nearby allies<br/>Releases on movement<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 30% less damage",
+        "sub_info": "Heals the user 5% of their maximum health over 10 seg<br/>Immunity and damage reduction also applies to nearby allies<br/>Releases on movement<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 30% less damage",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3067,7 +3067,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3075,9 +3075,9 @@ var skill_data_FM = {
         "id": "22249",
         "name": "Protection Barrier - 호신장막",
         "icon": "skill_icon_forcemaster_0_41.png",
-        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 15 sec",
+        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 15 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of their maximum health over 15 sec<br/>Immunity and damage reduction also applies to nearby allies<br/>Releases on movement<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 30% less damage",
+        "sub_info": "Heals the user 5% of their maximum health over 15 seg<br/>Immunity and damage reduction also applies to nearby allies<br/>Releases on movement<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 30% less damage",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3099,7 +3099,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -3107,9 +3107,9 @@ var skill_data_FM = {
         "id": "22249",
         "name": "Protection Barrier - 호신장막",
         "icon": "skill_icon_forcemaster_0_41.png",
-        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 15 sec",
+        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 15 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of their maximum health over 15 sec<br/>Immunity and damage reduction also applies to nearby allies<br/>Protection Barrier does not break on movement and maintains its initial position<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 20% less damage",
+        "sub_info": "Heals the user 5% of their maximum health over 15 seg<br/>Immunity and damage reduction also applies to nearby allies<br/>Protection Barrier does not break on movement and maintains its initial position<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 20% less damage",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3131,7 +3131,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3139,9 +3139,9 @@ var skill_data_FM = {
         "id": "22249",
         "name": "Protection Barrier - 호신장막",
         "icon": "skill_icon_forcemaster_0_41.png",
-        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 15 sec",
+        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 15 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of their maximum health over 15 sec<br/>Heals the user or allies 1% of their maximum health on resist<br/>Immunity and damage reduction also applies to nearby allies<br/>Protection Barrier does not break on movement and maintains its initial position<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 20% less damage",
+        "sub_info": "Heals the user 5% of their maximum health over 15 seg<br/>Heals the user or allies 1% of their maximum health on resist<br/>Immunity and damage reduction also applies to nearby allies<br/>Protection Barrier does not break on movement and maintains its initial position<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 20% less damage",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3163,7 +3163,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3171,9 +3171,9 @@ var skill_data_FM = {
         "id": "22249",
         "name": "Protection Barrier - 호신장막",
         "icon": "skill_icon_forcemaster_0_41.png",
-        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 15 sec",
+        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 15 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of their maximum health over 15 sec<br/>Heals the user or allies 1% of their maximum health on resist<br/>Decreases the meditation time of meditating allies by 6 sec<br/>Immunity and damage reduction also applies to nearby allies<br/>Protection Barrier does not break on movement and maintains its initial position<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 20% less damage",
+        "sub_info": "Heals the user 5% of their maximum health over 15 seg<br/>Heals the user or allies 1% of their maximum health on resist<br/>Decreases the meditation time of meditating allies by 6 seg<br/>Immunity and damage reduction also applies to nearby allies<br/>Protection Barrier does not break on movement and maintains its initial position<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 20% less damage",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3195,7 +3195,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3203,9 +3203,9 @@ var skill_data_FM = {
         "id": "22249",
         "name": "Protection Barrier - 호신장막",
         "icon": "skill_icon_forcemaster_0_41.png",
-        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 15 sec",
+        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 15 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of their maximum health over 15 sec<br/>Immunity and damage reduction also applies to nearby allies<br/>Protection Barrier moves with the user<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 15% less damage",
+        "sub_info": "Heals the user 5% of their maximum health over 15 seg<br/>Immunity and damage reduction also applies to nearby allies<br/>Protection Barrier moves with the user<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 15% less damage",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3227,7 +3227,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3235,9 +3235,9 @@ var skill_data_FM = {
         "id": "22249",
         "name": "Protection Barrier - 호신장막",
         "icon": "skill_icon_forcemaster_0_41.png",
-        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 15 sec",
+        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 15 seg",
         "main_info2": null,
-        "sub_info": "Decreases the accuracy of nearby foes by 20%<br/>Immunity and damage reduction also applies to nearby allies<br/>Protection Barrier moves with the user<br/>Heals the user 5% of their maximum health over 15 sec<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 15% less damage",
+        "sub_info": "Decreases the accuracy of nearby foes by 20%<br/>Immunity and damage reduction also applies to nearby allies<br/>Protection Barrier moves with the user<br/>Heals the user 5% of their maximum health over 15 seg<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 15% less damage",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3259,7 +3259,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3267,9 +3267,9 @@ var skill_data_FM = {
         "id": "22249",
         "name": "Protection Barrier - 호신장막",
         "icon": "skill_icon_forcemaster_0_41.png",
-        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 15 sec",
+        "main_info1": "User and allies wiithin the area are invulnerable to projectiles. Lasts for 15 seg",
         "main_info2": null,
-        "sub_info": "Decreases the accuracy of nearby foes by 20%<br/>Creates a personal Protection Barrier on allies within 16m<br/>Allies are invulnerable from 3 projectiles<br/>Protection Barrier moves with the user<br/>Heals the user 5% of their maximum health over 15 sec<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 15% less damage",
+        "sub_info": "Decreases the accuracy of nearby foes by 20%<br/>Creates a personal Protection Barrier on allies within 16m<br/>Allies are invulnerable from 3 projectiles<br/>Protection Barrier moves with the user<br/>Heals the user 5% of their maximum health over 15 seg<br/>Increases the defense of the user by 10% on using frost spells<br/>User takes 15% less damage",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3291,7 +3291,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3299,9 +3299,9 @@ var skill_data_FM = {
         "id": "22250",
         "name": "Crystallize - 결빙공",
         "icon": "skill_icon_forcemaster_0_30.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Generates 10 chi over 10 sec<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Generates 10 chi over 10 seg<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3331,9 +3331,9 @@ var skill_data_FM = {
         "id": "22250",
         "name": "Crystallize - 결빙공",
         "icon": "skill_icon_forcemaster_0_30.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 10% of their maximum health<br/>Heals the user an additional 2% of their maximum health on resist<br/>Generates 10 chi over 10 sec<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 10% of their maximum health<br/>Heals the user an additional 2% of their maximum health on resist<br/>Generates 10 chi over 10 seg<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3363,9 +3363,9 @@ var skill_data_FM = {
         "id": "22250",
         "name": "Crystallize - 결빙공",
         "icon": "skill_icon_forcemaster_0_30.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 10% of their maximum health<br/>Heals the user an additional 2% of their maximum health on resist<br/>Generates 10 chi over 10 sec<br/>Deals 24~28 damage to nearby foes on exiting Crystallize<br/>Heals the user 100% of the damage dealt on exiting Crystallize<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 10% of their maximum health<br/>Heals the user an additional 2% of their maximum health on resist<br/>Generates 10 chi over 10 seg<br/>Causa Dano de 24~28  to nearby foes on exiting Crystallize<br/>Heals the user 100% of the damage dealt on exiting Crystallize<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3395,9 +3395,9 @@ var skill_data_FM = {
         "id": "22250",
         "name": "Crystallize - 결빙공",
         "icon": "skill_icon_forcemaster_0_30.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 10% of their maximum health<br/>Heals the user an additional 2% of their maximum health on resist<br/>Generates 10 chi over 10 sec<br/>Knocks nearby foes back 5m on exiting Crystallize<br/>Deals 24~28 damage to nearby foes on exiting Crystallize<br/>Heals the user 100% of the damage dealt on exiting Crystallize<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 10% of their maximum health<br/>Heals the user an additional 2% of their maximum health on resist<br/>Generates 10 chi over 10 seg<br/>Knocks nearby foes back 5m on exiting Crystallize<br/>Causa Dano de 24~28  to nearby foes on exiting Crystallize<br/>Heals the user 100% of the damage dealt on exiting Crystallize<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3427,9 +3427,9 @@ var skill_data_FM = {
         "id": "22250",
         "name": "Crystallize - 결빙공",
         "icon": "skill_icon_forcemaster_0_30.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 10% of their maximum health<br/>Heals the user an additional 2% of their maximum health on resist<br/>Generates 10 chi over 10 sec<br/>Freezes nearby foes for 5 sec on exiting Crystallize<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 10% of their maximum health<br/>Heals the user an additional 2% of their maximum health on resist<br/>Generates 10 chi over 10 seg<br/>Freezes nearby foes for 5 seg on exiting Crystallize<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3459,9 +3459,9 @@ var skill_data_FM = {
         "id": "22250",
         "name": "Crystallize - 결빙공",
         "icon": "skill_icon_forcemaster_0_30.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 10% of their maximum health<br/>Heals the user an additional 2% of their maximum health on resist<br/>Generates 10 chi over 10 sec<br/>Nearby foes suffer from Frostbite for 6 sec on exiting Crystallize<br/>Freezes nearby foes for 5 sec on exiting Crystallize<br/>Move back 15m on exiting Crystallize<br/>User is invulnerable during travel<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 10% of their maximum health<br/>Heals the user an additional 2% of their maximum health on resist<br/>Generates 10 chi over 10 seg<br/>Nearby foes suffer from Frostbite for 6 seg on exiting Crystallize<br/>Freezes nearby foes for 5 seg on exiting Crystallize<br/>Move back 15m on exiting Crystallize<br/>User is invulnerable during travel<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3491,9 +3491,9 @@ var skill_data_FM = {
         "id": "22250",
         "name": "Crystallize - 결빙공",
         "icon": "skill_icon_forcemaster_0_30.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 30% of their maximum health<br/>Heals the user an additional 5% of their maximum health on resist<br/>Generates 10 chi over 10 sec<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 30% of their maximum health<br/>Heals the user an additional 5% of their maximum health on resist<br/>Generates 10 chi over 10 seg<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3523,9 +3523,9 @@ var skill_data_FM = {
         "id": "22250",
         "name": "Crystallize - 결빙공",
         "icon": "skill_icon_forcemaster_0_30.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 30% of their maximum health<br/>Heals the user an additional 5% of their maximum health on resist<br/>Generates 10 chi over 10 sec<br/>Movement and actions are restricted during use<br/>User is invulnerable for 1 sec after exiting Crystallize<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 30% of their maximum health<br/>Heals the user an additional 5% of their maximum health on resist<br/>Generates 10 chi over 10 seg<br/>Movement and actions are restricted during use<br/>User is invulnerable for 1 seg after exiting Crystallize<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3748,7 +3748,7 @@ var skill_data_FM = {
         "name": "Pyrodragon - 폭열신장",
         "icon": "skill_icon_forcemaster_0_31.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Dazes foes for 2 sec",
+        "main_info2": "Dazes foes for 2 seg",
         "sub_info": "Applies 1 stack of Ember<br/>Cannot be deflected<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Pyrodragon without daze is used instead while Pyrodragon is on cooldown",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -3771,7 +3771,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3780,7 +3780,7 @@ var skill_data_FM = {
         "name": "Pyrodragon - 폭열신장",
         "icon": "skill_icon_forcemaster_0_31.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Knocks foes back 5m and dazes them for 2 sec",
+        "main_info2": "Knocks foes back 5m and dazes them for 2 seg",
         "sub_info": "Applies 1 stack of Ember<br/>Cannot be deflected<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Pyrodragon without daze is used instead while Pyrodragon is on cooldown",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -3803,7 +3803,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3812,8 +3812,8 @@ var skill_data_FM = {
         "name": "Pyrodragon - 폭열신장",
         "icon": "skill_icon_forcemaster_0_31.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Knocks foes back 5m and dazes them for 2 sec",
-        "sub_info": "Ignores defense<br/>Applies 1 stack of Ember<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Pyrodragon without daze is used instead while Pyrodragon is on cooldown",
+        "main_info2": "Knocks foes back 5m and dazes them for 2 seg",
+        "sub_info": "Ignora Defesa<br/>Applies 1 stack of Ember<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Pyrodragon without daze is used instead while Pyrodragon is on cooldown",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3835,7 +3835,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4292,7 +4292,7 @@ var skill_data_FM = {
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
         "main_info1": "Deals 16~18 damage",
-        "main_info2": "Foes suffer from Frostbite for 6 sec",
+        "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -4324,7 +4324,7 @@ var skill_data_FM = {
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
         "main_info1": "Deals 16~18 damage",
-        "main_info2": "Foes suffer from Frostbite for 6 sec",
+        "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -4356,7 +4356,7 @@ var skill_data_FM = {
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
         "main_info1": "Deals 16~18 damage",
-        "main_info2": "Foes suffer from Frostbite for 6 sec",
+        "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -4388,7 +4388,7 @@ var skill_data_FM = {
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
         "main_info1": "Deals 36~42 damage",
-        "main_info2": "Foes suffer from Frostbite for 6 sec",
+        "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -4420,7 +4420,7 @@ var skill_data_FM = {
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
         "main_info1": "Deals 36~42 damage",
-        "main_info2": "Foes suffer from Frostbite for 10 sec",
+        "main_info2": "Foes suffer from Frostbite for 10 seg",
         "sub_info": "Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -4452,7 +4452,7 @@ var skill_data_FM = {
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
         "main_info1": "Deals 36~42 damage",
-        "main_info2": "Foes suffer from Frostbite for 10 sec",
+        "main_info2": "Foes suffer from Frostbite for 10 seg",
         "sub_info": "Frostbite ignores defense<br/>Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -4549,7 +4549,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_33.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": null,
-        "sub_info": "Creates 1 Frost Orb on critical hit<br/>Does not generate threat<br/>Increased consecutive cast speed<br/>Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Creates 1 Frost Orb on critical hit<br/>Não gera ameaça<br/>Increased consecutive cast speed<br/>Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4581,7 +4581,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_33.png",
         "main_info1": "Deals 48~56 damage",
         "main_info2": null,
-        "sub_info": "Guaranteed critical hit to frozen foes<br/>Creates 1 Frost Orb on critical hit<br/>Does not generate threat<br/>Increased consecutive cast speed<br/>Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Guaranteed critical hit to frozen foes<br/>Creates 1 Frost Orb on critical hit<br/>Não gera ameaça<br/>Increased consecutive cast speed<br/>Increased projectile speed<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4611,9 +4611,9 @@ var skill_data_FM = {
         "id": "22260",
         "name": "Defrost - 해빙공",
         "icon": "skill_icon_forcemaster_0_42.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Generates 10 chi over 10 sec<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Generates 10 chi over 10 seg<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4643,9 +4643,9 @@ var skill_data_FM = {
         "id": "22260",
         "name": "Defrost - 해빙공",
         "icon": "skill_icon_forcemaster_0_42.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 10% of their maximum health over 10 sec<br/>Heals the user an additional 1% of their maximum health on resist<br/>Generates 10 chi over 10 sec<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 10% of their maximum health over 10 seg<br/>Heals the user an additional 1% of their maximum health on resist<br/>Generates 10 chi over 10 seg<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4675,9 +4675,9 @@ var skill_data_FM = {
         "id": "22260",
         "name": "Shatter - 쇄빙공",
         "icon": "skill_icon_forcemaster_0_42.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 10% of their maximum health over 10 sec<br/>Heals the user an additional 1% of their maximum health on resist<br/>Generates 10 chi over 10 sec<br/>Deals 24~28 damage to nearby foes on exiting Crystallize<br/>Heals the user 100% of the damage dealt on exiting Crystallize<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 10% of their maximum health over 10 seg<br/>Heals the user an additional 1% of their maximum health on resist<br/>Generates 10 chi over 10 seg<br/>Causa Dano de 24~28  to nearby foes on exiting Crystallize<br/>Heals the user 100% of the damage dealt on exiting Crystallize<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4707,9 +4707,9 @@ var skill_data_FM = {
         "id": "22260",
         "name": "Shatter - 쇄빙공",
         "icon": "skill_icon_forcemaster_0_42.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 10% of their maximum health over 10 sec<br/>Heals the user an additional 1% of their maximum health on resist<br/>Generates 10 chi over 10 sec<br/>Knocks nearby foes back 5m on exiting Crystallize<br/>Deals 24~28 damage to nearby foes on exiting Crystallize<br/>Heals the user 100% of the damage dealt on exiting Crystallize<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 10% of their maximum health over 10 seg<br/>Heals the user an additional 1% of their maximum health on resist<br/>Generates 10 chi over 10 seg<br/>Knocks nearby foes back 5m on exiting Crystallize<br/>Causa Dano de 24~28  to nearby foes on exiting Crystallize<br/>Heals the user 100% of the damage dealt on exiting Crystallize<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4739,9 +4739,9 @@ var skill_data_FM = {
         "id": "22260",
         "name": "Glaze Ice - 설빙공",
         "icon": "skill_icon_forcemaster_0_42.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 10% of their maximum health over 10 sec<br/>Heals the user an additional 1% of their maximum health on resist<br/>Generates 10 chi over 10 sec<br/>Freezes nearby foes for 5 sec on exiting Crystallize<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 10% of their maximum health over 10 seg<br/>Heals the user an additional 1% of their maximum health on resist<br/>Generates 10 chi over 10 seg<br/>Freezes nearby foes for 5 seg on exiting Crystallize<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4771,9 +4771,9 @@ var skill_data_FM = {
         "id": "22260",
         "name": "Glaze Ice - 설빙공",
         "icon": "skill_icon_forcemaster_0_42.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 10% of their maximum health over 10 sec<br/>Heals the user an additional 1% of their maximum health on resist<br/>Generates 10 chi over 10 sec<br/>Nearby foes suffer from Frostbite for 6 sec on exiting Crystallize<br/>Freezes nearby foes for 5 sec on exiting Crystallize<br/>Move back 15m on exiting Crystallize<br/>User is invulnerable during travel<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 10% of their maximum health over 10 seg<br/>Heals the user an additional 1% of their maximum health on resist<br/>Generates 10 chi over 10 seg<br/>Nearby foes suffer from Frostbite for 6 seg on exiting Crystallize<br/>Freezes nearby foes for 5 seg on exiting Crystallize<br/>Move back 15m on exiting Crystallize<br/>User is invulnerable during travel<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4803,9 +4803,9 @@ var skill_data_FM = {
         "id": "22260",
         "name": "Defrost - 해빙공",
         "icon": "skill_icon_forcemaster_0_42.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 30% of their maximum health over 10 sec<br/>Heals the user an additional 5% of their maximum health on resist<br/>Generates 10 chi over 10 sec<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 30% of their maximum health over 10 seg<br/>Heals the user an additional 5% of their maximum health on resist<br/>Generates 10 chi over 10 seg<br/>Movement and actions are restricted during use<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4835,9 +4835,9 @@ var skill_data_FM = {
         "id": "22260",
         "name": "Defrost - 해빙공",
         "icon": "skill_icon_forcemaster_0_42.png",
-        "main_info1": "User is invulnerable for 10 sec",
+        "main_info1": "User is invulnerable for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 30% of their maximum health over 10 sec<br/>Heals the user an additional 5% of their maximum health on resist<br/>Generates 10 chi over 10 sec<br/>Movement and actions are restricted during use<br/>User is invulnerable for 1 sec after exiting Crystallize<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 30% of their maximum health over 10 seg<br/>Heals the user an additional 5% of their maximum health on resist<br/>Generates 10 chi over 10 seg<br/>Movement and actions are restricted during use<br/>User is invulnerable for 1 seg after exiting Crystallize<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4867,9 +4867,9 @@ var skill_data_FM = {
         "id": "22263",
         "name": "Flame Lotus - 연화지",
         "icon": "skill_icon_forcemaster_0_22.png",
-        "main_info1": "Deals 18~21 damage over 5 sec",
+        "main_info1": "Deals 18~21 damage over 5 seg",
         "main_info2": null,
-        "sub_info": "Detonates Ember after 5 sec<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember",
+        "sub_info": "Detonates Ember after 5 seg<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4891,7 +4891,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4899,9 +4899,9 @@ var skill_data_FM = {
         "id": "22263",
         "name": "Flame Lotus - 연화지",
         "icon": "skill_icon_forcemaster_0_22.png",
-        "main_info1": "Deals 42~49 damage over 5 sec",
+        "main_info1": "Deals 42~49 damage over 5 seg",
         "main_info2": null,
-        "sub_info": "Applies 1 stack of Ember on critically hitting the target while Flame Lotus is active<br/>Detonates Ember after 5 sec<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember",
+        "sub_info": "Applies 1 stack of Ember on critically hitting the target while Flame Lotus is active<br/>Detonates Ember after 5 seg<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4923,7 +4923,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4931,9 +4931,9 @@ var skill_data_FM = {
         "id": "22263",
         "name": "Flame Lotus - 연화지",
         "icon": "skill_icon_forcemaster_0_22.png",
-        "main_info1": "Deals 84~98 damage over 10 sec",
+        "main_info1": "Causa Dano de 84~98 over 10 seg",
         "main_info2": null,
-        "sub_info": "Applies 1 stack of Ember on critically hitting the target while Flame Lotus is active<br/>Flame Lotus can be manually detonated using Dissipate Lotus<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Foes suffer from Internal Bleeding for 12 sec",
+        "sub_info": "Applies 1 stack of Ember on critically hitting the target while Flame Lotus is active<br/>Flame Lotus can be manually detonated using Dissipate Lotus<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Foes suffer from Internal Bleeding for 12 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4955,7 +4955,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -4963,9 +4963,9 @@ var skill_data_FM = {
         "id": "22263",
         "name": "Flame Lotus - 연화지",
         "icon": "skill_icon_forcemaster_0_22.png",
-        "main_info1": "Deals 84~98 damage over 10 sec",
+        "main_info1": "Causa Dano de 84~98 over 10 seg",
         "main_info2": null,
-        "sub_info": "Applies 1 stack of Ember on critically hitting the target while Flame Lotus is active<br/>Creates 1 Flame Orb<br/>Flame Lotus can be manually detonated using Dissipate Lotus<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Foes suffer from Internal Bleeding for 12 sec",
+        "sub_info": "Applies 1 stack of Ember on critically hitting the target while Flame Lotus is active<br/>Creates 1 Flame Orb<br/>Flame Lotus can be manually detonated using Dissipate Lotus<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Foes suffer from Internal Bleeding for 12 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4987,7 +4987,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -4995,9 +4995,9 @@ var skill_data_FM = {
         "id": "22263",
         "name": "Flame Lotus - 연화지",
         "icon": "skill_icon_forcemaster_0_22.png",
-        "main_info1": "Deals 84~98 damage over 10 sec",
+        "main_info1": "Causa Dano de 84~98 over 10 seg",
         "main_info2": null,
-        "sub_info": "Cooldown of Flame Lotus is refreshed on critical hit<br/>Applies 1 stack of Ember on critically hitting the target while Flame Lotus is active<br/>Creates 1 Flame Orb<br/>Flame Lotus can be manually detonated using Dissipate Lotus<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Foes suffer from Internal Bleeding for 12 sec",
+        "sub_info": "Cooldown of Flame Lotus is refreshed on critical hit<br/>Applies 1 stack of Ember on critically hitting the target while Flame Lotus is active<br/>Creates 1 Flame Orb<br/>Flame Lotus can be manually detonated using Dissipate Lotus<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Foes suffer from Internal Bleeding for 12 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5019,7 +5019,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -5027,9 +5027,9 @@ var skill_data_FM = {
         "id": "22263",
         "name": "Flame Lotus - 연화지",
         "icon": "skill_icon_forcemaster_0_22.png",
-        "main_info1": "Deals 42~49 damage over 5 sec",
+        "main_info1": "Deals 42~49 damage over 5 seg",
         "main_info2": null,
-        "sub_info": "Applies 1 stack of Ember on critically hitting the target while Flame Lotus is active<br/>Detonates Ember after 5 sec<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember",
+        "sub_info": "Applies 1 stack of Ember on critically hitting the target while Flame Lotus is active<br/>Detonates Ember after 5 seg<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5051,7 +5051,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5059,9 +5059,9 @@ var skill_data_FM = {
         "id": "22263",
         "name": "Flame Lotus - 연화지",
         "icon": "skill_icon_forcemaster_0_22.png",
-        "main_info1": "Deals 42~49 damage over 5 sec",
+        "main_info1": "Deals 42~49 damage over 5 seg",
         "main_info2": null,
-        "sub_info": "Applies 1 stack of Ember on critically hitting the target while Flame Lotus is active<br/>Applies 3 stacks of Ember on detonation<br/>Detonates Ember after 5 sec<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember",
+        "sub_info": "Applies 1 stack of Ember on critically hitting the target while Flame Lotus is active<br/>Applies 3 stacks of Ember on detonation<br/>Detonates Ember after 5 seg<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5083,7 +5083,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5091,9 +5091,9 @@ var skill_data_FM = {
         "id": "22263",
         "name": "Flame Lotus - 연화지",
         "icon": "skill_icon_forcemaster_0_22.png",
-        "main_info1": "Deals 42~49 damage over 5 sec",
+        "main_info1": "Deals 42~49 damage over 5 seg",
         "main_info2": null,
-        "sub_info": "Flame Lotus can be recast up to 3 times<br/>Flame Lotus cannot be used on the same target twice<br/>Applies 1 stack of Ember on critically hitting the target while Flame Lotus is active<br/>Applies 3 stacks of Ember on detonation<br/>Detonates Ember after 5 sec<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember",
+        "sub_info": "Flame Lotus can be recast up to 3 times<br/>Flame Lotus cannot be used on the same target twice<br/>Applies 1 stack of Ember on critically hitting the target while Flame Lotus is active<br/>Applies 3 stacks of Ember on detonation<br/>Detonates Ember after 5 seg<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5115,7 +5115,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -5284,7 +5284,7 @@ var skill_data_FM = {
         "name": "Cold Wave - 한파",
         "icon": "skill_icon_forcemaster_0_38.png",
         "main_info1": "Deals 48~56 damage over 5 hits",
-        "main_info2": "Foes suffer from Frostbite for 6 sec",
+        "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Generates 1 chi per hit<br/>Creates 1 Frost Orb<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5316,7 +5316,7 @@ var skill_data_FM = {
         "name": "Cold Wave - 한파",
         "icon": "skill_icon_forcemaster_0_38.png",
         "main_info1": "Deals 48~56 damage over 5 hits",
-        "main_info2": "Foes suffer from Frostbite for 6 sec",
+        "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Frostbite ignores defense<br/>Increases the defense of the user by 10% on using frost spells<br/>Generates 1 chi per hit<br/>Creates 1 Frost Orb",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5348,7 +5348,7 @@ var skill_data_FM = {
         "name": "Cold Wave - 한파",
         "icon": "skill_icon_forcemaster_0_38.png",
         "main_info1": "Deals 48~56 damage over 5 hits",
-        "main_info2": "Foes suffer from Frostbite for 6 sec",
+        "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Frostbite ignores defense<br/>Deals 10% chi damage per hit<br/>Increases the defense of the user by 10% on using frost spells<br/>Generates 1 chi per hit<br/>Creates 1 Frost Orb",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5499,7 +5499,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -5531,7 +5531,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -5563,7 +5563,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -5572,7 +5572,7 @@ var skill_data_FM = {
         "name": "Ice Breaker - 파음지",
         "icon": "skill_icon_forcemaster_0_40.png",
         "main_info1": "Deals 54~63 damage",
-        "main_info2": "Deals an additional 18~21 damage to frozen foes<br/>Foes suffer from Frostbite for 6 sec",
+        "main_info2": "Deals an additional 18~21 damage to frozen foes<br/>Foes suffer from Frostbite for 6 seg",
         "sub_info": "Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -5595,7 +5595,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -5603,7 +5603,7 @@ var skill_data_FM = {
         "id": "22266",
         "name": "Glaciate - 동파",
         "icon": "skill_icon_forcemaster_0_44.png",
-        "main_info1": "Locks foes in Ice Prison for 8 sec",
+        "main_info1": "Locks foes in Ice Prison for 8 seg",
         "main_info2": null,
         "sub_info": "User becomes targetable by aerial skills<br/>Ice Prison thaws on ending the channel<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "3",
@@ -5627,7 +5627,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -5635,9 +5635,9 @@ var skill_data_FM = {
         "id": "22266",
         "name": "Glaciate - 동파",
         "icon": "skill_icon_forcemaster_0_44.png",
-        "main_info1": "Locks foes in Ice Prison for 8 sec",
+        "main_info1": "Locks foes in Ice Prison for 8 seg",
         "main_info2": null,
-        "sub_info": "Foes suffer from Frostbite for 6 sec on exiting Ice Prison<br/>Generates 1 chi per target hit<br/>User becomes targetable by aerial skills<br/>Ice Prison thaws on ending the channel<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Foes suffer from Frostbite for 6 seg on exiting Ice Prison<br/>Generates 1 chi per target hit<br/>User becomes targetable by aerial skills<br/>Ice Prison thaws on ending the channel<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5659,7 +5659,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -5731,9 +5731,9 @@ var skill_data_FM = {
         "id": "22300",
         "name": "Force Grip - 흡공",
         "icon": "skill_icon_forcemaster_0_1.png",
-        "main_info1": "Force grip the target for 4 sec",
+        "main_info1": "Force grip the target for 4 seg",
         "main_info2": "Pulls foes",
-        "sub_info": "Ignores defense<br/>Force Grip cannot be used on foes that resist Force Grip",
+        "sub_info": "Ignora Defesa<br/>Force Grip cannot be used on foes that resist Force Grip",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5755,7 +5755,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5763,9 +5763,9 @@ var skill_data_FM = {
         "id": "22300",
         "name": "Force Grip - 흡공",
         "icon": "skill_icon_forcemaster_0_1.png",
-        "main_info1": "Force grip the target for 6 sec",
+        "main_info1": "Force grip the target for 6 seg",
         "main_info2": "Pulls foes",
-        "sub_info": "Ignores defense<br/>Force Grip cannot be used on foes that resist Force Grip",
+        "sub_info": "Ignora Defesa<br/>Force Grip cannot be used on foes that resist Force Grip",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5787,7 +5787,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5795,9 +5795,9 @@ var skill_data_FM = {
         "id": "22300",
         "name": "Force Grip - 흡공",
         "icon": "skill_icon_forcemaster_0_1.png",
-        "main_info1": "Force grip the target for 6 sec",
+        "main_info1": "Force grip the target for 6 seg",
         "main_info2": "Pulls foes",
-        "sub_info": "Ignores defense<br/>Force Grip cannot be used on foes that resist Force Grip",
+        "sub_info": "Ignora Defesa<br/>Force Grip cannot be used on foes that resist Force Grip",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5819,7 +5819,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5827,9 +5827,9 @@ var skill_data_FM = {
         "id": "22300",
         "name": "Force Grip - 흡공",
         "icon": "skill_icon_forcemaster_0_1.png",
-        "main_info1": "Force grip the target for 6 sec",
+        "main_info1": "Force grip the target for 6 seg",
         "main_info2": "Pulls foes",
-        "sub_info": "Decreases the defense of the force gripped target by 10%<br/>Ignores defense<br/>Force Grip cannot be used on foes that resist Force Grip",
+        "sub_info": "Decreases the defense of the force gripped target by 10%<br/>Ignora Defesa<br/>Force Grip cannot be used on foes that resist Force Grip",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5851,7 +5851,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5859,9 +5859,9 @@ var skill_data_FM = {
         "id": "22300",
         "name": "Force Grip - 흡공",
         "icon": "skill_icon_forcemaster_0_1.png",
-        "main_info1": "Force grip the target for 6 sec",
+        "main_info1": "Force grip the target for 6 seg",
         "main_info2": "Pulls foes",
-        "sub_info": "Decreases the defense of the force gripped target by 10%<br/>Ignores defense<br/>Disables defense abilities of the force gripped target for 6 sec on hit with Flick, Push, Siphon<br/>Force Grip cannot be used on foes that resist Force Grip",
+        "sub_info": "Decreases the defense of the force gripped target by 10%<br/>Ignora Defesa<br/>Disables defense abilities of the force gripped target for 6 seg on hit with Flick, Push, Siphon<br/>Force Grip cannot be used on foes that resist Force Grip",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5883,7 +5883,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5891,9 +5891,9 @@ var skill_data_FM = {
         "id": "22300",
         "name": "Force Grip - 흡공",
         "icon": "skill_icon_forcemaster_0_1.png",
-        "main_info1": "Force grip the target for 6 sec",
+        "main_info1": "Force grip the target for 6 seg",
         "main_info2": "Pulls foes",
-        "sub_info": "Pulls incapacitated, meditating allies<br/>Ignores defense",
+        "sub_info": "Pulls incapacitated, meditating allies<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5915,7 +5915,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5923,9 +5923,9 @@ var skill_data_FM = {
         "id": "22300",
         "name": "Force Grip - 흡공",
         "icon": "skill_icon_forcemaster_0_1.png",
-        "main_info1": "Force grip the target for 6 sec",
+        "main_info1": "Force grip the target for 6 seg",
         "main_info2": "Pulls foes",
-        "sub_info": "Pulls incapacitated, meditating allies<br/>Decreases the meditation time of meditating allies by 6 sec<br/>Ignores defense",
+        "sub_info": "Pulls incapacitated, meditating allies<br/>Decreases the meditation time of meditating allies by 6 seg<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5947,7 +5947,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5955,9 +5955,9 @@ var skill_data_FM = {
         "id": "22300",
         "name": "Force Grip - 흡공",
         "icon": "skill_icon_forcemaster_0_1.png",
-        "main_info1": "Force grip the target for 6 sec",
+        "main_info1": "Force grip the target for 6 seg",
         "main_info2": "Pulls foes",
-        "sub_info": "Pulls incapacitated, meditating allies<br/>Incapacitated, meditating allies are invulnerable for 10 sec<br/>Decreases the meditation time of meditating allies by 6 sec<br/>Ignores defense",
+        "sub_info": "Pulls incapacitated, meditating allies<br/>Incapacitated, meditating allies are invulnerable for 10 seg<br/>Decreases the meditation time of meditating allies by 6 seg<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5979,7 +5979,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6011,7 +6011,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -6043,7 +6043,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -6051,7 +6051,7 @@ var skill_data_FM = {
         "id": "22311",
         "name": "Push - 밀기",
         "icon": "skill_icon_forcemaster_0_2.png",
-        "main_info1": "Knocks the force gripped target back 15m and knocks them down for 2 sec",
+        "main_info1": "Knocks the force gripped target back 15m and knocks them down for 2 seg",
         "main_info2": "Deals 12~14 damage",
         "sub_info": null,
         "consume_sp": null,
@@ -6075,7 +6075,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "5 sec"
+                "value": "5 seg"
             }
         }
     },
@@ -6107,7 +6107,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "5 sec"
+                "value": "5 seg"
             }
         }
     },
@@ -6115,7 +6115,7 @@ var skill_data_FM = {
         "id": "22345",
         "name": "Void - 허공",
         "icon": "skill_icon_forcemaster_0_48.png",
-        "main_info1": "Knocks foes down for 2 sec",
+        "main_info1": "Knocks foes down for 2 seg",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": "2",
@@ -6139,7 +6139,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "15 sec"
+                "value": "15 seg"
             }
         }
     },
@@ -6147,9 +6147,9 @@ var skill_data_FM = {
         "id": "22371",
         "name": "Aerial Force Grip - 공중흡공",
         "icon": "skill_icon_forcemaster_0_49.png",
-        "main_info1": "Aerial force grip the target for 4 sec",
+        "main_info1": "Aerial force grip the target for 4 seg",
         "main_info2": null,
-        "sub_info": "Ignores defense<br/>Force Grip cannot be used on foes that resist Force Grip",
+        "sub_info": "Ignora Defesa<br/>Force Grip cannot be used on foes that resist Force Grip",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6171,7 +6171,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6179,9 +6179,9 @@ var skill_data_FM = {
         "id": "22371",
         "name": "Aerial Force Grip - 공중흡공",
         "icon": "skill_icon_forcemaster_0_49.png",
-        "main_info1": "Aerial force grip the target for 4 sec",
+        "main_info1": "Aerial force grip the target for 4 seg",
         "main_info2": null,
-        "sub_info": "Ignores defense<br/>Force Grip cannot be used on foes that resist Force Grip",
+        "sub_info": "Ignora Defesa<br/>Force Grip cannot be used on foes that resist Force Grip",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6203,7 +6203,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6211,9 +6211,9 @@ var skill_data_FM = {
         "id": "22371",
         "name": "Aerial Force Grip - 공중흡공",
         "icon": "skill_icon_forcemaster_0_49.png",
-        "main_info1": "Aerial force grip the target for 4 sec",
+        "main_info1": "Aerial force grip the target for 4 seg",
         "main_info2": null,
-        "sub_info": "Ignores defense<br/>Disables defense abilities of the force gripped target for 6 sec on hit with Flick<br/>Force Grip cannot be used on foes that resist Force Grip",
+        "sub_info": "Ignora Defesa<br/>Disables defense abilities of the force gripped target for 6 seg on hit with Flick<br/>Force Grip cannot be used on foes that resist Force Grip",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6235,7 +6235,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6243,9 +6243,9 @@ var skill_data_FM = {
         "id": "22371",
         "name": "Aerial Force Grip - 공중흡공",
         "icon": "skill_icon_forcemaster_0_49.png",
-        "main_info1": "Aerial force grip the target for 4 sec",
+        "main_info1": "Aerial force grip the target for 4 seg",
         "main_info2": null,
-        "sub_info": "Ignores defense<br/>Disables defense abilities of the force gripped target for 6 sec on hit with Flick<br/>Force Grip cannot be used on foes that resist Force Grip",
+        "sub_info": "Ignora Defesa<br/>Disables defense abilities of the force gripped target for 6 seg on hit with Flick<br/>Force Grip cannot be used on foes that resist Force Grip",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6267,7 +6267,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -6277,7 +6277,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escape from downed, unconscious status",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6299,7 +6299,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6309,7 +6309,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6331,7 +6331,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6341,7 +6341,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6363,7 +6363,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6373,7 +6373,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6395,7 +6395,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6405,7 +6405,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6427,7 +6427,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6437,7 +6437,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6459,7 +6459,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6469,7 +6469,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 30% for 6 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6491,7 +6491,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6501,7 +6501,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 30% for 6 sec<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6523,7 +6523,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6532,8 +6532,8 @@ var skill_data_FM = {
         "name": "Escape - 탈출",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Dazes foes for 2 sec<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6555,7 +6555,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6564,8 +6564,8 @@ var skill_data_FM = {
         "name": "Escape - 탈출",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Dazes foes for 2 sec<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -6587,7 +6587,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6596,8 +6596,8 @@ var skill_data_FM = {
         "name": "Escape - 탈출",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Dazes foes for 2 sec<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Deals 50% chi damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Deals 50% chi damage",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -6619,7 +6619,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6627,7 +6627,7 @@ var skill_data_FM = {
         "id": "22381",
         "name": "Heat Wave - 열파",
         "icon": "skill_icon_forcemaster_1_7.png",
-        "main_info1": "Deals 24~28 damage over 5 hits",
+        "main_info1": "Causa Dano de 24~28  over 5 hits",
         "main_info2": null,
         "sub_info": "Creates 1 Flame Orb",
         "consume_sp": null,
@@ -6820,7 +6820,7 @@ var skill_data_FM = {
         "name": "Frost Dragon Blast - 빙룡파",
         "icon": "skill_icon_forcemaster_1_3.png",
         "main_info1": "Deals 60~70 damage",
-        "main_info2": "Foes suffer from Frostbite for 6 sec",
+        "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Generates 5 chi<br/>Applies 2 stacks of Frostbite<br/>Consumes all Frost Orbs on use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -6870,7 +6870,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -6902,7 +6902,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -6934,7 +6934,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -6966,7 +6966,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1.5 sec"
+                "value": "1.5 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -6980,7 +6980,7 @@ var skill_data_FM = {
         "name": "Twin Dragon Blast - 쌍룡파",
         "icon": "skill_icon_forcemaster_1_4.png",
         "main_info1": "Deals 60~70 damage",
-        "main_info2": "Freezes foes for 5 sec",
+        "main_info2": "Freezes foes for 5 seg",
         "sub_info": "Generates 5 chi<br/>Consumes all Flame, Frost Orbs on use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -7012,8 +7012,8 @@ var skill_data_FM = {
         "name": "Twin Dragon Blast - 쌍룡파",
         "icon": "skill_icon_forcemaster_1_4.png",
         "main_info1": "Deals 60~70 damage",
-        "main_info2": "Freezes foes for 5 sec",
-        "sub_info": "Generates 5 chi<br/>For the next 4 sec, Flame Palm, Pyrodragon, Heat Wave ignores defense<br/>Frost Palm, Cryodragon, Cold Wave ignores defense<br/>Consumes all Flame, Frost Orbs on use",
+        "main_info2": "Freezes foes for 5 seg",
+        "sub_info": "Generates 5 chi<br/>For the next 4 seg, Flame Palm, Pyrodragon, Heat Wave ignores defense<br/>Frost Palm, Cryodragon, Cold Wave ignores defense<br/>Consumes all Flame, Frost Orbs on use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -7044,8 +7044,8 @@ var skill_data_FM = {
         "name": "Awakened Twin Dragon Blast - 각성 쌍룡파",
         "icon": "skill_icon_forcemaster_1_12.png",
         "main_info1": "Deals 216~252 damage",
-        "main_info2": "Available while Spiritualized<br/>Freezes foes for 5 sec",
-        "sub_info": "Generates 5 chi<br/>Applies 5 stacks of Ember<br/>Does not generate threat<br/>",
+        "main_info2": "Disponível enquanto Espiritualizado<br/>Freezes foes for 5 seg",
+        "sub_info": "Generates 5 chi<br/>Applies 5 stacks of Ember<br/>Não gera ameaça<br/>",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {

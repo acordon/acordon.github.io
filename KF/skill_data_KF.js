@@ -389,7 +389,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_14.png",
         "main_info1": "Deals 16~18 damage",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of the damage dealt<br/>Cooldown of Escape is decreased by 1 sec on hit<br/>Increases the evade of the user by 10% during use<br/>Generates 1 chi on evade during use<br/>Heals the user 1% of their maximum health on evade during use",
+        "sub_info": "Heals the user 5% of the damage dealt<br/>Cooldown of Escape is decreased by 1 seg on hit<br/>Increases the evade of the user by 10% during use<br/>Generates 1 chi on evade during use<br/>Heals the user 1% of their maximum health on evade during use",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -419,7 +419,7 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Counter - 반격",
         "icon": "skill_icon_kungfufighter_0_1.png",
-        "main_info1": "Counters an attack from the front for 1 sec",
+        "main_info1": "Counters an attack from the front for 1 seg",
         "main_info2": "Deals 18~21 damage on counter",
         "sub_info": "Generates 2 chi on counter",
         "consume_sp": null,
@@ -443,7 +443,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.3 sec"
+                "value": "1.3 seg"
             }
         }
     },
@@ -451,7 +451,7 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Counter - 반격",
         "icon": "skill_icon_kungfufighter_0_1.png",
-        "main_info1": "Counters an attack from the front for 1 sec",
+        "main_info1": "Counters an attack from the front for 1 seg",
         "main_info2": "Deals 18~21 damage on counter",
         "sub_info": "Generates 3 chi on counter",
         "consume_sp": null,
@@ -475,7 +475,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.3 sec"
+                "value": "1.3 seg"
             }
         }
     },
@@ -483,7 +483,7 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Counter - 반격",
         "icon": "skill_icon_kungfufighter_0_1.png",
-        "main_info1": "Counters an attack from the front for 1 sec",
+        "main_info1": "Counters an attack from the front for 1 seg",
         "main_info2": "Deals 18~21 damage on counter",
         "sub_info": "Generates 3 chi on counter<br/>Increases defense by 100% on counter",
         "consume_sp": null,
@@ -507,7 +507,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.3 sec"
+                "value": "1.3 seg"
             }
         }
     },
@@ -515,9 +515,9 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Counter - 반격",
         "icon": "skill_icon_kungfufighter_0_1.png",
-        "main_info1": "Counters an attack from the front for 1 sec",
+        "main_info1": "Counters an attack from the front for 1 seg",
         "main_info2": "Deals 18~21 damage on counter",
-        "sub_info": "Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Heals the user 2% of their maximum health over 5 sec on counter",
+        "sub_info": "Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Heals the user 2% of their maximum health over 5 seg on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -539,7 +539,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.3 sec"
+                "value": "1.3 seg"
             }
         }
     },
@@ -547,9 +547,9 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Counter - 반격",
         "icon": "skill_icon_kungfufighter_0_1.png",
-        "main_info1": "Counters an attack from the front for 1 sec",
+        "main_info1": "Counters an attack from the front for 1 seg",
         "main_info2": "Deals 18~21 damage on counter",
-        "sub_info": "Heals the user 50% of the damage dealt<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Heals the user 2% of their maximum health over 5 sec on counter",
+        "sub_info": "Heals the user 50% of the damage dealt<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Heals the user 2% of their maximum health over 5 seg on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -571,7 +571,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.3 sec"
+                "value": "1.3 seg"
             }
         }
     },
@@ -579,9 +579,9 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Counter - 반격",
         "icon": "skill_icon_kungfufighter_0_1.png",
-        "main_info1": "Counters an attack from the front for 1 sec",
+        "main_info1": "Counters an attack from the front for 1 seg",
         "main_info2": "Deals 18~21 damage on counter",
-        "sub_info": "Heals the user 50% of the damage dealt<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Heals the user 2% of their maximum health over 5 sec on counter<br/>User is invulnerable for 1 sec on counter",
+        "sub_info": "Heals the user 50% of the damage dealt<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Heals the user 2% of their maximum health over 5 seg on counter<br/>User is invulnerable for 1 seg on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -603,7 +603,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.3 sec"
+                "value": "1.3 seg"
             }
         }
     },
@@ -613,7 +613,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Counter while attacking<br/>Offensive defense ability<br/>Twin Impact is used on counter<br/>Twin Impact deals deals 24~70 damage<br/>Twin Impact generates 3 chi<br/>Twin Impact increases the critical of the user by 10% for 1.5 sec on hit<br/>Twin Impact increases the defense of the user by 100% for 8 sec",
+        "sub_info": "Counter while attacking<br/>Offensive defense ability<br/>Twin Impact is used on counter<br/>Twin Impact deals deals 24~70 damage<br/>Twin Impact generates 3 chi<br/>Twin Impact increases the critical of the user by 10% for 1.5 seg on hit<br/>Twin Impact increases the defense of the user by 100% for 8 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -645,7 +645,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Counter while attacking<br/>Offensive defense ability<br/>Twin Impact is used on counter<br/>Twin Impact deals deals 24~70 damage<br/>Twin Impact penetrates deflect<br/>Twin Impact generates 3 chi<br/>Twin Impact increases the critical of the user by 10% for 1.5 sec on hit<br/>Twin Impact increases the defense of the user by 100% for 8 sec",
+        "sub_info": "Counter while attacking<br/>Offensive defense ability<br/>Twin Impact is used on counter<br/>Twin Impact deals deals 24~70 damage<br/>Twin Impact penetrates deflect<br/>Twin Impact generates 3 chi<br/>Twin Impact increases the critical of the user by 10% for 1.5 seg on hit<br/>Twin Impact increases the defense of the user by 100% for 8 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -677,7 +677,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_5.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Counter while attacking<br/>Offensive defense ability<br/>Burning Twin Impact is used on counter<br/>Burning Twin Impact deals deals 24~70 damage<br/>Burning Twin Impact penetrates deflect<br/>Burning Twin Impact generates 3 chi<br/>Burning Twin Impact increases the critical of the user by 15% for 3 sec on hit<br/>Burning Twin Impact increases the defense of the user by 100% for 8 sec<br/>Burning Twin Impact increases the critical hit damage of the user by 10% for 3 sec on hit",
+        "sub_info": "Counter while attacking<br/>Offensive defense ability<br/>Burning Twin Impact is used on counter<br/>Burning Twin Impact deals deals 24~70 damage<br/>Burning Twin Impact penetrates deflect<br/>Burning Twin Impact generates 3 chi<br/>Burning Twin Impact increases the critical of the user by 15% for 3 seg on hit<br/>Burning Twin Impact increases the defense of the user by 100% for 8 seg<br/>Burning Twin Impact increases the critical hit damage of the user by 10% for 3 seg on hit",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -707,9 +707,9 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Counter - 반격",
         "icon": "skill_icon_kungfufighter_0_1.png",
-        "main_info1": "Counters an attack from the front for 1 sec",
+        "main_info1": "Counters an attack from the front for 1 seg",
         "main_info2": "Deals 18~21 damage on counter",
-        "sub_info": "Stuns foes for 2 sec on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter",
+        "sub_info": "Stuns foes for 2 seg on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -731,7 +731,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -739,9 +739,9 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Counter - 반격",
         "icon": "skill_icon_kungfufighter_0_1.png",
-        "main_info1": "Counters an attack from the front for 1 sec",
+        "main_info1": "Counters an attack from the front for 1 seg",
         "main_info2": "Deals 18~21 damage on counter",
-        "sub_info": "Stuns foes for 2 sec on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Cooldown of Crushing Fist is decreased by 1 sec on counter",
+        "sub_info": "Stuns foes for 2 seg on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Cooldown of Crushing Fist is decreased by 1 seg on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -763,7 +763,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -771,9 +771,9 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Counter - 반격",
         "icon": "skill_icon_kungfufighter_0_1.png",
-        "main_info1": "Counters an attack from the front for 1 sec",
+        "main_info1": "Counters an attack from the front for 1 seg",
         "main_info2": "Deals 18~21 damage on counter",
-        "sub_info": "Stuns foes for 2 sec on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Cooldown of Crushing Fist is decreased by 1 sec on counter<br/>Cooldown of High Kick is refreshed on counter",
+        "sub_info": "Stuns foes for 2 seg on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Cooldown of Crushing Fist is decreased by 1 seg on counter<br/>Cooldown of High Kick is refreshed on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -795,7 +795,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -803,9 +803,9 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Counter - 반격",
         "icon": "skill_icon_kungfufighter_0_1.png",
-        "main_info1": "Counters an attack from the front for 1 sec",
+        "main_info1": "Counters an attack from the front for 1 seg",
         "main_info2": "Deals 18~21 damage on counter",
-        "sub_info": "Generates additional threat on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Increases threat of next 5 attacks by 25% for 10 sec",
+        "sub_info": "Generates additional threat on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Increases threat of next 5 attacks by 25% for 10 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -827,7 +827,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.3 sec"
+                "value": "1.3 seg"
             }
         }
     },
@@ -835,9 +835,9 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Counter - 반격",
         "icon": "skill_icon_kungfufighter_0_1.png",
-        "main_info1": "Counters an attack from the front for 1 sec",
+        "main_info1": "Counters an attack from the front for 1 seg",
         "main_info2": "Deals 18~21 damage on counter",
-        "sub_info": "Generates additional threat on counter<br/>User is invulnerable from the next 1 attack for 1 sec on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Increases threat of next 5 attacks by 25% for 10 sec",
+        "sub_info": "Generates additional threat on counter<br/>User is invulnerable from the next 1 attack for 1 seg on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Increases threat of next 5 attacks by 25% for 10 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -859,7 +859,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.3 sec"
+                "value": "1.3 seg"
             }
         }
     },
@@ -867,9 +867,9 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Counter - 반격",
         "icon": "skill_icon_kungfufighter_0_1.png",
-        "main_info1": "Counters an attack from the front for 1 sec",
+        "main_info1": "Counters an attack from the front for 1 seg",
         "main_info2": "Deals 18~21 damage on counter",
-        "sub_info": "Generates additional threat on counter<br/>User is invulnerable for 1 sec on counter<br/>User is immune to stun, daze for 2 sec on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Increases threat of next 5 attacks by 25% for 10 sec",
+        "sub_info": "Generates additional threat on counter<br/>User is invulnerable for 1 seg on counter<br/>User is immune to stun, daze for 2 seg on counter<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Increases threat of next 5 attacks by 25% for 10 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -891,7 +891,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.3 sec"
+                "value": "1.3 seg"
             }
         }
     },
@@ -923,7 +923,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -931,7 +931,7 @@ var skill_data_KF = {
         "id": "21009",
         "name": "Suppress - 제압",
         "icon": "skill_icon_kungfufighter_0_6.png",
-        "main_info1": "Suppress the target for 3 sec",
+        "main_info1": "Suppress the target for 3 seg",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": "1",
@@ -955,7 +955,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -963,7 +963,7 @@ var skill_data_KF = {
         "id": "21009",
         "name": "Suppress - 제압",
         "icon": "skill_icon_kungfufighter_0_6.png",
-        "main_info1": "Suppress the target for 3 sec",
+        "main_info1": "Suppress the target for 3 seg",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": "1",
@@ -987,7 +987,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -995,7 +995,7 @@ var skill_data_KF = {
         "id": "21009",
         "name": "Suppress - 제압",
         "icon": "skill_icon_kungfufighter_0_6.png",
-        "main_info1": "Suppress the target for 3 sec",
+        "main_info1": "Suppress the target for 3 seg",
         "main_info2": null,
         "sub_info": "Suppressed target takes 10% chi damage whenever they are hit",
         "consume_sp": "1",
@@ -1019,7 +1019,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1027,7 +1027,7 @@ var skill_data_KF = {
         "id": "21009",
         "name": "Suppress - 제압",
         "icon": "skill_icon_kungfufighter_0_6.png",
-        "main_info1": "Suppress the target for 3 sec",
+        "main_info1": "Suppress the target for 3 seg",
         "main_info2": null,
         "sub_info": "Suppressed target takes 10% chi damage whenever they are hit<br/>Decreased the move movement speed of the suppressed target by 40% for 12s",
         "consume_sp": "1",
@@ -1051,7 +1051,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1059,7 +1059,7 @@ var skill_data_KF = {
         "id": "21009",
         "name": "Suppress - 제압",
         "icon": "skill_icon_kungfufighter_0_6.png",
-        "main_info1": "Suppress the target for 4 sec",
+        "main_info1": "Suppress the target for 4 seg",
         "main_info2": null,
         "sub_info": "Suppressed target takes 10% chi damage whenever they are hit<br/>Decreased the move movement speed of the suppressed target by 40% for 12s",
         "consume_sp": "1",
@@ -1083,7 +1083,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1091,7 +1091,7 @@ var skill_data_KF = {
         "id": "21009",
         "name": "Suppress - 제압",
         "icon": "skill_icon_kungfufighter_0_6.png",
-        "main_info1": "Suppress the target for 3 sec",
+        "main_info1": "Suppress the target for 3 seg",
         "main_info2": null,
         "sub_info": "Heals whoever attacks the suppressed target 3% of their maximum health<br/>Whoever attacks the forced gripped target generates 10% of their maximum chi<br/>Suppressed target takes 10% chi damage whenever they are hit",
         "consume_sp": "1",
@@ -1115,7 +1115,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1123,7 +1123,7 @@ var skill_data_KF = {
         "id": "21009",
         "name": "Suppress - 제압",
         "icon": "skill_icon_kungfufighter_0_6.png",
-        "main_info1": "Suppress the target for 3 sec",
+        "main_info1": "Suppress the target for 3 seg",
         "main_info2": null,
         "sub_info": "Heals the user 3% of their maximum health whenever the suppressed target is hit<br/>Heals whoever attacks the suppressed target 3% of their maximum health<br/>Whoever attacks the forced gripped target generates 10% of their maximum chi<br/>Suppressed target takes 10% chi damage whenever they are hit",
         "consume_sp": "1",
@@ -1147,7 +1147,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -1155,9 +1155,9 @@ var skill_data_KF = {
         "id": "21009",
         "name": "Cold Surge - 한기파동",
         "icon": "skill_icon_kungfufighter_1_31.png",
-        "main_info1": "Gives Ice Flower that lasts for 3 sec",
+        "main_info1": "Gives Ice Flower that lasts for 3 seg",
         "main_info2": "Applies to the user and allies",
-        "sub_info": "Ice Flower negates the damage and locks the holder in Ice Prison for 3 sec on receiving an attack<br/>Freezes foes within 5m",
+        "sub_info": "Ice Flower negates the damage and locks the holder in Ice Prison for 3 seg on receiving an attack<br/>Freezes foes within 5m",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -1179,7 +1179,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1187,9 +1187,9 @@ var skill_data_KF = {
         "id": "21009",
         "name": "Cold Surge - 한기파동",
         "icon": "skill_icon_kungfufighter_1_31.png",
-        "main_info1": "Gives Ice Flower that lasts for 3 sec",
+        "main_info1": "Gives Ice Flower that lasts for 3 seg",
         "main_info2": "Applies to the user and allies",
-        "sub_info": "Removes charge ability disable<br/>Removes immobilizing effects on the user<br/>Ice Flower negates the damage and locks the holder in Ice Prison for 3 sec on receiving an attack<br/>Freezes foes within 5m",
+        "sub_info": "Removes charge ability disable<br/>Removes immobilizing effects on the user<br/>Ice Flower negates the damage and locks the holder in Ice Prison for 3 seg on receiving an attack<br/>Freezes foes within 5m",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -1211,7 +1211,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1219,9 +1219,9 @@ var skill_data_KF = {
         "id": "21009",
         "name": "Cold Surge - 한기파동",
         "icon": "skill_icon_kungfufighter_1_31.png",
-        "main_info1": "Gives Ice Flower that lasts for 3 sec",
+        "main_info1": "Gives Ice Flower that lasts for 3 seg",
         "main_info2": "Applies to the user and allies",
-        "sub_info": "Removes immobilizing effects on the user<br/>Removes charge ability disable<br/>Ice Flower negates the damage and locks the holder in Ice Prison for 3 sec on receiving an attack<br/>Heals the holder 5% of their maximum health on entering Ice Prison<br/>Freezes foes within 5m",
+        "sub_info": "Removes immobilizing effects on the user<br/>Removes charge ability disable<br/>Ice Flower negates the damage and locks the holder in Ice Prison for 3 seg on receiving an attack<br/>Heals the holder 5% of their maximum health on entering Ice Prison<br/>Freezes foes within 5m",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -1243,7 +1243,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -1275,7 +1275,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1.1 sec"
+                "value": "1.1 seg"
             }
         }
     },
@@ -1307,7 +1307,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -1339,7 +1339,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -1349,7 +1349,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_42.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 additional chi per target hit<br/>Generates 9 chi over 3 sec on critical hit",
+        "sub_info": "Generates 1 additional chi per target hit<br/>Generates 9 chi over 3 seg on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -1371,7 +1371,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -1381,7 +1381,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_42.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 additional chi per target hit<br/>Generates 9 chi over 3 sec on critical hit<br/>Heals the user 20% of the damage dealt",
+        "sub_info": "Generates 1 additional chi per target hit<br/>Generates 9 chi over 3 seg on critical hit<br/>Heals the user 20% of the damage dealt",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -1403,7 +1403,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -1499,7 +1499,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1531,7 +1531,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1563,7 +1563,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1573,7 +1573,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_49.png",
         "main_info1": "Deals 120~140 damage over 4 hits",
         "main_info2": "Charge to the target",
-        "sub_info": "Cooldown of Martial Dance is decreased by 1 sec on critical hit",
+        "sub_info": "Cooldown of Martial Dance is decreased by 1 seg on critical hit",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1595,7 +1595,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1627,7 +1627,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1659,7 +1659,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1691,7 +1691,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1700,7 +1700,7 @@ var skill_data_KF = {
         "name": "Martial Dance - 권무",
         "icon": "skill_icon_kungfufighter_0_49.png",
         "main_info1": "Deals 18~21 damage up to 4 foes",
-        "main_info2": "Dazes foes for 2 sec<br/>Charge to the target",
+        "main_info2": "Dazes foes for 2 seg<br/>Charge to the target",
         "sub_info": null,
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -1723,7 +1723,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1732,7 +1732,7 @@ var skill_data_KF = {
         "name": "Martial Dance - 권무",
         "icon": "skill_icon_kungfufighter_0_49.png",
         "main_info1": "Deals 18~21 damage up to 4 foes",
-        "main_info2": "Dazes foes for 2 sec<br/>Knocks dazed, stunned foes into the air<br/>Charge to the target",
+        "main_info2": "Dazes foes for 2 seg<br/>Knocks dazed, stunned foes into the air<br/>Charge to the target",
         "sub_info": null,
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -1755,7 +1755,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1787,7 +1787,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -1796,7 +1796,7 @@ var skill_data_KF = {
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes back 11m and knocks them down for 1 sec",
+        "main_info2": "Knocks foes back 11m and knocks them down for 1 seg",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1819,7 +1819,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1828,7 +1828,7 @@ var skill_data_KF = {
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes back 11m and knocks them down for 1 sec",
+        "main_info2": "Knocks foes back 11m and knocks them down for 1 seg",
         "sub_info": "Heals the user 10% of the damage dealt",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1851,7 +1851,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1860,7 +1860,7 @@ var skill_data_KF = {
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes back 11m and knocks them down for 1 sec",
+        "main_info2": "Knocks foes back 11m and knocks them down for 1 seg",
         "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1883,7 +1883,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1892,8 +1892,8 @@ var skill_data_KF = {
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes back 11m and knocks them down for 3 sec",
-        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>Disables charge abilities of foes for 8 sec<br/>Decreases the movement speed of foes by 30% for 8 sec<br/>Cures the user of Internal Bleeding",
+        "main_info2": "Knocks foes back 11m and knocks them down for 3 seg",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>Disables charge abilities of foes for 8 seg<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1915,7 +1915,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1924,8 +1924,8 @@ var skill_data_KF = {
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes back 11m and knocks them down for 3 sec",
-        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>User is invulnerable during use<br/>Generates 2 chi on resist<br/>Disables charge abilities of foes for 8 sec<br/>Decreases the movement speed of foes by 30% for 8 sec<br/>Cures the user of Internal Bleeding",
+        "main_info2": "Knocks foes back 11m and knocks them down for 3 seg",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>User is invulnerable during use<br/>Generates 2 chi on resist<br/>Disables charge abilities of foes for 8 seg<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1947,7 +1947,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -1956,8 +1956,8 @@ var skill_data_KF = {
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes back 24m and knocks them unconscious for 30 sec",
-        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>User is invulnerable during use<br/>Generates 2 chi on resist<br/>Disables charge abilities of foes for 8 sec<br/>Decreases the movement speed of foes by 30% for 8 sec<br/>Breaks defense<br/>Cures the user of Internal Bleeding",
+        "main_info2": "Knocks foes back 24m and knocks them unconscious for 30 seg",
+        "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>User is invulnerable during use<br/>Generates 2 chi on resist<br/>Disables charge abilities of foes for 8 seg<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Breaks defense<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1988,7 +1988,7 @@ var skill_data_KF = {
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Stuns foes for 1 sec",
+        "main_info2": "Stuns foes for 1 seg",
         "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -2011,7 +2011,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2020,7 +2020,7 @@ var skill_data_KF = {
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Stuns foes for 2 sec",
+        "main_info2": "Stuns foes for 2 seg",
         "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -2043,7 +2043,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2052,7 +2052,7 @@ var skill_data_KF = {
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Stuns foes for 2 sec<br/>Pulls foes",
+        "main_info2": "Stuns foes for 2 seg<br/>Pulls foes",
         "sub_info": "Heals the user 10% of the damage dealt<br/>Heals the user 10% of their maximum health<br/>Cures the user of Internal Bleeding<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -2075,7 +2075,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -2084,7 +2084,7 @@ var skill_data_KF = {
         "name": "Landslide - 산사태",
         "icon": "skill_icon_kungfufighter_0_25.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Stuns foes for 2 sec",
+        "main_info2": "Stuns foes for 2 seg",
         "sub_info": null,
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -2107,7 +2107,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2116,7 +2116,7 @@ var skill_data_KF = {
         "name": "Landslide - 산사태",
         "icon": "skill_icon_kungfufighter_0_25.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Stuns foes for 3 sec",
+        "main_info2": "Stuns foes for 3 seg",
         "sub_info": null,
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -2139,7 +2139,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2148,8 +2148,8 @@ var skill_data_KF = {
         "name": "Landslide - 산사태",
         "icon": "skill_icon_kungfufighter_0_25.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Stuns foes for 3 sec",
-        "sub_info": "Decreases the movement speed of foes by 40% for 8 sec",
+        "main_info2": "Stuns foes for 3 seg",
+        "sub_info": "Decreases the movement speed of foes by 40% for 8 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2171,7 +2171,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2180,8 +2180,8 @@ var skill_data_KF = {
         "name": "Landslide - 산사태",
         "icon": "skill_icon_kungfufighter_0_25.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Stuns foes for 3 sec<br/>Knocks dazed, stunned foes into the air",
-        "sub_info": "Decreases the movement speed of foes by 40% for 8 sec",
+        "main_info2": "Stuns foes for 3 seg<br/>Knocks dazed, stunned foes into the air",
+        "sub_info": "Decreases the movement speed of foes by 40% for 8 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2203,7 +2203,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2212,8 +2212,8 @@ var skill_data_KF = {
         "name": "Landslide - 산사태",
         "icon": "skill_icon_kungfufighter_0_25.png",
         "main_info1": "Deals 10~11 damage",
-        "main_info2": "Stuns foes for 3 sec<br/>Knocks dazed, stunned foes into the air",
-        "sub_info": "Decreases the movement speed of foes by 40% for 8 sec<br/>Creates a tremor, expanding the area of effect in squence",
+        "main_info2": "Stuns foes for 3 seg<br/>Knocks dazed, stunned foes into the air",
+        "sub_info": "Decreases the movement speed of foes by 40% for 8 seg<br/>Creates a tremor, expanding the area of effect in squence",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2235,7 +2235,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2244,7 +2244,7 @@ var skill_data_KF = {
         "name": "Landslide - 산사태",
         "icon": "skill_icon_kungfufighter_0_25.png",
         "main_info1": "Deals 19~22 damage to foes within the area",
-        "main_info2": "Creates a damaging area that lasts for 10 sec",
+        "main_info2": "Creates a damaging area that lasts for 10 seg",
         "sub_info": "Deals an additional 19~22 damage to downed, suppressed foes",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -2262,12 +2262,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1 sec"
+                "value": "1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2276,7 +2276,7 @@ var skill_data_KF = {
         "name": "Landslide - 산사태",
         "icon": "skill_icon_kungfufighter_0_25.png",
         "main_info1": "Deals 19~22 damage to foes within the area",
-        "main_info2": "Creates a damaging area that lasts for 10 sec",
+        "main_info2": "Creates a damaging area that lasts for 10 seg",
         "sub_info": "Deals an additional 19~22 damage to downed, suppressed foes<br/>Landslide can be instantly cast at no cost on using Air Slam",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -2294,12 +2294,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1 sec"
+                "value": "1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2308,7 +2308,7 @@ var skill_data_KF = {
         "name": "Landslide - 산사태",
         "icon": "skill_icon_kungfufighter_0_25.png",
         "main_info1": "Deals 19~22 damage to foes within the area",
-        "main_info2": "Creates a damaging area that lasts for 10 sec<br/>Pulls foes",
+        "main_info2": "Creates a damaging area that lasts for 10 seg<br/>Pulls foes",
         "sub_info": "Deals an additional 19~22 damage to downed, suppressed foes<br/>Landslide can be instantly cast at no cost on using Air Slam",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -2326,12 +2326,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1 sec"
+                "value": "1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2340,7 +2340,7 @@ var skill_data_KF = {
         "name": "Landslide - 산사태",
         "icon": "skill_icon_kungfufighter_0_25.png",
         "main_info1": "Deals 19~22 damage to foes within the area",
-        "main_info2": "Creates a damaging area that lasts for 10 sec<br/>Pulls foes",
+        "main_info2": "Creates a damaging area that lasts for 10 seg<br/>Pulls foes",
         "sub_info": "Deals an additional 19~22 damage to downed, suppressed foes<br/>Landslide can be instantly cast at no cost on using Air Slam<br/>Cooldown of Landslide is refreshed on kill",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -2358,12 +2358,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1 sec"
+                "value": "1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2372,7 +2372,7 @@ var skill_data_KF = {
         "name": "Landslide - 산사태",
         "icon": "skill_icon_kungfufighter_0_25.png",
         "main_info1": "Deals 19~22 damage to foes within the area",
-        "main_info2": "Creates a damaging area that lasts for 10 sec",
+        "main_info2": "Creates a damaging area that lasts for 10 seg",
         "sub_info": "Deals an additional 19~22 damage to downed, suppressed foes<br/>Landslide can be instantly cast at no cost on using Air Slam<br/>All attacks dealt while within the damaging area generates additional threat",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -2390,12 +2390,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1 sec"
+                "value": "1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2404,8 +2404,8 @@ var skill_data_KF = {
         "name": "Landslide - 산사태",
         "icon": "skill_icon_kungfufighter_0_25.png",
         "main_info1": "Deals 19~22 damage to foes within the area",
-        "main_info2": "Creates a damaging area that lasts for 10 sec",
-        "sub_info": "Deals an additional 19~22 damage to downed, suppressed foes<br/>Landslide can be instantly cast at no cost on using Air Slam<br/>Cooldown of Penetrate, Sidestep is decreased by 1 sec on critical hit<br/>All attacks dealt while within the damaging area generates additional threat",
+        "main_info2": "Creates a damaging area that lasts for 10 seg",
+        "sub_info": "Deals an additional 19~22 damage to downed, suppressed foes<br/>Landslide can be instantly cast at no cost on using Air Slam<br/>Cooldown of Penetrate, Sidestep is decreased by 1 seg on critical hit<br/>All attacks dealt while within the damaging area generates additional threat",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2422,12 +2422,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "1 sec"
+                "value": "1 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2435,9 +2435,9 @@ var skill_data_KF = {
         "id": "21060",
         "name": "Landslide - 산사태",
         "icon": "skill_icon_kungfufighter_0_25.png",
-        "main_info1": "Creates a healing area that lasts for 10 sec",
+        "main_info1": "Creates a healing area that lasts for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user and allies within the area 20% of their maximum health over 10 sec",
+        "sub_info": "Heals the user and allies within the area 20% of their maximum health over 10 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2459,7 +2459,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2467,9 +2467,9 @@ var skill_data_KF = {
         "id": "21060",
         "name": "Landslide - 산사태",
         "icon": "skill_icon_kungfufighter_0_25.png",
-        "main_info1": "Creates a healing area that lasts for 10 sec",
+        "main_info1": "Creates a healing area that lasts for 10 seg",
         "main_info2": null,
-        "sub_info": "Heals the user and allies within the area 20% of their maximum health over 10 sec<br/>Removes down, daze, stun, unconscious status from nearby allies",
+        "sub_info": "Heals the user and allies within the area 20% of their maximum health over 10 seg<br/>Removes down, daze, stun, unconscious status from nearby allies",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2491,7 +2491,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -2501,7 +2501,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_20.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Ignores defense",
+        "sub_info": "Ignora Defesa",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2533,7 +2533,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_20.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Ignores defense",
+        "sub_info": "Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2565,7 +2565,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_20.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Tiger Strike can be recast 1 more time regardless of requirements on critical hit<br/>Ignores defense",
+        "sub_info": "Tiger Strike can be recast 1 more time regardless of requirements on critical hit<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2597,7 +2597,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_20.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Causes foes to bleed (1 stack)<br/>Tiger Strike can be recast 1 more time regardless of requirements on critical hit<br/>Ignores defense",
+        "sub_info": "Causes foes to bleed (1 stack)<br/>Tiger Strike can be recast 1 more time regardless of requirements on critical hit<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2629,7 +2629,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_20.png",
         "main_info1": "Deals 42~49 damage",
         "main_info2": null,
-        "sub_info": "Causes foes to bleed (1 stack)<br/>Tiger Strike can be recast 2 more time regardless of requirements on critical hit<br/>Ignores defense",
+        "sub_info": "Causes foes to bleed (1 stack)<br/>Tiger Strike can be recast 2 more time regardless of requirements on critical hit<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2661,7 +2661,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_20.png",
         "main_info1": "Deals 180~210 damage",
         "main_info2": null,
-        "sub_info": "Ignores defense",
+        "sub_info": "Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2683,7 +2683,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2693,7 +2693,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_20.png",
         "main_info1": "Deals 180~210 damage",
         "main_info2": null,
-        "sub_info": "Refunds chi on critical hit<br/>Generates 10 chi over 10 sec on critical hit<br/>Ignores defense",
+        "sub_info": "Refunds chi on critical hit<br/>Generates 10 chi over 10 seg on critical hit<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2715,7 +2715,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2725,7 +2725,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_20.png",
         "main_info1": "Deals 180~210 damage",
         "main_info2": null,
-        "sub_info": "Refunds chi on critical hit<br/>Generates 10 chi over 10 sec on critical hit<br/>Ignores defense",
+        "sub_info": "Refunds chi on critical hit<br/>Generates 10 chi over 10 seg on critical hit<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2747,7 +2747,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -2779,7 +2779,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2811,7 +2811,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2843,7 +2843,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2875,7 +2875,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -2907,7 +2907,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2939,7 +2939,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -2971,7 +2971,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3003,7 +3003,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3012,7 +3012,7 @@ var skill_data_KF = {
         "name": "Air Suppression - 공중제압",
         "icon": "skill_icon_kungfufighter_0_47.png",
         "main_info1": "Deals 36~42 damage",
-        "main_info2": "Suppress the target for 3 sec",
+        "main_info2": "Suppress the target for 3 seg",
         "sub_info": "Ends the target's airborne status<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -3035,7 +3035,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -3044,7 +3044,7 @@ var skill_data_KF = {
         "name": "Low Sweep - 다리걸기",
         "icon": "skill_icon_kungfufighter_0_5.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes down for 2 sec",
+        "main_info2": "Knocks foes down for 2 seg",
         "sub_info": null,
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -3067,7 +3067,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3076,7 +3076,7 @@ var skill_data_KF = {
         "name": "Low Sweep - 다리걸기",
         "icon": "skill_icon_kungfufighter_0_5.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes down for 2 sec",
+        "main_info2": "Knocks foes down for 2 seg",
         "sub_info": null,
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -3099,7 +3099,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3108,7 +3108,7 @@ var skill_data_KF = {
         "name": "Low Sweep - 다리걸기",
         "icon": "skill_icon_kungfufighter_0_5.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes down for 3 sec",
+        "main_info2": "Knocks foes down for 3 seg",
         "sub_info": null,
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -3131,7 +3131,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3140,8 +3140,8 @@ var skill_data_KF = {
         "name": "Low Sweep - 다리걸기",
         "icon": "skill_icon_kungfufighter_0_5.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes down for 3 sec",
-        "sub_info": "Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 25% for 6 sec",
+        "main_info2": "Knocks foes down for 3 seg",
+        "sub_info": "Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 25% for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3163,7 +3163,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3172,8 +3172,8 @@ var skill_data_KF = {
         "name": "Low Sweep - 다리걸기",
         "icon": "skill_icon_kungfufighter_0_5.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes down for 3 sec",
-        "sub_info": "Cannot be deflected<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 25% for 6 sec",
+        "main_info2": "Knocks foes down for 3 seg",
+        "sub_info": "Cannot be deflected<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 25% for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3195,7 +3195,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3204,8 +3204,8 @@ var skill_data_KF = {
         "name": "Low Sweep - 다리걸기",
         "icon": "skill_icon_kungfufighter_0_5.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes down for 3 sec",
-        "sub_info": "Leg Sweep can be recast up to 2 times<br/>Cannot be deflected<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 25% for 6 sec",
+        "main_info2": "Knocks foes down for 3 seg",
+        "sub_info": "Leg Sweep can be recast up to 2 times<br/>Cannot be deflected<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 25% for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3227,7 +3227,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3237,7 +3237,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Move back 5m",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Used by double tapping [S]<br/>Gives the user Agility that lasts for 24 sec on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "User is invulnerable during use<br/>Used by double tapping [S]<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3259,7 +3259,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "8 sec"
+                "value": "8 seg"
             }
         }
     },
@@ -3269,7 +3269,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Move back 5m",
         "main_info2": null,
-        "sub_info": "Increases the movement speed of the user by 50% after use<br/>User is invulnerable during use<br/>Used by double tapping [S]<br/>Gives the user Agility that lasts for 24 sec on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Increases the movement speed of the user by 50% after use<br/>User is invulnerable during use<br/>Used by double tapping [S]<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3291,7 +3291,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -3301,7 +3301,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Move back 5m",
         "main_info2": null,
-        "sub_info": "Freezes nearby foes for 5 sec<br/>Increases the movement speed of the user by 50% after use<br/>User is invulnerable during use<br/>Used by double tapping [S]<br/>Gives the user Agility that lasts for 24 sec on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Freezes nearby foes for 5 seg<br/>Increases the movement speed of the user by 50% after use<br/>User is invulnerable during use<br/>Used by double tapping [S]<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3323,7 +3323,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -3333,7 +3333,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_2.png",
         "main_info1": "Move back 5m",
         "main_info2": null,
-        "sub_info": "Cooldown of Martial Dance is refreshed on resist<br/>Freezes nearby foes for 5 sec<br/>Increases the movement speed of the user by 50% after use<br/>User is invulnerable during use<br/>Used by double tapping [S]<br/>Gives the user Agility that lasts for 24 sec on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "Cooldown of Martial Dance is refreshed on resist<br/>Freezes nearby foes for 5 seg<br/>Increases the movement speed of the user by 50% after use<br/>User is invulnerable during use<br/>Used by double tapping [S]<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3355,7 +3355,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -3382,12 +3382,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3414,12 +3414,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3446,12 +3446,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3478,12 +3478,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3510,12 +3510,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3542,12 +3542,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -3556,7 +3556,7 @@ var skill_data_KF = {
         "name": "Crushing Fist - 붕권",
         "icon": "skill_icon_kungfufighter_0_21.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Dazes foes for 2 sec",
+        "main_info2": "Dazes foes for 2 seg",
         "sub_info": null,
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -3579,7 +3579,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -3588,7 +3588,7 @@ var skill_data_KF = {
         "name": "Crushing Fist - 붕권",
         "icon": "skill_icon_kungfufighter_0_21.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Dazes foes for 2 sec",
+        "main_info2": "Dazes foes for 2 seg",
         "sub_info": "Generates 3 additional chi on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -3611,7 +3611,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -3638,12 +3638,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3670,12 +3670,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3702,12 +3702,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.7 sec"
+                "value": "0.7 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -3734,7 +3734,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2 sec"
+                "value": "2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3766,7 +3766,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2 sec"
+                "value": "2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3798,7 +3798,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "2 sec"
+                "value": "2 seg"
             },
             "3": {
                 "name": "Cooldown",
@@ -3812,7 +3812,7 @@ var skill_data_KF = {
         "name": "Iron Mountain - 철산고",
         "icon": "skill_icon_kungfufighter_0_2.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes back 5m and dazes them for 2 sec",
+        "main_info2": "Knocks foes back 5m and dazes them for 2 seg",
         "sub_info": null,
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -3835,7 +3835,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -3844,7 +3844,7 @@ var skill_data_KF = {
         "name": "Iron Mountain - 철산고",
         "icon": "skill_icon_kungfufighter_0_2.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes back 5m and dazes them for 2 sec",
+        "main_info2": "Knocks foes back 5m and dazes them for 2 seg",
         "sub_info": null,
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -3867,7 +3867,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -3876,7 +3876,7 @@ var skill_data_KF = {
         "name": "Iron Mountain - 철산고",
         "icon": "skill_icon_kungfufighter_0_2.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes back 5m and dazes them for 3 sec",
+        "main_info2": "Knocks foes back 5m and dazes them for 3 seg",
         "sub_info": null,
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -3899,7 +3899,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -3908,7 +3908,7 @@ var skill_data_KF = {
         "name": "Iron Mountain - 철산고",
         "icon": "skill_icon_kungfufighter_0_2.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes back 5m and dazes them for 3 sec",
+        "main_info2": "Knocks foes back 5m and dazes them for 3 seg",
         "sub_info": "Refunds chi on critical hit",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -3931,7 +3931,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -3940,7 +3940,7 @@ var skill_data_KF = {
         "name": "Iron Mountain - 철산고",
         "icon": "skill_icon_kungfufighter_0_2.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes back 5m and dazes them for 3 sec",
+        "main_info2": "Knocks foes back 5m and dazes them for 3 seg",
         "sub_info": "Refunds chi on critical hit<br/>Heavy Blow is available regardless of cooldown on critical hit ",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -3963,7 +3963,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -3995,7 +3995,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4027,7 +4027,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4059,7 +4059,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4068,7 +4068,7 @@ var skill_data_KF = {
         "name": "Iron Mountain - 철산고",
         "icon": "skill_icon_kungfufighter_0_2.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes back 5m and knocks them down for 1 sec",
+        "main_info2": "Knocks foes back 5m and knocks them down for 1 seg",
         "sub_info": "Heals the user 20% of the damage dealt",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -4091,7 +4091,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4100,8 +4100,8 @@ var skill_data_KF = {
         "name": "Iron Mountain - 철산고",
         "icon": "skill_icon_kungfufighter_0_2.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes back 5m and knocks them down for 1 sec",
-        "sub_info": "Heals the user 20% of the damage dealt<br/>Heals the user 3% of their maximum health over 6 sec",
+        "main_info2": "Knocks foes back 5m and knocks them down for 1 seg",
+        "sub_info": "Heals the user 20% of the damage dealt<br/>Heals the user 3% of their maximum health over 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4123,7 +4123,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4132,8 +4132,8 @@ var skill_data_KF = {
         "name": "Iron Mountain - 철산고",
         "icon": "skill_icon_kungfufighter_0_2.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Knocks foes back 5m and knocks them down for 1 sec",
-        "sub_info": "Heals the user 20% of the damage dealt<br/>Heals the user 3% of their maximum health over 6 sec<br/>Heals the user 2% of their maximum health on critical hit",
+        "main_info2": "Knocks foes back 5m and knocks them down for 1 seg",
+        "sub_info": "Heals the user 20% of the damage dealt<br/>Heals the user 3% of their maximum health over 6 seg<br/>Heals the user 2% of their maximum health on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4155,7 +4155,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4325,7 +4325,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_41.png",
         "main_info1": "Deals 36~42 damage",
         "main_info2": null,
-        "sub_info": "Ignores defense<br/>Used at no cost on evade<br/>Refunds chi on critical hit",
+        "sub_info": "Ignora Defesa<br/>Used at no cost on evade<br/>Refunds chi on critical hit",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4580,7 +4580,7 @@ var skill_data_KF = {
         "name": "Triple Kick - 삼연각",
         "icon": "skill_icon_kungfufighter_0_16.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Stuns foes for 2 sec",
+        "main_info2": "Stuns foes for 2 seg",
         "sub_info": "Breaks defense",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -4603,7 +4603,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4612,8 +4612,8 @@ var skill_data_KF = {
         "name": "Triple Kick - 삼연각",
         "icon": "skill_icon_kungfufighter_0_16.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Stuns foes for 2 sec",
-        "sub_info": "Generates 6 chi over 3 sec<br/>Breaks defense",
+        "main_info2": "Stuns foes for 2 seg",
+        "sub_info": "Generates 6 chi over 3 seg<br/>Breaks defense",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4635,7 +4635,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4644,8 +4644,8 @@ var skill_data_KF = {
         "name": "Triple Kick - 삼연각",
         "icon": "skill_icon_kungfufighter_0_16.png",
         "main_info1": "Deals 18~21 damage",
-        "main_info2": "Stuns foes for 2 sec",
-        "sub_info": "Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 25% for 6 sec<br/>Generates 6 chi over 3 sec<br/>Breaks defense",
+        "main_info2": "Stuns foes for 2 seg",
+        "sub_info": "Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 25% for 6 seg<br/>Generates 6 chi over 3 seg<br/>Breaks defense",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4667,7 +4667,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -4677,7 +4677,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_46.png",
         "main_info1": "Deals 72~140 damage",
         "main_info2": null,
-        "sub_info": "Generates 6 chi over 3 sec<br/>Ignores defense",
+        "sub_info": "Generates 6 chi over 3 seg<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4699,7 +4699,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4709,7 +4709,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_46.png",
         "main_info1": "Deals 72~140 damage",
         "main_info2": null,
-        "sub_info": "Generates 5 chi on critical hit<br/>Generates 6 chi over 3 sec<br/>Ignores defense",
+        "sub_info": "Generates 5 chi on critical hit<br/>Generates 6 chi over 3 seg<br/>Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4731,7 +4731,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4740,8 +4740,8 @@ var skill_data_KF = {
         "name": "Flame Kick - 화염각",
         "icon": "skill_icon_kungfufighter_1_46.png",
         "main_info1": "Deals 72~140 damage",
-        "main_info2": "Stuns foes for 2 sec",
-        "sub_info": "Generates 6 chi over 3 sec<br/>Breaks defense",
+        "main_info2": "Stuns foes for 2 seg",
+        "sub_info": "Generates 6 chi over 3 seg<br/>Breaks defense",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4763,7 +4763,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4773,7 +4773,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_9.png",
         "main_info1": "Deals 60~70 damage",
         "main_info2": null,
-        "sub_info": "Disables defense abilities of foes for 10 sec",
+        "sub_info": "Disables defense abilities of foes for 10 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -4805,7 +4805,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_13.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Ignores defense",
+        "sub_info": "Ignora Defesa",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -4827,7 +4827,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4837,7 +4837,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_13.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Ignores defense<br/>Increases the movement speed of the user by 35% for 5 sec",
+        "sub_info": "Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -4859,7 +4859,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4869,7 +4869,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_13.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Ignores defense<br/>Increases the movement speed of the user by 35% for 5 sec",
+        "sub_info": "Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -4891,7 +4891,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4901,7 +4901,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_13.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Ignores defense<br/>Increases the movement speed of the user by 35% for 5 sec",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -4923,7 +4923,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4933,7 +4933,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_13.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": null,
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Ignores defense<br/>Increases the movement speed of the user by 35% for 5 sec<br/>User is invulnerable during use<br/>User is invulnerable for 1 sec after use",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg<br/>User is invulnerable during use<br/>User is invulnerable for 1 seg after use",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -4955,7 +4955,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -4965,7 +4965,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_13.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": "Knocks downed foes into the air",
-        "sub_info": "Ignores defense<br/>Increases the movement speed of the user by 35% for 5 sec",
+        "sub_info": "Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4987,7 +4987,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -4997,7 +4997,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_13.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": "Knocks downed foes into the air",
-        "sub_info": "Ignores defense<br/>Increases the movement speed of the user by 35% for 5 sec<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 50% for 6 sec",
+        "sub_info": "Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 50% for 6 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5019,7 +5019,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5029,7 +5029,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_13.png",
         "main_info1": "Deals 12~14 damage",
         "main_info2": "Knocks downed foes into the air",
-        "sub_info": "Ignores defense<br/>Increases the movement speed of the user by 35% for 5 sec<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of foes by 50% for 6 sec<br/>Rising Martial Dance is available on knocked up foes regardless of cooldown",
+        "sub_info": "Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 50% for 6 seg<br/>Rising Martial Dance is available on knocked up foes regardless of cooldown",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5051,7 +5051,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5083,7 +5083,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -5092,7 +5092,7 @@ var skill_data_KF = {
         "name": "Crushing Strike - 붕격",
         "icon": "skill_icon_kungfufighter_0_44.png",
         "main_info1": "Deals 42~49 damage",
-        "main_info2": "Knocks foes back 11m and knocks them down for 2 sec",
+        "main_info2": "Knocks foes back 11m and knocks them down for 2 seg",
         "sub_info": null,
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -5125,7 +5125,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_58.png",
         "main_info1": "Escape from downed status",
         "main_info2": "Deals 12~14 damage<br/>Knocks foes back 2m",
-        "sub_info": "User is downed for 1 sec on taking damage during use",
+        "sub_info": "User is downed for 1 seg on taking damage during use",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5147,7 +5147,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -5179,7 +5179,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -5187,8 +5187,8 @@ var skill_data_KF = {
         "id": "21134",
         "name": "Crescent Kick - 반달차기",
         "icon": "skill_icon_kungfufighter_0_57.png",
-        "main_info1": "Counters an attack for 1.5 sec",
-        "main_info2": "Deals 18~21 damage on counter<br/>Dazes the countered target for 2 sec on counter",
+        "main_info1": "Counters an attack for 1.5 seg",
+        "main_info2": "Deals 18~21 damage on counter<br/>Dazes the countered target for 2 seg on counter",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5211,7 +5211,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "12 sec"
+                "value": "12 seg"
             }
         }
     },
@@ -5219,7 +5219,7 @@ var skill_data_KF = {
         "id": "21136",
         "name": "Strangle - 조르기",
         "icon": "skill_icon_kungfufighter_0_53.png",
-        "main_info1": "Knocks the suppressed foe unconscious for 30 sec",
+        "main_info1": "Knocks the suppressed foe unconscious for 30 seg",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": "2",
@@ -5243,7 +5243,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -5275,7 +5275,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -5316,7 +5316,7 @@ var skill_data_KF = {
         "name": "Assail - 강습",
         "icon": "skill_icon_kungfufighter_0_10.png",
         "main_info1": "Deals 48~56 damage",
-        "main_info2": "Knocks nearby foes down for 2 sec",
+        "main_info2": "Knocks nearby foes down for 2 seg",
         "sub_info": null,
         "consume_sp": "3",
         "ui_sp_heal_value": null,
@@ -5371,7 +5371,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5380,7 +5380,7 @@ var skill_data_KF = {
         "name": "Revenge - 복수",
         "icon": "skill_icon_kungfufighter_0_43.png",
         "main_info1": "Deals 30~35 damage",
-        "main_info2": "Knocks foes down for 2 sec",
+        "main_info2": "Knocks foes down for 2 seg",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5435,7 +5435,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5444,7 +5444,7 @@ var skill_data_KF = {
         "name": "Flare Stomp - 열화각",
         "icon": "skill_icon_kungfufighter_1_45.png",
         "main_info1": "Deals 48~112 damage",
-        "main_info2": "Knocks downed foes into the air<br/>Knocks foes down for 3 sec",
+        "main_info2": "Knocks downed foes into the air<br/>Knocks foes down for 3 seg",
         "sub_info": null,
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -5467,7 +5467,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5476,7 +5476,7 @@ var skill_data_KF = {
         "name": "Flare Stomp - 열화각",
         "icon": "skill_icon_kungfufighter_1_45.png",
         "main_info1": "Deals 48~112 damage",
-        "main_info2": "Knocks downed foes into the air<br/>Knocks foes down for 3 sec",
+        "main_info2": "Knocks downed foes into the air<br/>Knocks foes down for 3 seg",
         "sub_info": "Rising Martial Dance is available on knocked up foes regardless of cooldown",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
@@ -5499,7 +5499,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -5531,7 +5531,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -5539,7 +5539,7 @@ var skill_data_KF = {
         "id": "21175",
         "name": "Kick - 발차기",
         "icon": "skill_icon_kungfufighter_1_14.png",
-        "main_info1": "Deals 24~28 damage",
+        "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -5563,7 +5563,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "1 sec"
+                "value": "1 seg"
             }
         }
     },
@@ -5595,7 +5595,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -5669,7 +5669,7 @@ var skill_data_KF = {
         "icon": "buff_debuff_icon_00_29.png",
         "main_info1": "Move to the target's left",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Generates 2 chi on resist<br/>Heals the user 1% of their maximum health over 2 sec on resist<br/>Gives the user Agility that lasts for 24 sec on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "User is invulnerable during use<br/>Generates 2 chi on resist<br/>Heals the user 1% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5686,12 +5686,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "16 sec"
+                "value": "16 seg"
             }
         }
     },
@@ -5701,7 +5701,7 @@ var skill_data_KF = {
         "icon": "buff_debuff_icon_00_29.png",
         "main_info1": "Move to the target's left",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 1% of their maximum health over 2 sec on resist<br/>Gives the user Agility that lasts for 24 sec on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 1% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5718,12 +5718,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "16 sec"
+                "value": "16 seg"
             }
         }
     },
@@ -5733,7 +5733,7 @@ var skill_data_KF = {
         "icon": "buff_debuff_icon_00_29.png",
         "main_info1": "Move to the target's left",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 sec on resist<br/>Gives the user Agility that lasts for 24 sec on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5750,12 +5750,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "16 sec"
+                "value": "16 seg"
             }
         }
     },
@@ -5765,7 +5765,7 @@ var skill_data_KF = {
         "icon": "buff_debuff_icon_00_29.png",
         "main_info1": "Move to the target's left",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 sec on resist<br/>Increases the movement speed of the user by 35% for 5 sec<br/>Gives the user Agility that lasts for 24 sec on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5782,12 +5782,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "16 sec"
+                "value": "16 seg"
             }
         }
     },
@@ -5797,7 +5797,7 @@ var skill_data_KF = {
         "icon": "buff_debuff_icon_00_29.png",
         "main_info1": "Move to the target's left",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 sec on resist<br/>Increases the movement speed of the user by 35% for 5 sec<br/>Cooldown of Advancing Step is refreshed on resist<br/>Gives the user Agility that lasts for 24 sec on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Cooldown of Advancing Step is refreshed on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5814,12 +5814,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "20 sec"
+                "value": "20 seg"
             }
         }
     },
@@ -5829,7 +5829,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_24.png",
         "main_info1": "Move to the target's right",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Generates 2 chi on resist<br/>Heals the user 1% of their maximum health over 2 sec on resist<br/>Gives the user Agility that lasts for 24 sec on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "User is invulnerable during use<br/>Generates 2 chi on resist<br/>Heals the user 1% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5846,12 +5846,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "16 sec"
+                "value": "16 seg"
             }
         }
     },
@@ -5861,7 +5861,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_24.png",
         "main_info1": "Move to the target's right",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 1% of their maximum health over 2 sec on resist<br/>Gives the user Agility that lasts for 24 sec on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 1% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5878,12 +5878,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "16 sec"
+                "value": "16 seg"
             }
         }
     },
@@ -5893,7 +5893,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_24.png",
         "main_info1": "Move to the target's right",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 sec on resist<br/>Gives the user Agility that lasts for 24 sec on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "User is invulnerable during use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5910,12 +5910,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "16 sec"
+                "value": "16 seg"
             }
         }
     },
@@ -5925,7 +5925,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_24.png",
         "main_info1": "Move to the target's right",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 sec on resist<br/>Increases the movement speed of the user by 35% for 5 sec<br/>Gives the user Agility that lasts for 24 sec on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5942,12 +5942,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "16 sec"
+                "value": "16 seg"
             }
         }
     },
@@ -5957,7 +5957,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_24.png",
         "main_info1": "Move to the target's right",
         "main_info2": null,
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 sec on resist<br/>Increases the movement speed of the user by 35% for 5 sec<br/>Increases the attack of the user by 10% per resist<br/>Gives the user Agility that lasts for 24 sec on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Generates 5 chi on resist<br/>Heals the user 2% of their maximum health over 2 seg on resist<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Increases the attack of the user by 10% per resist<br/>Gives the user Agility that lasts for 24 seg on resist<br/>Agility increases the movement speed, evade of the user by 5%<br/>User is Awakened at 3 Agility stacks<br/>Awakened increases the evade chance of the user by 100%<br/>Awakened increases the movement speed of the user by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5974,12 +5974,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "0.2 sec"
+                "value": "0.2 seg"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "20 sec"
+                "value": "20 seg"
             }
         }
     },
@@ -5989,7 +5989,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escape from downed, unconscious status",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6011,7 +6011,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6021,7 +6021,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6043,7 +6043,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6053,7 +6053,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6075,7 +6075,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6085,7 +6085,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6107,7 +6107,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6117,7 +6117,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 sec after use<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 1 seg after use<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6139,7 +6139,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6149,7 +6149,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6171,7 +6171,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6181,7 +6181,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of the target by 30% for 6 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of the target by 30% for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6203,7 +6203,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6213,7 +6213,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 sec<br/>Decreases the movement speed of the target by 30% for 6 sec<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 sec",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of the target by 30% for 6 seg<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6235,7 +6235,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6244,8 +6244,8 @@ var skill_data_KF = {
         "name": "Escape - 탈출",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Dazes foes for 2 sec<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -6267,7 +6267,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6276,8 +6276,8 @@ var skill_data_KF = {
         "name": "Escape - 탈출",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Dazes foes for 2 sec<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability",
+        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -6299,7 +6299,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6308,8 +6308,8 @@ var skill_data_KF = {
         "name": "Escape - 탈출",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
-        "main_info2": "Dazes foes for 2 sec<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 sec after use<br/>Invunlerability ends on using another ability<br/>Deals 50% chi damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Deals 50% chi damage",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
@@ -6331,7 +6331,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6363,7 +6363,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -6395,7 +6395,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "9 sec"
+                "value": "9 seg"
             }
         }
     },
@@ -6404,7 +6404,7 @@ var skill_data_KF = {
         "name": "Advancing Fist - 진격권",
         "icon": "skill_icon_kungfufighter_1_43.png",
         "main_info1": "Deals 36~42 damage",
-        "main_info2": "Knocks foes down for 2 sec<br/>Charge to the target",
+        "main_info2": "Knocks foes down for 2 seg<br/>Charge to the target",
         "sub_info": "Pressure Point is available on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
@@ -6427,7 +6427,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -6436,8 +6436,8 @@ var skill_data_KF = {
         "name": "Advancing Fist - 진격권",
         "icon": "skill_icon_kungfufighter_1_43.png",
         "main_info1": "Deals 36~42 damage",
-        "main_info2": "Knocks foes down for 2 sec<br/>Charge to the target",
-        "sub_info": "Pressure Point is available on critical hit<br/>Disables defense abilities of foes for 6 sec",
+        "main_info2": "Knocks foes down for 2 seg<br/>Charge to the target",
+        "sub_info": "Pressure Point is available on critical hit<br/>Disables defense abilities of foes for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -6459,7 +6459,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "30 sec"
+                "value": "30 seg"
             }
         }
     },
@@ -6491,7 +6491,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6523,7 +6523,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6555,7 +6555,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "18 sec"
+                "value": "18 seg"
             }
         }
     },
@@ -6587,7 +6587,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "24 sec"
+                "value": "24 seg"
             }
         }
     },
@@ -6619,7 +6619,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -6627,7 +6627,7 @@ var skill_data_KF = {
         "id": "21285",
         "name": "Flying Kick - 날아차기",
         "icon": "skill_icon_kungfufighter_0_48.png",
-        "main_info1": "Stuns foes for 2 sec",
+        "main_info1": "Stuns foes for 2 seg",
         "main_info2": "Deals 12~14 damage",
         "sub_info": null,
         "consume_sp": "1",
@@ -6651,7 +6651,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -6660,7 +6660,7 @@ var skill_data_KF = {
         "name": "Blaze Kick - 비염각",
         "icon": "skill_icon_kungfufighter_1_13.png",
         "main_info1": "Deals 12~14 damage",
-        "main_info2": "Knocks foes down for 2 sec",
+        "main_info2": "Knocks foes down for 2 seg",
         "sub_info": "Cannot be deflected<br/>Ignores charge ability disable",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
@@ -6683,7 +6683,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "6 sec"
+                "value": "6 seg"
             }
         }
     },
@@ -6788,8 +6788,8 @@ var skill_data_KF = {
         "name": "Pressure Point - 점혈",
         "icon": "buff_debuff_icon_01_38.png",
         "main_info1": "Deals 48~56 damage",
-        "main_info2": "Applies Pressure Point that lasts for 10 sec",
-        "sub_info": "Ignores defense<br/>Pressure Point decreases the movement speed of the target by 10%<br/>Gives the user Unleashed Flow that lasts for 10 sec<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow generates 10 chi",
+        "main_info2": "Applies Pressure Point that lasts for 10 seg",
+        "sub_info": "Ignora Defesa<br/>Pressure Point decreases the movement speed of the target by 10%<br/>Gives the user Unleashed Flow that lasts for 10 seg<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow generates 10 chi",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6811,7 +6811,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6820,8 +6820,8 @@ var skill_data_KF = {
         "name": "Pressure Point - 점혈",
         "icon": "buff_debuff_icon_01_38.png",
         "main_info1": "Deals 48~56 damage",
-        "main_info2": "Applies Pressure Point that lasts for 10 sec",
-        "sub_info": "Ignores defense<br/>Pressure Point decreases the movement speed of the target by 10%<br/>Gives the user Unleashed Flow that lasts for 10 sec<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow generates 10 chi",
+        "main_info2": "Applies Pressure Point that lasts for 10 seg",
+        "sub_info": "Ignora Defesa<br/>Pressure Point decreases the movement speed of the target by 10%<br/>Gives the user Unleashed Flow that lasts for 10 seg<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow generates 10 chi",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6843,7 +6843,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -6852,8 +6852,8 @@ var skill_data_KF = {
         "name": "Pressure Point - 점혈",
         "icon": "buff_debuff_icon_01_38.png",
         "main_info1": "Deals 48~56 damage",
-        "main_info2": "Applies Pressure Point that lasts for 10 sec",
-        "sub_info": "Ignores defense<br/>Pressure Point decreases the movement speed of the target by 10%<br/>Whoever attacks the target with Pressure Point gains Vigor for 3 sec<br/>Vigor increases the critical hit damage of the holder by 1%. Stacks up to 10 times<br/>Gives the user Unleashed Flow that lasts for 10 sec<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow generates 10 chi",
+        "main_info2": "Applies Pressure Point that lasts for 10 seg",
+        "sub_info": "Ignora Defesa<br/>Pressure Point decreases the movement speed of the target by 10%<br/>Whoever attacks the target with Pressure Point gains Vigor for 3 seg<br/>Vigor increases the critical hit damage of the holder by 1%. Stacks up to 10 times<br/>Gives the user Unleashed Flow that lasts for 10 seg<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow generates 10 chi",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6875,7 +6875,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "45 sec"
+                "value": "45 seg"
             }
         }
     },
@@ -6884,8 +6884,8 @@ var skill_data_KF = {
         "name": "Pressure Point - 점혈",
         "icon": "buff_debuff_icon_01_38.png",
         "main_info1": "Deals 48~56 damage",
-        "main_info2": "Applies Pressure Point that lasts for 10 sec",
-        "sub_info": "Ignores defense<br/>Pressure Point can be stacked up to stage 4<br/>Damage is multiplied by 2/3/4 per Pressure Point stack on the target<br/>Pressure Point decreases the movement speed of the target by 10%<br/>Whoever attacks the target with Pressure Point gains Vigor for 3 sec<br/>Vigor increases the critical hit damage of the holder by 1%. Stacks up to 10 times<br/>Gives the user Unleashed Flow that lasts for 10 sec<br/>Unleashed Flow increases the critical of the user by 10/20/30/50% per stage<br/>Unleashed Flow increases the critical hit chance of the user by 100% at stage 4<br/>Unleashed Flow generates 10 chi",
+        "main_info2": "Applies Pressure Point that lasts for 10 seg",
+        "sub_info": "Ignora Defesa<br/>Pressure Point can be stacked up to stage 4<br/>Damage is multiplied by 2/3/4 per Pressure Point stack on the target<br/>Pressure Point decreases the movement speed of the target by 10%<br/>Whoever attacks the target with Pressure Point gains Vigor for 3 seg<br/>Vigor increases the critical hit damage of the holder by 1%. Stacks up to 10 times<br/>Gives the user Unleashed Flow that lasts for 10 seg<br/>Unleashed Flow increases the critical of the user by 10/20/30/50% per stage<br/>Unleashed Flow increases the critical hit chance of the user by 100% at stage 4<br/>Unleashed Flow generates 10 chi",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6916,8 +6916,8 @@ var skill_data_KF = {
         "name": "Pressure Point - 점혈",
         "icon": "buff_debuff_icon_01_38.png",
         "main_info1": "Deals 48~56 damage",
-        "main_info2": "Applies Pressure Point that lasts for 10 sec",
-        "sub_info": "Ignores defense<br/>Pressure Point decreases the movement speed of the target by 30%<br/>Stuns foes with Pressure Point for 2 sec after they are hit 5 times. Removes their Pressure Point<br/>Knocks foes with Pressure Point down for 3 sec at the end of its effect<br/>Gives the user Unleashed Flow that lasts for 10 sec<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow generates 10 chi<br/>Unleashed Flow increases the movement speed of the user by 15%",
+        "main_info2": "Applies Pressure Point that lasts for 10 seg",
+        "sub_info": "Ignora Defesa<br/>Pressure Point decreases the movement speed of the target by 30%<br/>Stuns foes with Pressure Point for 2 seg after they are hit 5 times. Removes their Pressure Point<br/>Knocks foes with Pressure Point down for 3 seg at the end of its effect<br/>Gives the user Unleashed Flow that lasts for 10 seg<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow generates 10 chi<br/>Unleashed Flow increases the movement speed of the user by 15%",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6939,7 +6939,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "36 sec"
+                "value": "36 seg"
             }
         }
     },
@@ -6948,8 +6948,8 @@ var skill_data_KF = {
         "name": "Awakened Pressure Point - 각성 점혈",
         "icon": "skill_icon_kungfufighter_1_47.png",
         "main_info1": "Deals 240~280 damage",
-        "main_info2": "Applies Pressure Point that lasts for 10 sec<br/>Available while Spiritualized",
-        "sub_info": "Ignores defense<br/>Pressure Point decreases the movement speed of the target by 10%<br/>Instantly applies stage 4 Pressure Point on hit<br/>Whoever attacks the target with Pressure Point gains Vigor for 3 sec<br/>Vigor increases the critical hit damage of the holder by 1%. Stacks up to 10 times<br/>Gives the user Unleashed Flow that lasts for 10 sec<br/>Unleashed Flow increases the critical, critical hit chance of the user by 50%, 100% respectively<br/>Unleashed Flow generates 10 chi<br/>Duration of Pressure Point is refreshed on hit<br/>Does not generate threat",
+        "main_info2": "Applies Pressure Point that lasts for 10 seg<br/>Disponível enquanto Espiritualizado",
+        "sub_info": "Ignora Defesa<br/>Pressure Point decreases the movement speed of the target by 10%<br/>Instantly applies stage 4 Pressure Point on hit<br/>Whoever attacks the target with Pressure Point gains Vigor for 3 seg<br/>Vigor increases the critical hit damage of the holder by 1%. Stacks up to 10 times<br/>Gives the user Unleashed Flow that lasts for 10 seg<br/>Unleashed Flow increases the critical, critical hit chance of the user by 50%, 100% respectively<br/>Unleashed Flow generates 10 chi<br/>Duration of Pressure Point is refreshed on hit<br/>Não gera ameaça",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
