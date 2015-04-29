@@ -2881,9 +2881,9 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundSupport_Lv1": {
         "id": "28230",
-        "name": "Circle of Purification - 항마진",
+        "name": "Círculo de Purificação",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down for 6 seg",
+        "main_info1": "Usuário fica Imune à queda por 6 seg",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": "2",
@@ -2913,11 +2913,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundSupport_Lv11": {
         "id": "28230",
-        "name": "Circle of Purification - 항마진",
+        "name": "Círculo de Purificação",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down for 6 seg",
+        "main_info1": "Usuário fica Imune à queda por 6 seg",
         "main_info2": null,
-        "sub_info": "User and allies within the area takes 20% less damage for 6 seg",
+        "sub_info": "Usuáro e Aliados que estiverem na Área recebem 20% a menos de Dano",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2945,11 +2945,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundSupport_Lv21": {
         "id": "28230",
-        "name": "Circle of Purification - 항마진",
+        "name": "Círculo de Purificação",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down for 6 seg",
+        "main_info1": "Usuário fica Imune à queda por 6 seg",
         "main_info2": null,
-        "sub_info": "Heals the user and allies within the area 9% of their maximum health over 6 seg<br/>User and allies within the area takes 20% less damage for 6 seg",
+        "sub_info": "Regenera o Usuário e Aliados que estiverem na Área em 9% do HP Máximo em 6 seg<br/>Usuáro e Aliados que estiverem na Área recebem 20% a menos de Dano",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2977,11 +2977,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundSupport_Lv22": {
         "id": "28230",
-        "name": "Circle of Purification - 항마진",
+        "name": "Círculo de Purificação",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down, daze for 6 seg",
+        "main_info1": "Usário fica Imune à queda, atordoamento por 6 seg",
         "main_info2": null,
-        "sub_info": "User and allies within the area takes 20% less damage for 6 seg",
+        "sub_info": "Usuáro e Aliados que estiverem na Área recebem 20% a menos de Dano",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3009,11 +3009,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundSupport_Lv24": {
         "id": "28230",
-        "name": "Circle of Purification - 항마진",
+        "name": "Círculo de Purificação",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "Creates an anti-target area that lasts for 6 seg",
+        "main_info1": "Cria uma área de Anti-Alvo que dura 6 seg",
         "main_info2": null,
-        "sub_info": "Applies to foes within the area<br/>User and allies within the area can be targeted from the outside",
+        "sub_info": "Aplica aos Inimigos Dentro da Área<br/>Usuário e Aliados podem ser alvo de inimigos fora da Área",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3041,11 +3041,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundSupport_Lv31": {
         "id": "28230",
-        "name": "Circle of Purification - 항마진",
+        "name": "Círculo de Purificação",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down for 6 seg",
+        "main_info1": "Usuário fica Imune à queda por 6 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable for 0.5 seg<br/>Heals the user and allies within the area 9% of their maximum health over 6 seg<br/>User and allies within the area takes 20% less damage for 6 seg",
+        "sub_info": "Usuário é Invulnerável por 0.5 seg<br/>Regenera o Usuário e Aliados que estiverem na Área em 9% do HP Máximo em 6 seg<br/>Usuáro e Aliados que estiverem na Área recebem 20% a menos de Dano",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3073,11 +3073,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundSupport_Lv32": {
         "id": "28230",
-        "name": "Circle of Purification - 항마진",
+        "name": "Círculo de Purificação",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down, daze, stun for 6 seg",
+        "main_info1": "Usuário fica Imune à Queda, Atordoamento e Tonteira por 6 seg",
         "main_info2": null,
-        "sub_info": "User and allies within the area takes 20% less damage for 6 seg",
+        "sub_info": "Usuáro e Aliados que estiverem na Área recebem 20% a menos de Dano",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3105,11 +3105,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundSupport_Lv34": {
         "id": "28230",
-        "name": "Circle of Purification - 항마진",
+        "name": "Círculo de Purificação",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "Creates an anti-target area that lasts for 6 seg",
+        "main_info1": "Cria uma área de Anti-Alvo que dura 6 seg",
         "main_info2": null,
-        "sub_info": "User and allies within the area cannot be auto targeted<br/>User and allies within the area cannot be targeted from the outside",
+        "sub_info": "Usuário e Aliados que estiverem dentro da Área não podem ser mirados automaricamente<br/>Usuário e Aliados que estiverem dentro da Área não podem ser mirados de fora da área",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3137,11 +3137,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundSupport_Lv42": {
         "id": "28230",
-        "name": "Circle of Purification - 항마진",
+        "name": "Círculo de Purificação",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down, daze, stun for 6 seg",
+        "main_info1": "Usuário fica Imune à Queda, Atordoamento e Tonteira por 6 seg",
         "main_info2": null,
-        "sub_info": "User and allies within the area takes 20% less damage for 6 seg",
+        "sub_info": "Usuáro e Aliados que estiverem na Área recebem 20% a menos de Dano",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3169,11 +3169,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundSupport_Lv43": {
         "id": "28230",
-        "name": "Circle of Purification - 항마진",
+        "name": "Círculo de Purificação",
         "icon": "skill_icon_warlock_0_35.png",
-        "main_info1": "User is immune to down, daze, stun for 6 seg",
+        "main_info1": "Usuário fica Imune à Queda, Atordoamento e Tonteira por 6 seg",
         "main_info2": null,
-        "sub_info": "Increases soul defense by 10%<br/>User and allies within the area takes 20% less damage for 6 seg",
+        "sub_info": "Aumenta a defesa da Alma em 10%<br/>Usuáro e Aliados que estiverem na Área recebem 20% a menos de Dano",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3201,11 +3201,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundSupport_Lv51": {
         "id": "28230",
-        "name": "Circle of Purification - 항마진",
+        "name": "Círculo de Purificação",
         "icon": "skill_icon_warlock_0_35.png",
         "main_info1": "User is immune to down for 10 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable for 0.5 seg<br/>Heals the user and allies within the area 15% of their maximum health over 10 seg<br/>Heals the user an additional 3% of their maximum health on block, counter, resist within the area<br/>User and allies within the area takes 20% less damage for 10 seg",
+        "sub_info": "Usuário é Invulnerável por 0.5 seg<br/>Heals the user and allies within the area 15% of their maximum health over 10 seg<br/>Heals the user an additional 3% of their maximum health on block, counter, resist within the area<br/>User and allies within the area takes 20% less damage for 10 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3233,7 +3233,7 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundSupport_Lv52": {
         "id": "28230",
-        "name": "Circle of Purification - 항마진",
+        "name": "Círculo de Purificação",
         "icon": "skill_icon_warlock_0_35.png",
         "main_info1": "User is immune to down, daze, stun for 10 seg",
         "main_info2": null,
@@ -3265,11 +3265,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundSupport_Lv53": {
         "id": "28230",
-        "name": "Circle of Purification - 항마진",
+        "name": "Círculo de Purificação",
         "icon": "skill_icon_warlock_0_35.png",
         "main_info1": "User is immune to down, daze, stun for 10 seg",
         "main_info2": null,
-        "sub_info": "Increases soul defense by 10%<br/>User and allies within the area takes 20% less damage for 10 seg<br/>Creates a barrier around allies within the area equivalent to 5% of their maximum health every 2 seg",
+        "sub_info": "Aumenta a defesa da Alma em 10%<br/>User and allies within the area takes 20% less damage for 10 seg<br/>Creates a barrier around allies within the area equivalent to 5% of their maximum health every 2 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3297,11 +3297,11 @@ var skill_data_WL = {
     },
     "Warlock_Spell_GroundSupport_Lv54": {
         "id": "28230",
-        "name": "Circle of Purification - 항마진",
+        "name": "Círculo de Purificação",
         "icon": "skill_icon_warlock_0_35.png",
         "main_info1": "Creates an anti-target area that lasts for 10 seg",
         "main_info2": null,
-        "sub_info": "User and allies within the area cannot be auto targeted<br/>User and allies within the area cannot be targeted from the outside",
+        "sub_info": "Usuário e Aliados que estiverem dentro da Área não podem ser mirados automaricamente<br/>Usuário e Aliados que estiverem dentro da Área não podem ser mirados de fora da área",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3525,7 +3525,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Move back 10m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Escape from downed, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Escape from downed, unconscious status<br/>User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3557,7 +3557,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Move back 10m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3589,7 +3589,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Move back 10m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Escape from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Escape from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3621,7 +3621,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Move back 10m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Escape from suppressed, seized, force gripped status<br/>Regenera o Usuário em 5% do HP Máximo on escaping from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Escape from suppressed, seized, force gripped status<br/>Regenera o Usuário em 5% do HP Máximo on escaping from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3653,7 +3653,7 @@ var skill_data_WL = {
         "icon": "skill_icon_warlock_0_16.png",
         "main_info1": "Move back 10m",
         "main_info2": "Aplica BRAND ao inimigo por 4 seg",
-        "sub_info": "Creates a barrier around the user equivalent to 10% of health<br/>Escape from suppressed, seized, force gripped status<br/>Regenera o Usuário em 5% do HP Máximo on escaping from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "Creates a barrier around the user equivalent to 10% of health<br/>Escape from suppressed, seized, force gripped status<br/>Regenera o Usuário em 5% do HP Máximo on escaping from suppressed, seized, force gripped status<br/>Escape from downed, dazed, stunned, unconscious status<br/>User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {

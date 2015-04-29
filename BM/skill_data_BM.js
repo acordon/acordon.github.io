@@ -44,7 +44,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -76,7 +76,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -108,7 +108,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -140,7 +140,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -172,7 +172,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -305,7 +305,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -337,7 +337,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -369,7 +369,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -401,7 +401,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -433,7 +433,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -460,7 +460,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -492,7 +492,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -524,7 +524,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -556,7 +556,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -593,7 +593,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -625,7 +625,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -657,7 +657,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -689,7 +689,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -721,7 +721,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -753,7 +753,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -785,7 +785,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -812,7 +812,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -844,7 +844,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -881,7 +881,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -913,7 +913,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -945,7 +945,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -977,7 +977,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1009,7 +1009,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1041,7 +1041,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1073,7 +1073,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1105,7 +1105,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1132,12 +1132,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1164,12 +1164,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1196,7 +1196,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1228,7 +1228,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1260,7 +1260,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1292,12 +1292,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1324,12 +1324,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1356,12 +1356,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1388,12 +1388,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1420,12 +1420,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1452,12 +1452,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1484,12 +1484,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1516,7 +1516,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1548,7 +1548,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1580,7 +1580,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1612,7 +1612,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1644,7 +1644,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1676,7 +1676,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1708,7 +1708,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -1841,7 +1841,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1873,7 +1873,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1905,7 +1905,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1937,7 +1937,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -1969,7 +1969,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2053,14 +2053,14 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, unconscious status",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2085,14 +2085,14 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2117,14 +2117,14 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2149,14 +2149,14 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Escape from suppressed, seized, force gripped status<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
+        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Heals the user 5% of their maximum health on escaping from suppressed, seized, force gripped status",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2188,7 +2188,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2213,14 +2213,14 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2245,14 +2245,14 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg",
+        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2277,14 +2277,14 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 seg",
+        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2309,14 +2309,14 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2341,14 +2341,14 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability",
+        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2373,14 +2373,14 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escape from downed, dazed, stunned, unconscious status",
         "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
-        "sub_info": "User is invulnerable during use<br/>User is invulnerable for 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Deals 50% chi damage",
+        "sub_info": "User is invulnerable during use<br/>Usuário é Invulnerável por 0.5 seg after use<br/>Invunlerability ends on using another ability<br/>Deals 50% chi damage",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
         "skill_info": {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -2417,7 +2417,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2449,7 +2449,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2481,7 +2481,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2513,7 +2513,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2545,7 +2545,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2673,7 +2673,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2705,7 +2705,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2737,7 +2737,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2769,7 +2769,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2801,7 +2801,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2833,7 +2833,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2865,7 +2865,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2897,7 +2897,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2929,7 +2929,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2961,7 +2961,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -2993,7 +2993,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3025,7 +3025,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3057,7 +3057,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3089,7 +3089,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3121,7 +3121,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3153,7 +3153,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3185,7 +3185,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3217,7 +3217,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3249,7 +3249,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3281,7 +3281,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3313,7 +3313,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3345,7 +3345,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3372,7 +3372,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3409,7 +3409,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3436,12 +3436,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3468,12 +3468,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3532,12 +3532,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3564,7 +3564,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3596,7 +3596,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3628,7 +3628,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3660,7 +3660,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3692,7 +3692,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3724,7 +3724,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3756,7 +3756,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3788,7 +3788,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3825,7 +3825,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3857,7 +3857,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3889,7 +3889,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3921,7 +3921,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -3948,7 +3948,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -3980,7 +3980,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4017,7 +4017,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4049,7 +4049,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4113,7 +4113,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4145,7 +4145,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4172,7 +4172,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4204,7 +4204,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4236,7 +4236,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4268,7 +4268,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4300,7 +4300,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4332,7 +4332,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4364,7 +4364,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4396,7 +4396,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4428,7 +4428,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4460,12 +4460,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4492,12 +4492,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4524,12 +4524,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4556,7 +4556,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4588,7 +4588,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4620,7 +4620,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4652,7 +4652,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4684,7 +4684,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4716,7 +4716,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4785,7 +4785,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4817,7 +4817,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4849,7 +4849,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4876,7 +4876,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -4913,7 +4913,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4945,7 +4945,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -4977,7 +4977,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5009,7 +5009,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5041,7 +5041,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5073,7 +5073,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5100,7 +5100,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5132,7 +5132,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5164,7 +5164,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5196,7 +5196,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5228,7 +5228,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5265,7 +5265,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5297,7 +5297,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5329,7 +5329,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5361,7 +5361,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5393,7 +5393,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5425,7 +5425,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5457,7 +5457,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5489,7 +5489,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5521,7 +5521,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5553,7 +5553,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5585,7 +5585,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5617,7 +5617,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5649,7 +5649,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5676,7 +5676,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5708,7 +5708,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5740,7 +5740,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5772,7 +5772,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5804,7 +5804,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5836,7 +5836,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5868,7 +5868,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5900,7 +5900,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5932,7 +5932,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -5969,7 +5969,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -5996,7 +5996,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -6289,7 +6289,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -6321,7 +6321,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -6353,7 +6353,7 @@ var skill_data_BM = {
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
@@ -6380,7 +6380,7 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
@@ -6412,12 +6412,12 @@ var skill_data_BM = {
             "0": {
                 "name": "Range",
                 "type": "meter",
-                "value": "From User"
+                "value": "Usuário"
             },
             "1": {
                 "name": "Area",
                 "type": "range_0",
-                "value": "Target"
+                "value": "Alvo"
             },
             "2": {
                 "name": "Cast Time",
