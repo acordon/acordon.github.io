@@ -24,8 +24,8 @@ var category_data_AS = {
     "25000": {
         "skill_id": "25000",
         "tree_id": "25000",
-        "name2_refine": "Mist Slash",
-        "name2_refine_en": "Mist Slash",
+        "name2_refine": "Corte Nebuloso",
+        "name2_refine_en": "Corte Nebuloso",
         "pc_level": "1",
         "pc_mastery_level": null,
         "complete_quest": "237",
