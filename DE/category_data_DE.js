@@ -153,7 +153,7 @@ var category_data_DE = {
             "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_destroyer_1_41.png\' class=\'icon_in_description\' /> On critical hit with Destroy  "
+        "tooltip_condition_refine": "<img src=\'../img/skill/skill_icon_destroyer_1_41.png\' class=\'icon_in_description\' /> Ao Criticar com Destruir "
     },
     "24040": {
         "skill_id": "24040",
