@@ -3835,7 +3835,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_6.png",
         "main_info1": "Espirito Investi no Inimigo",
         "main_info2": null,
-        "sub_info": "Causa Dano de 24~28 <br/>Increased charge speed",
+        "sub_info": "Causa Dano de 24~28 <br/>Aumenta a velocidade da Investida",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3867,7 +3867,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_6.png",
         "main_info1": "Espirito Investi no Inimigo",
         "main_info2": null,
-        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 24~28 <br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
+        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 24~28 <br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Aumenta a velocidade da Investida",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3899,7 +3899,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_6.png",
         "main_info1": "Espirito Investi no Inimigo",
         "main_info2": null,
-        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 24~28 <br/>Decreases the movement speed of foes by 20%<br/>Disables charge abilities of foes for 8 seg<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
+        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 24~28 <br/>Decreases the movement speed of foes by 20%<br/>Disables charge abilities of foes for 8 seg<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Aumenta a velocidade da Investida",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3931,7 +3931,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_6.png",
         "main_info1": "Espirito Investi no Inimigo",
         "main_info2": null,
-        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 24~28 <br/>Ignora Defesa<br/>Stuns defending foes for 2 seg<br/>Decreases the movement speed of foes by 20%<br/>Disables charge abilities of foes for 8 seg<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
+        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 24~28 <br/>Ignora Defesa<br/>Stuns defending foes for 2 seg<br/>Decreases the movement speed of foes by 20%<br/>Disables charge abilities of foes for 8 seg<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Aumenta a velocidade da Investida",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3963,7 +3963,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_42.png",
         "main_info1": "Familiar charges to multiple foes",
         "main_info2": null,
-        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 12~14 up to 5 foes<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
+        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 12~14 up to 5 foes<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Aumenta a velocidade da Investida",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3995,7 +3995,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_42.png",
         "main_info1": "Familiar charges to multiple foes",
         "main_info2": null,
-        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 12~14 up to 5 foes<br/>Dash can be recast up to 2 times<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
+        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 12~14 up to 5 foes<br/>Dash can be recast up to 2 times<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Aumenta a velocidade da Investida",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4027,7 +4027,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_42.png",
         "main_info1": "Espirito Investi no Inimigo",
         "main_info2": "Deals 60~70 damage over 5 hits",
-        "sub_info": "Stuns foes for 2 seg on hitting them 2 times<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
+        "sub_info": "Tonteia o Inimigo por 2 seg on hitting them 2 times<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Aumenta a velocidade da Investida",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4059,7 +4059,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_42.png",
         "main_info1": "Espirito Investi no Inimigo",
         "main_info2": "Deals 60~70 damage over 5 hits",
-        "sub_info": "Stuns foes for 2 seg on hitting them 2 times<br/>Extends the duration of the stunned status of foes up to 2 seg per hit<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
+        "sub_info": "Tonteia o Inimigo por 2 seg on hitting them 2 times<br/>Extends the duration of the stunned status of foes up to 2 seg per hit<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Aumenta a velocidade da Investida",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {

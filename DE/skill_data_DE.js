@@ -1523,9 +1523,9 @@ var skill_data_DE = {
         "id": "24050",
         "name": "Collide - 격돌",
         "icon": "skill_icon_destroyer_0_13.png",
-        "main_info1": "Stuns foes for 2 seg",
+        "main_info1": "Tonteia o Inimigo por 2 seg",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Investi em direção ao Alvo<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1555,9 +1555,9 @@ var skill_data_DE = {
         "id": "24050",
         "name": "Collide - 격돌",
         "icon": "skill_icon_destroyer_0_13.png",
-        "main_info1": "Stuns foes for 2 seg",
+        "main_info1": "Tonteia o Inimigo por 2 seg",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Aumenta a velocidade da Investida<br/>Investi em direção ao Alvo<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1587,9 +1587,9 @@ var skill_data_DE = {
         "id": "24050",
         "name": "Collide - 격돌",
         "icon": "skill_icon_destroyer_0_13.png",
-        "main_info1": "Stuns foes for 2 seg",
+        "main_info1": "Tonteia o Inimigo por 2 seg",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Aumenta a velocidade da Investida<br/>Investi em direção ao Alvo<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1619,9 +1619,9 @@ var skill_data_DE = {
         "id": "24050",
         "name": "Collide - 격돌",
         "icon": "skill_icon_destroyer_0_13.png",
-        "main_info1": "Stuns foes for 2 seg",
+        "main_info1": "Tonteia o Inimigo por 2 seg",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Decreases the movement speed of foes by 30%<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Aumenta a velocidade da Investida<br/>Investi em direção ao Alvo<br/>Decreases the movement speed of foes by 30%<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1651,9 +1651,9 @@ var skill_data_DE = {
         "id": "24050",
         "name": "Collide - 격돌",
         "icon": "skill_icon_destroyer_0_13.png",
-        "main_info1": "Stuns foes for 2 seg",
+        "main_info1": "Tonteia o Inimigo por 2 seg",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Deflects attacks while charging<br/>Generates 50% chi on deflect<br/>Increased charge speed<br/>Charge to the target<br/>Decreases the movement speed of foes by 30%<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Deflects attacks while charging<br/>Generates 50% chi on deflect<br/>Aumenta a velocidade da Investida<br/>Investi em direção ao Alvo<br/>Decreases the movement speed of foes by 30%<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1683,9 +1683,9 @@ var skill_data_DE = {
         "id": "24050",
         "name": "Collide - 격돌",
         "icon": "skill_icon_destroyer_0_13.png",
-        "main_info1": "Stuns foes for 2 seg",
+        "main_info1": "Tonteia o Inimigo por 2 seg",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Usuário fica invulnerável durante o uso<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Usuário fica invulnerável durante o uso<br/>Aumenta a velocidade da Investida<br/>Investi em direção ao Alvo<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1715,9 +1715,9 @@ var skill_data_DE = {
         "id": "24050",
         "name": "Collide - 격돌",
         "icon": "skill_icon_destroyer_0_13.png",
-        "main_info1": "Stuns foes for 2 seg",
+        "main_info1": "Tonteia o Inimigo por 2 seg",
         "main_info2": "Deals 2~3 damage",
-        "sub_info": "Usuário fica invulnerável por 1 seg após o uso<br/>Usuário fica invulnerável durante o uso<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Usuário fica invulnerável por 1 seg após o uso<br/>Usuário fica invulnerável durante o uso<br/>Aumenta a velocidade da Investida<br/>Investi em direção ao Alvo<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "30",
         "skill_info": {
@@ -1749,7 +1749,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Aumenta a velocidade da Investida<br/>Investi em direção ao Alvo<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1781,7 +1781,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Generates 60% chi over 6 seg on hitting dazed, stunned, seized, force gripped foes<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Generates 60% chi over 6 seg on hitting dazed, stunned, seized, force gripped foes<br/>Aumenta a velocidade da Investida<br/>Investi em direção ao Alvo<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1813,7 +1813,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Collide can be recast up to 2 times on critical hit<br/>Generates 60% chi over 6 seg on hitting dazed, stunned, seized, force gripped foes<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Collide can be recast up to 2 times on critical hit<br/>Generates 60% chi over 6 seg on hitting dazed, stunned, seized, force gripped foes<br/>Aumenta a velocidade da Investida<br/>Investi em direção ao Alvo<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -1845,7 +1845,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_13.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Collide can be recast up to 2 times on critical hit<br/>Generates 60% chi over 6 seg on hitting dazed, stunned, seized, force gripped foes<br/>Increased charge speed<br/>Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Collide can be recast up to 2 times on critical hit<br/>Generates 60% chi over 6 seg on hitting dazed, stunned, seized, force gripped foes<br/>Aumenta a velocidade da Investida<br/>Investi em direção ao Alvo<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -2229,7 +2229,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_7.png",
         "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": "Deals 6~7 damage",
-        "sub_info": "Stuns foes for 2 seg<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg<br/>Cannot be deflected",
+        "sub_info": "Tonteia o Inimigo por 2 seg<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3571,7 +3571,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_60.png",
         "main_info1": "Causa Dano de 54~63",
         "main_info2": "Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
-        "sub_info": "Charge to the target",
+        "sub_info": "Investi em direção ao Alvo",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3603,7 +3603,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_60.png",
         "main_info1": "Causa Dano de 144~168",
         "main_info2": "Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
-        "sub_info": "Charge to the target",
+        "sub_info": "Investi em direção ao Alvo",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3635,7 +3635,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_60.png",
         "main_info1": "Causa Dano de 144~168",
         "main_info2": "Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
-        "sub_info": "Cooldown of Annihilate is refreshed on kill<br/>Annihilate can be recast up to 2 times on critical hit to dazed, stunned, seized, force gripped foes<br/>Charge to the target",
+        "sub_info": "Cooldown of Annihilate is refreshed on kill<br/>Annihilate can be recast up to 2 times on critical hit to dazed, stunned, seized, force gripped foes<br/>Investi em direção ao Alvo",
         "consume_sp": "20",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3891,7 +3891,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_4.png",
         "main_info1": "Seize the target for 6 seg",
         "main_info2": null,
-        "sub_info": "Charge to the target<br/>Decreases the defense of the seized target by 10% whenever they are hit<br/>Defense reduction stacks up to 5 times<br/>Seized target takes 10% chi damage whenever they are hit<br/>Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes",
+        "sub_info": "Investi em direção ao Alvo<br/>Decreases the defense of the seized target by 10% whenever they are hit<br/>Defense reduction stacks up to 5 times<br/>Seized target takes 10% chi damage whenever they are hit<br/>Blocks attacks from the front during use<br/>Does not block attacks while seizing large foes",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4339,7 +4339,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_59.png",
         "main_info1": "Dazes foes for 3 seg",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Generates 30% chi on critical hit<br/>Charge to the target<br/>Maximum speed Destroy is available on hit",
+        "sub_info": "Generates 30% chi on critical hit<br/>Investi em direção ao Alvo<br/>Maximum speed Destroy is available on hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4373,7 +4373,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_1_32.png",
 		"main_info1": "Lança o Inimigo ao Ar",
 		"main_info2": "Deals 60~70 damage",
-		"sub_info": "Charge to the target",
+		"sub_info": "Investi em direção ao Alvo",
 		"consume_sp": "20",
 		"ui_sp_heal_value": null,
 		"skill_info": 
@@ -4411,7 +4411,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_1_32.png",
 		"main_info1": "Lança o Inimigo ao Ar",
 		"main_info2": "Deals 60~70 damage",
-		"sub_info": "Charge to the target",
+		"sub_info": "Investi em direção ao Alvo",
 		"consume_sp": "10",
 		"ui_sp_heal_value": null,
 		"skill_info": 
@@ -4449,7 +4449,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_1_32.png",
 		"main_info1": "Lança o Inimigo ao Ar",
 		"main_info2": "Deals 60~70 damage",
-		"sub_info": "Ignores charge ability disable<br/>Charge to the target",
+		"sub_info": "Ignores charge ability disable<br/>Investi em direção ao Alvo",
 		"consume_sp": "10",
 		"ui_sp_heal_value": null,
 		"skill_info": 
@@ -4487,7 +4487,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_1_32.png",
 		"main_info1": "Lança o Inimigo ao Ar",
 		"main_info2": "Deals 60~70 damage",
-		"sub_info": "Ignores charge ability disable<br/>Charge to the target<br/>Ignora Defesa",
+		"sub_info": "Ignores charge ability disable<br/>Investi em direção ao Alvo<br/>Ignora Defesa",
 		"consume_sp": "10",
 		"ui_sp_heal_value": null,
 		"skill_info": 
@@ -4525,7 +4525,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_1_32.png",
 		"main_info1": "Deals 108~126 damage",
 		"main_info2": null,
-		"sub_info": "Charge to the target",
+		"sub_info": "Investi em direção ao Alvo",
 		"consume_sp": "10",
 		"ui_sp_heal_value": null,
 		"skill_info": 
@@ -4563,7 +4563,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_1_32.png",
 		"main_info1": "Deals 108~126 damage",
 		"main_info2": null,
-		"sub_info": "Charge to the target<br/>Generates 30% chi on critical hit",
+		"sub_info": "Investi em direção ao Alvo<br/>Generates 30% chi on critical hit",
 		"consume_sp": "10",
 		"ui_sp_heal_value": null,
 		"skill_info": 
@@ -4601,7 +4601,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_1_32.png",
 		"main_info1": "Deals 108~126 damage",
 		"main_info2": null,
-		"sub_info": "Charge to the target<br/>Generates 120% chi over 5 seg on critical hit",
+		"sub_info": "Investi em direção ao Alvo<br/>Generates 120% chi over 5 seg on critical hit",
 		"consume_sp": "10",
 		"ui_sp_heal_value": null,
 		"skill_info": 
@@ -5788,9 +5788,9 @@ var skill_data_DE = {
         "id": "24180",
         "name": "Earthquake - 지진",
         "icon": "skill_icon_destroyer_0_5.png",
-        "main_info1": "Stuns foes for 2 seg",
+        "main_info1": "Tonteia o Inimigo por 2 seg",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Charge to the target<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Investi em direção ao Alvo<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -5820,9 +5820,9 @@ var skill_data_DE = {
         "id": "24180",
         "name": "Earthquake - 지진",
         "icon": "skill_icon_destroyer_0_5.png",
-        "main_info1": "Stuns foes for 2 seg",
+        "main_info1": "Tonteia o Inimigo por 2 seg",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Charge to the target<br/>Ignora Defesa when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Investi em direção ao Alvo<br/>Ignora Defesa when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -5854,7 +5854,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Stuns foes for 3 seg",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Charge to the target<br/>Ignora Defesa when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Investi em direção ao Alvo<br/>Ignora Defesa when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -5886,7 +5886,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Stuns foes for 3 seg",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Charge to the target<br/>Decreases the movement speed of foes by 40%<br/>Ignora Defesa when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Investi em direção ao Alvo<br/>Decreases the movement speed of foes by 40%<br/>Ignora Defesa when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -5918,7 +5918,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Stuns foes for 3 seg",
         "main_info2": "Deals 4~4 damage",
-        "sub_info": "Charge to the target<br/>Decreases the movement speed of foes by 40%<br/>Ignora Defesa when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
+        "sub_info": "Investi em direção ao Alvo<br/>Decreases the movement speed of foes by 40%<br/>Ignora Defesa when used while dashing, dash-jumping, gliding<br/>Extends the duration of the downed, dazed, stunned status of foes up to 2 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -5950,7 +5950,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Pulls nearby foes",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Charge to the target<br/>Cannot be deflected<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
+        "sub_info": "Investi em direção ao Alvo<br/>Cannot be deflected<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -5982,7 +5982,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Pulls nearby foes",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Charge to the target<br/>Cannot be deflected<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
+        "sub_info": "Investi em direção ao Alvo<br/>Cannot be deflected<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6014,7 +6014,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Pulls nearby foes",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Charge to the target<br/>Earthquake can be recast up to 2 times on critical hit<br/>Cannot be deflected<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
+        "sub_info": "Investi em direção ao Alvo<br/>Earthquake can be recast up to 2 times on critical hit<br/>Cannot be deflected<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6046,7 +6046,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Usuário fica invulnerável durante o uso",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Charge to the target<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
+        "sub_info": "Investi em direção ao Alvo<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6078,7 +6078,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Usuário fica invulnerável durante o uso",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Heals the user 50% of the damage dealt per target hit<br/>Generates 20% chi per target hit<br/>Charge to the target<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
+        "sub_info": "Heals the user 50% of the damage dealt per target hit<br/>Generates 20% chi per target hit<br/>Investi em direção ao Alvo<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "20",
         "skill_info": {
@@ -6110,7 +6110,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Usuário fica invulnerável durante o uso",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Cooldown of Iron Wall is decreased by 15 seg on resist<br/>Heals the user 50% of the damage dealt per target hit<br/>Generates 20% chi per target hit<br/>Charge to the target<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
+        "sub_info": "Cooldown of Iron Wall is decreased by 15 seg on resist<br/>Heals the user 50% of the damage dealt per target hit<br/>Generates 20% chi per target hit<br/>Investi em direção ao Alvo<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "20",
         "skill_info": {
