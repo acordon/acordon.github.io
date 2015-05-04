@@ -2875,7 +2875,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2907,7 +2907,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2939,7 +2939,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2971,7 +2971,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3003,7 +3003,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>Cooldown of Hornet is refreshed on counter<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>Cooldown of Hornet is refreshed on counter<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3035,7 +3035,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>Creates a barrier around the user equivalent to 25% of the user's maximum health during use<br/>Barrier disappears on counter<br/>Barrier removed on using another ability<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>Creates a barrier around the user equivalent to 25% of the user's maximum health during use<br/>Barrier disappears on counter<br/>Barrier removed on using another ability<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3067,7 +3067,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>Gives Dandelion effect to nearby allies<br/>Heals the user 1% of their maximum health per protected ally<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>Gives Dandelion effect to nearby allies<br/>Heals the user 1% of their maximum health per protected ally<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3099,7 +3099,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>Gives Dandelion effect to nearby allies<br/>Heals the user 1% of their maximum health per protected ally<br/>User is immune to daze, stun, knock back while stealthed<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>Gives Dandelion effect to nearby allies<br/>Heals the user 1% of their maximum health per protected ally<br/>User is immune to daze, stun, knock back while stealthed<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3131,7 +3131,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>Heals the user 4% of their maximum health on counter<br/>Gives Dandelion effect to nearby allies<br/>Heals allies 4% of their maximum health on resist<br/>Heals the user 1% of their maximum health per protected ally<br/>User is immune to daze, stun, knock back while stealthed<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>Heals the user 4% of their maximum health on counter<br/>Gives Dandelion effect to nearby allies<br/>Heals allies 4% of their maximum health on resist<br/>Heals the user 1% of their maximum health per protected ally<br/>User is immune to daze, stun, knock back while stealthed<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
