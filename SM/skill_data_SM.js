@@ -35,7 +35,7 @@ var skill_data_SM = {
         "id": "27100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_swordmaster_1_1.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Generates 1 chi per target hit",
         "consume_sp": null,
@@ -54,12 +54,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -67,7 +67,7 @@ var skill_data_SM = {
         "id": "27100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_swordmaster_1_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
         "sub_info": "Generates 1 chi per target hit",
         "consume_sp": null,
@@ -86,12 +86,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -99,7 +99,7 @@ var skill_data_SM = {
         "id": "27100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_swordmaster_1_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
         "sub_info": "Generates 1 chi per target hit<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
         "consume_sp": null,
@@ -118,12 +118,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -131,9 +131,9 @@ var skill_data_SM = {
         "id": "27100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_swordmaster_1_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per target hit<br/>Generates 1 additional chi on critical hit<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
+        "sub_info": "Generates 1 chi per target hit<br/>Gera 1 Chi Adicional ao Críticar<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -150,12 +150,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -163,9 +163,9 @@ var skill_data_SM = {
         "id": "27100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_swordmaster_1_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per target hit<br/>Generates chi even when blocked, countered, deflected<br/>Generates 1 additional chi on critical hit<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
+        "sub_info": "Generates 1 chi per target hit<br/>Generates chi even when blocked, countered, deflected<br/>Gera 1 Chi Adicional ao Críticar<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -182,12 +182,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -195,9 +195,9 @@ var skill_data_SM = {
         "id": "27100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_swordmaster_1_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per target hit<br/>Causes foes to bleed (1 stack)<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
+        "sub_info": "Generates 1 chi per target hit<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -214,12 +214,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -227,9 +227,9 @@ var skill_data_SM = {
         "id": "27100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_swordmaster_1_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Maximum speed Sunder is available on critical hit<br/>Causes foes to bleed (1 stack)<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit<br/>Generates 1 chi per target hit",
+        "sub_info": "Maximum speed Sunder is available on critical hit<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit<br/>Generates 1 chi per target hit",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -246,12 +246,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -259,9 +259,9 @@ var skill_data_SM = {
         "id": "27100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_swordmaster_1_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of the damage dealt<br/>Generates 1 chi per target hit",
+        "sub_info": "Cura o Usuário em 5% do Dano Causado<br/>Generates 1 chi per target hit",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -278,12 +278,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -291,9 +291,9 @@ var skill_data_SM = {
         "id": "27100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_swordmaster_1_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of the damage dealt<br/>Generates 1 chi per target hit<br/>Generates 1 chi on block during use<br/>Increases the block of the user by 20% during use",
+        "sub_info": "Cura o Usuário em 5% do Dano Causado<br/>Generates 1 chi per target hit<br/>Generates 1 chi on block during use<br/>Increases the block of the user by 20% during use",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -310,12 +310,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -323,9 +323,9 @@ var skill_data_SM = {
         "id": "27100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_swordmaster_1_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of the damage dealt<br/>Heals the user 2% of their maximum health over 5 seg on critical hit<br/>Generates 1 chi per target hit<br/>Generates 1 chi on block during use<br/>Increases the block of the user by 20% during use",
+        "sub_info": "Cura o Usuário em 5% do Dano Causado<br/>Heals the user 2% of their maximum health over 5 seg on critical hit<br/>Generates 1 chi per target hit<br/>Generates 1 chi on block during use<br/>Increases the block of the user by 20% during use",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -342,12 +342,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -374,7 +374,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -387,7 +387,7 @@ var skill_data_SM = {
         "id": "27103",
         "name": "Pinwheel - 바람개비",
         "icon": "skill_icon_swordmaster_0_3.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "User is immune to daze, stun, knock back during use<br/>Remove Efeitos de Imobilizar<br/>Increased number of spins<br/>Mobile during use<br/>Offensive defense ability",
         "consume_sp": "2",
@@ -406,7 +406,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -438,7 +438,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -470,7 +470,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -502,7 +502,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -515,7 +515,7 @@ var skill_data_SM = {
         "id": "27103",
         "name": "Pinwheel - 바람개비",
         "icon": "skill_icon_swordmaster_0_3.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Increases the movement speed of the user by 60% during use<br/>User is immune to daze, stun, knock back during use<br/>Remove Efeitos de Imobilizar<br/>Increased number of spins<br/>Mobile during use<br/>Offensive defense ability",
         "consume_sp": "2",
@@ -534,7 +534,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -547,7 +547,7 @@ var skill_data_SM = {
         "id": "27103",
         "name": "Pinwheel - 바람개비",
         "icon": "skill_icon_swordmaster_0_3.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Increases the defense of the user by 400% during use<br/>Increases the movement speed of the user by 60% during use<br/>User takes 25% less damage for the first attack received<br/>User is immune to daze, stun, knock back during use<br/>Remove Efeitos de Imobilizar<br/>Increased number of spins<br/>Mobile during use<br/>Offensive defense ability",
         "consume_sp": "2",
@@ -566,7 +566,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -579,7 +579,7 @@ var skill_data_SM = {
         "id": "27103",
         "name": "Pinwheel - 바람개비",
         "icon": "skill_icon_swordmaster_0_3.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Cyclone is available during use<br/>Cyclone gives the user invulnerability for 1.5 seg<br/>Increases the defense of the user by 400% during use<br/>Increases the movement speed of the user by 60% during use<br/>User takes 25% less damage for the first attack received<br/>User is immune to daze, stun, knock back during use<br/>Remove Efeitos de Imobilizar<br/>Increased number of spins<br/>Mobile during use<br/>Offensive defense ability",
         "consume_sp": "2",
@@ -598,7 +598,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -611,7 +611,7 @@ var skill_data_SM = {
         "id": "27103",
         "name": "Pinwheel - 바람개비",
         "icon": "skill_icon_swordmaster_0_3.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Deflects an attack for 0.5 seg",
         "sub_info": "Generates 3 chi on deflect<br/>User is immune to daze, stun, knock back during use<br/>Remove Efeitos de Imobilizar<br/>Increased number of spins<br/>Mobile during use<br/>Offensive defense ability",
         "consume_sp": "2",
@@ -630,7 +630,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -643,7 +643,7 @@ var skill_data_SM = {
         "id": "27103",
         "name": "Pinwheel - 바람개비",
         "icon": "skill_icon_swordmaster_0_3.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Deflects multiple attacks for 0.5 seg",
         "sub_info": "Generates 3 chi on deflect<br/>User is immune to daze, stun, knock back during use<br/>Remove Efeitos de Imobilizar<br/>Increased number of spins<br/>Mobile during use<br/>Offensive defense ability",
         "consume_sp": "2",
@@ -662,7 +662,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -675,7 +675,7 @@ var skill_data_SM = {
         "id": "27103",
         "name": "Pinwheel - 바람개비",
         "icon": "skill_icon_swordmaster_0_3.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Deflects multiple attacks for 0.5 seg",
         "sub_info": "Cooldown of Upward Slash is refreshed on deflect<br/>Generates 3 chi on deflect<br/>User is immune to daze, stun, knock back during use<br/>Remove Efeitos de Imobilizar<br/>Increased number of spins<br/>Mobile during use<br/>Offensive defense ability",
         "consume_sp": "2",
@@ -694,7 +694,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -726,12 +726,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -739,7 +739,7 @@ var skill_data_SM = {
         "id": "27104",
         "name": "Sunder - 가르기",
         "icon": "skill_icon_swordmaster_0_1.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Skill speed accelerates on recast<br/>Maximum speed on using Counterattack",
         "consume_sp": "2",
@@ -758,12 +758,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -771,7 +771,7 @@ var skill_data_SM = {
         "id": "27104",
         "name": "Sunder - 가르기",
         "icon": "skill_icon_swordmaster_0_1.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Skill speed accelerates on recast<br/>Maximum speed on using Counterattack",
         "consume_sp": "2",
@@ -790,12 +790,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -803,7 +803,7 @@ var skill_data_SM = {
         "id": "27104",
         "name": "Sunder - 가르기",
         "icon": "skill_icon_swordmaster_0_1.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Lightning Sunder is available on critical hit<br/>Lightning Sunder deals 42~49 damage<br/>Skill speed accelerates on recast<br/>Maximum speed on using Counterattack",
         "consume_sp": "2",
@@ -822,12 +822,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -835,7 +835,7 @@ var skill_data_SM = {
         "id": "27104",
         "name": "Sunder - 가르기",
         "icon": "skill_icon_swordmaster_0_1.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Ignora Defesa<br/>Lightning Sunder is available on critical hit<br/>Lightning Sunder deals 42~49 damage<br/>Skill speed accelerates on recast<br/>Maximum speed on using Counterattack",
         "consume_sp": "2",
@@ -854,12 +854,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -886,12 +886,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -901,7 +901,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_1.png",
         "main_info1": "Causa dano de 42~49",
         "main_info2": null,
-        "sub_info": "Skill speed accelerates on recast<br/>Maximum speed on using Counterattack<br/>Causes foes to bleed (1 stack)",
+        "sub_info": "Skill speed accelerates on recast<br/>Maximum speed on using Counterattack<br/>Causa Sangramento ao Inimigo (1 acúmulo)",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -918,12 +918,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -933,7 +933,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_0_1.png",
         "main_info1": "Causa dano de 42~49",
         "main_info2": null,
-        "sub_info": "Skill speed accelerates on recast<br/>Maximum speed on using Counterattack<br/>Maximum speed on using Charge<br/>Lightning Sunder is used instead at maximum speed<br/>Lightning Sunder deals 48~56 damage<br/>Causes foes to bleed (1 stack)",
+        "sub_info": "Skill speed accelerates on recast<br/>Maximum speed on using Counterattack<br/>Maximum speed on using Charge<br/>Lightning Sunder is used instead at maximum speed<br/>Lightning Sunder Causa Dano de 48~56<br/>Causa Sangramento ao Inimigo (1 acúmulo)",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -950,12 +950,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -963,7 +963,7 @@ var skill_data_SM = {
         "id": "27104",
         "name": "Sunder - 가르기",
         "icon": "skill_icon_swordmaster_0_1.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Cura o Usuario em 10% do Dano causado<br/>Skill speed accelerates on recast<br/>Maximum speed on using Counterattack",
         "consume_sp": "2",
@@ -982,12 +982,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -995,7 +995,7 @@ var skill_data_SM = {
         "id": "27104",
         "name": "Sunder - 가르기",
         "icon": "skill_icon_swordmaster_0_1.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Cura o Usuario em 10% do Dano causado<br/>Heals the user additional 30% of the damage dealt to dazed, stunned foes<br/>Skill speed accelerates on recast<br/>Maximum speed on using Counterattack",
         "consume_sp": "2",
@@ -1014,12 +1014,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1028,7 +1028,7 @@ var skill_data_SM = {
         "name": "Kick - 발차기",
         "icon": "skill_icon_swordmaster_1_35.png",
         "main_info1": "Knocks foes down for 2 seg",
-        "main_info2": "Deals 16~18 damage",
+        "main_info2": "Causa Dano de 16~18",
         "sub_info": null,
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -1046,7 +1046,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1060,7 +1060,7 @@ var skill_data_SM = {
         "name": "Kick - 발차기",
         "icon": "skill_icon_swordmaster_1_35.png",
         "main_info1": "Knocks foes down for 3 seg",
-        "main_info2": "Deals 16~18 damage",
+        "main_info2": "Causa Dano de 16~18",
         "sub_info": null,
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -1078,7 +1078,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1092,7 +1092,7 @@ var skill_data_SM = {
         "name": "Kick - 발차기",
         "icon": "skill_icon_swordmaster_1_35.png",
         "main_info1": "Knocks foes down for 3 seg",
-        "main_info2": "Deals 16~18 damage",
+        "main_info2": "Causa Dano de 16~18",
         "sub_info": "Knocks stunned foes unconscious for 30 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -1110,7 +1110,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1124,7 +1124,7 @@ var skill_data_SM = {
         "name": "Kick - 발차기",
         "icon": "skill_icon_swordmaster_1_35.png",
         "main_info1": "Knocks foes down for 3 seg",
-        "main_info2": "Deals 16~18 damage",
+        "main_info2": "Causa Dano de 16~18",
         "sub_info": "Knocks stunned foes unconscious for 30 seg<br/>Decreases block, evade of foes by 50% for 5 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -1142,7 +1142,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1156,7 +1156,7 @@ var skill_data_SM = {
         "name": "Kick - 발차기",
         "icon": "skill_icon_swordmaster_1_35.png",
         "main_info1": "Knocks foes down for 3 seg",
-        "main_info2": "Deals 16~18 damage<br/>Charge to the target to use Kick",
+        "main_info2": "Causa Dano de 16~18<br/>Charge to the target to use Kick",
         "sub_info": "Knocks stunned foes unconscious for 30 seg<br/>Decreases block, evade of foes by 50% for 5 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -1174,7 +1174,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1206,7 +1206,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1238,7 +1238,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1270,12 +1270,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1302,12 +1302,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1334,12 +1334,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1366,7 +1366,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1398,7 +1398,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1430,7 +1430,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1462,7 +1462,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1494,7 +1494,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1526,7 +1526,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1558,7 +1558,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1590,7 +1590,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1622,7 +1622,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1654,7 +1654,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1686,7 +1686,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1718,7 +1718,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1750,7 +1750,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1782,7 +1782,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1814,7 +1814,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1846,7 +1846,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1878,7 +1878,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1910,7 +1910,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1923,9 +1923,9 @@ var skill_data_SM = {
         "id": "27113",
         "name": "Earth Sunder - 대지가르기",
         "icon": "skill_icon_blademaster_1_12.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
-        "sub_info": "Creates a damaging area that lasts for 5 seg<br/>Deals 36~42 damage to foes within the area over 5 seg",
+        "sub_info": "Creates a damaging area that lasts for 5 seg<br/>Causa Dano de 36~42 to foes within the area over 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1942,7 +1942,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1955,9 +1955,9 @@ var skill_data_SM = {
         "id": "27113",
         "name": "Earth Sunder - 대지가르기",
         "icon": "skill_icon_blademaster_1_12.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
-        "sub_info": "Creates a damaging area that lasts for 5 seg<br/>Deals 36~42 damage to foes within the area over 5 seg<br/>Generates 5 chi over 5 seg per target within the area",
+        "sub_info": "Creates a damaging area that lasts for 5 seg<br/>Causa Dano de 36~42 to foes within the area over 5 seg<br/>Generates 5 chi over 5 seg per target within the area",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1974,7 +1974,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1987,9 +1987,9 @@ var skill_data_SM = {
         "id": "27113",
         "name": "Earth Sunder - 대지가르기",
         "icon": "skill_icon_blademaster_1_12.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
-        "sub_info": "Creates a damaging area that lasts for 5 seg<br/>Deals 36~42 damage to foes within the area over 5 seg<br/>Generates 5 chi over 5 seg per target within the area<br/>Cooldown of Counterattack, Counteroffensive is refreshed on critical hit",
+        "sub_info": "Creates a damaging area that lasts for 5 seg<br/>Causa Dano de 36~42 to foes within the area over 5 seg<br/>Generates 5 chi over 5 seg per target within the area<br/>Cooldown of Counterattack, Counteroffensive is refreshed on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2006,7 +2006,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2038,7 +2038,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2070,7 +2070,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2102,7 +2102,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2134,7 +2134,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2166,7 +2166,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2198,7 +2198,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2230,7 +2230,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2262,7 +2262,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2294,12 +2294,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2326,12 +2326,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2358,12 +2358,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2390,7 +2390,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2422,7 +2422,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2454,7 +2454,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2486,7 +2486,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2518,7 +2518,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2550,7 +2550,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2582,7 +2582,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2614,7 +2614,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2646,7 +2646,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2678,7 +2678,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2710,7 +2710,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2742,7 +2742,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2756,7 +2756,7 @@ var skill_data_SM = {
         "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, inconsciente",
-        "main_info2": "Deals 12~14 damage",
+        "main_info2": "Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2774,7 +2774,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2788,7 +2788,7 @@ var skill_data_SM = {
         "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Deals 12~14 damage",
+        "main_info2": "Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2806,7 +2806,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2820,7 +2820,7 @@ var skill_data_SM = {
         "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2838,7 +2838,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2852,7 +2852,7 @@ var skill_data_SM = {
         "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2870,7 +2870,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2884,7 +2884,7 @@ var skill_data_SM = {
         "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário fica invulnerável por 1 seg após o uso<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2902,7 +2902,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2916,7 +2916,7 @@ var skill_data_SM = {
         "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
+        "main_info2": "Knocks foes back 11m<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2934,7 +2934,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2948,7 +2948,7 @@ var skill_data_SM = {
         "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
+        "main_info2": "Knocks foes back 11m<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2966,7 +2966,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2980,7 +2980,7 @@ var skill_data_SM = {
         "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
+        "main_info2": "Knocks foes back 11m<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2998,7 +2998,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3012,7 +3012,7 @@ var skill_data_SM = {
         "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -3030,7 +3030,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3044,7 +3044,7 @@ var skill_data_SM = {
         "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
@@ -3062,7 +3062,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3076,7 +3076,7 @@ var skill_data_SM = {
         "name": "Recuar",
         "icon": "skill_icon_swordmaster_1_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Deals 50% chi damage",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
@@ -3094,7 +3094,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3126,7 +3126,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3158,7 +3158,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3190,7 +3190,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3222,7 +3222,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3254,7 +3254,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3286,7 +3286,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3318,7 +3318,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3350,7 +3350,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3382,7 +3382,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3414,7 +3414,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3446,7 +3446,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3478,7 +3478,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3510,7 +3510,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3525,7 +3525,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_51.png",
         "main_info1": "Counters an attack for 0.8 seg",
         "main_info2": null,
-        "sub_info": "Escapa de Caido on counter<br/>Knocks the countered foe down for 3 seg on counter<br/>Deals 16~18 damage on counter",
+        "sub_info": "Escapa de Caido on counter<br/>Knocks the countered foe down for 3 seg on counter<br/>Causa Dano de 16~18 on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3542,7 +3542,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3574,12 +3574,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3606,7 +3606,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3638,7 +3638,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3670,7 +3670,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3702,7 +3702,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3734,7 +3734,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3766,7 +3766,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3798,7 +3798,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3830,7 +3830,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3862,7 +3862,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3894,7 +3894,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3926,7 +3926,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3958,7 +3958,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3990,7 +3990,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4022,7 +4022,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4054,7 +4054,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4086,7 +4086,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4118,7 +4118,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4150,7 +4150,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4182,7 +4182,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4214,7 +4214,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4246,7 +4246,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4278,7 +4278,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4291,9 +4291,9 @@ var skill_data_SM = {
         "id": "27300",
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_swordmaster_1_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
-        "sub_info": "Causes foes to bleed (1 stack)",
+        "sub_info": "Causa Sangramento ao Inimigo (1 acúmulo)",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -4323,9 +4323,9 @@ var skill_data_SM = {
         "id": "27300",
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_swordmaster_1_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
-        "sub_info": "Causes foes to bleed (1 stack)",
+        "sub_info": "Causa Sangramento ao Inimigo (1 acúmulo)",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -4355,9 +4355,9 @@ var skill_data_SM = {
         "id": "27300",
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_swordmaster_1_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
-        "sub_info": "Decreases the movement speed of foes by 30% for 6 seg<br/>Causes foes to bleed (1 stack)",
+        "sub_info": "Decreases the movement speed of foes by 30% for 6 seg<br/>Causa Sangramento ao Inimigo (1 acúmulo)",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -4387,9 +4387,9 @@ var skill_data_SM = {
         "id": "27300",
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_swordmaster_1_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks foes down for 2 seg",
-        "sub_info": "Decreases the movement speed of foes by 30% for 6 seg<br/>Disables charge abilities of foes for 6 seg<br/>Causes foes to bleed (1 stack)<br/>Foes suffer from Internal Bleeding for 12 seg",
+        "sub_info": "Decreases the movement speed of foes by 30% for 6 seg<br/>Disables charge abilities of foes for 6 seg<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Foes suffer from Internal Bleeding for 12 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -4419,9 +4419,9 @@ var skill_data_SM = {
         "id": "27300",
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_swordmaster_1_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Stuns foes for 2 seg<br/>Pulls foes",
-        "sub_info": "Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of the target by 60% for 6 seg<br/>Causes foes to bleed (1 stack)<br/>Foes suffer from Internal Bleeding for 12 seg",
+        "sub_info": "Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of the target by 60% for 6 seg<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Foes suffer from Internal Bleeding for 12 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
         "skill_info": {
@@ -4451,7 +4451,7 @@ var skill_data_SM = {
         "id": "27300",
         "name": "Soulblade Tempest - 어검 연속베기",
         "icon": "skill_icon_swordmaster_1_56.png",
-        "main_info1": "Deals 12~14 damage over 4 hits",
+        "main_info1": "Causa Dano de 12~14 over 4 hits",
         "main_info2": null,
         "sub_info": "Generates 2 chi per hit<br/>Soulblade Tempest can be recast up to 2 times<br/>Cannot be deflected",
         "consume_sp": "2",
@@ -4470,7 +4470,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4483,9 +4483,9 @@ var skill_data_SM = {
         "id": "27300",
         "name": "Soulblade Tempest - 어검 연속베기",
         "icon": "skill_icon_swordmaster_1_56.png",
-        "main_info1": "Deals 12~14 damage over 4 hits",
+        "main_info1": "Causa Dano de 12~14 over 4 hits",
         "main_info2": null,
-        "sub_info": "Generates 2 chi per hit<br/>Generates 1 additional chi on critical hit<br/>Soulblade Tempest can be recast up to 2 times<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Cannot be deflected",
+        "sub_info": "Generates 2 chi per hit<br/>Gera 1 Chi Adicional ao Críticar<br/>Soulblade Tempest can be recast up to 2 times<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Cannot be deflected",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4502,7 +4502,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4515,9 +4515,9 @@ var skill_data_SM = {
         "id": "27300",
         "name": "Soulblade Tempest - 어검 연속베기",
         "icon": "skill_icon_swordmaster_1_56.png",
-        "main_info1": "Deals 12~14 damage over 4 hits",
+        "main_info1": "Causa Dano de 12~14 over 4 hits",
         "main_info2": null,
-        "sub_info": "Generates 2 chi per hit<br/>Generates 1 additional chi on critical hit<br/>Soulblade Tempest can be recast up to 4 times<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Cannot be deflected",
+        "sub_info": "Generates 2 chi per hit<br/>Gera 1 Chi Adicional ao Críticar<br/>Soulblade Tempest can be recast up to 4 times<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Cannot be deflected",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4534,7 +4534,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4547,7 +4547,7 @@ var skill_data_SM = {
         "id": "27300",
         "name": "Soulblade Tempest - 어검 연속베기",
         "icon": "skill_icon_swordmaster_1_56.png",
-        "main_info1": "Deals 36~42 damage over 4 hits",
+        "main_info1": "Causa Dano de 36~42 over 4 hits",
         "main_info2": null,
         "sub_info": "Soulblade Tempest can be recast up to 3 times<br/>Cannot be deflected",
         "consume_sp": "2",
@@ -4566,7 +4566,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4598,7 +4598,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4630,7 +4630,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4662,7 +4662,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4694,7 +4694,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4726,7 +4726,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4758,7 +4758,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4790,7 +4790,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4822,7 +4822,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4854,7 +4854,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4886,7 +4886,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4918,7 +4918,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4950,7 +4950,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4982,7 +4982,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5014,7 +5014,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5046,7 +5046,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5078,7 +5078,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5110,7 +5110,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5142,7 +5142,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5174,7 +5174,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5206,12 +5206,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5219,7 +5219,7 @@ var skill_data_SM = {
         "id": "27405",
         "name": "Draw - 발도",
         "icon": "skill_icon_swordmaster_1_19.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Draw stance available",
         "consume_sp": "1",
@@ -5238,12 +5238,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5251,7 +5251,7 @@ var skill_data_SM = {
         "id": "27405",
         "name": "Draw - 발도",
         "icon": "skill_icon_swordmaster_1_19.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Skill speed accelerates on recast<br/>Draw stance available",
         "consume_sp": "1",
@@ -5270,12 +5270,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5283,9 +5283,9 @@ var skill_data_SM = {
         "id": "27405",
         "name": "Draw - 발도",
         "icon": "skill_icon_swordmaster_1_19.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
-        "sub_info": "Skill speed accelerates on recast<br/>Causes foes to bleed (1 stack)<br/>Draw stance available",
+        "sub_info": "Skill speed accelerates on recast<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Draw stance available",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5302,12 +5302,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5315,9 +5315,9 @@ var skill_data_SM = {
         "id": "27405",
         "name": "Draw - 발도",
         "icon": "skill_icon_swordmaster_1_19.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
-        "sub_info": "Skill speed accelerates on recast<br/>Flash Draw is used instead at maximum speed<br/>Draw stance available<br/>Flash Draw deals 42~49 damage<br/>Causes foes to bleed (1 stack)",
+        "sub_info": "Skill speed accelerates on recast<br/>Flash Draw is used instead at maximum speed<br/>Draw stance available<br/>Flash Draw deals 42~49 damage<br/>Causa Sangramento ao Inimigo (1 acúmulo)",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5334,12 +5334,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5347,7 +5347,7 @@ var skill_data_SM = {
         "id": "27405",
         "name": "Draw - 발도",
         "icon": "skill_icon_swordmaster_1_19.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Stuns foes for 2 seg",
         "sub_info": "Draw without stun is used instead while Draw is on cooldown<br/>Draw stance available",
         "consume_sp": "1",
@@ -5366,7 +5366,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5379,7 +5379,7 @@ var skill_data_SM = {
         "id": "27405",
         "name": "Draw - 발도",
         "icon": "skill_icon_swordmaster_1_19.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Stuns foes for 2 seg",
         "sub_info": "Decreases the movement speed of foes by 50% for 6 seg<br/>Disables charge abilities of foes for 6 seg<br/>Draw without the stun, movement impairment is used instead while Draw is on cooldown<br/>Draw stance available",
         "consume_sp": "1",
@@ -5398,7 +5398,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5411,7 +5411,7 @@ var skill_data_SM = {
         "id": "27405",
         "name": "Draw - 발도",
         "icon": "skill_icon_swordmaster_1_19.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Stuns foes for 2 seg",
         "sub_info": "Draw can be recast up to 2 times<br/>Draw without the stun, movement impairment is used instead while Draw is on cooldown<br/>Decreases the movement speed of foes by 50% for 6 seg<br/>Disables charge abilities of foes for 6 seg<br/>Draw stance available",
         "consume_sp": "1",
@@ -5430,7 +5430,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5462,7 +5462,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5494,7 +5494,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5526,7 +5526,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5558,7 +5558,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5590,7 +5590,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5622,7 +5622,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5654,7 +5654,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5686,7 +5686,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5718,7 +5718,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5750,7 +5750,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5782,7 +5782,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5814,7 +5814,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5846,7 +5846,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5878,7 +5878,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5910,7 +5910,7 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5925,7 +5925,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_2_23.png",
         "main_info1": "Deals 54~63 damage",
         "main_info2": "Disponível enquanto Espiritualizado",
-        "sub_info": "Maximum speed<br/>Causes foes to bleed (1 stack)<br/>Generates 1 additional chi on critical hit<br/>Não gera ameaça",
+        "sub_info": "Maximum speed<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Gera 1 Chi Adicional ao Críticar<br/>Não gera ameaça",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5942,12 +5942,12 @@ var skill_data_SM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     }

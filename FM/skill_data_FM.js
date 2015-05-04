@@ -54,12 +54,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -86,12 +86,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -118,12 +118,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -150,12 +150,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -182,7 +182,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -214,12 +214,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -246,7 +246,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -278,12 +278,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -310,12 +310,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -323,7 +323,7 @@ var skill_data_FM = {
         "id": "22106",
         "name": "Shockwave - 충격파",
         "icon": "skill_icon_forcemaster_0_6.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Only detonates Ember on foes with 5 Ember stacks<br/>Deals 4~4 explosion damage per stack of Ember<br/>Deals an additional 75% damage per stack of Ember<br/>Knocks frozen foes back 5m and stuns them for 1 seg<br/>Deals an additional 30~35 damage on breaking ice<br/>Increased consecutive cast speed",
         "consume_sp": null,
@@ -342,12 +342,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -374,12 +374,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -406,12 +406,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -438,7 +438,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -470,7 +470,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -502,7 +502,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -534,7 +534,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -566,7 +566,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -598,7 +598,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -630,7 +630,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -662,7 +662,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -694,7 +694,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -726,7 +726,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -859,7 +859,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -886,12 +886,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -918,7 +918,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -950,7 +950,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -982,7 +982,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1014,7 +1014,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1046,12 +1046,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1078,12 +1078,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1110,12 +1110,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1142,12 +1142,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1174,12 +1174,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1206,12 +1206,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1238,12 +1238,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1270,12 +1270,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1302,7 +1302,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1334,7 +1334,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1366,7 +1366,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1398,7 +1398,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1430,7 +1430,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1462,7 +1462,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1494,7 +1494,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1526,7 +1526,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1558,7 +1558,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1590,7 +1590,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1622,7 +1622,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1654,7 +1654,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1686,7 +1686,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1718,7 +1718,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1846,7 +1846,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1878,7 +1878,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1923,7 +1923,7 @@ var skill_data_FM = {
         "id": "22238",
         "name": "Explosion - 화염폭발",
         "icon": "skill_icon_forcemaster_0_20.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Applies 1 stack of Ember",
         "consume_sp": "3",
@@ -1942,7 +1942,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1955,7 +1955,7 @@ var skill_data_FM = {
         "id": "22238",
         "name": "Explosion - 화염폭발",
         "icon": "skill_icon_forcemaster_0_20.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Applies 1 stack of Ember",
         "consume_sp": "3",
@@ -1974,7 +1974,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2006,7 +2006,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2038,7 +2038,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2070,7 +2070,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2102,7 +2102,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2134,7 +2134,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2166,7 +2166,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2198,7 +2198,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2230,7 +2230,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2243,7 +2243,7 @@ var skill_data_FM = {
         "id": "22238",
         "name": "Searing Flame - 폭염",
         "icon": "skill_icon_forcemaster_0_46.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Knocks foes down for 3 seg",
         "sub_info": "Knocks dazed, stunned foes into the air<br/>Applies 1 stack of Ember<br/>Manually detonated using Dissipate Flame",
         "consume_sp": "3",
@@ -2262,7 +2262,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2275,7 +2275,7 @@ var skill_data_FM = {
         "id": "22238",
         "name": "Searing Flame - 폭염",
         "icon": "skill_icon_forcemaster_0_46.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Knocks foes down for 3 seg",
         "sub_info": "Knocks dazed, stunned foes into the air<br/>Applies 1 stack of Ember<br/>Ranged ability<br/>Manually detonated using Dissipate Flame",
         "consume_sp": "3",
@@ -2294,7 +2294,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2326,7 +2326,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2358,7 +2358,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2390,7 +2390,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2422,7 +2422,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2454,7 +2454,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2486,7 +2486,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2678,7 +2678,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2710,7 +2710,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2742,7 +2742,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2870,7 +2870,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2902,7 +2902,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2934,7 +2934,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2966,7 +2966,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2998,7 +2998,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3030,7 +3030,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3062,7 +3062,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3094,7 +3094,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3126,7 +3126,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3158,7 +3158,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3190,7 +3190,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3222,7 +3222,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3254,7 +3254,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3286,7 +3286,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3318,7 +3318,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3350,7 +3350,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3382,7 +3382,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3414,7 +3414,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3446,7 +3446,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3478,7 +3478,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3510,7 +3510,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3542,7 +3542,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3574,12 +3574,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3606,12 +3606,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3638,12 +3638,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3670,12 +3670,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3702,12 +3702,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3734,12 +3734,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3766,7 +3766,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3798,7 +3798,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3830,7 +3830,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3862,12 +3862,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3894,12 +3894,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3926,12 +3926,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3939,7 +3939,7 @@ var skill_data_FM = {
         "id": "22255",
         "name": "Flame Palm - 열화장",
         "icon": "skill_icon_forcemaster_0_32.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Applies 1 stack of Ember",
         "consume_sp": null,
@@ -3958,12 +3958,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3971,7 +3971,7 @@ var skill_data_FM = {
         "id": "22255",
         "name": "Flame Palm - 열화장",
         "icon": "skill_icon_forcemaster_0_32.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Applies 1 stack of Ember<br/>Aumenta a velocidade projétil",
         "consume_sp": null,
@@ -3990,12 +3990,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4022,12 +4022,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4054,12 +4054,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4086,12 +4086,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4118,12 +4118,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4150,12 +4150,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4182,12 +4182,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4214,12 +4214,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4246,12 +4246,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4278,12 +4278,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4291,7 +4291,7 @@ var skill_data_FM = {
         "id": "22256",
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "2",
@@ -4310,12 +4310,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4323,7 +4323,7 @@ var skill_data_FM = {
         "id": "22256",
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Aumenta a velocidade projétil<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "2",
@@ -4342,12 +4342,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4355,7 +4355,7 @@ var skill_data_FM = {
         "id": "22256",
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Aumenta a velocidade projétil<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "1",
@@ -4374,12 +4374,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4387,7 +4387,7 @@ var skill_data_FM = {
         "id": "22256",
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Aumenta a velocidade projétil<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "1",
@@ -4406,12 +4406,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4419,7 +4419,7 @@ var skill_data_FM = {
         "id": "22256",
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Foes suffer from Frostbite for 10 seg",
         "sub_info": "Aumenta a velocidade projétil<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "1",
@@ -4438,12 +4438,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4451,7 +4451,7 @@ var skill_data_FM = {
         "id": "22256",
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Foes suffer from Frostbite for 10 seg",
         "sub_info": "Frostbite ignores defense<br/>Aumenta a velocidade projétil<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "1",
@@ -4470,12 +4470,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4483,7 +4483,7 @@ var skill_data_FM = {
         "id": "22256",
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
         "sub_info": "Creates 1 Frost Orb on critical hit<br/>Aumenta a velocidade projétil<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "2",
@@ -4502,12 +4502,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4515,7 +4515,7 @@ var skill_data_FM = {
         "id": "22256",
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
         "sub_info": "Creates 1 Frost Orb on critical hit<br/>Increased consecutive cast speed<br/>Aumenta a velocidade projétil<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "2",
@@ -4534,12 +4534,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4547,7 +4547,7 @@ var skill_data_FM = {
         "id": "22256",
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
         "sub_info": "Creates 1 Frost Orb on critical hit<br/>Não gera ameaça<br/>Increased consecutive cast speed<br/>Aumenta a velocidade projétil<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "2",
@@ -4566,12 +4566,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4579,7 +4579,7 @@ var skill_data_FM = {
         "id": "22256",
         "name": "Frost Palm - 한빙장",
         "icon": "skill_icon_forcemaster_0_33.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
         "sub_info": "Guaranteed critical hit to frozen foes<br/>Creates 1 Frost Orb on critical hit<br/>Não gera ameaça<br/>Increased consecutive cast speed<br/>Aumenta a velocidade projétil<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": "2",
@@ -4598,12 +4598,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4630,12 +4630,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4662,12 +4662,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4694,12 +4694,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4726,12 +4726,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4758,12 +4758,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4790,12 +4790,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4822,12 +4822,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4854,12 +4854,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4886,7 +4886,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4918,7 +4918,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4950,7 +4950,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4982,7 +4982,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5014,7 +5014,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5046,7 +5046,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5078,7 +5078,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5110,7 +5110,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5123,7 +5123,7 @@ var skill_data_FM = {
         "id": "22265",
         "name": "Cold Wave - 한파",
         "icon": "skill_icon_forcemaster_0_38.png",
-        "main_info1": "Deals 36~42 damage over 5 hits",
+        "main_info1": "Causa Dano de 36~42 over 5 hits",
         "main_info2": null,
         "sub_info": "Generates 1 chi per hit<br/>Creates 1 Frost Orb<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
@@ -5142,12 +5142,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5155,7 +5155,7 @@ var skill_data_FM = {
         "id": "22265",
         "name": "Cold Wave - 한파",
         "icon": "skill_icon_forcemaster_0_38.png",
-        "main_info1": "Deals 48~56 damage over 5 hits",
+        "main_info1": "Causa Dano de 48~56 over 5 hits",
         "main_info2": null,
         "sub_info": "Generates 1 chi per hit<br/>Creates 1 Frost Orb<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
@@ -5174,12 +5174,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5187,7 +5187,7 @@ var skill_data_FM = {
         "id": "22265",
         "name": "Cold Wave - 한파",
         "icon": "skill_icon_forcemaster_0_38.png",
-        "main_info1": "Deals 48~56 damage over 5 hits",
+        "main_info1": "Causa Dano de 48~56 over 5 hits",
         "main_info2": "Deals an additional 2~3 damage to frozen foes",
         "sub_info": "Generates 1 chi per hit<br/>Creates 1 Frost Orb<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
@@ -5206,12 +5206,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5219,9 +5219,9 @@ var skill_data_FM = {
         "id": "22265",
         "name": "Cold Wave - 한파",
         "icon": "skill_icon_forcemaster_0_38.png",
-        "main_info1": "Deals 48~56 damage over 5 hits",
+        "main_info1": "Causa Dano de 48~56 over 5 hits",
         "main_info2": "Deals an additional 2~3 damage to frozen foes",
-        "sub_info": "Generates 1 chi per hit<br/>Generates 1 additional chi on critical hit<br/>Creates 1 Frost Orb<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Generates 1 chi per hit<br/>Gera 1 Chi Adicional ao Críticar<br/>Creates 1 Frost Orb<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5238,12 +5238,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5251,9 +5251,9 @@ var skill_data_FM = {
         "id": "22265",
         "name": "Cold Wave - 한파",
         "icon": "skill_icon_forcemaster_0_38.png",
-        "main_info1": "Deals 48~56 damage over 5 hits",
+        "main_info1": "Causa Dano de 48~56 over 5 hits",
         "main_info2": "Deals an additional 2~3 damage to frozen foes",
-        "sub_info": "Guaranteed critical hit to frozen foes<br/>Generates 1 additional chi on critical hit<br/>Creates 1 Frost Orb<br/>Increases the defense of the user by 10% on using frost spells<br/>Generates 1 chi per hit",
+        "sub_info": "Guaranteed critical hit to frozen foes<br/>Gera 1 Chi Adicional ao Críticar<br/>Creates 1 Frost Orb<br/>Increases the defense of the user by 10% on using frost spells<br/>Generates 1 chi per hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5270,12 +5270,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5283,7 +5283,7 @@ var skill_data_FM = {
         "id": "22265",
         "name": "Cold Wave - 한파",
         "icon": "skill_icon_forcemaster_0_38.png",
-        "main_info1": "Deals 48~56 damage over 5 hits",
+        "main_info1": "Causa Dano de 48~56 over 5 hits",
         "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Generates 1 chi per hit<br/>Creates 1 Frost Orb<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
@@ -5302,12 +5302,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5315,7 +5315,7 @@ var skill_data_FM = {
         "id": "22265",
         "name": "Cold Wave - 한파",
         "icon": "skill_icon_forcemaster_0_38.png",
-        "main_info1": "Deals 48~56 damage over 5 hits",
+        "main_info1": "Causa Dano de 48~56 over 5 hits",
         "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Frostbite ignores defense<br/>Increases the defense of the user by 10% on using frost spells<br/>Generates 1 chi per hit<br/>Creates 1 Frost Orb",
         "consume_sp": null,
@@ -5334,12 +5334,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5347,7 +5347,7 @@ var skill_data_FM = {
         "id": "22265",
         "name": "Cold Wave - 한파",
         "icon": "skill_icon_forcemaster_0_38.png",
-        "main_info1": "Deals 48~56 damage over 5 hits",
+        "main_info1": "Causa Dano de 48~56 over 5 hits",
         "main_info2": "Foes suffer from Frostbite for 6 seg",
         "sub_info": "Frostbite ignores defense<br/>Deals 10% chi damage per hit<br/>Increases the defense of the user by 10% on using frost spells<br/>Generates 1 chi per hit<br/>Creates 1 Frost Orb",
         "consume_sp": null,
@@ -5366,12 +5366,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5379,7 +5379,7 @@ var skill_data_FM = {
         "id": "22265",
         "name": "Cold Wave - 한파",
         "icon": "skill_icon_forcemaster_0_38.png",
-        "main_info1": "Deals 48~56 damage over 5 hits",
+        "main_info1": "Causa Dano de 48~56 over 5 hits",
         "main_info2": null,
         "sub_info": "Heals the user 30% of the damage dealt<br/>Increases the defense of the user by 10% on using frost spells<br/>Generates 1 chi per hit<br/>Creates 1 Frost Orb",
         "consume_sp": null,
@@ -5398,12 +5398,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5411,7 +5411,7 @@ var skill_data_FM = {
         "id": "22265",
         "name": "Cold Wave - 한파",
         "icon": "skill_icon_forcemaster_0_38.png",
-        "main_info1": "Deals 48~56 damage over 5 hits",
+        "main_info1": "Causa Dano de 48~56 over 5 hits",
         "main_info2": null,
         "sub_info": "Heals the user 30% of the damage dealt<br/>Healing is doubled on critical hit<br/>Increases the defense of the user by 10% on using frost spells<br/>Generates 1 chi per hit<br/>Creates 1 Frost Orb",
         "consume_sp": null,
@@ -5430,12 +5430,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5443,7 +5443,7 @@ var skill_data_FM = {
         "id": "22265",
         "name": "Cold Wave - 한파",
         "icon": "skill_icon_forcemaster_0_38.png",
-        "main_info1": "Deals 48~56 damage over 5 hits",
+        "main_info1": "Causa Dano de 48~56 over 5 hits",
         "main_info2": null,
         "sub_info": "Heals the user 30% of the damage dealt<br/>Healing is doubled on critical hit<br/>User takes 50% less damage during use<br/>Increases the defense of the user by 10% on using frost spells<br/>Generates 1 chi per hit<br/>Creates 1 Frost Orb",
         "consume_sp": null,
@@ -5462,12 +5462,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5475,7 +5475,7 @@ var skill_data_FM = {
         "id": "22266",
         "name": "Ice Breaker - 파음지",
         "icon": "skill_icon_forcemaster_0_40.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
@@ -5494,7 +5494,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5507,7 +5507,7 @@ var skill_data_FM = {
         "id": "22266",
         "name": "Ice Breaker - 파음지",
         "icon": "skill_icon_forcemaster_0_40.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Deals an additional 18~21 damage to frozen foes",
         "sub_info": "Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
@@ -5526,7 +5526,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5558,7 +5558,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5590,7 +5590,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5622,7 +5622,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5654,7 +5654,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5686,12 +5686,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5718,12 +5718,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5750,7 +5750,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5782,7 +5782,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5814,7 +5814,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5846,7 +5846,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5878,7 +5878,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5910,7 +5910,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5942,7 +5942,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5974,7 +5974,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6006,7 +6006,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6038,7 +6038,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6052,7 +6052,7 @@ var skill_data_FM = {
         "name": "Push - 밀기",
         "icon": "skill_icon_forcemaster_0_2.png",
         "main_info1": "Knocks the force gripped target back 15m and knocks them down for 2 seg",
-        "main_info2": "Deals 12~14 damage",
+        "main_info2": "Causa Dano de 12~14",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -6070,7 +6070,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6102,7 +6102,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6134,7 +6134,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6166,7 +6166,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6198,7 +6198,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6230,7 +6230,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6262,7 +6262,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6276,7 +6276,7 @@ var skill_data_FM = {
         "name": "Escapar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, inconsciente",
-        "main_info2": "Deals 12~14 damage",
+        "main_info2": "Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6294,7 +6294,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6308,7 +6308,7 @@ var skill_data_FM = {
         "name": "Escapar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Deals 12~14 damage",
+        "main_info2": "Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6326,7 +6326,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6340,7 +6340,7 @@ var skill_data_FM = {
         "name": "Escapar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6358,7 +6358,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6372,7 +6372,7 @@ var skill_data_FM = {
         "name": "Escapar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6390,7 +6390,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6404,7 +6404,7 @@ var skill_data_FM = {
         "name": "Escapar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário fica invulnerável por 1 seg após o uso<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6422,7 +6422,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6436,7 +6436,7 @@ var skill_data_FM = {
         "name": "Escapar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
+        "main_info2": "Knocks foes back 11m<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6454,7 +6454,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6468,7 +6468,7 @@ var skill_data_FM = {
         "name": "Escapar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
+        "main_info2": "Knocks foes back 11m<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6486,7 +6486,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6500,7 +6500,7 @@ var skill_data_FM = {
         "name": "Escapar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
+        "main_info2": "Knocks foes back 11m<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6518,7 +6518,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6532,7 +6532,7 @@ var skill_data_FM = {
         "name": "Escapar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6550,7 +6550,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6564,7 +6564,7 @@ var skill_data_FM = {
         "name": "Escapar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
@@ -6582,7 +6582,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6596,7 +6596,7 @@ var skill_data_FM = {
         "name": "Escapar",
         "icon": "skill_icon_forcemaster_0_64.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Deals 50% chi damage",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
@@ -6614,7 +6614,7 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6646,12 +6646,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6678,12 +6678,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6710,12 +6710,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6742,12 +6742,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6774,12 +6774,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6806,12 +6806,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6838,12 +6838,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6875,7 +6875,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6907,7 +6907,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6939,7 +6939,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6971,7 +6971,7 @@ var skill_data_FM = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6998,12 +6998,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -7030,12 +7030,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -7062,12 +7062,12 @@ var skill_data_FM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     }

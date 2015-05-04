@@ -81,7 +81,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -89,7 +89,7 @@ var skill_data_SU = {
         "id": "26101",
         "name": "Rose - 장미",
         "icon": "skill_icon_summon_0_2.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Applies 1 stack of Poison<br/>Poison decreases the defense of the target by 10% per stack",
         "consume_sp": null,
@@ -108,12 +108,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -140,12 +140,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -172,12 +172,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -204,12 +204,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -236,12 +236,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -251,7 +251,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_2.png",
         "main_info1": "Deals 14~17 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 additional chi on critical hit<br/>Aumenta a velocidade projétil<br/>Applies 1 stack of Poison<br/>Poison decreases the defense of the target by 10% per stack",
+        "sub_info": "Gera 1 Chi Adicional ao Críticar<br/>Aumenta a velocidade projétil<br/>Applies 1 stack of Poison<br/>Poison decreases the defense of the target by 10% per stack",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -268,12 +268,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -283,7 +283,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_2.png",
         "main_info1": "Deals 14~17 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 additional chi on critical hit<br/>Increased consecutive cast speed<br/>Aumenta a velocidade projétil<br/>Applies 1 stack of Poison<br/>Poison decreases the defense of the target by 10% per stack",
+        "sub_info": "Gera 1 Chi Adicional ao Críticar<br/>Increased consecutive cast speed<br/>Aumenta a velocidade projétil<br/>Applies 1 stack of Poison<br/>Poison decreases the defense of the target by 10% per stack",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -300,12 +300,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -332,12 +332,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -364,12 +364,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -396,12 +396,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -428,12 +428,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -460,12 +460,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -475,7 +475,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_4.png",
         "main_info1": "Knocks foes down for 3 seg",
         "main_info2": null,
-        "sub_info": "Deals 12~14 damage",
+        "sub_info": "Causa Dano de 12~14",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -492,7 +492,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -524,12 +524,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -556,12 +556,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -588,12 +588,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -620,12 +620,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -652,12 +652,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -684,7 +684,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -716,7 +716,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -748,7 +748,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -780,7 +780,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -812,7 +812,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -844,7 +844,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -876,7 +876,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1036,7 +1036,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1068,7 +1068,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1100,7 +1100,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1132,7 +1132,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1164,7 +1164,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1196,7 +1196,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1228,7 +1228,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1260,7 +1260,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1292,7 +1292,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1324,7 +1324,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1356,7 +1356,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1388,7 +1388,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1777,7 +1777,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1809,7 +1809,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1841,7 +1841,7 @@ var skill_data_SU = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1868,12 +1868,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1900,12 +1900,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1932,12 +1932,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1964,7 +1964,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1996,7 +1996,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2028,7 +2028,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2060,7 +2060,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2092,7 +2092,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2124,7 +2124,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2156,7 +2156,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2188,7 +2188,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2220,7 +2220,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2252,7 +2252,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2284,7 +2284,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2316,7 +2316,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2348,7 +2348,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2380,7 +2380,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2412,7 +2412,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2444,7 +2444,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2476,7 +2476,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2508,7 +2508,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2540,7 +2540,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2572,7 +2572,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2604,7 +2604,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2636,7 +2636,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2668,7 +2668,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2700,7 +2700,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2732,7 +2732,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2764,7 +2764,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2796,7 +2796,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2828,7 +2828,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2860,7 +2860,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2873,9 +2873,9 @@ var skill_data_SU = {
         "id": "26112",
         "name": "Dandelion - 민들레씨",
         "icon": "skill_icon_summon_0_17.png",
-        "main_info1": "Counters an attack for 1.5 seg",
+        "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 seg on counter<br/>User is invulnerable for 1.5 seg on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>Generates 4 chi on counter",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2892,7 +2892,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2907,7 +2907,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 seg on counter<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2924,7 +2924,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2939,7 +2939,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 seg on counter<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2956,7 +2956,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2971,7 +2971,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 seg on counter<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2988,7 +2988,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3003,7 +3003,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 seg on counter<br/>User is invulnerable for 1.5 seg on counter<br/>Cooldown of Hornet is refreshed on counter<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>Cooldown of Hornet is refreshed on counter<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3020,7 +3020,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3035,7 +3035,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 seg on counter<br/>User is invulnerable for 1.5 seg on counter<br/>Creates a barrier around the user equivalent to 25% of the user's maximum health during use<br/>Barrier disappears on counter<br/>Barrier removed on using another ability<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>User is invulnerable for 1.5 seg on counter<br/>Creates a barrier around the user equivalent to 25% of the user's maximum health during use<br/>Barrier disappears on counter<br/>Barrier removed on using another ability<br/>User takes 50% less damage while stealthed<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3052,7 +3052,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3067,7 +3067,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 seg on counter<br/>Gives Dandelion effect to nearby allies<br/>Heals the user 1% of their maximum health per protected ally<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>Gives Dandelion effect to nearby allies<br/>Heals the user 1% of their maximum health per protected ally<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3084,7 +3084,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3099,7 +3099,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 seg on counter<br/>Gives Dandelion effect to nearby allies<br/>Heals the user 1% of their maximum health per protected ally<br/>User is immune to daze, stun, knock back while stealthed<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>Gives Dandelion effect to nearby allies<br/>Heals the user 1% of their maximum health per protected ally<br/>User is immune to daze, stun, knock back while stealthed<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3116,7 +3116,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3131,7 +3131,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_17.png",
         "main_info1": "Counters an attack for 2 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 seg on counter<br/>Heals the user 4% of their maximum health on counter<br/>Gives Dandelion effect to nearby allies<br/>Heals allies 4% of their maximum health on resist<br/>Heals the user 1% of their maximum health per protected ally<br/>User is immune to daze, stun, knock back while stealthed<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>Heals the user 4% of their maximum health on counter<br/>Gives Dandelion effect to nearby allies<br/>Heals allies 4% of their maximum health on resist<br/>Heals the user 1% of their maximum health per protected ally<br/>User is immune to daze, stun, knock back while stealthed<br/>User is invulnerable for 1.5 seg on counter<br/>User takes 50% less damage from attacks that ignore counter<br/>Generates 4 chi on counter",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3148,7 +3148,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3180,7 +3180,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3212,7 +3212,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3244,7 +3244,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3276,7 +3276,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3308,7 +3308,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3340,7 +3340,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3372,7 +3372,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3404,12 +3404,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3436,12 +3436,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3468,12 +3468,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3500,12 +3500,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3532,12 +3532,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3564,12 +3564,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3596,12 +3596,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3628,12 +3628,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3660,7 +3660,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3692,7 +3692,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3724,7 +3724,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3756,7 +3756,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3788,7 +3788,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3820,7 +3820,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3852,7 +3852,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3884,7 +3884,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3916,7 +3916,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3948,7 +3948,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3963,7 +3963,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_42.png",
         "main_info1": "Familiar charges to multiple foes",
         "main_info2": null,
-        "sub_info": "Deflects attacks while charging<br/>Deals 12~14 damage up to 5 foes<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
+        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 12~14 up to 5 foes<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3980,7 +3980,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3995,7 +3995,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_42.png",
         "main_info1": "Familiar charges to multiple foes",
         "main_info2": null,
-        "sub_info": "Deflects attacks while charging<br/>Deals 12~14 damage up to 5 foes<br/>Dash can be recast up to 2 times<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
+        "sub_info": "Deflects attacks while charging<br/>Causa Dano de 12~14 up to 5 foes<br/>Dash can be recast up to 2 times<br/>Tier1 Class1 Dash is used instead while Dash is on cooldown<br/>Increased charge speed",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4012,7 +4012,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4044,7 +4044,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4076,7 +4076,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4108,12 +4108,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4140,12 +4140,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4172,12 +4172,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4204,12 +4204,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4236,12 +4236,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4268,12 +4268,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4300,7 +4300,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4332,7 +4332,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4364,7 +4364,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4396,7 +4396,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4428,7 +4428,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4443,7 +4443,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_26.png",
         "main_info1": "Knocks foes down for 3 seg",
         "main_info2": null,
-        "sub_info": "Familiar plants a bomb<br/>Deals 36~42 damage",
+        "sub_info": "Familiar plants a bomb<br/>Causa Dano de 36~42",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4460,7 +4460,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4475,7 +4475,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_26.png",
         "main_info1": "Knocks foes down for 3 seg",
         "main_info2": null,
-        "sub_info": "Familiar plants a bomb<br/>Deals 36~42 damage",
+        "sub_info": "Familiar plants a bomb<br/>Causa Dano de 36~42",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4492,7 +4492,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4507,7 +4507,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_26.png",
         "main_info1": "Knocks foes down for 3 seg",
         "main_info2": null,
-        "sub_info": "Familiar plants a bomb<br/>Synergy down applied<br/>Deals 36~42 damage",
+        "sub_info": "Familiar plants a bomb<br/>Synergy down applied<br/>Causa Dano de 36~42",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4524,7 +4524,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4556,7 +4556,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4588,7 +4588,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4620,7 +4620,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4652,7 +4652,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4716,7 +4716,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4748,7 +4748,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4780,7 +4780,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4812,7 +4812,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4844,7 +4844,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4876,7 +4876,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4940,7 +4940,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4972,7 +4972,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5004,7 +5004,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5036,7 +5036,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5068,7 +5068,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5100,7 +5100,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5132,7 +5132,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5164,7 +5164,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5196,7 +5196,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5228,7 +5228,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5260,7 +5260,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5292,7 +5292,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5324,7 +5324,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5356,7 +5356,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5388,7 +5388,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5420,12 +5420,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5452,12 +5452,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5484,12 +5484,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5516,12 +5516,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5548,12 +5548,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5580,7 +5580,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5612,7 +5612,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5644,7 +5644,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5676,7 +5676,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5708,7 +5708,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5740,7 +5740,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5772,7 +5772,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5804,7 +5804,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5836,7 +5836,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5868,7 +5868,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5900,7 +5900,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5932,7 +5932,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5964,7 +5964,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5996,7 +5996,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6028,7 +6028,7 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6060,12 +6060,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6092,12 +6092,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6124,12 +6124,12 @@ var skill_data_SU = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     }

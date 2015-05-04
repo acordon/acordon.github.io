@@ -54,7 +54,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -86,7 +86,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -118,7 +118,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -150,7 +150,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -182,7 +182,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -214,7 +214,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -246,7 +246,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -278,7 +278,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -291,7 +291,7 @@ var skill_data_BM = {
         "id": "20100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_blademaster_0_1.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
@@ -310,12 +310,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -323,7 +323,7 @@ var skill_data_BM = {
         "id": "20100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_blademaster_0_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
         "sub_info": "Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
@@ -342,12 +342,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -355,9 +355,9 @@ var skill_data_BM = {
         "id": "20100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_blademaster_0_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
+        "sub_info": "Gera 1 Chi Adicional ao Críticar<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -374,12 +374,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -387,9 +387,9 @@ var skill_data_BM = {
         "id": "20100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_blademaster_0_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Causes foes to bleed (1 stack)<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
+        "sub_info": "Causa Sangramento ao Inimigo (1 acúmulo)<br/>Gera 1 Chi Adicional ao Críticar<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -406,12 +406,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -419,9 +419,9 @@ var skill_data_BM = {
         "id": "20100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_blademaster_0_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Maximum speed Stab is available on critical hit<br/>Maximum speed World Sunder is available on critical hit<br/>Causes foes to bleed (1 stack)<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
+        "sub_info": "Maximum speed Stab is available on critical hit<br/>Maximum speed World Sunder is available on critical hit<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Gera 1 Chi Adicional ao Críticar<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -438,12 +438,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -451,9 +451,9 @@ var skill_data_BM = {
         "id": "20100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_blademaster_0_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
+        "sub_info": "Gera 1 Chi Adicional ao Críticar<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -470,12 +470,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -483,9 +483,9 @@ var skill_data_BM = {
         "id": "20100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_blademaster_0_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per target hit<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
+        "sub_info": "Generates 1 chi per target hit<br/>Gera 1 Chi Adicional ao Críticar<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -502,12 +502,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -515,9 +515,9 @@ var skill_data_BM = {
         "id": "20100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_blademaster_0_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Heals the user 20% of the damage dealt<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
+        "sub_info": "Heals the user 20% of the damage dealt<br/>Gera 1 Chi Adicional ao Críticar<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -534,12 +534,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -547,9 +547,9 @@ var skill_data_BM = {
         "id": "20100",
         "name": "Gale - 질풍",
         "icon": "skill_icon_blademaster_0_1.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Heals the user 2% of their maximum health over 5 seg on critical hit<br/>Heals the user 20% of the damage dealt<br/>Generates 1 additional chi on critical hit<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
+        "sub_info": "Heals the user 2% of their maximum health over 5 seg on critical hit<br/>Heals the user 20% of the damage dealt<br/>Gera 1 Chi Adicional ao Críticar<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -566,12 +566,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -598,12 +598,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -630,12 +630,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -662,12 +662,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -694,12 +694,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -709,7 +709,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_4.png",
         "main_info1": "Causa dano de 42~49",
         "main_info2": null,
-        "sub_info": "Ignora Defesa<br/>Causes foes to bleed (1 stack)<br/>Maximum speed on recast<br/>Maximum speed on blocking an attack<br/>Maximum speed on using Spin Slash<br/>Maximum speed on resisting an attack with Counterattack",
+        "sub_info": "Ignora Defesa<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Maximum speed on recast<br/>Maximum speed on blocking an attack<br/>Maximum speed on using Spin Slash<br/>Maximum speed on resisting an attack with Counterattack",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -726,12 +726,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -758,12 +758,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -790,12 +790,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -803,7 +803,7 @@ var skill_data_BM = {
         "id": "20103",
         "name": "World Sunder - 천지가르기",
         "icon": "skill_icon_blademaster_0_43.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Cura o Usuario em 10% do Dano causado<br/>Skill speed accelerates on recast<br/>Maximum speed on blocking an attack<br/>Maximum speed on using Spin Slash<br/>Maximum speed on resisting an attack with Counterattack",
         "consume_sp": "2",
@@ -822,12 +822,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -835,7 +835,7 @@ var skill_data_BM = {
         "id": "20103",
         "name": "World Sunder - 천지가르기",
         "icon": "skill_icon_blademaster_0_43.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Heals the user 20% of the damage dealt<br/>Skill speed accelerates on recast<br/>Maximum speed on blocking an attack<br/>Maximum speed on using Spin Slash<br/>Maximum speed on resisting an attack with Counterattack",
         "consume_sp": "2",
@@ -854,12 +854,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -867,7 +867,7 @@ var skill_data_BM = {
         "id": "20104",
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_blademaster_0_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Swallow Blade can be used while dashing, dash-jumping, gliding",
         "consume_sp": null,
@@ -899,7 +899,7 @@ var skill_data_BM = {
         "id": "20104",
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_blademaster_0_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Swallow Blade can be used while dashing, dash-jumping, gliding",
         "consume_sp": null,
@@ -931,7 +931,7 @@ var skill_data_BM = {
         "id": "20104",
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_blademaster_0_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Decreases the movement speed of foes by 50% for 3 seg<br/>Swallow Blade can be used while dashing, dash-jumping, gliding",
         "consume_sp": null,
@@ -963,7 +963,7 @@ var skill_data_BM = {
         "id": "20104",
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_blademaster_0_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks foes down for 3 seg",
         "sub_info": "Decreases the movement speed of foes by 50% for 3 seg<br/>Swallow Blade can be used while dashing, dash-jumping, gliding",
         "consume_sp": "1",
@@ -995,7 +995,7 @@ var skill_data_BM = {
         "id": "20104",
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_blademaster_0_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Pulls foes and stuns them for 2 seg",
         "sub_info": "Cannot be deflected<br/>Decreases the movement speed of foes by 50% for 3 seg",
         "consume_sp": "1",
@@ -1027,7 +1027,7 @@ var skill_data_BM = {
         "id": "20104",
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_blademaster_0_5.png",
-        "main_info1": "Deals 12~14 damage up to 5 foes",
+        "main_info1": "Causa Dano de 12~14 up to 5 foes",
         "main_info2": "Pulls foes",
         "sub_info": "Cannot be deflected",
         "consume_sp": null,
@@ -1059,7 +1059,7 @@ var skill_data_BM = {
         "id": "20104",
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_blademaster_0_5.png",
-        "main_info1": "Deals 12~14 damage up to 5 foes",
+        "main_info1": "Causa Dano de 12~14 up to 5 foes",
         "main_info2": "Pulls foes",
         "sub_info": "Generates 1 chi per target hit<br/>Cannot be deflected",
         "consume_sp": null,
@@ -1091,7 +1091,7 @@ var skill_data_BM = {
         "id": "20104",
         "name": "Swallow Blade - 비연검",
         "icon": "skill_icon_blademaster_0_5.png",
-        "main_info1": "Deals 12~14 damage up to 5 foes",
+        "main_info1": "Causa Dano de 12~14 up to 5 foes",
         "main_info2": "Pulls foes and dazes them for 2 seg",
         "sub_info": "Generates 1 chi per target hit<br/>Cannot be deflected",
         "consume_sp": null,
@@ -1142,7 +1142,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1174,7 +1174,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1187,7 +1187,7 @@ var skill_data_BM = {
         "id": "20105",
         "name": "Parry - 칼날치기",
         "icon": "skill_icon_blademaster_1_19.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Deflects multiple attacks for 0.5 seg",
         "sub_info": "Maximum speed Stab is available on deflect<br/>Maximum speed World Sunder is available on deflect<br/>Generates 1 chi on deflect<br/>Offensive defense ability",
         "consume_sp": null,
@@ -1206,7 +1206,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1219,7 +1219,7 @@ var skill_data_BM = {
         "id": "20105",
         "name": "Parry - 칼날치기",
         "icon": "skill_icon_blademaster_1_19.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Deflects multiple attacks for 0.5 seg",
         "sub_info": "Increases the critical hit damage of the user by 10% for 3 seg on deflect<br/>Maximum speed Stab is available on deflect<br/>Maximum speed World Sunder is available on deflect<br/>Offensive defense ability",
         "consume_sp": null,
@@ -1238,7 +1238,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1251,7 +1251,7 @@ var skill_data_BM = {
         "id": "20105",
         "name": "Parry - 칼날치기",
         "icon": "skill_icon_blademaster_1_19.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Deflects multiple attacks for 0.5 seg",
         "sub_info": "Cooldown of Lightning Slash is decreased by 1 seg on deflect<br/>Increases the critical hit damage of the user by 10% for 3 seg on deflect<br/>Maximum speed Stab is available on deflect<br/>Maximum speed World Sunder is available on deflect<br/>Offensive defense ability",
         "consume_sp": null,
@@ -1270,7 +1270,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1302,7 +1302,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1334,7 +1334,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1366,7 +1366,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1398,7 +1398,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1430,7 +1430,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1462,7 +1462,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1494,7 +1494,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1526,7 +1526,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1558,7 +1558,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1590,7 +1590,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1622,7 +1622,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1654,7 +1654,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1686,7 +1686,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1718,7 +1718,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1731,8 +1731,8 @@ var skill_data_BM = {
         "id": "20108",
         "name": "Earth Sunder - 대지가르기",
         "icon": "skill_icon_blademaster_1_12.png",
-        "main_info1": "Deals 48~56 damage",
-        "main_info2": "Creates a damaging area that lasts for 4 seg<br/>Deals 48~56 damage to foes within the area over 4 seg",
+        "main_info1": "Causa Dano de 48~56",
+        "main_info2": "Creates a damaging area that lasts for 4 seg<br/>Causa Dano de 48~56 to foes within the area over 4 seg",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1750,7 +1750,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1763,8 +1763,8 @@ var skill_data_BM = {
         "id": "20108",
         "name": "Earth Sunder - 대지가르기",
         "icon": "skill_icon_blademaster_1_12.png",
-        "main_info1": "Deals 48~56 damage",
-        "main_info2": "Creates a damaging area that lasts for 4 seg<br/>Deals 48~56 damage to foes within the area over 4 seg",
+        "main_info1": "Causa Dano de 48~56",
+        "main_info2": "Creates a damaging area that lasts for 4 seg<br/>Causa Dano de 48~56 to foes within the area over 4 seg",
         "sub_info": "Generates 2 chi per hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1782,7 +1782,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1795,8 +1795,8 @@ var skill_data_BM = {
         "id": "20108",
         "name": "Earth Sunder - 대지가르기",
         "icon": "skill_icon_blademaster_1_12.png",
-        "main_info1": "Deals 48~56 damage",
-        "main_info2": "Creates a damaging area that lasts for 4 seg<br/>Deals 48~56 damage to foes within the area over 4 seg",
+        "main_info1": "Causa Dano de 48~56",
+        "main_info2": "Creates a damaging area that lasts for 4 seg<br/>Causa Dano de 48~56 to foes within the area over 4 seg",
         "sub_info": "Damage doubled on consecutive hit<br/>Generates 2 chi per hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -1814,7 +1814,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1827,7 +1827,7 @@ var skill_data_BM = {
         "id": "20110",
         "name": "Upward Slash - 올려베기",
         "icon": "skill_icon_blademaster_0_10.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": null,
         "consume_sp": "2",
@@ -1846,7 +1846,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1859,7 +1859,7 @@ var skill_data_BM = {
         "id": "20110",
         "name": "Upward Slash - 올려베기",
         "icon": "skill_icon_blademaster_0_10.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": null,
         "consume_sp": "1",
@@ -1878,7 +1878,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1891,7 +1891,7 @@ var skill_data_BM = {
         "id": "20110",
         "name": "Upward Slash - 올려베기",
         "icon": "skill_icon_blademaster_0_10.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": null,
         "consume_sp": "1",
@@ -1910,7 +1910,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1923,7 +1923,7 @@ var skill_data_BM = {
         "id": "20110",
         "name": "Upward Slash - 올려베기",
         "icon": "skill_icon_blademaster_0_10.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": "Soulblades are used to attack instead while the user is conducting soulblades",
         "consume_sp": "1",
@@ -1942,7 +1942,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1955,7 +1955,7 @@ var skill_data_BM = {
         "id": "20110",
         "name": "Upward Slash - 올려베기",
         "icon": "skill_icon_blademaster_0_10.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": "Cooldown of Upward Slash is refreshed on deflect<br/>Soulblades are used to attack instead while the user is conducting soulblades",
         "consume_sp": "1",
@@ -1974,7 +1974,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1987,7 +1987,7 @@ var skill_data_BM = {
         "id": "20110",
         "name": "Upward Slash - 올려베기",
         "icon": "skill_icon_blademaster_0_10.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": null,
         "consume_sp": "1",
@@ -2006,7 +2006,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2019,7 +2019,7 @@ var skill_data_BM = {
         "id": "20110",
         "name": "Upward Slash - 올려베기",
         "icon": "skill_icon_blademaster_0_10.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": "Cooldown of Sky Dance is refreshed on deflect",
         "consume_sp": "1",
@@ -2038,7 +2038,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2052,7 +2052,7 @@ var skill_data_BM = {
         "name": "Escapar",
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escapa de Caido, inconsciente",
-        "main_info2": "Deals 12~14 damage",
+        "main_info2": "Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2070,7 +2070,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2084,7 +2084,7 @@ var skill_data_BM = {
         "name": "Escapar",
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Deals 12~14 damage",
+        "main_info2": "Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2102,7 +2102,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2116,7 +2116,7 @@ var skill_data_BM = {
         "name": "Escapar",
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2134,7 +2134,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2148,7 +2148,7 @@ var skill_data_BM = {
         "name": "Escapar",
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2166,7 +2166,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2180,7 +2180,7 @@ var skill_data_BM = {
         "name": "Escapar",
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário fica invulnerável por 1 seg após o uso<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2198,7 +2198,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2212,7 +2212,7 @@ var skill_data_BM = {
         "name": "Escapar",
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
+        "main_info2": "Knocks foes back 11m<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2230,7 +2230,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2244,7 +2244,7 @@ var skill_data_BM = {
         "name": "Escapar",
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
+        "main_info2": "Knocks foes back 11m<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2262,7 +2262,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2276,7 +2276,7 @@ var skill_data_BM = {
         "name": "Escapar",
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
+        "main_info2": "Knocks foes back 11m<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 30% for 6 seg<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2294,7 +2294,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2308,7 +2308,7 @@ var skill_data_BM = {
         "name": "Escapar",
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -2326,7 +2326,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2340,7 +2340,7 @@ var skill_data_BM = {
         "name": "Escapar",
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
@@ -2358,7 +2358,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2372,7 +2372,7 @@ var skill_data_BM = {
         "name": "Escapar",
         "icon": "skill_icon_blademaster_0_11.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Deals 50% chi damage",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
@@ -2390,7 +2390,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2422,7 +2422,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2454,7 +2454,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2486,7 +2486,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2518,7 +2518,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2550,7 +2550,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2582,7 +2582,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2614,7 +2614,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2646,7 +2646,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2678,12 +2678,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2710,12 +2710,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2742,7 +2742,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2774,7 +2774,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2806,7 +2806,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2838,7 +2838,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2870,7 +2870,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2902,7 +2902,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2934,7 +2934,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2966,7 +2966,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2979,9 +2979,9 @@ var skill_data_BM = {
         "id": "20127",
         "name": "Front Kick - 앞차기",
         "icon": "skill_icon_blademaster_0_35.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
-        "sub_info": "Breaks defense<br/>Causes foes to bleed (1 stack)<br/>Stuns defense broken foes for 2 seg<br/>Stuns casting foes for 2 seg",
+        "sub_info": "Breaks defense<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Stuns defense broken foes for 2 seg<br/>Stuns casting foes for 2 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2998,7 +2998,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3011,9 +3011,9 @@ var skill_data_BM = {
         "id": "20127",
         "name": "Front Kick - 앞차기",
         "icon": "skill_icon_blademaster_0_35.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
-        "sub_info": "Breaks defense<br/>Causes foes to bleed (1 stack)<br/>Stuns defense broken foes for 2 seg<br/>Stuns casting foes for 2 seg",
+        "sub_info": "Breaks defense<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Stuns defense broken foes for 2 seg<br/>Stuns casting foes for 2 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3030,7 +3030,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3043,9 +3043,9 @@ var skill_data_BM = {
         "id": "20127",
         "name": "Front Kick - 앞차기",
         "icon": "skill_icon_blademaster_0_35.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks foes down for 2 seg",
-        "sub_info": "Breaks defense<br/>Causes foes to bleed (1 stack)<br/>Stuns defense broken foes for 2 seg<br/>Stuns casting foes for 2 seg",
+        "sub_info": "Breaks defense<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Stuns defense broken foes for 2 seg<br/>Stuns casting foes for 2 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3062,7 +3062,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3075,9 +3075,9 @@ var skill_data_BM = {
         "id": "20127",
         "name": "Front Kick - 앞차기",
         "icon": "skill_icon_blademaster_0_35.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
-        "sub_info": "Maximum speed Stab is available on hit<br/>Maximum speed World Sunder is available on hit<br/>Breaks defense<br/>Causes foes to bleed (1 stack)<br/>Stuns defense broken foes for 2 seg<br/>Stuns casting foes for 2 seg",
+        "sub_info": "Maximum speed Stab is available on hit<br/>Maximum speed World Sunder is available on hit<br/>Breaks defense<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Stuns defense broken foes for 2 seg<br/>Stuns casting foes for 2 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3094,7 +3094,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3126,12 +3126,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3158,12 +3158,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3190,12 +3190,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3222,12 +3222,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3254,7 +3254,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3267,9 +3267,9 @@ var skill_data_BM = {
         "id": "20129",
         "name": "Crash - 추락",
         "icon": "skill_icon_blademaster_0_37.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
-        "sub_info": "Ends the target's airborne status<br/>Causes foes to bleed (1 stack)<br/>Knocks the airborne foe down for 2 seg<br/>Knocks nearby foes down for 2 seg<br/>Increases the evade chance of the user by 100% during use",
+        "sub_info": "Ends the target's airborne status<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Knocks the airborne foe down for 2 seg<br/>Knocks nearby foes down for 2 seg<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3286,12 +3286,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3301,7 +3301,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 82~95 damage",
         "main_info2": null,
-        "sub_info": "Ends the target's airborne status<br/>Causes foes to bleed (1 stack)<br/>Knocks the airborne foe down for 2 seg<br/>Knocks nearby foes down for 2 seg<br/>Increases the evade chance of the user by 100% during use",
+        "sub_info": "Ends the target's airborne status<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Knocks the airborne foe down for 2 seg<br/>Knocks nearby foes down for 2 seg<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3318,12 +3318,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3333,7 +3333,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_37.png",
         "main_info1": "Deals 82~95 damage",
         "main_info2": null,
-        "sub_info": "Ends the target's airborne status<br/>Deals 83~97 damage to nearby foes over 10 seg<br/>Causes foes to bleed (1 stack)<br/>Knocks the airborne foe down for 2 seg<br/>Knocks nearby foes down for 2 seg<br/>Increases the evade chance of the user by 100% during use",
+        "sub_info": "Ends the target's airborne status<br/>Deals 83~97 damage to nearby foes over 10 seg<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Knocks the airborne foe down for 2 seg<br/>Knocks nearby foes down for 2 seg<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3350,12 +3350,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3382,7 +3382,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3414,7 +3414,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3446,7 +3446,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3478,7 +3478,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3510,7 +3510,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3524,7 +3524,7 @@ var skill_data_BM = {
         "name": "Retaliate - 받아치기",
         "icon": "skill_icon_blademaster_0_51.png",
         "main_info1": "Counters an attack for 0.8 seg",
-        "main_info2": "Deals 16~18 damage on counter<br/>Knocks the countered foe down for 3 seg on counter",
+        "main_info2": "Causa Dano de 16~18 on counter<br/>Knocks the countered foe down for 3 seg on counter",
         "sub_info": null,
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -3542,7 +3542,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3574,12 +3574,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3606,12 +3606,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3638,7 +3638,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3670,7 +3670,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3702,7 +3702,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3734,7 +3734,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3766,7 +3766,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3798,7 +3798,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3830,7 +3830,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3862,7 +3862,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3894,7 +3894,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3926,7 +3926,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3958,7 +3958,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3990,7 +3990,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4022,7 +4022,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4054,7 +4054,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4086,7 +4086,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4118,7 +4118,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4150,7 +4150,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4182,12 +4182,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4214,12 +4214,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4246,12 +4246,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4278,12 +4278,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4310,12 +4310,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4342,12 +4342,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4374,7 +4374,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4406,7 +4406,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4438,7 +4438,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4470,12 +4470,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4485,7 +4485,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_19.png",
         "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
-        "sub_info": "Causes foes to bleed (1 stack)<br/>Skill speed accelerates on recast",
+        "sub_info": "Causa Sangramento ao Inimigo (1 acúmulo)<br/>Skill speed accelerates on recast",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4502,12 +4502,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4517,7 +4517,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_19.png",
         "main_info1": "Causa Dano de 24~28 ",
         "main_info2": null,
-        "sub_info": "Flash Draw is available on critical hit<br/>Causes foes to bleed (1 stack)<br/>Skill speed accelerates on recast",
+        "sub_info": "Flash Draw is available on critical hit<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Skill speed accelerates on recast",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4534,12 +4534,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4566,7 +4566,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4598,7 +4598,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4630,7 +4630,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4662,7 +4662,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4694,7 +4694,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4726,7 +4726,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4758,7 +4758,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4790,7 +4790,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4822,7 +4822,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4837,7 +4837,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_21.png",
         "main_info1": "Deals 78~91 damage",
         "main_info2": null,
-        "sub_info": "Deals 12~14 damage and knocks the foe down for 3 seg after 3 seg<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
+        "sub_info": "Causa Dano de 12~14 and knocks the foe down for 3 seg after 3 seg<br/>Deals an additional 78~91 damage to dazed, stunned, seized, force gripped foes",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4854,7 +4854,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4886,12 +4886,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4918,7 +4918,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4950,7 +4950,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4982,7 +4982,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5014,7 +5014,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5046,7 +5046,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5078,7 +5078,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5110,7 +5110,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5142,7 +5142,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5174,7 +5174,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5206,7 +5206,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5238,7 +5238,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5270,7 +5270,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5302,7 +5302,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5334,7 +5334,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5366,7 +5366,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5398,7 +5398,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5430,7 +5430,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5462,7 +5462,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5494,7 +5494,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5526,7 +5526,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5539,7 +5539,7 @@ var skill_data_BM = {
         "id": "20233",
         "name": "Vital Slash - 급소베기",
         "icon": "skill_icon_blademaster_0_63.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
         "sub_info": "Deals an additional 42~49 damage to downed, dazed, stunned, force gripped, seized, suppressed foes<br/>Deals an additional 42~49 damage to foes with Soulblade Tempest",
         "consume_sp": "3",
@@ -5558,12 +5558,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5571,7 +5571,7 @@ var skill_data_BM = {
         "id": "20233",
         "name": "Vital Slash - 급소베기",
         "icon": "skill_icon_blademaster_0_63.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
         "sub_info": "Gera 1 Chi quando Crítica<br/>Deals an additional 42~49 damage to downed, dazed, stunned, force gripped, seized, suppressed foes<br/>Deals an additional 42~49 damage to foes with Soulblade Tempest",
         "consume_sp": "3",
@@ -5590,12 +5590,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5603,7 +5603,7 @@ var skill_data_BM = {
         "id": "20233",
         "name": "Vital Slash - 급소베기",
         "icon": "skill_icon_blademaster_0_63.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
         "sub_info": "Cooldown of Flash of Light is decreased by 1 seg on critical hit<br/>Gera 1 Chi quando Crítica<br/>Deals an additional 42~49 damage to downed, dazed, stunned, force gripped, seized, suppressed foes<br/>Deals an additional 42~49 damage to foes with Soulblade Tempest",
         "consume_sp": "3",
@@ -5622,12 +5622,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5635,7 +5635,7 @@ var skill_data_BM = {
         "id": "20233",
         "name": "Vital Slash - 급소베기",
         "icon": "skill_icon_blademaster_0_63.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
         "sub_info": "Breaks defense<br/>Stuns defense broken foes for 2 seg<br/>Disables defense abilities of defense broken foes for 8 seg<br/>Gera 1 Chi quando Crítica<br/>Deals an additional 42~49 damage to downed, dazed, stunned, force gripped, seized, suppressed foes<br/>Deals an additional 42~49 damage to foes with Soulblade Tempest",
         "consume_sp": "3",
@@ -5654,7 +5654,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5686,7 +5686,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5718,7 +5718,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5750,7 +5750,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5782,7 +5782,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5814,7 +5814,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5846,7 +5846,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5878,7 +5878,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5910,7 +5910,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5942,7 +5942,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5974,7 +5974,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6006,7 +6006,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6038,7 +6038,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6070,7 +6070,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6102,7 +6102,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6134,7 +6134,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6166,7 +6166,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6198,7 +6198,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6230,7 +6230,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6262,7 +6262,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6294,7 +6294,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6326,7 +6326,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6339,7 +6339,7 @@ var skill_data_BM = {
         "id": "20604",
         "name": "Blade Blast Soul - 폭검령",
         "icon": "skill_icon_blademaster_1_17.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
         "sub_info": "Generates 4 chi on hit",
         "consume_sp": null,
@@ -6358,7 +6358,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6390,7 +6390,7 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6405,7 +6405,7 @@ var skill_data_BM = {
         "icon": "skill_icon_swordmaster_2_23.png",
         "main_info1": "Deals 60~70 damage",
         "main_info2": "Disponível enquanto Espiritualizado",
-        "sub_info": "Causes foes to bleed (1 stack)<br/>Skill speed accelerates on recast<br/>Generates 2 additional chi on critical hit<br/>Increases the critical hit chance of the user by 10% for 3 seg<br/>Não gera ameaça",
+        "sub_info": "Causa Sangramento ao Inimigo (1 acúmulo)<br/>Skill speed accelerates on recast<br/>Generates 2 additional chi on critical hit<br/>Increases the critical hit chance of the user by 10% for 3 seg<br/>Não gera ameaça",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -6422,12 +6422,12 @@ var skill_data_BM = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     }

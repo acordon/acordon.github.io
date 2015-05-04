@@ -33,9 +33,9 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_MistSlash_Lv1": {
         "id": "25000",
-        "name": "Mist Slash - 안개베기",
+        "name": "Corte Nebuloso",
         "icon": "skill_icon_assassin_0_4.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -54,20 +54,20 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_MistSlash_Lv11": {
         "id": "25000",
-        "name": "Mist Slash - 안개베기",
+        "name": "Corte Nebuloso",
         "icon": "skill_icon_assassin_0_4.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -86,22 +86,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_MistSlash_Lv12": {
         "id": "25000",
-        "name": "Mist Slash - 안개베기",
+        "name": "Corte Nebuloso",
         "icon": "skill_icon_assassin_0_4.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 additional chi on critical hit",
+        "sub_info": "Gera 1 Chi Adicional ao Críticar",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -118,22 +118,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_MistSlash_Lv13": {
         "id": "25000",
-        "name": "Mist Slash - 안개베기",
+        "name": "Corte Nebuloso",
         "icon": "skill_icon_assassin_0_4.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 additional chi on critical hit<br/>Causes foes to bleed (1 stack)",
+        "sub_info": "Gera 1 Chi Adicional ao Críticar<br/>Causa Sangramento ao Inimigo (1 acúmulo)",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -150,22 +150,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_MistSlash_Lv14": {
         "id": "25000",
-        "name": "Mist Slash - 안개베기",
+        "name": "Corte Nebuloso",
         "icon": "skill_icon_assassin_0_4.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Deals an additional 3~4 damage to dazed, stunned foes<br/>Generates 1 additional chi on critical hit<br/>Causes foes to bleed (1 stack)",
+        "sub_info": "Causa Dano Adicional de 3~4 à inimigo Atordoado, Tonto<br/>Gera 1 Chi Adicional ao Críticar<br/>Causa Sangramento ao Inimigo (1 acúmulo)",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -182,22 +182,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_MistSlash_Lv15": {
         "id": "25000",
-        "name": "Mist Slash - 안개베기",
+        "name": "Corte Nebuloso",
         "icon": "skill_icon_assassin_0_4.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Deals an additional 3~4 damage to dazed, stunned foes<br/>Generates 1 additional chi on critical hit<br/>Causes foes to bleed (1 stack)<br/>Next Heart Stab has guaranteed critical hit on critical hit",
+        "sub_info": "Causa Dano Adicional de 3~4 à inimigo Atordoado, Tonto<br/>Gera 1 Chi Adicional ao Críticar<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Garantia de Crítico no próximo Estocada no Coração",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -214,22 +214,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_MistSlash_Lv21": {
         "id": "25000",
-        "name": "Mist Slash - 안개베기",
+        "name": "Corte Nebuloso",
         "icon": "skill_icon_assassin_0_4.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of the damage dealt<br/>Generates 1 additional chi on critical hit",
+        "sub_info": "Cura o Usuário em 5% do Dano Causado<br/>Gera 1 Chi Adicional ao Críticar",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -246,22 +246,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_MistSlash_Lv22": {
         "id": "25000",
-        "name": "Mist Slash - 안개베기",
+        "name": "Corte Nebuloso",
         "icon": "skill_icon_assassin_0_4.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of the damage dealt<br/>Heals an additional 5% of the damage dealt on hitting the target's back<br/>Generates 1 additional chi on critical hit",
+        "sub_info": "Cura o Usuário em 5% do Dano Causado<br/>Cura um Adicional de 5% do Dano Causado ao atacar pelas costas<br/>Gera 1 Chi Adicional ao Críticar",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -278,22 +278,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_MistSlash_Lv23": {
         "id": "25000",
-        "name": "Mist Slash - 안개베기",
+        "name": "Corte Nebuloso",
         "icon": "skill_icon_assassin_0_4.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Leaf Sunder is available on critical hit<br/>Heals the user 5% of the damage dealt<br/>Heals an additional 5% of the damage dealt on hitting the target's back<br/>Generates 1 additional chi on critical hit",
+        "sub_info": "Salto da Folha é Habilitado ao Críticar<br/>Cura o Usuário em 5% do Dano Causado<br/>Cura um Adicional de 5% do Dano Causado ao atacar pelas costas<br/>Gera 1 Chi Adicional ao Críticar",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -310,22 +310,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_HeartStab_Lv1": {
         "id": "25003",
-        "name": "Heart Stab - 심장찌르기",
+        "name": "Estocada no Coração",
         "icon": "skill_icon_assassin_0_8.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
-        "sub_info": "Instantly used while stealthed",
+        "sub_info": "Pode ser Lançado Instantaneamente enquanto Invisível",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -342,22 +342,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_HeartStab_Lv11": {
         "id": "25003",
-        "name": "Heart Stab - 심장찌르기",
+        "name": "Estocada no Coração",
         "icon": "skill_icon_assassin_0_8.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
-        "sub_info": "Maintains stealth on hit while stealthed<br/>Instantly used while stealthed",
+        "sub_info": "Se mantém Invisível ao acertar enquanto Invisível<br/>Pode ser Lançado Instantaneamente enquanto Invisível",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -374,22 +374,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_HeartStab_Lv12": {
         "id": "25003",
-        "name": "Heart Stab - 심장찌르기",
+        "name": "Estocada no Coração",
         "icon": "skill_icon_assassin_0_8.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
-        "sub_info": "Instantly used on foes with 5 stacks of Deadly Poison<br/>Instantly used on dazed, stunned, seized, force gripped foes<br/>Instantly used while stealthed<br/>Maintains stealth on hit while stealthed",
+        "sub_info": "Pode ser Lançado Instantaneamente em inimigo com 5 acumulos de Veneno Mortal<br/>Pode ser Lançado Instantaneamente em inimigo Atordoado, Tonto, Apreendido ou Agarrado a Força<br/>Pode ser Lançado Instantaneamente enquanto Invisível<br/>Se mantém Invisível ao acertar enquanto Invisível",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -406,22 +406,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_HeartStab_Lv13": {
         "id": "25003",
-        "name": "Heart Stab - 심장찌르기",
+        "name": "Estocada no Coração",
         "icon": "skill_icon_assassin_0_8.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
-        "sub_info": "Instantly used on foes with 5 stacks of Deadly Poison<br/>Instantly used on dazed, stunned, seized, force gripped foes<br/>Instantly used while stealthed<br/>Maintains stealth on hit while stealthed",
+        "sub_info": "Pode ser Lançado Instantaneamente em inimigo com 5 acumulos de Veneno Mortal<br/>Pode ser Lançado Instantaneamente em inimigo Atordoado, Tonto, Apreendido ou Agarrado a Força<br/>Pode ser Lançado Instantaneamente enquanto Invisível<br/>Se mantém Invisível ao acertar enquanto Invisível",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -438,22 +438,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_HeartStab_Lv14": {
         "id": "25003",
-        "name": "Heart Stab - 심장찌르기",
+        "name": "Estocada no Coração",
         "icon": "skill_icon_assassin_0_8.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
-        "sub_info": "Increased skill speed<br/>Gera 1 Chi quando Crítica<br/>Shadow Kill is available on hitting dazed, stunned, seized, force gripped foes<br/>Instantly used on foes with 5 stacks of Deadly Poison<br/>Instantly used on dazed, stunned, seized, force gripped foes<br/>Instantly used while stealthed<br/>Maintains stealth on hit while stealthed",
+        "sub_info": "Aumenta a Velocidade da Habilidade<br/>Gera 1 Chi quando Crítica<br/>Morte Negra fica disponível ao certar um inimigo Atordoado, Tonto, Apreendido ou Agarrado a Força<br/>Pode ser Lançado Instantaneamente em inimigo com 5 acumulos de Veneno Mortal<br/>Pode ser Lançado Instantaneamente em inimigo Atordoado, Tonto, Apreendido ou Agarrado a Força<br/>Pode ser Lançado Instantaneamente enquanto Invisível<br/>Se mantém Invisível ao acertar enquanto Invisível",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -470,22 +470,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_HeartStab_Lv21": {
         "id": "25003",
-        "name": "Heart Stab - 심장찌르기",
+        "name": "Estocada no Coração",
         "icon": "skill_icon_assassin_0_8.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
-        "sub_info": "Cura o Usuario em 10% do Dano causado<br/>Instantly used on foes with 5 stacks of Deadly Poison<br/>Instantly used on dazed, stunned, seized, force gripped foes<br/>Instantly used while stealthed<br/>Maintains stealth on hit while stealthed",
+        "sub_info": "Cura o Usuario em 10% do Dano causado<br/>Pode ser Lançado Instantaneamente em inimigo com 5 acumulos de Veneno Mortal<br/>Pode ser Lançado Instantaneamente em inimigo Atordoado, Tonto, Apreendido ou Agarrado a Força<br/>Pode ser Lançado Instantaneamente enquanto Invisível<br/>Se mantém Invisível ao acertar enquanto Invisível",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -502,22 +502,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_HeartStab_Lv22": {
         "id": "25003",
-        "name": "Heart Stab - 심장찌르기",
+        "name": "Estocada no Coração",
         "icon": "skill_icon_assassin_0_8.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
-        "sub_info": "Heals the user 1% of their maximum health on hitting the target's back<br/>Cura o Usuario em 10% do Dano causado<br/>Instantly used on foes with 5 stacks of Deadly Poison<br/>Instantly used on dazed, stunned, seized, force gripped foes<br/>Instantly used while stealthed<br/>Maintains stealth on hit while stealthed",
+        "sub_info": "Cura o Usuário em 1% do HP Máximio ao atacar pelas Costas<br/>Cura o Usuario em 10% do Dano causado<br/>Pode ser Lançado Instantaneamente em inimigo com 5 acumulos de Veneno Mortal<br/>Pode ser Lançado Instantaneamente em inimigo Atordoado, Tonto, Apreendido ou Agarrado a Força<br/>Pode ser Lançado Instantaneamente enquanto Invisível<br/>Se mantém Invisível ao acertar enquanto Invisível",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -534,22 +534,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_HeartBomb_Lv31": {
         "id": "25003",
-        "name": "Firecracker - 진천뢰",
+        "name": "Explosivos",
         "icon": "skill_icon_assassin_0_50.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
-        "sub_info": "Causes foes to bleed (1 stack)",
+        "sub_info": "Causa Sangramento ao Inimigo (1 acúmulo)",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -566,22 +566,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_HeartBomb_Lv32": {
         "id": "25003",
-        "name": "Firecracker - 진천뢰",
+        "name": "Explosivos",
         "icon": "skill_icon_assassin_0_50.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
-        "sub_info": "Next Firecracker costs 2 less chi on critical hit<br/>Causes foes to bleed (1 stack)",
+        "sub_info": "Próxi mo Explosivos custa 2 Chi à menos ao Críticar<br/>Causa Sangramento ao Inimigo (1 acúmulo)",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -598,22 +598,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_HeartBomb_Lv33": {
         "id": "25003",
-        "name": "Firecracker - 진천뢰",
+        "name": "Explosivos",
         "icon": "skill_icon_assassin_0_50.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
-        "sub_info": "Deals an additional 18~21 damage to foes with 5 stacks of Bleed<br/>Next Firecracker costs 2 less chi on critical hit<br/>Causes foes to bleed (1 stack)",
+        "sub_info": "Causa um Dano Adicional de 18~21 em Inimigos com 5 Acúmulos de Sangramento<br/>Próximo Explosivos custa 2 Chi à menos ao Críticar<br/>Causa Sangramento ao Inimigo (1 acúmulo)",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -630,22 +630,22 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
     "Assassin_Disturb_WoodBlock_Lv1": {
         "id": "25005",
-        "name": "Block of Wood - 나무토막",
+        "name": "Defesa de Madeira",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 seg",
+        "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 seg on counter<br/>Generates 3 chi on Counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>Gera 3 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -662,7 +662,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -673,11 +673,11 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_WoodBlock_Lv11": {
         "id": "25005",
-        "name": "Block of Wood - 나무토막",
+        "name": "Defesa de Madeira",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 seg",
+        "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -694,7 +694,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -705,11 +705,11 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_WoodBlock_Lv12": {
         "id": "25005",
-        "name": "Block of Wood - 나무토막",
+        "name": "Defesa de Madeira",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 seg",
+        "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 seg if an attack isn't countered<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 seg if an attack isn't countered<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -726,7 +726,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -737,11 +737,11 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_WoodBlock_Lv13": {
         "id": "25005",
-        "name": "Block of Wood - 나무토막",
+        "name": "Defesa de Madeira",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 seg",
+        "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 2% of their maximum health over 5 seg on counter<br/>Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 seg if an attack isn't countered<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Heals the user 2% of their maximum health over 5 seg on counter<br/>Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 seg if an attack isn't countered<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -758,7 +758,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -769,11 +769,11 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_WoodBlock_Lv14": {
         "id": "25005",
-        "name": "Block of Wood - 나무토막",
+        "name": "Defesa de Madeira",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 seg",
+        "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable for 2 seg on counter<br/>Heals the user 2% of their maximum health over 5 seg on counter<br/>Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 seg if an attack isn't countered<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
+        "sub_info": "User is invulnerable for 2 seg on counter<br/>Heals the user 2% of their maximum health over 5 seg on counter<br/>Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 seg if an attack isn't countered<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -790,7 +790,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -801,11 +801,11 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_WoodBlock_Lv21": {
         "id": "25005",
-        "name": "Block of Wood - 나무토막",
+        "name": "Defesa de Madeira",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 seg",
+        "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "Gives Dandelion effect to the user and nearby allies<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Gives Dandelion effect to the user and nearby allies<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -822,7 +822,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -833,11 +833,11 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_WoodBlock_Lv22": {
         "id": "25005",
-        "name": "Block of Wood - 나무토막",
+        "name": "Defesa de Madeira",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 seg",
+        "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "Heals the user or allies 5% of their maximum health over 10 seg on entering stealth<br/>Gives Dandelion effect to the user and nearby allies<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Heals the user or allies 5% of their maximum health over 10 seg on entering stealth<br/>Gives Dandelion effect to the user and nearby allies<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -854,7 +854,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -865,11 +865,11 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_WoodBlock_Lv23": {
         "id": "25005",
-        "name": "Block of Wood - 나무토막",
+        "name": "Defesa de Madeira",
         "icon": "skill_icon_assassin_0_17.png",
-        "main_info1": "Counters an attack for 1.5 seg",
+        "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "User and allies are invulnerable for the next 1 attack on exiting stealth<br/>Heals the user or allies 5% of their maximum health over 10 seg on entering stealth<br/>Gives Dandelion effect to the user and nearby allies<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
+        "sub_info": "User and allies are invulnerable for the next 1 attack on exiting stealth<br/>Heals the user or allies 5% of their maximum health over 10 seg on entering stealth<br/>Gives Dandelion effect to the user and nearby allies<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -886,7 +886,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -897,11 +897,11 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_WoodBlock_Lv31": {
         "id": "25005",
-        "name": "Block of Wood - 나무토막",
+        "name": "Defesa de Madeira",
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Counters an attack for 1 seg",
         "main_info2": null,
-        "sub_info": "Deals 20% chi damage to the countered foe<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Deals 20% chi damage to the countered foe<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -918,7 +918,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -929,11 +929,11 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_WoodBlock_Lv32": {
         "id": "25005",
-        "name": "Block of Wood - 나무토막",
+        "name": "Defesa de Madeira",
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Counters an attack for 1 seg",
         "main_info2": null,
-        "sub_info": "Dazes the countered target for 2 seg on counter within 0.5 seg<br/>Deals 20% chi damage to the countered foe<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Dazes the countered target for 2 seg on counter within 0.5 seg<br/>Deals 20% chi damage to the countered foe<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -950,7 +950,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -961,11 +961,11 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_WoodBlock_Lv33": {
         "id": "25005",
-        "name": "Block of Wood - 나무토막",
+        "name": "Defesa de Madeira",
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Counters an attack for 1 seg",
         "main_info2": null,
-        "sub_info": "Blinds, deafens the countered target for 2 seg on counter<br/>Dazes the countered target for 2 seg on counter within 0.5 seg<br/>Deals 20% chi damage to the countered foe<br/>User is stealthed for 6 seg on counter<br/>Generates 4 chi on counter",
+        "sub_info": "Blinds, deafens the countered target for 2 seg on counter<br/>Dazes the countered target for 2 seg on counter within 0.5 seg<br/>Deals 20% chi damage to the countered foe<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -982,7 +982,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -995,7 +995,7 @@ var skill_data_AS = {
         "id": "25006",
         "name": "Mine - 지뢰",
         "icon": "skill_icon_assassin_0_28.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Knocks foes down for 3 seg<br/>Manually detonated using Detonate",
         "consume_sp": "3",
@@ -1014,7 +1014,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1027,7 +1027,7 @@ var skill_data_AS = {
         "id": "25006",
         "name": "Mine - 지뢰",
         "icon": "skill_icon_assassin_0_28.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Knocks foes down for 3 seg<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Manually detonated using Detonate",
         "consume_sp": "3",
@@ -1046,7 +1046,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1059,7 +1059,7 @@ var skill_data_AS = {
         "id": "25006",
         "name": "Mine - 지뢰",
         "icon": "skill_icon_assassin_0_28.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Knocks foes down for 3 seg<br/>Dazes foes with Deadly Poison for 3 seg<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Manually detonated using Detonate",
         "consume_sp": "3",
@@ -1078,7 +1078,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1091,7 +1091,7 @@ var skill_data_AS = {
         "id": "25006",
         "name": "Mine - 지뢰",
         "icon": "skill_icon_assassin_0_28.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Knocks foes down for 3 seg<br/>Dazes foes with Deadly Poison for 3 seg<br/>Knocks dazed, stunned foes into the air<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Manually detonated using Detonate",
         "consume_sp": "3",
@@ -1110,7 +1110,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1142,7 +1142,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1174,7 +1174,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1206,7 +1206,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1238,7 +1238,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1270,7 +1270,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1302,7 +1302,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1334,7 +1334,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1366,7 +1366,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1398,7 +1398,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1430,7 +1430,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1462,7 +1462,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1494,7 +1494,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1526,7 +1526,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1558,7 +1558,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1590,7 +1590,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1622,7 +1622,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1654,7 +1654,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1686,7 +1686,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1718,7 +1718,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1750,7 +1750,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1782,7 +1782,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1814,7 +1814,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1846,7 +1846,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1878,7 +1878,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1891,7 +1891,7 @@ var skill_data_AS = {
         "id": "25008",
         "name": "Assault - 급습",
         "icon": "skill_icon_assassin_0_1.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Charge to the target<br/>Stuns foes for 2 seg<br/>User is stealthed for 6 seg on hitting the target's back<br/>Generates 4 additional chi on entering stealth",
         "consume_sp": null,
@@ -1910,7 +1910,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1923,7 +1923,7 @@ var skill_data_AS = {
         "id": "25008",
         "name": "Assault - 급습",
         "icon": "skill_icon_assassin_0_1.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Charge to the target<br/>Stuns foes for 2 seg<br/>User is stealthed for 6 seg on hitting the target's back<br/>Generates 4 additional chi on entering stealth",
         "consume_sp": null,
@@ -1942,7 +1942,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1955,7 +1955,7 @@ var skill_data_AS = {
         "id": "25008",
         "name": "Assault - 급습",
         "icon": "skill_icon_assassin_0_1.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Charge to the target<br/>Stuns foes for 2 seg<br/>User is stealthed for 6 seg on hitting the target's back<br/>User is stealthed for 6 seg on critical hit<br/>Generates 4 additional chi on entering stealth",
         "consume_sp": null,
@@ -1974,7 +1974,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2006,7 +2006,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2038,7 +2038,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2070,7 +2070,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2102,7 +2102,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2134,7 +2134,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2166,7 +2166,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2198,7 +2198,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2230,7 +2230,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2262,7 +2262,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2275,7 +2275,7 @@ var skill_data_AS = {
         "id": "25010",
         "name": "Lightning Kick - 번개차기",
         "icon": "skill_icon_assassin_0_31.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": "Usuário fica invulnerável durante o uso",
         "sub_info": "Ignora Defesa",
         "consume_sp": "3",
@@ -2294,12 +2294,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2307,7 +2307,7 @@ var skill_data_AS = {
         "id": "25010",
         "name": "Lightning Kick - 번개차기",
         "icon": "skill_icon_assassin_0_31.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": "Usuário fica invulnerável durante o uso",
         "sub_info": "Ignora Defesa",
         "consume_sp": "2",
@@ -2326,12 +2326,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2339,7 +2339,7 @@ var skill_data_AS = {
         "id": "25010",
         "name": "Lightning Kick - 번개차기",
         "icon": "skill_icon_assassin_0_31.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": "Usuário fica invulnerável durante o uso",
         "sub_info": "Deals an additional 12~14 damage to Deadly Poisoned foes<br/>Ignora Defesa",
         "consume_sp": "2",
@@ -2358,12 +2358,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2371,7 +2371,7 @@ var skill_data_AS = {
         "id": "25010",
         "name": "Lightning Kick - 번개차기",
         "icon": "skill_icon_assassin_0_31.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": "Usuário fica invulnerável durante o uso",
         "sub_info": "Deals an additional 12~14 damage to Deadly Poisoned foes<br/>Generates 1 chi per target hit<br/>Ignora Defesa",
         "consume_sp": "2",
@@ -2390,12 +2390,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2422,12 +2422,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2454,12 +2454,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2486,7 +2486,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2518,7 +2518,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2550,7 +2550,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2661,7 +2661,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_59.png",
         "main_info1": "Causa Dano de 24~28  up to 5 foes",
         "main_info2": null,
-        "sub_info": "Applies 1 stack of Deadly Poison<br/>Deals 36~42 damage over 8 seg<br/>Disables defense abilities of foes for 8 seg",
+        "sub_info": "Applies 1 stack of Deadly Poison<br/>Causa Dano de 36~42 over 8 seg<br/>Disables defense abilities of foes for 8 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2710,7 +2710,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2742,7 +2742,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2774,7 +2774,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2806,7 +2806,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2838,7 +2838,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2870,7 +2870,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2998,12 +2998,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3011,7 +3011,7 @@ var skill_data_AS = {
         "id": "25016",
         "name": "Throwing Blade - 수리검",
         "icon": "skill_icon_assassin_0_7.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -3030,12 +3030,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3043,7 +3043,7 @@ var skill_data_AS = {
         "id": "25016",
         "name": "Throwing Blade - 수리검",
         "icon": "skill_icon_assassin_0_7.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -3062,12 +3062,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3075,9 +3075,9 @@ var skill_data_AS = {
         "id": "25016",
         "name": "Throwing Blade - 수리검",
         "icon": "skill_icon_assassin_0_7.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
-        "sub_info": "Leaf Sunder is available on critical hit",
+        "sub_info": "Salto da Folha é Habilitado ao Críticar",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -3094,12 +3094,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3126,7 +3126,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3158,7 +3158,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3171,7 +3171,7 @@ var skill_data_AS = {
         "id": "25017",
         "name": "Shadow Dagger - 그림자비수",
         "icon": "skill_icon_assassin_1_11.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Applies 1 stack of Deadly Poison<br/>Confines foes for 15 seg<br/>Confine decreases the movement speed of the target by 30%",
         "consume_sp": null,
@@ -3190,7 +3190,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3222,12 +3222,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3254,12 +3254,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3286,12 +3286,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3318,12 +3318,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3350,7 +3350,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3382,7 +3382,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3414,7 +3414,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3446,7 +3446,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3478,7 +3478,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3510,7 +3510,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3542,7 +3542,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3574,7 +3574,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3734,7 +3734,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3766,7 +3766,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3781,7 +3781,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_36.png",
         "main_info1": "Counters an attack for 1 seg",
         "main_info2": null,
-        "sub_info": "Move behind the countered foe. User is stealthed for 6 seg on counter<br/>Stuns the countered foe for 2 seg on counter",
+        "sub_info": "Move behind the countered foe. Usuário fica invisível por 6 seg ao conta-atacar<br/>Stuns the countered foe for 2 seg on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3798,7 +3798,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3830,7 +3830,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3862,7 +3862,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3875,7 +3875,7 @@ var skill_data_AS = {
         "id": "25032",
         "name": "Wistful Flight - 암연비각",
         "icon": "skill_icon_assassin_0_51.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
         "sub_info": "Knocks foes back into the air<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "1",
@@ -3894,12 +3894,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3926,12 +3926,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3958,12 +3958,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3990,12 +3990,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4022,12 +4022,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4054,12 +4054,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4118,7 +4118,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4150,12 +4150,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4182,12 +4182,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4214,12 +4214,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4227,7 +4227,7 @@ var skill_data_AS = {
         "id": "25041",
         "name": "Shadow Invasion - 그림자침입",
         "icon": "skill_icon_assassin_0_40.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
         "sub_info": "User is stealthed for 6 seg on hitting foes with Deadly Poison",
         "consume_sp": "1",
@@ -4246,7 +4246,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4278,12 +4278,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4310,7 +4310,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4323,7 +4323,7 @@ var skill_data_AS = {
         "id": "25045",
         "name": "Lightning Step - 뇌격보",
         "icon": "skill_icon_assassin_1_7.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": "Deals an additional 12~14 damage to Deadly Poisoned foes",
         "sub_info": "Deals 30~35 explosion damage per stack of Deadly Poison",
         "consume_sp": null,
@@ -4342,7 +4342,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4374,7 +4374,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4406,12 +4406,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4438,7 +4438,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4451,7 +4451,7 @@ var skill_data_AS = {
         "id": "25052",
         "name": "Poison Stab - 맹독찌르기",
         "icon": "skill_icon_swordmaster_2_20.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
         "sub_info": "Applies 1 stack of Deadly Poison",
         "consume_sp": null,
@@ -4470,7 +4470,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4502,7 +4502,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4534,7 +4534,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4566,7 +4566,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4598,7 +4598,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4630,7 +4630,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4662,7 +4662,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4694,7 +4694,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4726,7 +4726,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4758,7 +4758,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4790,7 +4790,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4822,7 +4822,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4835,7 +4835,7 @@ var skill_data_AS = {
         "id": "25120",
         "name": "Backstab - 척추찌르기",
         "icon": "skill_icon_assassin_0_21.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -4854,7 +4854,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4886,7 +4886,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4918,12 +4918,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4950,7 +4950,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4965,7 +4965,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_63.png",
         "main_info1": "Stuns foes for 2 seg",
         "main_info2": null,
-        "sub_info": "Deals 36~42 damage",
+        "sub_info": "Causa Dano de 36~42",
         "consume_sp": "4",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4982,7 +4982,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4997,7 +4997,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_63.png",
         "main_info1": "Stuns foes for 2 seg",
         "main_info2": null,
-        "sub_info": "Deals 36~42 damage",
+        "sub_info": "Causa Dano de 36~42",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5014,7 +5014,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5029,7 +5029,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_63.png",
         "main_info1": "Stuns foes for 2 seg",
         "main_info2": null,
-        "sub_info": "Deals 36~42 damage",
+        "sub_info": "Causa Dano de 36~42",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5046,7 +5046,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5061,7 +5061,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_63.png",
         "main_info1": "Stuns foes for 2 seg",
         "main_info2": null,
-        "sub_info": "Deals 36~42 damage<br/>Generates 1 chi per target hit",
+        "sub_info": "Causa Dano de 36~42<br/>Generates 1 chi per target hit",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5078,7 +5078,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5110,7 +5110,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5142,7 +5142,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5174,7 +5174,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5206,7 +5206,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5238,7 +5238,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5270,7 +5270,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5302,7 +5302,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5334,7 +5334,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5366,7 +5366,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5398,7 +5398,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5430,7 +5430,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5462,7 +5462,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5494,7 +5494,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5526,7 +5526,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5558,7 +5558,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5590,7 +5590,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5622,7 +5622,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5654,7 +5654,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5686,7 +5686,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5718,12 +5718,12 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5750,7 +5750,7 @@ var skill_data_AS = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",

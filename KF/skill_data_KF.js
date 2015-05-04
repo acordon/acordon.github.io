@@ -35,7 +35,7 @@ var skill_data_KF = {
         "id": "21000",
         "name": "Justice Fist - 정권",
         "icon": "skill_icon_kungfufighter_0_14.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -54,12 +54,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -67,7 +67,7 @@ var skill_data_KF = {
         "id": "21000",
         "name": "Justice Fist - 정권",
         "icon": "skill_icon_kungfufighter_0_14.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -86,12 +86,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -99,9 +99,9 @@ var skill_data_KF = {
         "id": "21000",
         "name": "Justice Fist - 정권",
         "icon": "skill_icon_kungfufighter_0_14.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Causes foes to bleed (1 stack)",
+        "sub_info": "Causa Sangramento ao Inimigo (1 acúmulo)",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -118,12 +118,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -131,9 +131,9 @@ var skill_data_KF = {
         "id": "21000",
         "name": "Justice Fist - 정권",
         "icon": "skill_icon_kungfufighter_0_14.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 additional chi on critical hit<br/>Causes foes to bleed (1 stack)",
+        "sub_info": "Gera 1 Chi Adicional ao Críticar<br/>Causa Sangramento ao Inimigo (1 acúmulo)",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -150,12 +150,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -163,9 +163,9 @@ var skill_data_KF = {
         "id": "21000",
         "name": "Justice Fist - 정권",
         "icon": "skill_icon_kungfufighter_0_14.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 additional chi on critical hit<br/>Causes foes to bleed (1 stack)<br/>Kaiten Kick is available on critical hit",
+        "sub_info": "Gera 1 Chi Adicional ao Críticar<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Kaiten Kick is available on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -182,12 +182,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -197,7 +197,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_63.png",
         "main_info1": "Deals 29~34 damage",
         "main_info2": null,
-        "sub_info": "Causes foes to bleed (1 stack)<br/>Spin Kick is available on critical hit",
+        "sub_info": "Causa Sangramento ao Inimigo (1 acúmulo)<br/>Spin Kick is available on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -214,12 +214,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -229,7 +229,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_63.png",
         "main_info1": "Deals 29~34 damage",
         "main_info2": null,
-        "sub_info": "Generates additional threat on hitting the target's front<br/>Causes foes to bleed (1 stack)<br/>Spin Kick is available on critical hit",
+        "sub_info": "Generates additional threat on hitting the target's front<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Spin Kick is available on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -246,12 +246,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -261,7 +261,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_63.png",
         "main_info1": "Deals 29~34 damage",
         "main_info2": null,
-        "sub_info": "Generates additional threat on hitting the target's front<br/>Causes foes to bleed (1 stack)<br/>Skill speed accelerates on recast<br/>Maximum speed on counter<br/>Spin Kick is available on critical hit",
+        "sub_info": "Generates additional threat on hitting the target's front<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Skill speed accelerates on recast<br/>Maximum speed on counter<br/>Spin Kick is available on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -278,12 +278,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -291,9 +291,9 @@ var skill_data_KF = {
         "id": "21000",
         "name": "Justice Fist - 정권",
         "icon": "skill_icon_kungfufighter_0_14.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of the damage dealt",
+        "sub_info": "Cura o Usuário em 5% do Dano Causado",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -310,12 +310,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -323,9 +323,9 @@ var skill_data_KF = {
         "id": "21000",
         "name": "Justice Fist - 정권",
         "icon": "skill_icon_kungfufighter_0_14.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of the damage dealt<br/>Increases the evade of the user by 10% during use",
+        "sub_info": "Cura o Usuário em 5% do Dano Causado<br/>Increases the evade of the user by 10% during use",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -342,12 +342,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -355,9 +355,9 @@ var skill_data_KF = {
         "id": "21000",
         "name": "Justice Fist - 정권",
         "icon": "skill_icon_kungfufighter_0_14.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of the damage dealt<br/>Increases the evade of the user by 10% during use<br/>Generates 1 chi on evade during use",
+        "sub_info": "Cura o Usuário em 5% do Dano Causado<br/>Increases the evade of the user by 10% during use<br/>Generates 1 chi on evade during use",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -374,12 +374,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -387,9 +387,9 @@ var skill_data_KF = {
         "id": "21000",
         "name": "Justice Fist - 정권",
         "icon": "skill_icon_kungfufighter_0_14.png",
-        "main_info1": "Deals 16~18 damage",
+        "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of the damage dealt<br/>Cooldown of Escape is decreased by 1 seg on hit<br/>Increases the evade of the user by 10% during use<br/>Generates 1 chi on evade during use<br/>Heals the user 1% of their maximum health on evade during use",
+        "sub_info": "Cura o Usuário em 5% do Dano Causado<br/>Cooldown of Escape is decreased by 1 seg on hit<br/>Increases the evade of the user by 10% during use<br/>Generates 1 chi on evade during use<br/>Heals the user 1% of their maximum health on evade during use",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -406,12 +406,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -438,7 +438,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -470,7 +470,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -502,7 +502,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -534,7 +534,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -566,7 +566,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -598,7 +598,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -611,7 +611,7 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Elbow Strike - 이문정주",
         "icon": "skill_icon_kungfufighter_1_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Counter while attacking<br/>Offensive defense ability<br/>Twin Impact is used on counter<br/>Twin Impact deals deals 24~70 damage<br/>Twin Impact generates 3 chi<br/>Twin Impact increases the critical of the user by 10% for 1.5 seg on hit<br/>Twin Impact increases the defense of the user by 100% for 8 seg",
         "consume_sp": "1",
@@ -630,12 +630,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -643,7 +643,7 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Elbow Strike - 이문정주",
         "icon": "skill_icon_kungfufighter_1_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Counter while attacking<br/>Offensive defense ability<br/>Twin Impact is used on counter<br/>Twin Impact deals deals 24~70 damage<br/>Twin Impact penetrates deflect<br/>Twin Impact generates 3 chi<br/>Twin Impact increases the critical of the user by 10% for 1.5 seg on hit<br/>Twin Impact increases the defense of the user by 100% for 8 seg",
         "consume_sp": "1",
@@ -662,12 +662,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -675,7 +675,7 @@ var skill_data_KF = {
         "id": "21005",
         "name": "Elbow Strike - 이문정주",
         "icon": "skill_icon_kungfufighter_1_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Counter while attacking<br/>Offensive defense ability<br/>Burning Twin Impact is used on counter<br/>Burning Twin Impact deals deals 24~70 damage<br/>Burning Twin Impact penetrates deflect<br/>Burning Twin Impact generates 3 chi<br/>Burning Twin Impact increases the critical of the user by 15% for 3 seg on hit<br/>Burning Twin Impact increases the defense of the user by 100% for 8 seg<br/>Burning Twin Impact increases the critical hit damage of the user by 10% for 3 seg on hit",
         "consume_sp": "1",
@@ -694,12 +694,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -726,7 +726,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -758,7 +758,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -790,7 +790,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -822,7 +822,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -854,7 +854,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -886,7 +886,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -918,7 +918,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -950,7 +950,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -982,7 +982,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1014,7 +1014,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1046,7 +1046,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1078,7 +1078,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1110,7 +1110,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1142,7 +1142,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1174,7 +1174,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1206,7 +1206,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1238,7 +1238,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1270,7 +1270,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1302,7 +1302,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1334,7 +1334,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1366,7 +1366,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1398,7 +1398,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1430,12 +1430,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1462,12 +1462,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -1494,7 +1494,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1526,7 +1526,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1558,7 +1558,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1590,7 +1590,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1622,7 +1622,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1654,7 +1654,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1686,7 +1686,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1718,7 +1718,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1750,7 +1750,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1782,7 +1782,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1795,7 +1795,7 @@ var skill_data_KF = {
         "id": "21055",
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Inimigos são jogados 11 m e caem por 1 seg",
         "sub_info": null,
         "consume_sp": null,
@@ -1814,7 +1814,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1827,7 +1827,7 @@ var skill_data_KF = {
         "id": "21055",
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Inimigos são jogados 11 m e caem por 1 seg",
         "sub_info": "Cura o Usuario em 10% do Dano causado",
         "consume_sp": null,
@@ -1846,7 +1846,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1859,7 +1859,7 @@ var skill_data_KF = {
         "id": "21055",
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Inimigos são jogados 11 m e caem por 1 seg",
         "sub_info": "Cura o Usuario em 10% do Dano causado<br/>Heals the user 10% of their maximum health",
         "consume_sp": null,
@@ -1878,7 +1878,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1891,7 +1891,7 @@ var skill_data_KF = {
         "id": "21055",
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks foes back 11m and knocks them down for 3 seg",
         "sub_info": "Cura o Usuario em 10% do Dano causado<br/>Heals the user 10% of their maximum health<br/>Disables charge abilities of foes for 8 seg<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
@@ -1910,7 +1910,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1923,7 +1923,7 @@ var skill_data_KF = {
         "id": "21055",
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks foes back 11m and knocks them down for 3 seg",
         "sub_info": "Cura o Usuario em 10% do Dano causado<br/>Heals the user 10% of their maximum health<br/>Usuário fica invulnerável durante o uso<br/>Generates 2 chi on resist<br/>Disables charge abilities of foes for 8 seg<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
@@ -1942,7 +1942,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1955,7 +1955,7 @@ var skill_data_KF = {
         "id": "21055",
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks foes back 24m and knocks them unconscious for 30 seg",
         "sub_info": "Cura o Usuario em 10% do Dano causado<br/>Heals the user 10% of their maximum health<br/>Usuário fica invulnerável durante o uso<br/>Generates 2 chi on resist<br/>Disables charge abilities of foes for 8 seg<br/>Decreases the movement speed of foes by 30% for 8 seg<br/>Breaks defense<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
@@ -1974,7 +1974,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -1987,7 +1987,7 @@ var skill_data_KF = {
         "id": "21055",
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Stuns foes for 1 seg",
         "sub_info": "Cura o Usuario em 10% do Dano causado<br/>Heals the user 10% of their maximum health<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
@@ -2006,7 +2006,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2019,7 +2019,7 @@ var skill_data_KF = {
         "id": "21055",
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Stuns foes for 2 seg",
         "sub_info": "Cura o Usuario em 10% do Dano causado<br/>Heals the user 10% of their maximum health<br/>Cures the user of Internal Bleeding",
         "consume_sp": null,
@@ -2038,7 +2038,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2051,7 +2051,7 @@ var skill_data_KF = {
         "id": "21055",
         "name": "Rising Dragon - 승룡각",
         "icon": "skill_icon_kungfufighter_0_38.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Stuns foes for 2 seg<br/>Pulls foes",
         "sub_info": "Cura o Usuario em 10% do Dano causado<br/>Heals the user 10% of their maximum health<br/>Cures the user of Internal Bleeding<br/>Cannot be deflected",
         "consume_sp": null,
@@ -2070,7 +2070,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2102,7 +2102,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2134,7 +2134,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2166,7 +2166,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2198,7 +2198,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2230,7 +2230,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2454,7 +2454,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2486,7 +2486,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2518,12 +2518,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2550,12 +2550,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2582,12 +2582,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2597,7 +2597,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_20.png",
         "main_info1": "Causa dano de 42~49",
         "main_info2": null,
-        "sub_info": "Causes foes to bleed (1 stack)<br/>Tiger Strike can be recast 1 more time regardless of requirements on critical hit<br/>Ignora Defesa",
+        "sub_info": "Causa Sangramento ao Inimigo (1 acúmulo)<br/>Tiger Strike can be recast 1 more time regardless of requirements on critical hit<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2614,12 +2614,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2629,7 +2629,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_20.png",
         "main_info1": "Causa dano de 42~49",
         "main_info2": null,
-        "sub_info": "Causes foes to bleed (1 stack)<br/>Tiger Strike can be recast 2 more time regardless of requirements on critical hit<br/>Ignora Defesa",
+        "sub_info": "Causa Sangramento ao Inimigo (1 acúmulo)<br/>Tiger Strike can be recast 2 more time regardless of requirements on critical hit<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2646,12 +2646,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -2678,7 +2678,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2710,7 +2710,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2742,7 +2742,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2755,7 +2755,7 @@ var skill_data_KF = {
         "id": "21070",
         "name": "Heavy Blow - 강타",
         "icon": "skill_icon_kungfufighter_0_46.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": null,
         "consume_sp": null,
@@ -2774,7 +2774,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2787,7 +2787,7 @@ var skill_data_KF = {
         "id": "21070",
         "name": "Heavy Blow - 강타",
         "icon": "skill_icon_kungfufighter_0_46.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": "Deals an additional 54~63 damage to foes that resist knock-up",
         "consume_sp": null,
@@ -2806,7 +2806,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2819,7 +2819,7 @@ var skill_data_KF = {
         "id": "21070",
         "name": "Heavy Blow - 강타",
         "icon": "skill_icon_kungfufighter_0_46.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": "Deals an additional 54~63 damage to foes that resist knock-up",
         "consume_sp": null,
@@ -2838,7 +2838,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2851,7 +2851,7 @@ var skill_data_KF = {
         "id": "21070",
         "name": "Heavy Blow - 강타",
         "icon": "skill_icon_kungfufighter_0_46.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": "Deals an additional 54~63 damage to foes that resist knock-up",
         "consume_sp": null,
@@ -2870,7 +2870,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2883,7 +2883,7 @@ var skill_data_KF = {
         "id": "21070",
         "name": "Heavy Blow - 강타",
         "icon": "skill_icon_kungfufighter_0_46.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": "Deals an additional 54~63 damage to foes that resist knock-up",
         "consume_sp": null,
@@ -2902,7 +2902,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2915,7 +2915,7 @@ var skill_data_KF = {
         "id": "21070",
         "name": "Heavy Blow - 강타",
         "icon": "skill_icon_kungfufighter_0_46.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": "Deals an additional 54~63 damage to foes that resist knock-up<br/>Generates 2 additional chi on critical hit",
         "consume_sp": null,
@@ -2934,7 +2934,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2947,7 +2947,7 @@ var skill_data_KF = {
         "id": "21070",
         "name": "Heavy Blow - 강타",
         "icon": "skill_icon_kungfufighter_0_46.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": "Deals an additional 54~63 damage to foes that resist knock-up",
         "consume_sp": null,
@@ -2966,7 +2966,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -2979,7 +2979,7 @@ var skill_data_KF = {
         "id": "21070",
         "name": "Heavy Blow - 강타",
         "icon": "skill_icon_kungfufighter_0_46.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Lança o Inimigo ao Ar",
         "sub_info": "Deals an additional 54~63 damage to foes that resist knock-up",
         "consume_sp": null,
@@ -2998,7 +2998,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3011,7 +3011,7 @@ var skill_data_KF = {
         "id": "21090",
         "name": "Air Suppression - 공중제압",
         "icon": "skill_icon_kungfufighter_0_47.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Suppress the target for 3 seg",
         "sub_info": "Ends the target's airborne status<br/>Increases the evade chance of the user by 100% during use",
         "consume_sp": "1",
@@ -3030,7 +3030,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3043,7 +3043,7 @@ var skill_data_KF = {
         "id": "21106",
         "name": "Low Sweep - 다리걸기",
         "icon": "skill_icon_kungfufighter_0_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks foes down for 2 seg",
         "sub_info": null,
         "consume_sp": "3",
@@ -3062,7 +3062,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3075,7 +3075,7 @@ var skill_data_KF = {
         "id": "21106",
         "name": "Low Sweep - 다리걸기",
         "icon": "skill_icon_kungfufighter_0_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks foes down for 2 seg",
         "sub_info": null,
         "consume_sp": "2",
@@ -3094,7 +3094,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3107,7 +3107,7 @@ var skill_data_KF = {
         "id": "21106",
         "name": "Low Sweep - 다리걸기",
         "icon": "skill_icon_kungfufighter_0_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks foes down for 3 seg",
         "sub_info": null,
         "consume_sp": "2",
@@ -3126,7 +3126,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3139,7 +3139,7 @@ var skill_data_KF = {
         "id": "21106",
         "name": "Low Sweep - 다리걸기",
         "icon": "skill_icon_kungfufighter_0_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks foes down for 3 seg",
         "sub_info": "Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 25% for 6 seg",
         "consume_sp": "2",
@@ -3158,7 +3158,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3171,7 +3171,7 @@ var skill_data_KF = {
         "id": "21106",
         "name": "Low Sweep - 다리걸기",
         "icon": "skill_icon_kungfufighter_0_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks foes down for 3 seg",
         "sub_info": "Cannot be deflected<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 25% for 6 seg",
         "consume_sp": "2",
@@ -3190,7 +3190,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3203,7 +3203,7 @@ var skill_data_KF = {
         "id": "21106",
         "name": "Low Sweep - 다리걸기",
         "icon": "skill_icon_kungfufighter_0_5.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks foes down for 3 seg",
         "sub_info": "Leg Sweep can be recast up to 2 times<br/>Cannot be deflected<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 25% for 6 seg",
         "consume_sp": "2",
@@ -3222,7 +3222,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3254,7 +3254,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3286,7 +3286,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3318,7 +3318,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3350,7 +3350,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3574,7 +3574,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3606,7 +3606,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3739,7 +3739,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3771,7 +3771,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3803,7 +3803,7 @@ var skill_data_KF = {
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -3830,7 +3830,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3862,7 +3862,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3894,7 +3894,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3926,7 +3926,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3958,7 +3958,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -3990,7 +3990,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4022,7 +4022,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4054,7 +4054,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4086,7 +4086,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4118,7 +4118,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4150,7 +4150,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4182,12 +4182,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4214,12 +4214,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4227,7 +4227,7 @@ var skill_data_KF = {
         "id": "21111",
         "name": "Explosive Fist - 폭권",
         "icon": "skill_icon_kungfufighter_0_41.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": "2",
@@ -4246,12 +4246,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4259,7 +4259,7 @@ var skill_data_KF = {
         "id": "21111",
         "name": "Explosive Fist - 폭권",
         "icon": "skill_icon_kungfufighter_0_41.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Refunds chi on critical hit",
         "consume_sp": "2",
@@ -4278,12 +4278,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4291,7 +4291,7 @@ var skill_data_KF = {
         "id": "21111",
         "name": "Explosive Fist - 폭권",
         "icon": "skill_icon_kungfufighter_0_41.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Used at no cost on evade<br/>Refunds chi on critical hit",
         "consume_sp": "2",
@@ -4310,12 +4310,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4323,7 +4323,7 @@ var skill_data_KF = {
         "id": "21111",
         "name": "Explosive Fist - 폭권",
         "icon": "skill_icon_kungfufighter_0_41.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Ignora Defesa<br/>Used at no cost on evade<br/>Refunds chi on critical hit",
         "consume_sp": "2",
@@ -4342,12 +4342,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4355,7 +4355,7 @@ var skill_data_KF = {
         "id": "21111",
         "name": "Explosive Fist - 폭권",
         "icon": "skill_icon_kungfufighter_0_41.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Heals the user 1% of their maximum health on hit<br/>Generates additional threat<br/>Refunds chi on critical hit",
         "consume_sp": "2",
@@ -4374,12 +4374,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4387,7 +4387,7 @@ var skill_data_KF = {
         "id": "21111",
         "name": "Explosive Fist - 폭권",
         "icon": "skill_icon_kungfufighter_0_41.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
         "sub_info": "Used at no cost on counter<br/>Heals the user 1% of their maximum health on hit<br/>Heals the user 2% of their maximum health on critical hit<br/>Generates additional threat<br/>Refunds chi on critical hit",
         "consume_sp": "2",
@@ -4406,12 +4406,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4438,12 +4438,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4470,12 +4470,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4502,12 +4502,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4517,7 +4517,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_41.png",
         "main_info1": "Deals 31~36 damage",
         "main_info2": null,
-        "sub_info": "Heals the user 5% of the damage dealt",
+        "sub_info": "Cura o Usuário em 5% do Dano Causado",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4534,12 +4534,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4566,12 +4566,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4598,7 +4598,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4630,7 +4630,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4662,7 +4662,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4694,7 +4694,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4726,7 +4726,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4758,7 +4758,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4790,12 +4790,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -4803,7 +4803,7 @@ var skill_data_KF = {
         "id": "21115",
         "name": "Leaping Strike - 뛰어찍기",
         "icon": "skill_icon_kungfufighter_0_13.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Ignora Defesa",
         "consume_sp": null,
@@ -4822,7 +4822,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4835,7 +4835,7 @@ var skill_data_KF = {
         "id": "21115",
         "name": "Leaping Strike - 뛰어찍기",
         "icon": "skill_icon_kungfufighter_0_13.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg",
         "consume_sp": null,
@@ -4854,7 +4854,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4867,7 +4867,7 @@ var skill_data_KF = {
         "id": "21115",
         "name": "Leaping Strike - 뛰어찍기",
         "icon": "skill_icon_kungfufighter_0_13.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg",
         "consume_sp": null,
@@ -4886,7 +4886,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4899,7 +4899,7 @@ var skill_data_KF = {
         "id": "21115",
         "name": "Leaping Strike - 뛰어찍기",
         "icon": "skill_icon_kungfufighter_0_13.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Heals the user 100% of the damage dealt<br/>Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg",
         "consume_sp": null,
@@ -4918,7 +4918,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4931,7 +4931,7 @@ var skill_data_KF = {
         "id": "21115",
         "name": "Leaping Strike - 뛰어찍기",
         "icon": "skill_icon_kungfufighter_0_13.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": "Heals the user 100% of the damage dealt<br/>Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Usuário fica invulnerável durante o uso<br/>Usuário fica invulnerável por 1 seg após o uso",
         "consume_sp": null,
@@ -4950,7 +4950,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4963,7 +4963,7 @@ var skill_data_KF = {
         "id": "21115",
         "name": "Leaping Strike - 뛰어찍기",
         "icon": "skill_icon_kungfufighter_0_13.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks downed foes into the air",
         "sub_info": "Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg",
         "consume_sp": "1",
@@ -4982,7 +4982,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -4995,7 +4995,7 @@ var skill_data_KF = {
         "id": "21115",
         "name": "Leaping Strike - 뛰어찍기",
         "icon": "skill_icon_kungfufighter_0_13.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks downed foes into the air",
         "sub_info": "Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 50% for 6 seg",
         "consume_sp": "1",
@@ -5014,7 +5014,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5027,7 +5027,7 @@ var skill_data_KF = {
         "id": "21115",
         "name": "Leaping Strike - 뛰어찍기",
         "icon": "skill_icon_kungfufighter_0_13.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks downed foes into the air",
         "sub_info": "Ignora Defesa<br/>Increases the movement speed of the user by 35% for 5 seg<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of foes by 50% for 6 seg<br/>Rising Martial Dance is available on knocked up foes regardless of cooldown",
         "consume_sp": "1",
@@ -5046,7 +5046,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5078,7 +5078,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5110,12 +5110,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5124,7 +5124,7 @@ var skill_data_KF = {
         "name": "Circle Kick - 회전차기",
         "icon": "skill_icon_kungfufighter_0_58.png",
         "main_info1": "Escapa de Caido",
-        "main_info2": "Deals 12~14 damage<br/>Knocks foes back 2m",
+        "main_info2": "Causa Dano de 12~14<br/>Knocks foes back 2m",
         "sub_info": "Usuário fica caido por 1 seg se tomar dano durante o uso",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5142,7 +5142,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5174,7 +5174,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5187,7 +5187,7 @@ var skill_data_KF = {
         "id": "21134",
         "name": "Crescent Kick - 반달차기",
         "icon": "skill_icon_kungfufighter_0_57.png",
-        "main_info1": "Counters an attack for 1.5 seg",
+        "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": "Deals 18~21 damage on counter<br/>Dazes the countered target for 2 seg on counter",
         "sub_info": null,
         "consume_sp": null,
@@ -5206,7 +5206,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5238,7 +5238,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5270,7 +5270,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5302,12 +5302,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5315,7 +5315,7 @@ var skill_data_KF = {
         "id": "21144",
         "name": "Assail - 강습",
         "icon": "skill_icon_kungfufighter_0_10.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": "Knocks nearby foes down for 2 seg",
         "sub_info": null,
         "consume_sp": "3",
@@ -5334,12 +5334,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5347,7 +5347,7 @@ var skill_data_KF = {
         "id": "21145",
         "name": "Palm Strike - 통배권",
         "icon": "skill_icon_kungfufighter_1_24.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": null,
         "sub_info": "Pressure Point is available on hit<br/>Damage is multiplied by 1/2/3/4 per Pressure Point stage on the target<br/>Generates 2/3/4/6 additional chi per Pressure Point stage on the target<br/>Deals 50% chi damage to frozen foes. Breaks them out of freeze<br/>Cooldown of Palm Strike is decreased by 50% on use after evade<br/>Instantly used while Unleashed Flow<br/>Instantly used on evade",
         "consume_sp": null,
@@ -5366,7 +5366,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5398,12 +5398,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5430,7 +5430,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5462,7 +5462,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5494,7 +5494,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5526,7 +5526,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5558,7 +5558,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5590,7 +5590,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -5622,12 +5622,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5654,12 +5654,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -5988,7 +5988,7 @@ var skill_data_KF = {
         "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, inconsciente",
-        "main_info2": "Deals 12~14 damage",
+        "main_info2": "Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6006,7 +6006,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6020,7 +6020,7 @@ var skill_data_KF = {
         "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Deals 12~14 damage",
+        "main_info2": "Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6038,7 +6038,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6052,7 +6052,7 @@ var skill_data_KF = {
         "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6070,7 +6070,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6084,7 +6084,7 @@ var skill_data_KF = {
         "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6102,7 +6102,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6116,7 +6116,7 @@ var skill_data_KF = {
         "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Deals 12~14 damage",
+        "main_info2": "Escapa de Suprimido, apreendid, Agarrado a força<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário fica invulnerável por 1 seg após o uso<br/>Heals the user 5% of their maximum health ao escapar de Suprimido, apreendid, Agarrado a força",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6134,7 +6134,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6148,7 +6148,7 @@ var skill_data_KF = {
         "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
+        "main_info2": "Knocks foes back 11m<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6166,7 +6166,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6180,7 +6180,7 @@ var skill_data_KF = {
         "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
+        "main_info2": "Knocks foes back 11m<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of the target by 30% for 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6198,7 +6198,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6212,7 +6212,7 @@ var skill_data_KF = {
         "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Knocks foes back 11m<br/>Deals 12~14 damage",
+        "main_info2": "Knocks foes back 11m<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Disables charge abilities of foes for 6 seg<br/>Decreases the movement speed of the target by 30% for 6 seg<br/>Creates a barrier around the user equivalent to 10% of the user's maximum health that lasts for 5 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6230,7 +6230,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6244,7 +6244,7 @@ var skill_data_KF = {
         "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "3",
@@ -6262,7 +6262,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6276,7 +6276,7 @@ var skill_data_KF = {
         "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
@@ -6294,7 +6294,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6308,7 +6308,7 @@ var skill_data_KF = {
         "name": "Recuar",
         "icon": "skill_icon_kungfufighter_1_18.png",
         "main_info1": "Escapa de Caido, Atordoado,Tonto, inconsciente",
-        "main_info2": "Dazes foes for 2 seg<br/>Deals 12~14 damage",
+        "main_info2": "Dazes foes for 2 seg<br/>Causa Dano de 12~14",
         "sub_info": "Usuário fica invulnerável durante o uso<br/>Usuário é Invulnerável por 0.5 seg após o uso<br/>Invulnerabilidade acaba ao usar outra HHabilidade<br/>Deals 50% chi damage",
         "consume_sp": null,
         "ui_sp_heal_value": "5",
@@ -6326,7 +6326,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6339,7 +6339,7 @@ var skill_data_KF = {
         "id": "21255",
         "name": "Advancing Fist - 진격권",
         "icon": "skill_icon_kungfufighter_1_43.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Charge to the target",
         "sub_info": "Pressure Point is available on critical hit",
         "consume_sp": null,
@@ -6358,7 +6358,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6371,7 +6371,7 @@ var skill_data_KF = {
         "id": "21255",
         "name": "Advancing Fist - 진격권",
         "icon": "skill_icon_kungfufighter_1_43.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Charge to the target",
         "sub_info": "Pressure Point is available on critical hit",
         "consume_sp": null,
@@ -6390,7 +6390,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6403,7 +6403,7 @@ var skill_data_KF = {
         "id": "21255",
         "name": "Advancing Fist - 진격권",
         "icon": "skill_icon_kungfufighter_1_43.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Knocks foes down for 2 seg<br/>Charge to the target",
         "sub_info": "Pressure Point is available on critical hit",
         "consume_sp": null,
@@ -6422,7 +6422,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6435,7 +6435,7 @@ var skill_data_KF = {
         "id": "21255",
         "name": "Advancing Fist - 진격권",
         "icon": "skill_icon_kungfufighter_1_43.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Knocks foes down for 2 seg<br/>Charge to the target",
         "sub_info": "Pressure Point is available on critical hit<br/>Disables defense abilities of foes for 6 seg",
         "consume_sp": null,
@@ -6454,7 +6454,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6467,7 +6467,7 @@ var skill_data_KF = {
         "id": "21255",
         "name": "Advancing Fist - 진격권",
         "icon": "skill_icon_kungfufighter_1_43.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Charge to the target",
         "sub_info": "Pressure Point is available on critical hit<br/>Usuário fica invulnerável durante o uso",
         "consume_sp": null,
@@ -6486,7 +6486,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6499,7 +6499,7 @@ var skill_data_KF = {
         "id": "21255",
         "name": "Advancing Fist - 진격권",
         "icon": "skill_icon_kungfufighter_1_43.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Charge to the target",
         "sub_info": "Pressure Point is available on critical hit<br/>Ignores charge ability disable<br/>Usuário fica invulnerável durante o uso",
         "consume_sp": null,
@@ -6518,7 +6518,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6531,7 +6531,7 @@ var skill_data_KF = {
         "id": "21255",
         "name": "Advancing Fist - 진격권",
         "icon": "skill_icon_kungfufighter_1_43.png",
-        "main_info1": "Deals 36~42 damage",
+        "main_info1": "Causa Dano de 36~42",
         "main_info2": "Charge to the target",
         "sub_info": "Pressure Point is available on critical hit<br/>Removes charge ability disable<br/>Usuário fica invulnerável durante o uso",
         "consume_sp": null,
@@ -6550,7 +6550,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6582,7 +6582,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6595,7 +6595,7 @@ var skill_data_KF = {
         "id": "21285",
         "name": "Flying Kick - 날아차기",
         "icon": "skill_icon_kungfufighter_0_48.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
         "sub_info": null,
         "consume_sp": null,
@@ -6614,7 +6614,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6628,7 +6628,7 @@ var skill_data_KF = {
         "name": "Flying Kick - 날아차기",
         "icon": "skill_icon_kungfufighter_0_48.png",
         "main_info1": "Stuns foes for 2 seg",
-        "main_info2": "Deals 12~14 damage",
+        "main_info2": "Causa Dano de 12~14",
         "sub_info": null,
         "consume_sp": "1",
         "ui_sp_heal_value": null,
@@ -6646,7 +6646,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6659,7 +6659,7 @@ var skill_data_KF = {
         "id": "21385",
         "name": "Blaze Kick - 비염각",
         "icon": "skill_icon_kungfufighter_1_13.png",
-        "main_info1": "Deals 12~14 damage",
+        "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks foes down for 2 seg",
         "sub_info": "Cannot be deflected<br/>Ignores charge ability disable",
         "consume_sp": null,
@@ -6678,7 +6678,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6710,12 +6710,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6742,12 +6742,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6774,12 +6774,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     },
@@ -6787,7 +6787,7 @@ var skill_data_KF = {
         "id": "21609",
         "name": "Pressure Point - 점혈",
         "icon": "buff_debuff_icon_01_38.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": "Applies Pressure Point that lasts for 10 seg",
         "sub_info": "Ignora Defesa<br/>Pressure Point decreases the movement speed of the target by 10%<br/>Gives the user Unleashed Flow that lasts for 10 seg<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow generates 10 chi",
         "consume_sp": "2",
@@ -6806,7 +6806,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6819,7 +6819,7 @@ var skill_data_KF = {
         "id": "21609",
         "name": "Pressure Point - 점혈",
         "icon": "buff_debuff_icon_01_38.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": "Applies Pressure Point that lasts for 10 seg",
         "sub_info": "Ignora Defesa<br/>Pressure Point decreases the movement speed of the target by 10%<br/>Gives the user Unleashed Flow that lasts for 10 seg<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow generates 10 chi",
         "consume_sp": "1",
@@ -6838,7 +6838,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6851,7 +6851,7 @@ var skill_data_KF = {
         "id": "21609",
         "name": "Pressure Point - 점혈",
         "icon": "buff_debuff_icon_01_38.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": "Applies Pressure Point that lasts for 10 seg",
         "sub_info": "Ignora Defesa<br/>Pressure Point decreases the movement speed of the target by 10%<br/>Whoever attacks the target with Pressure Point gains Vigor for 3 seg<br/>Vigor increases the critical hit damage of the holder by 1%. Stacks up to 10 times<br/>Gives the user Unleashed Flow that lasts for 10 seg<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow generates 10 chi",
         "consume_sp": "1",
@@ -6870,7 +6870,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6883,7 +6883,7 @@ var skill_data_KF = {
         "id": "21609",
         "name": "Pressure Point - 점혈",
         "icon": "buff_debuff_icon_01_38.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": "Applies Pressure Point that lasts for 10 seg",
         "sub_info": "Ignora Defesa<br/>Pressure Point can be stacked up to stage 4<br/>Damage is multiplied by 2/3/4 per Pressure Point stack on the target<br/>Pressure Point decreases the movement speed of the target by 10%<br/>Whoever attacks the target with Pressure Point gains Vigor for 3 seg<br/>Vigor increases the critical hit damage of the holder by 1%. Stacks up to 10 times<br/>Gives the user Unleashed Flow that lasts for 10 seg<br/>Unleashed Flow increases the critical of the user by 10/20/30/50% per stage<br/>Unleashed Flow increases the critical hit chance of the user by 100% at stage 4<br/>Unleashed Flow generates 10 chi",
         "consume_sp": "1",
@@ -6902,7 +6902,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6915,7 +6915,7 @@ var skill_data_KF = {
         "id": "21609",
         "name": "Pressure Point - 점혈",
         "icon": "buff_debuff_icon_01_38.png",
-        "main_info1": "Deals 48~56 damage",
+        "main_info1": "Causa Dano de 48~56",
         "main_info2": "Applies Pressure Point that lasts for 10 seg",
         "sub_info": "Ignora Defesa<br/>Pressure Point decreases the movement speed of the target by 30%<br/>Stuns foes with Pressure Point for 2 seg after they are hit 5 times. Removes their Pressure Point<br/>Knocks foes with Pressure Point down for 3 seg at the end of its effect<br/>Gives the user Unleashed Flow that lasts for 10 seg<br/>Unleashed Flow increases critical by 10%<br/>Unleashed Flow generates 10 chi<br/>Unleashed Flow increases the movement speed of the user by 15%",
         "consume_sp": "1",
@@ -6934,7 +6934,7 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
@@ -6966,12 +6966,12 @@ var skill_data_KF = {
             "2": {
                 "name": "Cast Time",
                 "type": "casting_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             },
             "3": {
                 "name": "Cooldown",
                 "type": "recycle_time",
-                "value": "Instant"
+                "value": "Instantâneo"
             }
         }
     }
