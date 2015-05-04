@@ -677,7 +677,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário fica invisível por 6 seg ao conta-atacar<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -709,7 +709,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 seg if an attack isn't countered<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
+        "sub_info": "Se nenhuma ataque for Contra-atacado Cria uma Barreira em volta do Usuário equivalente a 5% do HP Máximo que dura por 10 seg<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -741,7 +741,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "Heals the user 2% of their maximum health over 5 seg on counter<br/>Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 seg if an attack isn't countered<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
+        "sub_info": "Cura o Usuário em 2% do HP Máximo durante 5 seg ao Contra-atacar<br/>Se nenhuma ataque for Contra-atacado Cria uma Barreira em volta do Usuário equivalente a 5% do HP Máximo que dura por 10 seg<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -773,7 +773,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "User is invulnerable for 2 seg on counter<br/>Heals the user 2% of their maximum health over 5 seg on counter<br/>Creates a barrier around the user equivalent to 5% of the user's maximum health that lasts for 10 seg if an attack isn't countered<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
+        "sub_info": "O Usuário fica Invulnerável ao Contra-Atacar<br/>Cura o Usuário em 2% do HP Máximo durante 5 seg ao Contra-atacar<br/>Se nenhuma ataque for Contra-atacado Cria uma Barreira em volta do Usuário equivalente a 5% do HP Máximo que dura por 10 seg<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -805,7 +805,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "Gives Dandelion effect to the user and nearby allies<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
+        "sub_info": "Aplica um Efeito Dente-de-Leão ao Usuário e aos Aliados Próximos<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -837,7 +837,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "Heals the user or allies 5% of their maximum health over 10 seg on entering stealth<br/>Gives Dandelion effect to the user and nearby allies<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
+        "sub_info": "Regenera o Usuário ou Aliados em 5% do HP Máximo durante 10 seg ao ficar Invisível<br/>Aplica um Efeito Dente-de-Leão ao Usuário e aos Aliados Próximos<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -869,7 +869,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Contra-ataca  um Ataque durante 1.5 seg",
         "main_info2": null,
-        "sub_info": "User and allies are invulnerable for the next 1 attack on exiting stealth<br/>Heals the user or allies 5% of their maximum health over 10 seg on entering stealth<br/>Gives Dandelion effect to the user and nearby allies<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
+        "sub_info": "Usuário e Aliados ficam Invulneráveis ao Próximo ataque ao sair do Invisível<br/>Regenera o Usuário ou Aliados em 5% do HP Máximo durante 10 seg ao ficar Invisível<br/>Aplica um Efeito Dente-de-Leão ao Usuário e aos Aliados Próximos<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -901,7 +901,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Counters an attack for 1 seg",
         "main_info2": null,
-        "sub_info": "Deals 20% chi damage to the countered foe<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
+        "sub_info": "Causa Dano de 20% ao Chi do Inimigo Contra-atacado<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -933,7 +933,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Counters an attack for 1 seg",
         "main_info2": null,
-        "sub_info": "Dazes the countered target for 2 seg on counter within 0.5 seg<br/>Deals 20% chi damage to the countered foe<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
+        "sub_info": "Dazes the countered target for 2 seg on counter within 0.5 seg<br/>Causa Dano de 20% ao Chi do Inimigo Contra-atacado<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -965,7 +965,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_17.png",
         "main_info1": "Counters an attack for 1 seg",
         "main_info2": null,
-        "sub_info": "Blinds, deafens the countered target for 2 seg on counter<br/>Dazes the countered target for 2 seg on counter within 0.5 seg<br/>Deals 20% chi damage to the countered foe<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Generates 4 chi on counter",
+        "sub_info": "Blinds, deafens the countered target for 2 seg on counter<br/>Dazes the countered target for 2 seg on counter within 0.5 seg<br/>Causa Dano de 20% ao Chi do Inimigo Contra-atacado<br/>Usuário fica invisível por 6 seg ao conta-atacar<br/>Gera 4 Chi ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
