@@ -37,7 +37,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_1.png",
         "main_info1": "Causa Dano de 12~14",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per target hit",
+        "sub_info": "Gera 1 de Chi por Inimigo atacado",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -69,7 +69,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_1.png",
         "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per target hit",
+        "sub_info": "Gera 1 de Chi por Inimigo atacado",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -101,7 +101,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_1.png",
         "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per target hit<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
+        "sub_info": "Gera 1 de Chi por Inimigo atacado<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -133,7 +133,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_1.png",
         "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per target hit<br/>Gera 1 Chi Adicional ao Críticar<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
+        "sub_info": "Gera 1 de Chi por Inimigo atacado<br/>Gera 1 Chi Adicional ao Críticar<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -165,7 +165,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_1.png",
         "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per target hit<br/>Generates chi even when blocked, countered, deflected<br/>Gera 1 Chi Adicional ao Críticar<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
+        "sub_info": "Gera 1 de Chi por Inimigo atacado<br/>Generates chi even when blocked, countered, deflected<br/>Gera 1 Chi Adicional ao Críticar<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -197,7 +197,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_1.png",
         "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per target hit<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
+        "sub_info": "Gera 1 de Chi por Inimigo atacado<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -229,7 +229,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_1.png",
         "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Maximum speed Sunder is available on critical hit<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit<br/>Generates 1 chi per target hit",
+        "sub_info": "Maximum speed Sunder is available on critical hit<br/>Causa Sangramento ao Inimigo (1 acúmulo)<br/>Increases the critical of the user by 3% for 3 seg<br/>Critical increase stacks up to 10 times<br/>Critical increase stacks resets on critical hit<br/>Gera 1 de Chi por Inimigo atacado",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -261,7 +261,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_1.png",
         "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Cura o Usuário em 5% do Dano Causado<br/>Generates 1 chi per target hit",
+        "sub_info": "Cura o Usuário em 5% do Dano Causado<br/>Gera 1 de Chi por Inimigo atacado",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -293,7 +293,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_1.png",
         "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Cura o Usuário em 5% do Dano Causado<br/>Generates 1 chi per target hit<br/>Generates 1 chi on block during use<br/>Increases the block of the user by 20% during use",
+        "sub_info": "Cura o Usuário em 5% do Dano Causado<br/>Gera 1 de Chi por Inimigo atacado<br/>Generates 1 chi on block during use<br/>Increases the block of the user by 20% during use",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -325,7 +325,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_1.png",
         "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Cura o Usuário em 5% do Dano Causado<br/>Heals the user 2% of their maximum health over 5 seg on critical hit<br/>Generates 1 chi per target hit<br/>Generates 1 chi on block during use<br/>Increases the block of the user by 20% during use",
+        "sub_info": "Cura o Usuário em 5% do Dano Causado<br/>Heals the user 2% of their maximum health over 5 seg on critical hit<br/>Gera 1 de Chi por Inimigo atacado<br/>Generates 1 chi on block during use<br/>Increases the block of the user by 20% during use",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -1861,7 +1861,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_9.png",
         "main_info1": "Derruba o Inimigo por 3 seg",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Ignora Defesa<br/>Generates 1 chi per target hit<br/>Desabilita Habilidades de Investida dos Inimigos por 6 seg",
+        "sub_info": "Ignora Defesa<br/>Gera 1 de Chi por Inimigo atacado<br/>Desabilita Habilidades de Investida dos Inimigos por 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3141,7 +3141,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_62.png",
         "main_info1": "Deals 2~3 damage",
         "main_info2": "Tonteia o Inimigo por 2 seg",
-        "sub_info": "Generates 1 chi per target hit",
+        "sub_info": "Gera 1 de Chi por Inimigo atacado",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {

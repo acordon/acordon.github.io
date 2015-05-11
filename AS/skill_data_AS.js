@@ -2341,7 +2341,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_31.png",
         "main_info1": "Causa Dano de 48~56",
         "main_info2": "Usuário fica invulnerável durante o uso",
-        "sub_info": "Deals an additional 12~14 damage to Deadly Poisoned foes<br/>Ignora Defesa",
+        "sub_info": "Causa um Dano Adicional de 12~14 à Inimigos com Veneno Mortal<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2373,7 +2373,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_31.png",
         "main_info1": "Causa Dano de 48~56",
         "main_info2": "Usuário fica invulnerável durante o uso",
-        "sub_info": "Deals an additional 12~14 damage to Deadly Poisoned foes<br/>Generates 1 chi per target hit<br/>Ignora Defesa",
+        "sub_info": "Causa um Dano Adicional de 12~14 à Inimigos com Veneno Mortal<br/>Gera 1 de Chi por Inimigo atacado<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2437,7 +2437,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_31.png",
         "main_info1": "Causa Dano de 84~98",
         "main_info2": "Usuário fica invulnerável durante o uso",
-        "sub_info": "Deals an additional 18~21 damage to foes with 5 stacks of Deadly Poison<br/>Ignora Defesa",
+        "sub_info": "Causa um Dano Adicional de 18~21 à Inimigos com 5 acumulos de Veneno Mortal<br/>Ignora Defesa",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2465,11 +2465,11 @@ var skill_data_AS = {
     },
     "Assassin_Assassinate_SpiderWeb_Lv31": {
         "id": "25010",
-        "name": "Spider's Web - 거미줄",
+        "name": "Teia de Aranha",
         "icon": "skill_icon_assassin_0_29.png",
-        "main_info1": "Extends the duration of the target's down, airborne status up to 4 seg",
+        "main_info1": "Extende o tempo que o Inimigo fica Caido ou no Ar por 4 seg",
         "main_info2": null,
-        "sub_info": "Suspended target is released when they are hit",
+        "sub_info": "Inimigos Presos são Liberados ao serem atacados",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2497,11 +2497,11 @@ var skill_data_AS = {
     },
     "Assassin_Assassinate_SpiderWeb_Lv32": {
         "id": "25010",
-        "name": "Spider's Web - 거미줄",
+        "name": "Teia de Aranha",
         "icon": "skill_icon_assassin_0_29.png",
-        "main_info1": "Extends the duration of the target's down, airborne status up to 4 seg",
+        "main_info1": "Extende o tempo que o Inimigo fica Caido ou no Ar por 4 seg",
         "main_info2": null,
-        "sub_info": "Suspended target is released when they are hit",
+        "sub_info": "Inimigos Presos são Liberados ao serem atacados",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2529,11 +2529,11 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_PoisonBreath_Lv1": {
         "id": "25012",
-        "name": "Poison Wine - 풍독술",
+        "name": "Sopro Venenoso",
         "icon": "skill_icon_assassin_0_41.png",
-        "main_info1": "Causa dano de 42~49 over 2 hits",
+        "main_info1": "Causa dano de 42~49 em 2 ataques",
         "main_info2": null,
-        "sub_info": "Aplica 1 Acúmulo de Veneno Mortal",
+        "sub_info": "Aplica 1 Acúmulo de Veneno Mortal por ataque",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2561,11 +2561,11 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_PoisonBreath_Lv11": {
         "id": "25012",
-        "name": "Poison Wine - 풍독술",
+        "name": "Sopro Venenoso",
         "icon": "skill_icon_assassin_0_41.png",
-        "main_info1": "Deals 105~123 damage over 5 hits",
+        "main_info1": "Causa dano de 105~123 em 5 ataques",
         "main_info2": null,
-        "sub_info": "Aplica 1 Acúmulo de Veneno Mortal",
+        "sub_info": "Aplica 1 Acúmulo de Veneno Mortal por ataque",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2593,11 +2593,11 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_PoisonBreath_Lv12": {
         "id": "25012",
-        "name": "Poison Wine - 풍독술",
+        "name": "Sopro Venenoso",
         "icon": "skill_icon_assassin_0_41.png",
-        "main_info1": "Deals 147~172 damage over 5 hits",
+        "main_info1": "Causa dano de 147~172 em 5 ataques",
         "main_info2": null,
-        "sub_info": "Aplica 1 Acúmulo de Veneno Mortal",
+        "sub_info": "Aplica 1 Acúmulo de Veneno Mortal por ataque",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2625,11 +2625,11 @@ var skill_data_AS = {
     },
     "Assassin_Disturb_PoisonBreath_Lv13": {
         "id": "25012",
-        "name": "Poison Wine - 풍독술",
+        "name": "Sopro Venenoso",
         "icon": "skill_icon_assassin_0_41.png",
-        "main_info1": "Deals 147~172 damage over 5 hits",
+        "main_info1": "Causa dano de 147~172 em 5 ataques",
         "main_info2": null,
-        "sub_info": "Aplica 1 Acúmulo de Veneno Mortal<br/>Applies 2 stacks of Deadly Poison on critical hit",
+        "sub_info": "Aplica 1 Acúmulo de Veneno Mortal<br/>Aplica 2 Acúmulos de Veneno Mortal ao Críticar",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4324,7 +4324,7 @@ var skill_data_AS = {
         "name": "Lightning Step - 뇌격보",
         "icon": "skill_icon_assassin_1_7.png",
         "main_info1": "Causa Dano de 48~56",
-        "main_info2": "Deals an additional 12~14 damage to Deadly Poisoned foes",
+        "main_info2": "Causa um Dano Adicional de 12~14 à Inimigos com Veneno Mortal",
         "sub_info": "Deals 30~35 explosion damage per stack of Deadly Poison",
         "consume_sp": null,
         "ui_sp_heal_value": null,
@@ -5061,7 +5061,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_0_63.png",
         "main_info1": "Tonteia o Inimigo por 2 seg",
         "main_info2": null,
-        "sub_info": "Causa Dano de 36~42<br/>Generates 1 chi per target hit",
+        "sub_info": "Causa Dano de 36~42<br/>Gera 1 de Chi por Inimigo atacado",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {

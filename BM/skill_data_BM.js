@@ -485,7 +485,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_1.png",
         "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Generates 1 chi per target hit<br/>Gera 1 Chi Adicional ao Críticar<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
+        "sub_info": "Gera 1 de Chi por Inimigo atacado<br/>Gera 1 Chi Adicional ao Críticar<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -1061,7 +1061,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Causa Dano de 12~14 up to 5 foes",
         "main_info2": "Pulls foes",
-        "sub_info": "Generates 1 chi per target hit<br/>Cannot be deflected",
+        "sub_info": "Gera 1 de Chi por Inimigo atacado<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1093,7 +1093,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Causa Dano de 12~14 up to 5 foes",
         "main_info2": "Pulls foes and dazes them for 2 seg",
-        "sub_info": "Generates 1 chi per target hit<br/>Cannot be deflected",
+        "sub_info": "Gera 1 de Chi por Inimigo atacado<br/>Cannot be deflected",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4069,7 +4069,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_62.png",
         "main_info1": "Deals 2~3 damage",
         "main_info2": "Tonteia o Inimigo por 2 seg",
-        "sub_info": "Generates 1 chi per target hit",
+        "sub_info": "Gera 1 de Chi por Inimigo atacado",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
