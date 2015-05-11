@@ -2053,7 +2053,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_38.png",
         "main_info1": "Causa Dano de 12~14",
         "main_info2": "Tonteia o Inimigo por 2 seg<br/>Pulls foes",
-        "sub_info": "Cura o Usuario em 10% do Dano causado<br/>Heals the user 10% of their maximum health<br/>Cures the user of Internal Bleeding<br/>Cannot be deflected",
+        "sub_info": "Cura o Usuario em 10% do Dano causado<br/>Heals the user 10% of their maximum health<br/>Cures the user of Internal Bleeding<br/>Não Pode ser Rebatido",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3173,7 +3173,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_5.png",
         "main_info1": "Causa Dano de 12~14",
         "main_info2": "Derruba o Inimigo por 3 seg",
-        "sub_info": "Cannot be deflected<br/>Desabilita Habilidades de Investida dos Inimigos por 6 seg<br/>Decreases the movement speed of foes by 25% for 6 seg",
+        "sub_info": "Não Pode ser Rebatido<br/>Desabilita Habilidades de Investida dos Inimigos por 6 seg<br/>Decreases the movement speed of foes by 25% for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3205,7 +3205,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_5.png",
         "main_info1": "Causa Dano de 12~14",
         "main_info2": "Derruba o Inimigo por 3 seg",
-        "sub_info": "Leg Sweep can be recast up to 2 times<br/>Cannot be deflected<br/>Desabilita Habilidades de Investida dos Inimigos por 6 seg<br/>Decreases the movement speed of foes by 25% for 6 seg",
+        "sub_info": "Leg Sweep can be recast up to 2 times<br/>Não Pode ser Rebatido<br/>Desabilita Habilidades de Investida dos Inimigos por 6 seg<br/>Decreases the movement speed of foes by 25% for 6 seg",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6661,7 +6661,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_13.png",
         "main_info1": "Causa Dano de 12~14",
         "main_info2": "Knocks foes down for 2 seg",
-        "sub_info": "Cannot be deflected<br/>Ignores charge ability disable",
+        "sub_info": "Não Pode ser Rebatido<br/>Ignores charge ability disable",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {

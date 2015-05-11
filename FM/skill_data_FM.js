@@ -549,7 +549,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_10.png",
         "main_info1": "Deals 56~65 damage",
         "main_info2": "Deals an additional 52~61 damage to frozen foes",
-        "sub_info": "Creates 1 Frost Orb<br/>Cannot be deflected<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Creates 1 Frost Orb<br/>Não Pode ser Rebatido<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -581,7 +581,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_10.png",
         "main_info1": "Deals 56~65 damage",
         "main_info2": "Deals an additional 52~61 damage to frozen foes",
-        "sub_info": "Creates 1 Frost Orb<br/>Cooldown of Glacier Palm is refreshed on critical hit<br/>Cannot be deflected<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Creates 1 Frost Orb<br/>Cooldown of Glacier Palm is refreshed on critical hit<br/>Não Pode ser Rebatido<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -741,7 +741,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_36.png",
         "main_info1": "Deals 18~21 damage up to 3 foes",
         "main_info2": null,
-        "sub_info": "Cannot be deflected<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Não Pode ser Rebatido<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -773,7 +773,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_36.png",
         "main_info1": "Deals 18~21 damage up to 3 foes",
         "main_info2": null,
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Cannot be deflected<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Não Pode ser Rebatido<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -805,7 +805,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_36.png",
         "main_info1": "Deals 18~21 damage up to 5 foes",
         "main_info2": null,
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Cannot be deflected<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Não Pode ser Rebatido<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1413,7 +1413,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_15.png",
         "main_info1": "Deals 10~11 damage",
         "main_info2": "Freezes foes for 5 seg",
-        "sub_info": "Cannot be deflected<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Não Pode ser Rebatido<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -1445,7 +1445,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_15.png",
         "main_info1": "Deals 10~11 damage",
         "main_info2": "Freezes foes for 5 seg",
-        "sub_info": "Cannot be deflected<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Não Pode ser Rebatido<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -1477,7 +1477,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_15.png",
         "main_info1": "Deals 10~11 damage",
         "main_info2": "Freezes foes for 5 seg",
-        "sub_info": "Creates 1 Frost Orb on hit<br/>Cannot be deflected<br/>Cures the user of Internal Bleeding<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Creates 1 Frost Orb on hit<br/>Não Pode ser Rebatido<br/>Cures the user of Internal Bleeding<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -1509,7 +1509,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_15.png",
         "main_info1": "Deals 10~11 damage",
         "main_info2": "Freezes foes for 5 seg",
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Gera 1 de Chi por Inimigo atacado<br/>Creates 1 Frost Orb on hit<br/>Cannot be deflected<br/>Cures the user of Internal Bleeding<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Gera 1 de Chi por Inimigo atacado<br/>Creates 1 Frost Orb on hit<br/>Não Pode ser Rebatido<br/>Cures the user of Internal Bleeding<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -1541,7 +1541,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_15.png",
         "main_info1": "Deals 10~11 damage",
         "main_info2": "Freezes foes for 5 seg",
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Gera 1 de Chi por Inimigo atacado<br/>Creates 1 Frost Orb on hit<br/>Cannot be deflected<br/>Cures the user of Internal Bleeding<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Gera 1 de Chi por Inimigo atacado<br/>Creates 1 Frost Orb on hit<br/>Não Pode ser Rebatido<br/>Cures the user of Internal Bleeding<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -1573,7 +1573,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_15.png",
         "main_info1": "Deals 10~11 damage",
         "main_info2": "Freezes foes for 5 seg",
-        "sub_info": "Heals the user 100% of the damage dealt<br/>Heals the user 6% of their maximum health over 9 seg on critical hit<br/>Gera 1 de Chi por Inimigo atacado<br/>Creates 1 Frost Orb on hit<br/>Cannot be deflected<br/>Cures the user of Internal Bleeding<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
+        "sub_info": "Heals the user 100% of the damage dealt<br/>Heals the user 6% of their maximum health over 9 seg on critical hit<br/>Gera 1 de Chi por Inimigo atacado<br/>Creates 1 Frost Orb on hit<br/>Não Pode ser Rebatido<br/>Cures the user of Internal Bleeding<br/>Removes Ember, Burn from allies<br/>Increases the defense of the user by 10% on using frost spells",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -3557,7 +3557,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_31.png",
         "main_info1": "Causa dano de 42~49",
         "main_info2": null,
-        "sub_info": "Applies 1 stack of Ember<br/>Cannot be deflected<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies",
+        "sub_info": "Applies 1 stack of Ember<br/>Não Pode ser Rebatido<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies",
         "consume_sp": "5",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3589,7 +3589,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_31.png",
         "main_info1": "Causa dano de 42~49",
         "main_info2": null,
-        "sub_info": "Applies 1 stack of Ember<br/>Cannot be deflected<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies",
+        "sub_info": "Applies 1 stack of Ember<br/>Não Pode ser Rebatido<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3621,7 +3621,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_31.png",
         "main_info1": "Deals 62~73 damage",
         "main_info2": null,
-        "sub_info": "Creates 1 Flame Orb on hit<br/>Cannot be deflected<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Applies 1 stack of Ember",
+        "sub_info": "Creates 1 Flame Orb on hit<br/>Não Pode ser Rebatido<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Applies 1 stack of Ember",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3653,7 +3653,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_31.png",
         "main_info1": "Deals 62~73 damage",
         "main_info2": null,
-        "sub_info": "Creates 1 Flame Orb on hit<br/>Cannot be deflected<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Applies 1 stack of Ember",
+        "sub_info": "Creates 1 Flame Orb on hit<br/>Não Pode ser Rebatido<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Applies 1 stack of Ember",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3685,7 +3685,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_31.png",
         "main_info1": "Deals 62~73 damage",
         "main_info2": "Deals an additional 12~14 damage to dazed, stunned, seized, force gripped foes",
-        "sub_info": "Creates 1 Flame Orb on hit<br/>Cannot be deflected<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Applies 1 stack of Ember",
+        "sub_info": "Creates 1 Flame Orb on hit<br/>Não Pode ser Rebatido<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Applies 1 stack of Ember",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3717,7 +3717,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_31.png",
         "main_info1": "Deals 62~73 damage",
         "main_info2": "Deals an additional 12~14 damage to dazed, stunned, seized, force gripped foes",
-        "sub_info": "Skill speed accelerates on recast<br/>Applies 1 stack of Ember<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Creates 1 Flame Orb on hit<br/>Cannot be deflected",
+        "sub_info": "Skill speed accelerates on recast<br/>Applies 1 stack of Ember<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Creates 1 Flame Orb on hit<br/>Não Pode ser Rebatido",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3749,7 +3749,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_31.png",
         "main_info1": "Causa dano de 42~49",
         "main_info2": "Dazes foes for 2 seg",
-        "sub_info": "Applies 1 stack of Ember<br/>Cannot be deflected<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Pyrodragon without daze is used instead while Pyrodragon is on cooldown",
+        "sub_info": "Applies 1 stack of Ember<br/>Não Pode ser Rebatido<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Pyrodragon without daze is used instead while Pyrodragon is on cooldown",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3781,7 +3781,7 @@ var skill_data_FM = {
         "icon": "skill_icon_forcemaster_0_31.png",
         "main_info1": "Causa dano de 42~49",
         "main_info2": "Knocks foes back 5m and dazes them for 2 seg",
-        "sub_info": "Applies 1 stack of Ember<br/>Cannot be deflected<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Pyrodragon without daze is used instead while Pyrodragon is on cooldown",
+        "sub_info": "Applies 1 stack of Ember<br/>Não Pode ser Rebatido<br/>Removes Frostbite, Freeze, Deep Freeze, Ice Prison from alllies<br/>Pyrodragon without daze is used instead while Pyrodragon is on cooldown",
         "consume_sp": "3",
         "ui_sp_heal_value": null,
         "skill_info": {

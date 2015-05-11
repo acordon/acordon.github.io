@@ -4421,7 +4421,7 @@ var skill_data_AS = {
         "icon": "skill_icon_assassin_1_1.png",
         "main_info1": "Deals 8~10 damage",
         "main_info2": null,
-        "sub_info": "Aplica 1 Acúmulo de Veneno Mortal<br/>Cannot be deflected",
+        "sub_info": "Aplica 1 Acúmulo de Veneno Mortal<br/>Não Pode ser Rebatido",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {

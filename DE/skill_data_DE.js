@@ -1429,7 +1429,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_42.png",
         "main_info1": "Pulls foes and dazes them for 2 seg",
         "main_info2": "Deals 19~22 damage",
-        "sub_info": "Cannot be deflected",
+        "sub_info": "Não Pode ser Rebatido",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1461,7 +1461,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_42.png",
         "main_info1": "Pulls foes and dazes them for 3 seg",
         "main_info2": "Deals 19~22 damage",
-        "sub_info": "Cannot be deflected",
+        "sub_info": "Não Pode ser Rebatido",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1493,7 +1493,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_42.png",
         "main_info1": "Pulls foes and dazes them for 2 seg",
         "main_info2": "Deals 19~22 damage",
-        "sub_info": "Cannot be deflected",
+        "sub_info": "Não Pode ser Rebatido",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2229,7 +2229,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_7.png",
         "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": "Deals 6~7 damage",
-        "sub_info": "Tonteia o Inimigo por 2 seg<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg<br/>Cannot be deflected",
+        "sub_info": "Tonteia o Inimigo por 2 seg<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg<br/>Não Pode ser Rebatido",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2261,7 +2261,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_7.png",
         "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": "Deals 6~7 damage",
-        "sub_info": "Stuns foes for 3 seg<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg<br/>Cannot be deflected",
+        "sub_info": "Stuns foes for 3 seg<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg<br/>Não Pode ser Rebatido",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -2293,7 +2293,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_7.png",
         "main_info1": "Blocks attacks from the front for 4 seg",
         "main_info2": "Deals 6~7 damage",
-        "sub_info": "Knocks foes back 12m and knocks them down for 3 seg<br/>Knocks foes that resist knock back down for 3 seg<br/>Knocks foes that can be chained with knock back down for 3 seg<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg<br/>Cannot be deflected",
+        "sub_info": "Knocks foes back 12m and knocks them down for 3 seg<br/>Knocks foes that resist knock back down for 3 seg<br/>Knocks foes that can be chained with knock back down for 3 seg<br/>Generates 20% chi on block<br/>Heals the user 20% of their maximum health over 4 seg<br/>Não Pode ser Rebatido",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5950,7 +5950,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Pulls nearby foes",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Investi em direção ao Alvo<br/>Cannot be deflected<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
+        "sub_info": "Investi em direção ao Alvo<br/>Não Pode ser Rebatido<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -5982,7 +5982,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Pulls nearby foes",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Investi em direção ao Alvo<br/>Cannot be deflected<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
+        "sub_info": "Investi em direção ao Alvo<br/>Não Pode ser Rebatido<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {
@@ -6014,7 +6014,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Pulls nearby foes",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Investi em direção ao Alvo<br/>Earthquake can be recast up to 2 times on critical hit<br/>Cannot be deflected<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
+        "sub_info": "Investi em direção ao Alvo<br/>Earthquake can be recast up to 2 times on critical hit<br/>Não Pode ser Rebatido<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "10",
         "skill_info": {

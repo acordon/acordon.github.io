@@ -3365,7 +3365,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_64.png",
         "main_info1": "Causa Dano de 24~28  over 2 hits",
         "main_info2": "Pulls foes within 8m",
-        "sub_info": "Cannot be deflected",
+        "sub_info": "Não Pode ser Rebatido",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3397,7 +3397,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_64.png",
         "main_info1": "Causa Dano de 24~28  over 2 hits",
         "main_info2": "Pulls foes within 8m<br/>Dazes foes for 2 seg",
-        "sub_info": "Cannot be deflected",
+        "sub_info": "Não Pode ser Rebatido",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4453,7 +4453,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_56.png",
         "main_info1": "Causa Dano de 12~14 over 4 hits",
         "main_info2": null,
-        "sub_info": "Generates 2 chi per hit<br/>Soulblade Tempest can be recast up to 2 times<br/>Cannot be deflected",
+        "sub_info": "Generates 2 chi per hit<br/>Soulblade Tempest can be recast up to 2 times<br/>Não Pode ser Rebatido",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4485,7 +4485,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_56.png",
         "main_info1": "Causa Dano de 12~14 over 4 hits",
         "main_info2": null,
-        "sub_info": "Generates 2 chi per hit<br/>Gera 1 Chi Adicional ao Críticar<br/>Soulblade Tempest can be recast up to 2 times<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Cannot be deflected",
+        "sub_info": "Generates 2 chi per hit<br/>Gera 1 Chi Adicional ao Críticar<br/>Soulblade Tempest can be recast up to 2 times<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Não Pode ser Rebatido",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4517,7 +4517,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_56.png",
         "main_info1": "Causa Dano de 12~14 over 4 hits",
         "main_info2": null,
-        "sub_info": "Generates 2 chi per hit<br/>Gera 1 Chi Adicional ao Críticar<br/>Soulblade Tempest can be recast up to 4 times<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Cannot be deflected",
+        "sub_info": "Generates 2 chi per hit<br/>Gera 1 Chi Adicional ao Críticar<br/>Soulblade Tempest can be recast up to 4 times<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Não Pode ser Rebatido",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4549,7 +4549,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_56.png",
         "main_info1": "Causa Dano de 36~42 over 4 hits",
         "main_info2": null,
-        "sub_info": "Soulblade Tempest can be recast up to 3 times<br/>Cannot be deflected",
+        "sub_info": "Soulblade Tempest can be recast up to 3 times<br/>Não Pode ser Rebatido",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4581,7 +4581,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_56.png",
         "main_info1": "Causa Dano de 90~105 over 5 hits",
         "main_info2": null,
-        "sub_info": "Sends out 6 blades at once<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Cannot be deflected",
+        "sub_info": "Sends out 6 blades at once<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Não Pode ser Rebatido",
         "consume_sp": "6",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4613,7 +4613,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_56.png",
         "main_info1": "Causa Dano de 90~105 over 5 hits",
         "main_info2": "Deals 60~70 explosive damage",
-        "sub_info": "Sends out 6 blades at once<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Cannot be deflected",
+        "sub_info": "Sends out 6 blades at once<br/>Foes suffer from Internal Bleeding for 12 seg<br/>Não Pode ser Rebatido",
         "consume_sp": "6",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4869,7 +4869,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_2_17.png",
         "main_info1": "Deals 17~20 damage over 5 hits",
         "main_info2": "User is invulnerable from the next 1 attack for 5 seg",
-        "sub_info": "Generates 2 chi per target hit<br/>Generates 15 chi over 5 seg<br/>Cannot be deflected",
+        "sub_info": "Generates 2 chi per target hit<br/>Generates 15 chi over 5 seg<br/>Não Pode ser Rebatido",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4901,7 +4901,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_2_17.png",
         "main_info1": "Deals 17~20 damage over 5 hits",
         "main_info2": "User is invulnerable from the next 1 attack for 5 seg",
-        "sub_info": "Generates 2 chi per target hit<br/>Generates 15 chi over 5 seg<br/>Generates 10 chi at the end of its effect<br/>Cannot be deflected",
+        "sub_info": "Generates 2 chi per target hit<br/>Generates 15 chi over 5 seg<br/>Generates 10 chi at the end of its effect<br/>Não Pode ser Rebatido",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4933,7 +4933,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_2_18.png",
         "main_info1": "Deals 17~20 damage over 5 hits",
         "main_info2": "User is invulnerable from the next 1 attack for 5 seg",
-        "sub_info": "Generates 2 chi per target hit<br/>Increases the critical of the user by 50%<br/>Cannot be deflected",
+        "sub_info": "Generates 2 chi per target hit<br/>Increases the critical of the user by 50%<br/>Não Pode ser Rebatido",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4965,7 +4965,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_2_18.png",
         "main_info1": "Deals 17~20 damage over 5 hits",
         "main_info2": "User is invulnerable from the next 1 attack for 5 seg",
-        "sub_info": "Generates 2 chi per target hit<br/>Generates 2 additional chi on critical hit<br/>Increases the critical of the user by 50%<br/>Increases the critical hit damage of the user by 10%<br/>Cannot be deflected",
+        "sub_info": "Generates 2 chi per target hit<br/>Generates 2 additional chi on critical hit<br/>Increases the critical of the user by 50%<br/>Increases the critical hit damage of the user by 10%<br/>Não Pode ser Rebatido",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {

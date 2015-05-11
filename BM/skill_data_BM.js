@@ -997,7 +997,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Causa Dano de 12~14",
         "main_info2": "Pulls foes and stuns them for 2 seg",
-        "sub_info": "Cannot be deflected<br/>Decreases the movement speed of foes by 50% for 3 seg",
+        "sub_info": "Não Pode ser Rebatido<br/>Decreases the movement speed of foes by 50% for 3 seg",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1029,7 +1029,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Causa Dano de 12~14 up to 5 foes",
         "main_info2": "Pulls foes",
-        "sub_info": "Cannot be deflected",
+        "sub_info": "Não Pode ser Rebatido",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -1061,7 +1061,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Causa Dano de 12~14 up to 5 foes",
         "main_info2": "Pulls foes",
-        "sub_info": "Gera 1 de Chi por Inimigo atacado<br/>Cannot be deflected",
+        "sub_info": "Gera 1 de Chi por Inimigo atacado<br/>Não Pode ser Rebatido",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1093,7 +1093,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_5.png",
         "main_info1": "Causa Dano de 12~14 up to 5 foes",
         "main_info2": "Pulls foes and dazes them for 2 seg",
-        "sub_info": "Gera 1 de Chi por Inimigo atacado<br/>Cannot be deflected",
+        "sub_info": "Gera 1 de Chi por Inimigo atacado<br/>Não Pode ser Rebatido",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {

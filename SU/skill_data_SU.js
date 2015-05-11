@@ -187,7 +187,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_2.png",
         "main_info1": "Deals 14~17 damage",
         "main_info2": null,
-        "sub_info": "Cannot be deflected<br/>Aumenta a velocidade projétil<br/>Applies 1 stack of Poison<br/>Poison decreases the defense of the target by 10% per stack",
+        "sub_info": "Não Pode ser Rebatido<br/>Aumenta a velocidade projétil<br/>Applies 1 stack of Poison<br/>Poison decreases the defense of the target by 10% per stack",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -219,7 +219,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_2.png",
         "main_info1": "Deals 14~17 damage",
         "main_info2": null,
-        "sub_info": "Hornet can be instantly cast on critical hit<br/>Cannot be deflected<br/>Aumenta a velocidade projétil<br/>Applies 1 stack of Poison<br/>Poison decreases the defense of the target by 10% per stack",
+        "sub_info": "Hornet can be instantly cast on critical hit<br/>Não Pode ser Rebatido<br/>Aumenta a velocidade projétil<br/>Applies 1 stack of Poison<br/>Poison decreases the defense of the target by 10% per stack",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
@@ -923,7 +923,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_39.png",
         "main_info1": "Roots foes for 8 seg",
         "main_info2": "Deals 23~27 damage",
-        "sub_info": "Applies Ivy Poison<br/>Ivy Poison deals 72~84 damage over 10 seg<br/>Cannot be deflected<br/>Aumenta a velocidade projétil<br/>Cooldown of Ivy is refreshed on counter with Dandelion<br/>Cooldown of Ivy is decreased by 16 seg on hitting downed, suppressed foes<br/>Decreases the movement speed of foes by 40%",
+        "sub_info": "Applies Ivy Poison<br/>Ivy Poison deals 72~84 damage over 10 seg<br/>Não Pode ser Rebatido<br/>Aumenta a velocidade projétil<br/>Cooldown of Ivy is refreshed on counter with Dandelion<br/>Cooldown of Ivy is decreased by 16 seg on hitting downed, suppressed foes<br/>Decreases the movement speed of foes by 40%",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6107,7 +6107,7 @@ var skill_data_SU = {
         "icon": "skill_icon_summon_0_47.png",
         "main_info1": "Causa dano de 42~49",
         "main_info2": "Disponível enquanto Espiritualizado",
-        "sub_info": "Increased consecutive cast speed<br/>Aumenta a velocidade projétil<br/>Applies 1 stack of Poison<br/>Applies 2 stacks of Poison on critical hit<br/>Poison decreases the defense of the target by 10% per stack<br/>Hornet can be instantly cast on critical hit<br/>Cooldown of Chestnut Burr, Throwing Chestnut Burr is decreased by 2 seg on critical hit<br/>Cannot be deflected<br/>Não gera ameaça",
+        "sub_info": "Increased consecutive cast speed<br/>Aumenta a velocidade projétil<br/>Applies 1 stack of Poison<br/>Applies 2 stacks of Poison on critical hit<br/>Poison decreases the defense of the target by 10% per stack<br/>Hornet can be instantly cast on critical hit<br/>Cooldown of Chestnut Burr, Throwing Chestnut Burr is decreased by 2 seg on critical hit<br/>Não Pode ser Rebatido<br/>Não gera ameaça",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
         "skill_info": {
