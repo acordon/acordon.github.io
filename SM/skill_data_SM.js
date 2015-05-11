@@ -3108,7 +3108,7 @@ var skill_data_SM = {
         "name": "Blade Rush - 신검합일",
         "icon": "skill_icon_swordmaster_1_61.png",
         "main_info1": "Charge beyond the target",
-        "main_info2": "Stuns the target for 2 seg on hitting the target's back",
+        "main_info2": "Tonteia o Inimigo por 2 seg ao acertar pelas costas",
         "sub_info": "Deals 2~3 damage<br/>Decreases the movement speed of nearby foes by 30%",
         "consume_sp": null,
         "ui_sp_heal_value": "1",
@@ -5157,7 +5157,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_2_5.png",
         "main_info1": "Causa Dano de 72~84 over 5 hits",
         "main_info2": null,
-        "sub_info": "Heals the user 50% of the damage dealt",
+        "sub_info": "Cura o Usuário em 50% do Dano Causado",
         "consume_sp": "1",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5797,7 +5797,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_24.png",
         "main_info1": "Deals 43~50 damage over 5 hits",
         "main_info2": "Usuário fica invulnerável durante o uso<br/>Investi em direção ao Alvo",
-        "sub_info": "Heals the user 50% of the damage dealt",
+        "sub_info": "Cura o Usuário em 50% do Dano Causado",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -5829,7 +5829,7 @@ var skill_data_SM = {
         "icon": "skill_icon_swordmaster_1_24.png",
         "main_info1": "Deals 43~50 damage over 5 hits",
         "main_info2": "Usuário fica invulnerável durante o uso<br/>Investi em direção ao Alvo",
-        "sub_info": "Heals the user 50% of the damage dealt<br/>Heals the user 7% of their maximum health if all 5 hits hit<br/>Generates 10 chi if all 5 hits hit",
+        "sub_info": "Cura o Usuário em 50% do Dano Causado<br/>Heals the user 7% of their maximum health if all 5 hits hit<br/>Generates 10 chi if all 5 hits hit",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {

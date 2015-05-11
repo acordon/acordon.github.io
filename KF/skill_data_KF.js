@@ -549,7 +549,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_1.png",
         "main_info1": "Counters an attack from the front for 1 seg",
         "main_info2": "Deals 18~21 damage on counter",
-        "sub_info": "Heals the user 50% of the damage dealt<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Cura o Usuário em 2% do HP Máximo durante 5 seg ao Contra-atacar",
+        "sub_info": "Cura o Usuário em 50% do Dano Causado<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Cura o Usuário em 2% do HP Máximo durante 5 seg ao Contra-atacar",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -581,7 +581,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_1.png",
         "main_info1": "Counters an attack from the front for 1 seg",
         "main_info2": "Deals 18~21 damage on counter",
-        "sub_info": "Heals the user 50% of the damage dealt<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Cura o Usuário em 2% do HP Máximo durante 5 seg ao Contra-atacar<br/>User is invulnerable for 1 seg on counter",
+        "sub_info": "Cura o Usuário em 50% do Dano Causado<br/>Generates 3 chi on counter<br/>Increases defense by 100% on counter<br/>Cura o Usuário em 2% do HP Máximo durante 5 seg ao Contra-atacar<br/>User is invulnerable for 1 seg on counter",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1381,7 +1381,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_1_42.png",
         "main_info1": "Deals 30~35 damage",
         "main_info2": null,
-        "sub_info": "Generates 1 additional chi per target hit<br/>Generates 9 chi over 3 seg on critical hit<br/>Heals the user 20% of the damage dealt",
+        "sub_info": "Generates 1 additional chi per target hit<br/>Generates 9 chi over 3 seg on critical hit<br/>Cura o Usuário em 20% do Dano Causado",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -1669,7 +1669,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_49.png",
         "main_info1": "Causa Dano de 72~84 over 4 hits",
         "main_info2": "Investi em direção ao Alvo",
-        "sub_info": "Heals the user 50% of the damage dealt<br/>Usuário fica invulnerável durante o uso",
+        "sub_info": "Cura o Usuário em 50% do Dano Causado<br/>Usuário fica invulnerável durante o uso",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4069,7 +4069,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_2.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": "Knocks foes back 5m and knocks them down for 1 seg",
-        "sub_info": "Heals the user 20% of the damage dealt",
+        "sub_info": "Cura o Usuário em 20% do Dano Causado",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4101,7 +4101,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_2.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": "Knocks foes back 5m and knocks them down for 1 seg",
-        "sub_info": "Heals the user 20% of the damage dealt<br/>Heals the user 3% of their maximum health over 6 seg",
+        "sub_info": "Cura o Usuário em 20% do Dano Causado<br/>Heals the user 3% of their maximum health over 6 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4133,7 +4133,7 @@ var skill_data_KF = {
         "icon": "skill_icon_kungfufighter_0_2.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": "Knocks foes back 5m and knocks them down for 1 seg",
-        "sub_info": "Heals the user 20% of the damage dealt<br/>Heals the user 3% of their maximum health over 6 seg<br/>Heals the user 2% of their maximum health on critical hit",
+        "sub_info": "Cura o Usuário em 20% do Dano Causado<br/>Heals the user 3% of their maximum health over 6 seg<br/>Heals the user 2% of their maximum health on critical hit",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {

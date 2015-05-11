@@ -308,8 +308,8 @@ var category_data_AS = {
     "25010": {
         "skill_id": "25010",
         "tree_id": "25010",
-        "name2_refine": "Chute do Dragão",
-        "name2_refine_en": "Chute do Dragão",
+        "name2_refine": "Chute Relâmpago",
+        "name2_refine_en": "Chute Relâmpago",
         "pc_level": "8",
         "pc_mastery_level": null,
         "complete_quest": null,

@@ -517,7 +517,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_1.png",
         "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Heals the user 20% of the damage dealt<br/>Gera 1 Chi Adicional ao Críticar<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
+        "sub_info": "Cura o Usuário em 20% do Dano Causado<br/>Gera 1 Chi Adicional ao Críticar<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -549,7 +549,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_1.png",
         "main_info1": "Causa Dano de 16~18",
         "main_info2": null,
-        "sub_info": "Heals the user 2% of their maximum health over 5 seg on critical hit<br/>Heals the user 20% of the damage dealt<br/>Gera 1 Chi Adicional ao Críticar<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
+        "sub_info": "Heals the user 2% of their maximum health over 5 seg on critical hit<br/>Cura o Usuário em 20% do Dano Causado<br/>Gera 1 Chi Adicional ao Críticar<br/>Knocks foes whose defense has been broken by Front Kick unconscious for 30 seg",
         "consume_sp": null,
         "ui_sp_heal_value": "2",
         "skill_info": {
@@ -837,7 +837,7 @@ var skill_data_BM = {
         "icon": "skill_icon_blademaster_0_43.png",
         "main_info1": "Causa Dano de 36~42",
         "main_info2": null,
-        "sub_info": "Heals the user 20% of the damage dealt<br/>Skill speed accelerates on recast<br/>Maximum speed on blocking an attack<br/>Maximum speed on using Spin Slash<br/>Maximum speed on resisting an attack with Counterattack",
+        "sub_info": "Cura o Usuário em 20% do Dano Causado<br/>Skill speed accelerates on recast<br/>Maximum speed on blocking an attack<br/>Maximum speed on using Spin Slash<br/>Maximum speed on resisting an attack with Counterattack",
         "consume_sp": "2",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3492,7 +3492,7 @@ var skill_data_BM = {
         "name": "Blade Rush - 신검합일",
         "icon": "skill_icon_blademaster_0_61.png",
         "main_info1": "Deals 1~1 damage",
-        "main_info2": "Stuns the target for 2 seg on hitting the target's back<br/>Charge beyond the target",
+        "main_info2": "Tonteia o Inimigo por 2 seg ao acertar pelas costas<br/>Charge beyond the target",
         "sub_info": "Decreases the movement speed of nearby foes by 50%",
         "consume_sp": null,
         "ui_sp_heal_value": "1",

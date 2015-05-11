@@ -1109,7 +1109,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Causa Dano de 54~63",
         "main_info2": "Deals an additional 6~7 damage to downed, suppressed foes",
-        "sub_info": "Heals the user 20% of the damage dealt<br/>Costs 20 chi on recast<br/>Skill speed increases by 0.3 seg per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy is available while using Seize",
+        "sub_info": "Cura o Usuário em 20% do Dano Causado<br/>Costs 20 chi on recast<br/>Skill speed increases by 0.3 seg per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy is available while using Seize",
         "consume_sp": "30",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -1141,7 +1141,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_46.png",
         "main_info1": "Causa Dano de 54~63",
         "main_info2": "Deals an additional 6~7 damage to downed, suppressed foes",
-        "sub_info": "Destroy can be instantly recast at no cost on critical hit<br/>Heals the user 20% of the damage dealt<br/>Costs 20 chi on recast<br/>Skill speed increases by 0.3 seg per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy is available while using Seize",
+        "sub_info": "Destroy can be instantly recast at no cost on critical hit<br/>Cura o Usuário em 20% do Dano Causado<br/>Costs 20 chi on recast<br/>Skill speed increases by 0.3 seg per acceleration stage<br/>Skill speed accelerates on recast<br/>Destroy is available while using Seize",
         "consume_sp": "30",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -3394,7 +3394,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_1_19.png",
 		"main_info1": "Usuário fica invulnerável durante o uso",
 		"main_info2": "Deals 30~35 damage over 2 hits",
-		"sub_info": "Heals the user 2% of their maximum health on resist",
+		"sub_info": "Cura o Usuário em 2% do HP Máximo ao resitir um ataque",
 		"consume_sp": "10",
 		"ui_sp_heal_value": null,
 		"skill_info": 
@@ -3432,7 +3432,7 @@ var skill_data_DE = {
 		"icon": "skill_icon_destroyer_1_19.png",
 		"main_info1": "Usuário fica invulnerável durante o uso",
 		"main_info2": "Deals 30~35 damage over 2 hits",
-		"sub_info": "Generates 30% chi on resist<br/>Heals the user 2% of their maximum health on resist",
+		"sub_info": "Generates 30% chi on resist<br/>Cura o Usuário em 2% do HP Máximo ao resitir um ataque",
 		"consume_sp": "10",
 		"ui_sp_heal_value": null,
 		"skill_info": 
@@ -4894,7 +4894,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Heals the user 50% of the damage dealt<br/>Derruba o Inimigo por 3 seg",
+        "sub_info": "Cura o Usuário em 50% do Dano Causado<br/>Derruba o Inimigo por 3 seg",
         "consume_sp": "10",
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4926,7 +4926,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "Deals 18~21 damage",
         "main_info2": null,
-        "sub_info": "Heals the user 50% of the damage dealt<br/>Derruba o Inimigo por 3 seg",
+        "sub_info": "Cura o Usuário em 50% do Dano Causado<br/>Derruba o Inimigo por 3 seg",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -4958,7 +4958,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_1_3.png",
         "main_info1": "Usuário fica invulnerável durante o uso",
         "main_info2": null,
-        "sub_info": "Derruba o Inimigo por 3 seg<br/>Deals 18~21 damage<br/>Heals the user 50% of the damage dealt",
+        "sub_info": "Derruba o Inimigo por 3 seg<br/>Deals 18~21 damage<br/>Cura o Usuário em 50% do Dano Causado",
         "consume_sp": null,
         "ui_sp_heal_value": null,
         "skill_info": {
@@ -6078,7 +6078,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Usuário fica invulnerável durante o uso",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Heals the user 50% of the damage dealt per target hit<br/>Generates 20% chi per target hit<br/>Investi em direção ao Alvo<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
+        "sub_info": "Cura o Usuário em 50% do Dano Causado per target hit<br/>Generates 20% chi per target hit<br/>Investi em direção ao Alvo<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "20",
         "skill_info": {
@@ -6110,7 +6110,7 @@ var skill_data_DE = {
         "icon": "skill_icon_destroyer_0_5.png",
         "main_info1": "Usuário fica invulnerável durante o uso",
         "main_info2": "Deals 18~21 damage",
-        "sub_info": "Cooldown of Iron Wall is decreased by 15 seg on resist<br/>Heals the user 50% of the damage dealt per target hit<br/>Generates 20% chi per target hit<br/>Investi em direção ao Alvo<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
+        "sub_info": "Cooldown of Iron Wall is decreased by 15 seg on resist<br/>Cura o Usuário em 50% do Dano Causado per target hit<br/>Generates 20% chi per target hit<br/>Investi em direção ao Alvo<br/>Ignora Defesa when used while dashing, dash-jumping, gliding",
         "consume_sp": null,
         "ui_sp_heal_value": "20",
         "skill_info": {
